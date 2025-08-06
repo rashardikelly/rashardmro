@@ -19,6 +19,45 @@ On January 7th, 2025, a series of wildfires started in the Southern California a
 @stateofcalifornia @cityoflosangeles
 @nasa @dhs-gov 
 
+### DOXXED FOR THIS DATA
+
+🚫 Sorry, this post was removed by [Reddit’s filters](https://www.blackhatworld.com/seo/sorry-this-post-was-removed-by-reddit-filters-what-it-means.1576859/).
+
+<img  alt="DOXXED ON FACEBOOK AND REDDiT FOR THiS DATA" src="https://github.com/user-attachments/assets/c48f98da-1b79-488c-9358-05c5fde9a6e0" />
+
+
+[![Twitter Follow](https://img.shields.io/badge/Social-@MAyorOfLA__-blue?style=social&logo=X)](https://twitter.com/@MayorOfLA) [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) [Commit 4a8760a](https://github.com/ricoThaka/rashardmro/commit/4a8760a2245ffc36f81b8b052a70d21690c16d9a) [![Twitter Follow](https://img.shields.io/badge/Social-@LaurieofMars__-blue?style=social&logo=X)](https://twitter.com/@LaurieofMars)
+
+[https://svs.gsfc.nasa.gov/5568/](https://svs.gsfc.nasa.gov/5568/)
+Visualizations by:
+[https://svs.gsfc.nasa.gov/5558/](https://svs.gsfc.nasa.gov/5558/)
+
+[Zoey N. Armstrong](https://svs.gsfc.nasa.gov/search/)
+
+Visualizations by:
+
+[Cindy Starr](https://svs.gsfc.nasa.gov/search/?people=Cindy%20Starr)
+
+    Scientific consulting by:
+
+[Doug C. Morton](https://svs.gsfc.nasa.gov/search/?people=Doug%20C.%20Morton)
+@nasa @cityoflosangeles @stateofcalifornia @atfweb
+
+
+<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="378"><a href="https://www.reddit.com/r/nasa/comments/1mbnt8i/spread_of_the_palisades_and_eaton_fires_january/">Spread of the Palisades and Eaton Fires - January 2025</a><br> by<a href="https://www.reddit.com/user/Dizzy-Decision-2115/">u/Dizzy-Decision-2115</a> in<a href="https://www.reddit.com/r/nasa/">nasa</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+
+<img  alt="image" src="https://github.com/user-attachments/assets/2cc6009d-73c6-4c7b-b438-55ef52eb0d1f" />
+
+
+[Overview Maps of 2025 Los Angeles Fires](https://svs.gsfc.nasa.gov/5568/)
+
+![Overview](https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005568/Overview_HD.png)
+
+On January 7th, 2025, a series of wildfires started in the Southern California area, heavily affecting Los Angeles communities. The fires spread rapidly due to an abnormally dry year coupled with extreme winds raging at up to 100 miles per hour. Two of the fires, Eaton and Palisades, affected densely populated neighborhoods, spreading rapidly from structure to structure and combining to cause severe damage to over 16,000 homes and businesses. [Released Friday, July 11, 2025](https://svs.gsfc.nasa.gov/5568/)
+
+@stateofcalifornia @cityoflosangeles
+@nasa @dhs-gov 
+
 ![Start Of The Palisades Fire](https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005568/Palisades_HD.png)
 
 ![EatonFire](https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005568/Eaton_HD.png)
