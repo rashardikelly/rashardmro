@@ -6,6 +6,10 @@ title: LA_COUNTY_FiREDATA
 image: shocked-i-know-this.gif
 ---
 
+# About One-third of Malibu Burned In The Palisades Fire. Where Does It Go From Here?
+@nasa-jpl [Latimes @datadesk](https://github.com/datadesk) made a doc @nasa 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0zsMg7gkC6Y?si=rU9ah5V22lcxwE6W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [Overview Maps of 2025 Los Angeles Fires](https://svs.gsfc.nasa.gov/5568/)
 
 ![Overview](https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005568/Overview_HD.png)
