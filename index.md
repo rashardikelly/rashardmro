@@ -8,9 +8,20 @@ mermaid: true
 
 [vf](https://www.reddit.com/r/Roms/comments/izaoj0/anyone_have_the_virtua_fighter_1_rom_that_works/) [v](https://www.reddit.com/r/MAME/comments/ub3r4j/im_trying_to_get_virtua_racing_working_and_i_have/)
 
+NASA’s SpaceX Crew-10 Hatch Close [feed](NASA’s SpaceX Crew-10 Hatch Close)
+@nasa @nasa-jpl @blackgirlscode @whitehouse @dhs-gov @datadesk
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/duhHk_Tnt0I?si=wvYtGIW5xUsTaBiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+Started streaming 27 minutes ago
+The four members of NASA's SpaceX [Crew-10 mission — NASA astronauts](https://www.nasa.gov/news-release/nasa-shares-its-spacex-crew-10-assignments-for-space-station-mission/) Anne McClain and Nichole Ayers, JAXA (Japan Aerospace Exploration Agency) astronaut Takuya Onishi, and Roscosmos cosmonaut Kirill Peskov — prepare to head to Earth as the hatches are closed on their spacecraft. Undocking is scheduled for Friday, Aug. 8, at 6:05 p.m. ET (2205 UTC).
+ 
+During their nearly five months on the space station, Crew-10 contributed to the more than 200 scientific demonstrations and experiments taking place in orbit. These included physiological and psychological studies, material flammability tests for future spacecraft designs, and testing a backup lunar navigation solution.
+ 
+Learn more about Crew-10's [scientific mission: https://go.nasa.gov/4fpVoi5](**https://go.nasa.gov/4fpVoi5)
+Follow the latest Crew-10 [mission updates: https://www.nasa.gov/blogs/crew-10/](https://www.nasa.gov/blogs/crew-10/)
+ 
+Credit: NASA
 <img  alt="image" src="https://github.com/user-attachments/assets/aee5dca5-3731-412d-981e-40c5aa81fb63" />
 
   {% for post in site.posts %}
