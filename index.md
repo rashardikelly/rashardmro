@@ -9,6 +9,10 @@ mermaid: true
 [vf](https://www.reddit.com/r/Roms/comments/izaoj0/anyone_have_the_virtua_fighter_1_rom_that_works/) [v](https://www.reddit.com/r/MAME/comments/ub3r4j/im_trying_to_get_virtua_racing_working_and_i_have/)
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/duhHk_Tnt0I?si=wvYtGIW5xUsTaBiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<img  alt="image" src="https://github.com/user-attachments/assets/aee5dca5-3731-412d-981e-40c5aa81fb63" />
+
   {% for post in site.posts %}
     
 <article class="paginator">
