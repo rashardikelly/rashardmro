@@ -7,8 +7,28 @@ title: They Said iT Was Live
 image: tumblr_9996aa2d413f6668f7f48ccdb4f9fb8a_8780e031_2048.jpg
 author: RashardKelly @nasa-jpl
 ---
+
+[Vatican](https://www.vatican.va/content/vatican/en.html) LIVE: Angelus with Pope Leo XIV  LIVE from [St. Peter Square](https://www.basilicasanpietro.va/en/san-pietro/the-square) | [Pope Leo's Sunday Mass](https://www.vaticannews.va/en/pope/news/2025-08/pope-leo-xiv-albano-mass-poor-caritas-castel-gandolfo-angelus.html) | N18G
+
 <img  alt="image" src="https://github.com/user-attachments/assets/9505342f-cc46-4f2d-a745-a5f0812896d9" />
 
+[vf](https://www.reddit.com/r/Roms/comments/izaoj0/anyone_have_the_virtua_fighter_1_rom_that_works/) [v](https://www.reddit.com/r/MAME/comments/ub3r4j/im_trying_to_get_virtua_racing_working_and_i_have/)
+
+NASA’s SpaceX Crew-10 Hatch Close [feed](NASA’s SpaceX Crew-10 Hatch Close)
+@nasa @nasa-jpl @blackgirlscode @whitehouse @dhs-gov @datadesk
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/duhHk_Tnt0I?si=wvYtGIW5xUsTaBiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Started streaming 27 minutes ago
+The four members of NASA's SpaceX [Crew-10 mission — NASA astronauts](https://www.nasa.gov/news-release/nasa-shares-its-spacex-crew-10-assignments-for-space-station-mission/) Anne McClain and Nichole Ayers, JAXA (Japan Aerospace Exploration Agency) astronaut Takuya Onishi, and Roscosmos cosmonaut Kirill Peskov — prepare to head to Earth as the hatches are closed on their spacecraft. Undocking is scheduled for Friday, Aug. 8, at 6:05 p.m. ET (2205 UTC).
+ 
+During their nearly five months on the space station, Crew-10 contributed to the more than 200 scientific demonstrations and experiments taking place in orbit. These included physiological and psychological studies, material flammability tests for future spacecraft designs, and testing a backup lunar navigation solution.
+ 
+Learn more about Crew-10's [scientific mission: https://go.nasa.gov/4fpVoi5](**https://go.nasa.gov/4fpVoi5)
+Follow the latest Crew-10 [mission updates: https://www.nasa.gov/blogs/crew-10/](https://www.nasa.gov/blogs/crew-10/)
+ 
+Credit: NASA
+<img  alt="image" src="https://github.com/user-attachments/assets/aee5dca5-3731-412d-981e-40c5aa81fb63" />
 # LIVE NASA Crew 10 Return  
 SpaceX Crew-10 Enters Dragon Endurance, Hatch Closure At ISS  N18G
 Started streaming 5 minutes ago  #Crew10 #NASA #SpaceX
