@@ -6,9 +6,27 @@ mermaid: true
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
+
+
 ## cartography
 
 Curiosity Raw Images
+Sol 4622: Mars Hand Lens Imager (MAHLI) 
+![Sol 4622: Mars Hand Lens Imager (MAHLI) ](https://mars.nasa.gov/msl-raw-images/msss/04622/mhli/4622MH0008770021700595C00_DXXX.jpg)
+Sol 4624: Mars Hand Lens Imager (MAHLI)
+
+<div class="tupperware">
+<img  alt="image" src="https://mars.nasa.gov/msl-raw-images/msss/04624/mhli/4624MH0003740011700693C00_DXXX.jpg" />
+<img  alt="image" src="https://mars.nasa.gov/msl-raw-images/msss/04624/mhli/4624MH0003740021700694C00_DXXX.jpg" />
+<img  alt="image" src="https://mars.nasa.gov/msl-raw-images/msss/04624/mhli/4624MH0003740001700692C00_DXXX.jpg" />
+<img  alt="image" src="https://mars.nasa.gov/msl-raw-images/msss/04624/mhli/4624MH0003720011700691C00_DXXX.jpg" />
+<img  alt="image" src="https://mars.nasa.gov/msl-raw-images/msss/04624/mhli/4624MH0003720001700690C00_DXXX.jpg" />
+<img  alt="image" src="https://mars.nasa.gov/msl-raw-images/msss/04624/mhli/4624MH0003710011700689C00_DXXX.jpg" />
+<img  alt="image" src="https://mars.nasa.gov/msl-raw-images/msss/04624/mhli/4624MH0003710001700688C00_DXXX.jpg" />
+
+</div>
+
+![Sol 4624: Mars Hand Lens Imager (MAHLI)](https://mars.nasa.gov/msl-raw-images/msss/04624/mhli/4624MH0007400011700770C00_DXXX.jpg)
 # Sol 4626: Right Navigation Camera
 
 ![Sol 4625: Left Navigation Camera](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04625/opgs/edr/ncam/NLB_808085182EDR_F1180762NCAM00354M_.JPG)
@@ -69,9 +87,14 @@ Curiosity Raw Images
   
      
   {% endfor %}
-   
+
+  
+
+
   </div>  
 
+![4624MH0003720011700691C00_DXXX](https://github.com/user-attachments/assets/e7e06518-a009-489b-a9a9-2dad23bc5b74)
+<img  alt="image" src="https://github.com/user-attachments/assets/d93a5eeb-bb15-45fc-8d5d-d6b761bf8f88" />
   
 <script type="module">
     import mermaid from '/js/mermaid.esm.min.mjs';
