@@ -6,6 +6,11 @@ mermaid: true
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
+## cartography
+
+
+# Sol 4626: Right Navigation Camera
+![Sol 4626: Right Navigation Camera](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04626/opgs/edr/ncam/NRB_808162976EDR_S1180762NCAM00594M_.JPG)
 
   {% for post in site.posts %}
     
