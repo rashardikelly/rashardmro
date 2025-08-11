@@ -8,9 +8,13 @@ mermaid: true
 
 ## cartography
 
-
+Curiosity Raw Images
 # Sol 4626: Right Navigation Camera
+
+![Sol 4625: Left Navigation Camera](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04625/opgs/edr/ncam/NLB_808085182EDR_F1180762NCAM00354M_.JPG)
+
 ![Sol 4626: Right Navigation Camera](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04626/opgs/edr/ncam/NRB_808162976EDR_S1180762NCAM00594M_.JPG)
+
 ![Sol 4626 2025-08-11T031936.000Z](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04626/opgs/edr/ncam/NRB_808150372EDR_M1180762NCAM00579M_.JPG)
 
   {% for post in site.posts %}
