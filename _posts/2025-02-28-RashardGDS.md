@@ -11,6 +11,43 @@ tags: nasaoffice nasajpl helpdesk
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/213f151c-1749-4ee4-a12d-9f0083761a9a" />
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid09nyALXJti9fKhqEN9VWtqBQE1xWPUvNogx58J8S7ZYkevLzWA48zR9AhR29XMthsl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0pzivL4tdNGhLzsRgZXhoieeKkpPqM6XXmQRpwARFeYD6QSr2iZaRaYCmR3XU9Fzil%26id%3D100084464911565&show_text=true&width=500" width="500" height="539" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02EyWnM3SW9iBwskTM8ipaPMNNoNBruTrn87iVxRNz3XMH9F8yfafLgiABikJPKcbRl%26id%3D100084464911565&show_text=true&width=500" width="500" height="498" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0dAfZYueRM8XsfFzrta2BQ7ceRxMMUMmMmPNDomzYehsQArHSud68YxRsyChwUQjvl%26id%3D100084464911565&show_text=true&width=500" width="500" height="610" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02aB29RSiboqqjgbrPiACE3MubkdYYyGZndEptoDS6pkwdGEYUiKNyZQCVfZZRxnuVl%26id%3D100084464911565&show_text=true&width=500" width="500" height="683" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02QJsKUS2EEv5SQrjkT7gsbwkEJY6YFHbE66KT8MGm1K2z8o6HwRMvAbhQSSbc3XFjl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+```
+********************************************************************************
+
+                         U.S. GOVERNMENT COMPUTER
+
+This US Government computer is for authorized users only.  By accessing this
+system you are consenting to complete monitoring with no expectation of privacy.
+Unauthorized access or use may subject you to disciplinary action and criminal
+prosecution.
+
+Attention user: You are downloading data from NASA's Land Processes Distributed
+Active Archive Center (LP DAAC) located at the USGS Earth Resources Observation and
+Science (EROS) Center.
+
+This data is open to the public and browse images are freely available without
+restriction.  Satellite data products may require a NASA Earthdata Login username
+and password.  To obtain a NASA Earthdata Login account, please visit
+https://urs.earthdata.nasa.gov/users/new/.
+
+For more information about the data you are downloading, including documentation
+and how to properly cite the data, please visit https://lpdaac.usgs.gov/.
+
+********************************************************************************
+```
+
 #  About The[Ice](https://www.youtube.com/watch?v=iDtcvXVlTVA&embeds_referring_euri=https%3A%2F%2Frashardmro.github.io%2F&source_ve_path=Mjg2NjY) [ArtParty](https://hyperallergic.com/1018989/defining-photos-from-los-angeles-historic-anti-ice-protests/) 
 Iwas looking  ScanDTE the [NearSpaceNetwork](https://www.nasa.gov/communicating-with-missions/nsn/) and a [signal](https://asf.alaska.edu/wp-content/uploads/2025/06/NASA-Near-Space-Network.png) from [ICEsat-2](https://icesat-2.gsfc.nasa.gov/) came through at the [Alaska Satellite Field](https://asf.alaska.edu/asf-satellite-tracking-stations/#ASF-NASA-NSN) Mayor Karen Bass thats why I told the people defending justice at the art party that "iM ICe! They dont read too well!" @stateofCalifornia @cityoflosangeles @nasa-jpl it was not a good joke and i got hurt but @blackgirlscode I know the people that [began thier wall writing journey in Atlanta](https://discoveratlanta.com/things-to-do/krog-street-tunnel/) and Would know about my badge, and I have suspicions [whiteamericabrokeintoo!](https://www.youtube.com/watch?v=TxXQUfCR5gU) [LYRiCs](https://www.reddit.com/r/TaylorSwift/comments/pyu8im/favorite_lyrics_from_reputation/) and the whole thing is this @whitehouse @nasa im just trailing . . . just know i know those [dance](https://www.youtube.com/watch?v=Csgo0oU5a_Y)-[people](https://www.youtube.com/watch?v=Of7YqEAbpPc) are involved with the [Art](https://www.cnn.com/us/live-news/la-protests-ice-raids-trump-06-09-25)[Riots](https://deadline.com/gallery/pussy-riot-nadya-tolokonnikova-police-state-la-protests-national-guard/)
 
