@@ -8,7 +8,38 @@ mermaid: true
 
 
 
-cartography
+# cartography
+
+![AViRiS](https://aviris.jpl.nasa.gov/images/aviris_text2.png)
+[https://www.jpl.nasa.gov/missions/airborne-visible-infrared-imaging-spectrometer-aviris/](https://www.jpl.nasa.gov/missions/airborne-visible-infrared-imaging-spectrometer-aviris/)
+AVIRIS is the first full spectral range imaging spectrometer and dedicated to Earth Remote Measurements . . 
+[AVIRIS Flight Request Information - CLiCKHERE](https://aviris.jpl.nasa.gov/status/flight_req.html)
+
+
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/firedata' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
+
+  {% for post in site.posts %}
+    
+<article class="paginator">
+  <a href="{{ site.github.url }}{{ post.url }}">
+    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
+      <h2><span>{{ post.title }}</span></h2>
+    </div>
+  </a>
+</article>
+
+  {% endfor %}
+
 
 <object class="scroller" data="https://eyes.nasa.gov/curiosity/" type="text/html" >
 </object>
@@ -19,6 +50,7 @@ Sol 4622: Mars Hand Lens Imager (MAHLI)
 Sol 4624: Mars Hand Lens Imager (MAHLI)
 
 <div class="tupperware">
+  
 <img  alt="image" src="https://mars.nasa.gov/msl-raw-images/msss/04624/mhli/4624MH0003740011700693C00_DXXX.jpg" />
 <img  alt="image" src="https://mars.nasa.gov/msl-raw-images/msss/04624/mhli/4624MH0003740021700694C00_DXXX.jpg" />
 <img  alt="image" src="https://mars.nasa.gov/msl-raw-images/msss/04624/mhli/4624MH0003740001700692C00_DXXX.jpg" />
@@ -38,17 +70,6 @@ Sol 4624: Mars Hand Lens Imager (MAHLI)
 
 ![Sol 4626 2025-08-11T031936.000Z](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04626/opgs/edr/ncam/NRB_808150372EDR_M1180762NCAM00579M_.JPG)
 
-  {% for post in site.posts %}
-    
-<article class="paginator">
-  <a href="{{ site.github.url }}{{ post.url }}">
-    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
-      <h2><span>{{ post.title }}</span></h2>
-    </div>
-  </a>
-</article>
-
-  {% endfor %}
 
 [NASA76 @nasa](https://spinoff.nasa.gov/back_issues_archives/1976.pdf?fbclid=IwY2xjawMAdPBleHRuA2FlbQIxMABicmlkETBBeGhlS0drRUtvUllBUWlBAR6ef41Z0vK1hqK-ZMHcNMg9qYvyDUgxVUjbKj8Dd8KgNsJBxXEvlbarx4XIew_aem_TW5FD5Q7dpaY3Vr-rQg9SQ)
 
