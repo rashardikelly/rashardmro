@@ -7,10 +7,11 @@ mermaid: true
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
 
+<img alt="To submit flight requests for the NASA Airborne Visible Infrared Imaging Spectrometer (AVIRIS), visit the website below. https://aviris.jpl.nasa.gov/status/flight_req.html " src="https://aviris.jpl.nasa.gov/images/aviris_text2.png" />
 
 # cartography
 
-![AViRiS](https://aviris.jpl.nasa.gov/images/aviris_text2.png)
+![AViRiS]()
 [https://www.jpl.nasa.gov/missions/airborne-visible-infrared-imaging-spectrometer-aviris/](https://www.jpl.nasa.gov/missions/airborne-visible-infrared-imaging-spectrometer-aviris/)
 AVIRIS is the first full spectral range imaging spectrometer and dedicated to Earth Remote Measurements . . 
 [AVIRIS Flight Request Information - CLiCKHERE](https://aviris.jpl.nasa.gov/status/flight_req.html)
