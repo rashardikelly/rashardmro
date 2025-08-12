@@ -11,7 +11,7 @@ mermaid: true
 
 # cartography
 
-![AViRiS]()
+
 [https://www.jpl.nasa.gov/missions/airborne-visible-infrared-imaging-spectrometer-aviris/](https://www.jpl.nasa.gov/missions/airborne-visible-infrared-imaging-spectrometer-aviris/)
 AVIRIS is the first full spectral range imaging spectrometer and dedicated to Earth Remote Measurements . . 
 [AVIRIS Flight Request Information - CLiCKHERE](https://aviris.jpl.nasa.gov/status/flight_req.html)
@@ -28,6 +28,9 @@ AVIRIS is the first full spectral range imaging spectrometer and dedicated to Ea
 {% endfor %}
 
 </div>
+
+![AViRiS](https://aviris.jpl.nasa.gov/images/aviris_text2.png)
+
 
   {% for post in site.posts %}
     
