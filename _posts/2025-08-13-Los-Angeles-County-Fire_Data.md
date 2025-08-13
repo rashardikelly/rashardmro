@@ -16,6 +16,34 @@ image: shocked-i-know-this.gif
 
 On January 7th, 2025, a series of wildfires started in the Southern California area, heavily affecting Los Angeles communities. The fires spread rapidly due to an abnormally dry year coupled with extreme winds raging at up to 100 miles per hour. Two of the fires, Eaton and Palisades, affected densely populated neighborhoods, spreading rapidly from structure to structure and combining to cause severe damage to over 16,000 homes and businesses. [Released Friday, July 11, 2025](https://svs.gsfc.nasa.gov/5568/)
 
+
+
+
+<img alt="To submit flight requests for the NASA Airborne Visible Infrared Imaging Spectrometer (AVIRIS), visit the website below. https://aviris.jpl.nasa.gov/status/flight_req.html " src="https://aviris.jpl.nasa.gov/images/aviris_text2.png" />
+
+# cartography
+
+
+[https://www.jpl.nasa.gov/missions/airborne-visible-infrared-imaging-spectrometer-aviris/](https://www.jpl.nasa.gov/missions/airborne-visible-infrared-imaging-spectrometer-aviris/)
+AVIRIS is the first full spectral range imaging spectrometer and dedicated to Earth Remote Measurements . . 
+[AVIRIS Flight Request Information - CLiCKHERE](https://aviris.jpl.nasa.gov/status/flight_req.html)
+
+
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/firedata' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
+
+![AViRiS](https://aviris.jpl.nasa.gov/images/aviris_text2.png)
+
+
 @stateofcalifornia @cityoflosangeles
 @nasa @dhs-gov 
 
