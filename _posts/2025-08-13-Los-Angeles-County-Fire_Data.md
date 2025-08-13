@@ -1,7 +1,7 @@
 ---
 layout: post
 mermaid: true
-published: true
+published: false
 title: LA_COUNTY_FiREDATA
 image: shocked-i-know-this.gif
 ---
