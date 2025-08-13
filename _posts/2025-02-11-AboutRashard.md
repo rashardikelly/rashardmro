@@ -6,6 +6,15 @@ title: About Rashard
 image: rashardMRO.jpeg
 ---
 
+
+This was posted sometime after i left gtri @nasa @nasa-jpl
+and it was the only definition until muna died and erika got kidnapped
+[https://www.urbandictionary.com/define.php?term=rashard](https://www.urbandictionary.com/define.php?term=rashard)
+[http://rashard.urbanup.com/12323326](http://rashard.urbanup.com/12323326)
+<img alt="image" src="https://github.com/user-attachments/assets/a489f1b9-b992-4cd1-885e-2cf0921e5222" />
+<img alt="image" src="https://github.com/user-attachments/assets/45793bfb-d2c6-4b78-bdc1-f57af5617a09" />
+
+
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02eiYC3BwND4WTpGstTVunN8SYH1fC9c7XXqCy5r88qUGeZ2FyDvceHdgCB5FjresFl%26id%3D100084464911565&show_text=true&width=500" width="500" height="539" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 <img  src="https://github.com/user-attachments/assets/3d6145c6-c216-4f6d-87ee-f3953365d793" />

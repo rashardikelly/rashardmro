@@ -4,8 +4,18 @@ title: Rashard Mars Reconnaissance Orbiter of NasaJPL
 mermaid: true
 ---
 
+
+
+
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
+
+# About One-third of Malibu Burned In The Palisades Fire. Where Does It Go From Here?
+@nasa-jpl [Latimes @datadesk](https://github.com/datadesk) made a doc @nasa its great firedata!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0zsMg7gkC6Y?si=rU9ah5V22lcxwE6W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01592/ids/edr/browse/ncam/NLF_1592_0808272076_784ECM_N0780780NCAM03592_16_095J02_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01592/ids/edr/browse/ncam/NLF_1592_0808272076_784ECM_N0780780NCAM03592_16_095J02_1200.jpg)
 
 <img alt="To submit flight requests for the NASA Airborne Visible Infrared Imaging Spectrometer (AVIRIS), visit the website below. https://aviris.jpl.nasa.gov/status/flight_req.html " src="https://aviris.jpl.nasa.gov/images/aviris_text2.png" />
 
@@ -80,6 +90,14 @@ Sol 4624: Mars Hand Lens Imager (MAHLI)
 <img  alt="image" src="https://github.com/user-attachments/assets/4f03b5f4-4bd2-4d10-93e4-3084062e3d0a" />
 
 ![Mars_Pathfinder](https://burodestruct.net/1997/mars/gfx/snowmars3.gif)
+
+![Hunter Army Airfield](https://home.army.mil/stewart/thumbnails/large/1417/3568/4503/Hunter_Banner.jpg)
+
+
+ <img alt="image" src="https://home.army.mil/stewart/2917/2383/2269/LTC_TAYLOR_1.jpg" />
+ <img alt="image" src="https://home.army.mil/stewart/5916/9901/2979/CSM_FAVOR.jpg" />
+<img alt="image" src="https://home.army.mil/stewart/8316/7102/7932/TRAVIS_MOBLEY.jpg" />
+
 
 
 # Rashard Kelly NasaJpl MRO JUNO iSS
