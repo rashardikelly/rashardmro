@@ -6,6 +6,7 @@ title: "ECOSTRESS:Monitoring plants from space"
 image: shocked-i-know-this.gif
 ---
 
+<img   alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
 
 ![httpsecostressjplnasagovlogo](https://ecostress.jpl.nasa.gov/logo.png)
 
