@@ -11,6 +11,9 @@ image: KL_Sun_UltraSparc.jpg
 [DSCOVR: EPIC _ Gallery : West Coast Wildfires](https://epic.gsfc.nasa.gov/galleries/2020/wildfires)
 [NASA - LANCE - FiRMS Global Fire Map, Live MAps](https://firms.modaps.eosdis.nasa.gov/map/) with [KML](https://developers.google.com/kml) - [downloads](https://firms.modaps.eosdis.nasa.gov/active_fire/)
 
+
+<img alt="image" src="https://github.com/user-attachments/assets/0b5fa1b9-1e5d-4eb1-bfad-4c31bf2a8968" />
+
 [@stateofcalifornia Did Lack of Cityhood hurt Altadena ? @latimes @datadesk @whitehouse](https://ia601002.us.archive.org/9/items/interviewwith-dr-carol-stoker/21ALTADENA_EATON_FiRE_2feb686a-eb67-43fe-a787-b0ea4bc6e29e.pdf)
 
 # About One-third of Malibu Burned In The Palisades Fire. Where Does It Go From Here?
