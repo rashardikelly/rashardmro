@@ -11,12 +11,12 @@ image: ecostressjplnasagov-eco-booster.jpg
 
 [ECOSTRESS: Monitoring plants from space](https://www.youtube.com/watch?v=ALZTMLH9boY)
 [Monitoring Plant Health from Space: NASA’s ECOSTRESS Mission](https://www.youtube.com/watch?v=kR8LlN0ftG4)
-[Backpacks, Big Screens, and Summer Fun: GitHub Partners with Altadena Library for a Special Giveaway](https://www.pasadenanow.com/pasadenaschools/backpacks-big-screens-and-summer-fun-github-partners-with-altadena-library-for-a-special-giveaway/) [ECOSTRESS: NASA's Next-Generation Mission to Measure Evapotranspiration from the ISS](https://youtu.be/7d1beGfOHPs?si=W_tyGA6TEGoNJSCT) [**NASA ARSET: Introduction to OpenET, Part 1/3**](https://youtu.be/QHqWrO2HMco?si=2MgryGBUvhuH3YK3)
+[ECOSTRESS: NASA's Next-Generation Mission to Measure Evapotranspiration from the ISS](https://youtu.be/7d1beGfOHPs?si=W_tyGA6TEGoNJSCT) [**NASA ARSET: Introduction to OpenET, Part 1/3**](https://youtu.be/QHqWrO2HMco?si=2MgryGBUvhuH3YK3) [The NASA ECOSTRESS Mission - Dr Josh Fisher (Science Lead, NASA-JPL) - OCTF Seminar](https://youtu.be/fwCjq-Ltkoc)
 
 
 
 
 4l8tR
 [JPL and the Space Age: Triumph at Saturn (Part I) ](https://youtu.be/SY-hQJ5pMd4?t=247)
-[EyesOnAsteroids](https://eyes.nasa.gov/apps/asteroids/#/16_psyche)
+[EyesOnAsteroids](https://eyes.nasa.gov/apps/asteroids/#/16_psyche) [Backpacks, Big Screens, and Summer Fun: GitHub Partners with Altadena Library for a Special Giveaway](https://www.pasadenanow.com/pasadenaschools/backpacks-big-screens-and-summer-fun-github-partners-with-altadena-library-for-a-special-giveaway/) 
 ![httpsecostressjplnasagovlogo](https://ecostress.jpl.nasa.gov/logo.png)
