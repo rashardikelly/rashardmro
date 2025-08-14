@@ -16,19 +16,19 @@ html {
 
   /* background-image: url("https://fgbg.art/static/svc_telephonePoles-7517ec4812af7eaa7b36b929dc045d95.gif"); sVC telephone poles */
   /* background-image: url("https://fgbg.art/static/mvc_newYork-8a30ed825143d36b528b5f9826ed9fe3.gif"); spiderman mvc */
-  /*background-image: url("https://fgbg.art/static/motw_terry2-e7bbcf53ab92406bdbcb77a42546f5f1.gif");  terry bogard*/
-  /*  background-image: url("https://fgbg.art/static/mvc_drWilyBase-1d2ec60216b5dfe2cfd1df78ee3fa5ec.gif"); */
+  /* background-image: url("https://fgbg.art/static/motw_terry2-e7bbcf53ab92406bdbcb77a42546f5f1.gif");  terry bogard*/
+  /* background-image: url("https://fgbg.art/static/mvc_drWilyBase-1d2ec60216b5dfe2cfd1df78ee3fa5ec.gif"); */
   /* background-image: url("https://fgbg.art/static/mvc_newYork-8a30ed825143d36b528b5f9826ed9fe3.gif"); */
   /* background-image: url("https://fgbg.art/static/aof3_library-3f491fd56f7a36828c14e5b3c02c2327.gif"); AoF3 Library */
   /* background-image: url("https://fgbg.art/static/motw_downtown-cb25d556c94dde722c37d5cad1c924a6.gif"); dr wiley mvc */
   /* background: url(https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/MOSHED-2024-3-4-13-41-24.jpg) no-repeat 0 0 fixed; */
   /* background: url(https://pbs.twimg.com/media/GZuZeUTb0AAo727?format=jpg&name=medium) no-repeat 0 0 fixed; 
-    background-size: cover;
+     background-size: cover;
      line-height: 1.5;
      -webkit-background-size: cover;
     -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover; */
+     -o-background-size: cover;
+     background-size: cover; */
   background: url(https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01500/ids/edr/browse/shrlc/SIF_1500_0800110684_156EBY_N0730000SRLC07021_0000LMJ01_1200.jpg)
     no-repeat 0 0 fixed;
   /* https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04329/opgs/edr/ncam/NLB_781808042EDR_F1091998NCAM00354M_.JPG */
@@ -147,6 +147,15 @@ section img {
 .ic {
   filter: contrast(200%);
 }
+
+.scroller {
+  border: 1px solid #000;
+  width: 95%;
+  height: 70vh;
+  position: relative;
+  container-type: inline-size;
+  display: block;
+  }
 
 .box {
   width: 90%;
