@@ -10,8 +10,6 @@ mermaid: true
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
 
-![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01592/ids/edr/browse/ncam/NLF_1592_0808272076_784ECM_N0780780NCAM03592_16_095J02_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01592/ids/edr/browse/ncam/NLF_1592_0808272076_784ECM_N0780780NCAM03592_16_095J02_1200.jpg)
-
 
 
   {% for post in site.posts %}
@@ -27,8 +25,12 @@ mermaid: true
   {% endfor %}
 
 
-<object class="scroller" data="https://eyes.nasa.gov/curiosity/" type="text/html" >
+<object class="scroller" width="555" height="444" data="https://eyes.nasa.gov/curiosity/" type="text/html" >
 </object>
+
+![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01592/ids/edr/browse/ncam/NLF_1592_0808272076_784ECM_N0780780NCAM03592_16_095J02_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01592/ids/edr/browse/ncam/NLF_1592_0808272076_784ECM_N0780780NCAM03592_16_095J02_1200.jpg)
+
+
 
 Curiosity Raw Images
 Sol 4622: Mars Hand Lens Imager (MAHLI) 
