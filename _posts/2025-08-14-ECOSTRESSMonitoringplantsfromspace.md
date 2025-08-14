@@ -1,7 +1,7 @@
 ---
 layout: post
 mermaid: true
-published: false
+published: true
 title: "ECOSTRESS:Monitoring plants from space"
 image: ecostressjplnasagov-eco-booster.jpg
 ---
