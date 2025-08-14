@@ -7,7 +7,7 @@ image: shocked-i-know-this.gif
 ---
 
 
-![https://ecostress.jpl.nasa.gov/logo.png](https://ecostress.jpl.nasa.gov/logo.png)
+![httpsecostressjplnasagov logo](https://ecostress.jpl.nasa.gov/logo.png)
 
 [ECOSTRESS: Monitoring plants from space](https://www.youtube.com/watch?v=ALZTMLH9boY)
 [Monitoring Plant Health from Space: NASA’s ECOSTRESS Mission](https://www.youtube.com/watch?v=kR8LlN0ftG4)
