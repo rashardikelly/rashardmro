@@ -8,7 +8,6 @@ image: ecostressjplnasagov-eco-booster.jpg
 
 <img   alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
 
-![httpsecostressjplnasagovlogo](https://ecostress.jpl.nasa.gov/logo.png)
 
 [ECOSTRESS: Monitoring plants from space](https://www.youtube.com/watch?v=ALZTMLH9boY)
 [Monitoring Plant Health from Space: NASA’s ECOSTRESS Mission](https://www.youtube.com/watch?v=kR8LlN0ftG4)
@@ -19,3 +18,5 @@ image: ecostressjplnasagov-eco-booster.jpg
 
 4l8tR
 [JPL and the Space Age: Triumph at Saturn (Part I) ](https://youtu.be/SY-hQJ5pMd4?t=247)
+[EyesOnAsteroids](https://eyes.nasa.gov/apps/asteroids/#/16_psyche)
+![httpsecostressjplnasagovlogo](https://ecostress.jpl.nasa.gov/logo.png)
