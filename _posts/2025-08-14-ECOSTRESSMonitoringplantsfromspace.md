@@ -2,7 +2,7 @@
 layout: post
 mermaid: true
 published: false
-title: ECOSTRESS: Monitoring plants from space
+title: ECOSTRESS":" Monitoring plants from space
 image: shocked-i-know-this.gif
 ---
 
