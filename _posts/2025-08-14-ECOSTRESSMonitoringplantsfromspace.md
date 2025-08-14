@@ -40,7 +40,7 @@ image: ecostressjplnasagov-eco-booster.jpg
 4l8tR
 [JPL and the Space Age: Triumph at Saturn (Part I) ](https://youtu.be/SY-hQJ5pMd4?t=247)
 [EyesOnAsteroids](https://eyes.nasa.gov/apps/asteroids/#/16_psyche) [Backpacks, Big Screens, and Summer Fun: GitHub Partners with Altadena Library for a Special Giveaway](https://www.pasadenanow.com/pasadenaschools/backpacks-big-screens-and-summer-fun-github-partners-with-altadena-library-for-a-special-giveaway/) 
-[Connecting to the Internet on DosBox Pure (RetroArch Xbox)](https://www.reddit.com/r/windows98/comments/1ds82ub/connecting_to_the_internet_on_dosbox_pure/?rdt=65492) [`[Guide]` Add and Launch Dosbox games in Retroarch](https://forums.libretro.com/t/guide-add-and-launch-dosbox-games-in-retroarch/31356) 
+[Connecting to the Internet on DosBox Pure (RetroArch Xbox)](https://www.reddit.com/r/windows98/comments/1ds82ub/connecting_to_the_internet_on_dosbox_pure/?rdt=65492) [`[Guide]` Add and Launch Dosbox games in Retroarch](https://forums.libretro.com/t/guide-add-and-launch-dosbox-games-in-retroarch/31356) [Basic Setup and Installation of DosBox](https://www.dosbox.com/wiki/Basic_Setup_and_Installation_of_DosBox) [DosBox-STAGiNG](https://www.dosbox-staging.org/)
 
 <picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
   <source src="https://forums.libretro.com/uploads/default/original/2X/4/4a287a399e062a2a84b93144e24ff582101a467b.png" type="image/png" />
@@ -48,9 +48,14 @@ image: ecostressjplnasagov-eco-booster.jpg
     <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="RetroArch for people that need a container manager thats easy to access and highly supported!" src="https://forums.libretro.com/uploads/default/original/2X/4/4a287a399e062a2a84b93144e24ff582101a467b.png" />
 </picture>
 
+![DOSBOX-STAGiNG](https://www.dosbox-staging.org/assets/images/dosbox-staging-no-border.svg)
+
 <picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
   <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
   <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
     <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
 </picture>
+
+
+
 
