@@ -15,7 +15,7 @@ image: ecostressjplnasagov-eco-booster.jpg
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/VITALS.git/HEAD)
 
 ## Ecostress
-
+ECOSTRESS (Ecosystem Spaceborne Thermal Radiometer Experiment on Space Station) is an ongoing scientific experiment in which a radiometer mounted on the International Space Station (ISS) measures the temperature of plants growing in specific locations on Earth over the course of a solar year. [WiKi](https://en.wikipedia.org/wiki/ECOSTRESS) [TALK:ECOSTRESS](https://en.wikipedia.org/wiki/Talk:ECOSTRESS)
 
 [RSAT Graduation](https://www.facebook.com/watch/live?ref=watch_permalink&v=1360270252374796) + [POSTFiRE:Impact of Immigration Raids on West LA Press Conference 8/14/25](https://www.youtube.com/watch?v=obKWgSy176M)
 
