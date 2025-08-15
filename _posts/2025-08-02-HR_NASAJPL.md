@@ -8,6 +8,17 @@ image: womeninscience.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 
+[https://metroarch.tumblr.com/ - new @tumblr](https://metroarch.tumblr.com/)
+
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:EIvkYAn7tuPyjTeZ0JLOSw/791954630014812160/v2" data-did="82fcc36b2438b1c7c062376bf837bf03e910895e"  ><a href="https://www.tumblr.com/metroarch/791954630014812160">https://www.tumblr.com/metroarch/791954630014812160</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
+
+### # California_Linux: GiT 08 13 Rashard Ci Serving Sites Again Follwers Ing Missing Screen Recording 2025 08 13 4.12.14 PM# C
+<iframe src="https://archive.org/embed/08-13-rashard-ci-serving-sites-again-follwers-ing-missing-screen-recording-2025-08-13-4.12.14-pm" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen=""></iframe>
+
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid026JQyKMyCPHzYAHZLNsCyuQ9cLyBCactmaUF4xaRxg5ngMAuUurXtH9vCAvHWLLSl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
 
 @nasa-jpl i told the @tesla protesters [im a rescue](https://www.facebook.com/CaptainOfJoy/posts/pfbid0yR3CVVro8d6niFWN6Sfuycxc5HzCsvR2GPRU6edxjLNj5aodLoH97URj7rUxgDil) more coverage on /compiling [raw](https://raw.githubusercontent.com/ThakaRashard/rashardmro/refs/heads/master/_posts/2025-03-31-tesla.md) [html](https://thakarashard.github.io/rashardmro/2025/03/31/tesla.html)
 
