@@ -11,6 +11,8 @@ image: KL_Sun_UltraSparc.jpg
 [DSCOVR: EPIC _ Gallery : West Coast Wildfires](https://epic.gsfc.nasa.gov/galleries/2020/wildfires)
 [NASA - LANCE - FiRMS Global Fire Map, Live MAps](https://firms.modaps.eosdis.nasa.gov/map/) with [KML](https://developers.google.com/kml) - [downloads](https://firms.modaps.eosdis.nasa.gov/active_fire/) [@nasa it looks like cal fire uses ViiRS or another one of our climate sats @noaa for this map!](https://www.fire.ca.gov/incidents)
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0N8xAJvGecruXKARbk9XMTWHi5MiEY1ebYTZ7uTpL7CneemwCfeALH6HB93DmUqfbl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> @cbs-news-data @nasa-jpl @blackgirlscode @whitehouse
+
 ## Ecostress [gallery](https://ecostress.jpl.nasa.gov/wildfire_gallery)
 
 <picture itemprop="event" itemtype="https://schema.org/Organization">
