@@ -18,7 +18,11 @@ author: "RashardKelly @nasa-jpl"
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid026JQyKMyCPHzYAHZLNsCyuQ9cLyBCactmaUF4xaRxg5ngMAuUurXtH9vCAvHWLLSl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
+<img  alt="image" src="https://github.com/user-attachments/assets/e408e0c7-76fc-4751-a189-9267613ee445" />
+<img   alt="image" src="https://github.com/user-attachments/assets/777f0a48-c189-49c6-ad29-2c0450febd17" />
 
+see comments 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02GhzJqCiTmbEjt8c8bDdfXkMaTSgCNUBRVvoB75pyssvcjAnTS46zA4NKit7e5BaDl%26id%3D100084464911565&show_text=true&width=500" width="500" height="772" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 @nasa-jpl i told the @tesla protesters [im a rescue](https://www.facebook.com/CaptainOfJoy/posts/pfbid0yR3CVVro8d6niFWN6Sfuycxc5HzCsvR2GPRU6edxjLNj5aodLoH97URj7rUxgDil) more coverage on /compiling [raw](https://raw.githubusercontent.com/ThakaRashard/rashardmro/refs/heads/master/_posts/2025-03-31-tesla.md) [html](https://thakarashard.github.io/rashardmro/2025/03/31/tesla.html)
 
