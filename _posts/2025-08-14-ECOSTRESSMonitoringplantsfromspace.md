@@ -12,6 +12,8 @@ image: ecostressjplnasagov-eco-booster.jpg
     <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
 </picture>
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/VITALS.git/HEAD)
+
 # JPL Publication 09 - [ecostress](https://ecostress.jpl.nasa.gov/gallerylist) - NASA
 ## User Guide Documents - ecostress - NASA
 [Link](https://ecostress.jpl.nasa.gov/data/user-guide-documents-table)
