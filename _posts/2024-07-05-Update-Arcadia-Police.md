@@ -10,6 +10,9 @@ published: false
 </picture>
 This is a comment. Comments are not displayed in the browser-->
 
+its rashard, a girl that snuck in my room gave me a name to use on the street @nasa-jpl [more later ]() 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0NrLpPjKEUQMDywdasAJRhkT7eMMBJN1P5VvYgYsQs752z44FP1aPZ3QkhQB9N6QAl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
 # This is Rashard Kelly! My new name is Thaka
 I was living inside ExtendedStay and i started getting poisoned! I was working for [NASAJPL](https://www.jpl.nasa.gov/) and commuting to the facility, i was working with [Mori and Asscociates](https://moriassociates.com/) as a contractor. When i intervied i scored a Unix Admin Level 5 spot! Jamie Mantel said `you are on the mission!` but he said it would take me some time to score a red badge an the contractor badge might run out. I did not get it then, but now i understand that my [Us Draft agreement](https://www.sss.gov/) binds me to working there! And this is the thing. if you were working back then, you would remember me an my little girl Coral at Arcadia Park 
 
