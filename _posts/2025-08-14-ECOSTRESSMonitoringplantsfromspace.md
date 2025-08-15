@@ -17,6 +17,10 @@ image: ecostressjplnasagov-eco-booster.jpg
 ## Ecostress [link](https://essp.nasa.gov/earth-pathfinder-quests/projects/ecostress/)
 ECOSTRESS (Ecosystem Spaceborne Thermal Radiometer Experiment on Space Station) is an ongoing scientific experiment in which a radiometer mounted on the International Space Station (ISS) measures the temperature of plants growing in specific locations on Earth over the course of a solar year. [WiKi](https://en.wikipedia.org/wiki/ECOSTRESS) [TALK:ECOSTRESS](https://en.wikipedia.org/wiki/Talk:ECOSTRESS)
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0v3WyNMtogV8n6AvRvT8zHnmHDjS5HqVccJoKGAo3zZ2UrA6aVv9msZwV4BstdMBCl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02XnyqJDHshunqt9bcDB2AjiLKd4TyLpxhCBX9RDaZJm6dP9RvFjWiqmKgktQ9DSGDl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
 [RSAT Graduation](https://www.facebook.com/watch/live?ref=watch_permalink&v=1360270252374796) + [POSTFiRE:Impact of Immigration Raids on West LA Press Conference 8/14/25](https://www.youtube.com/watch?v=obKWgSy176M)
 
 <picture itemprop="event" itemtype="https://schema.org/Organization">
@@ -77,6 +81,8 @@ This repository provides Python Jupyter notebook examples to help users work wit
 [JPL and the Space Age: Triumph at Saturn (Part I) ](https://youtu.be/SY-hQJ5pMd4?t=247)
 [EyesOnAsteroids](https://eyes.nasa.gov/apps/asteroids/#/16_psyche) [Backpacks, Big Screens, and Summer Fun: GitHub Partners with Altadena Library for a Special Giveaway](https://www.pasadenanow.com/pasadenaschools/backpacks-big-screens-and-summer-fun-github-partners-with-altadena-library-for-a-special-giveaway/) 
 [Connecting to the Internet on DosBox Pure (RetroArch Xbox)](https://www.reddit.com/r/windows98/comments/1ds82ub/connecting_to_the_internet_on_dosbox_pure/?rdt=65492) [`[Guide]` Add and Launch Dosbox games in Retroarch](https://forums.libretro.com/t/guide-add-and-launch-dosbox-games-in-retroarch/31356) [Basic Setup and Installation of DosBox](https://www.dosbox.com/wiki/Basic_Setup_and_Installation_of_DosBox) [DosBox-STAGiNG](https://www.dosbox-staging.org/)
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02gD9czuKMgSnMhvz7VUwiU86vb4LWR6FGfM3DcGqPJvTDUArozSuiNRxCmxrs1rc2l%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 <object class="scroller" data="https://eyes.nasa.gov/apps/earth/#/satellites/iss-ecostress" type="text/html" ></object>
 
