@@ -15,6 +15,8 @@ image: ecostressjplnasagov-eco-booster.jpg
 
 ## User Guide Documents - ecostress - NASA
 [Link](https://ecostress.jpl.nasa.gov/data/user-guide-documents-table)
+<img  alt="image" src="https://github.com/user-attachments/assets/78eac8c5-559b-4ffa-a78d-4fa652314cb8" />
+
 ## ECOsystem Spaceborne Thermal Radiometer
 Experiment on Space Station (ECOSTRESS) Mission [DOWNLOAD_PDF](https://ecostress.jpl.nasa.gov/downloads/userguides/4b_ECOSTRESS_UserGuide_L4_WUE_20190618.pdf)
 <img  alt="image" src="https://github.com/user-attachments/assets/fb3a8093-f84b-4f74-afe6-aa3dec30420b" />
