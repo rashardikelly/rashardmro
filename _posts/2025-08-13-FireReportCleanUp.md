@@ -9,7 +9,7 @@ image: KL_Sun_UltraSparc.jpg
 ### hotlinks
 [USGS WaTERDASHBOARD @usgs](https://dashboard.waterdata.usgs.gov/app/nwd/en/)
 [DSCOVR: EPIC _ Gallery : West Coast Wildfires](https://epic.gsfc.nasa.gov/galleries/2020/wildfires)
-[NASA - LANCE - FiRMS Global Fire Map, Live MAps](https://firms.modaps.eosdis.nasa.gov/map/) with [KML](https://developers.google.com/kml) - [downloads](https://firms.modaps.eosdis.nasa.gov/active_fire/)
+[NASA - LANCE - FiRMS Global Fire Map, Live MAps](https://firms.modaps.eosdis.nasa.gov/map/) with [KML](https://developers.google.com/kml) - [downloads](https://firms.modaps.eosdis.nasa.gov/active_fire/) [@nasa it looks like cal fire uses ViiRS or another one of our climate sats @noaa for this map!](https://www.fire.ca.gov/incidents)
 
 ## Ecostress [gallery](https://ecostress.jpl.nasa.gov/wildfire_gallery)
 
@@ -130,6 +130,10 @@ NASA / JPL
 ###
 [Wildfires in Los Angeles, California](https://www.earthdata.nasa.gov/news/worldview-image-archive/wildfires-los-angeles-california) [Image captured on Jan 8, 2025](https://www.earthdata.nasa.gov/news/worldview-image-archive/wildfires-los-angeles-california)
 [ECOSTRESS Data Incorporated Into New Wildfire Response Tool](https://www.jpl.nasa.gov/news/ecostress-data-incorporated-into-new-wildfire-response-tool/)
+
+Current Emergency Incidents
+Ongoing emergency responses in California, including all 10+ acre wildfires.[LiNK](https://www.fire.ca.gov/incidents) @stateofcalifornia 
+<img  alt="image" src="https://github.com/user-attachments/assets/57c82f91-0335-4aa1-86c9-c71717008140" />
 
 ![palisadesfire_msi_20250107.jpg](https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153793/palisadesfire_msi_20250107.jpg)
 
