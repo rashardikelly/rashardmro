@@ -17,6 +17,8 @@ image: ecostressjplnasagov-eco-booster.jpg
 ## Ecostress
 
 
+[RSAT Graduation](https://www.facebook.com/watch/live?ref=watch_permalink&v=1360270252374796) + [POSTFiRE:Impact of Immigration Raids on West LA Press Conference 8/14/25](https://www.youtube.com/watch?v=obKWgSy176M)
+
 <picture itemprop="event" itemtype="https://schema.org/Organization">
   <source src="https://ecostress.jpl.nasa.gov/downloads/gallery/00139_palisades_esi_map.png" type="image/png" />
   <source src="https://ecostress.jpl.nasa.gov/downloads/gallery/00139_palisades_esi_map.png" type="image/png" />
