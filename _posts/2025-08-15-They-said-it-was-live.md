@@ -8,6 +8,9 @@ image: post_computinsg.PNG
 author: RashardKelly @nasa-jpl
 ---
 
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02hyv7erAP7iDXqx47ZaWt9xS545CGUjLCWN1z5NTfTuAKQkA9c6QNu9qBG2sQSoHDl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
 [Vatican](https://www.vatican.va/content/vatican/en.html) LIVE: [Angelus](https://www.ewtn.com/catholicism/devotions/angelus-383) with Pope Leo XIV  LIVE from [St. Peter Square](https://www.basilicasanpietro.va/en/san-pietro/the-square) | [Pope Leo's Sunday Mass](https://www.vaticannews.va/en/pope/news/2025-08/pope-leo-xiv-albano-mass-poor-caritas-castel-gandolfo-angelus.html) | N18G [@EWTNcatholictv](https://www.youtube.com/@EWTNcatholictv) August 10, 2025 [Angelus prayer](https://en.wikipedia.org/wiki/Angelus)- Pope Leo XIV
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Rd3hhoZt3YY?si=0x6lC3B4NibHVPbC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
