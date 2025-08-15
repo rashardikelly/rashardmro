@@ -18,6 +18,7 @@ image: ecostressjplnasagov-eco-booster.jpg
 Earth Observing Fleet - Now
 Released Monday, January 30, 2023
 [link](https://svs.gsfc.nasa.gov/5067)
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02gD9czuKMgSnMhvz7VUwiU86vb4LWR6FGfM3DcGqPJvTDUArozSuiNRxCmxrs1rc2l%26id%3D100084464911565&show_text=true&width=500" width="500" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 # JPL Publication 09 - [ecostress](https://ecostress.jpl.nasa.gov/gallerylist) - NASA
 ## User Guide Documents - ecostress - NASA
@@ -45,8 +46,7 @@ Experiment on Space Station (ECOSTRESS) Mission [DOWNLOAD_PDF](https://ecostress
 This repository provides Python Jupyter notebook examples to help users work with VSWIR and TIR data from the EMIT and ECOSTRESS missions.
 [nasa.github.io/VITALS/](nasa.github.io/VITALS/)
 
-<object class="scroller" data="https://eyes.nasa.gov/apps/earth/#/satellites/iss-ecostress" type="text/html" ></object>
-![httpsecostressjplnasagovlogo](https://ecostress.jpl.nasa.gov/logo.png) 
+
 
 
 
@@ -56,7 +56,7 @@ This repository provides Python Jupyter notebook examples to help users work wit
 
 ![https://aviris.jpl.nasa.gov/images/aviris_text2.png](https://aviris.jpl.nasa.gov/images/aviris_text2.png)
 
-<img width="643" height="120" alt="image" src="" />
+
 
 [CSS_SKiLLS_STATUS @nasa-jpl HTML5 @w3c](https://codepen.io/thakarashard/pen/LEpzdmY)
 
@@ -64,6 +64,10 @@ This repository provides Python Jupyter notebook examples to help users work wit
 [JPL and the Space Age: Triumph at Saturn (Part I) ](https://youtu.be/SY-hQJ5pMd4?t=247)
 [EyesOnAsteroids](https://eyes.nasa.gov/apps/asteroids/#/16_psyche) [Backpacks, Big Screens, and Summer Fun: GitHub Partners with Altadena Library for a Special Giveaway](https://www.pasadenanow.com/pasadenaschools/backpacks-big-screens-and-summer-fun-github-partners-with-altadena-library-for-a-special-giveaway/) 
 [Connecting to the Internet on DosBox Pure (RetroArch Xbox)](https://www.reddit.com/r/windows98/comments/1ds82ub/connecting_to_the_internet_on_dosbox_pure/?rdt=65492) [`[Guide]` Add and Launch Dosbox games in Retroarch](https://forums.libretro.com/t/guide-add-and-launch-dosbox-games-in-retroarch/31356) [Basic Setup and Installation of DosBox](https://www.dosbox.com/wiki/Basic_Setup_and_Installation_of_DosBox) [DosBox-STAGiNG](https://www.dosbox-staging.org/)
+
+<object class="scroller" data="https://eyes.nasa.gov/apps/earth/#/satellites/iss-ecostress" type="text/html" ></object>
+
+![httpsecostressjplnasagovlogo](https://ecostress.jpl.nasa.gov/logo.png) 
 
 <picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
   <source src="https://forums.libretro.com/uploads/default/original/2X/4/4a287a399e062a2a84b93144e24ff582101a467b.png" type="image/png" />
