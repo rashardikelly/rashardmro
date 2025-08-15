@@ -11,6 +11,16 @@ image: KL_Sun_UltraSparc.jpg
 [DSCOVR: EPIC _ Gallery : West Coast Wildfires](https://epic.gsfc.nasa.gov/galleries/2020/wildfires)
 [NASA - LANCE - FiRMS Global Fire Map, Live MAps](https://firms.modaps.eosdis.nasa.gov/map/) with [KML](https://developers.google.com/kml) - [downloads](https://firms.modaps.eosdis.nasa.gov/active_fire/)
 
+## Ecostress [gallery](https://ecostress.jpl.nasa.gov/wildfire_gallery)
+
+<picture itemprop="event" itemtype="https://schema.org/Organization">
+  <source src="https://ecostress.jpl.nasa.gov/downloads/gallery/00139_palisades_esi_map.png" type="image/png" />
+  <source src="https://ecostress.jpl.nasa.gov/downloads/gallery/00139_palisades_esi_map.png" type="image/png" />
+    <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/f3d59612-1486-433a-b178-c3e0814f05fd"  />
+</picture>
+ 
+<img src="https://ecostress.jpl.nasa.gov/downloads/gallery/wildfire/00155_gifford_fire.png" alt="ECO image"/>
+
 
 <img alt="image" src="https://github.com/user-attachments/assets/0b5fa1b9-1e5d-4eb1-bfad-4c31bf2a8968" />
 
