@@ -23,7 +23,7 @@ image: ecostressjplnasagov-eco-booster.jpg
     <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/f3d59612-1486-433a-b178-c3e0814f05fd"  />
 </picture>
 
-
+<img src="https://ecostress.jpl.nasa.gov/downloads/gallery/wildfire/00155_gifford_fire.png" alt="ECO image"/>
 
 
 Earth Observing Fleet - Now
@@ -58,7 +58,7 @@ This repository provides Python Jupyter notebook examples to help users work wit
 [nasa.github.io/VITALS/](nasa.github.io/VITALS/)
 
 
-
+<img src="https://ecostress.jpl.nasa.gov/downloads/gallery/00050_LA_beaches_1Aug2020.png" alt="ECO image"/>
 
 
 ![GOEs @noaa @nasa-jpl](https://www.star.nesdis.noaa.gov/goes/images/banner/GOESAllBanner_1800x100px.jpg)
