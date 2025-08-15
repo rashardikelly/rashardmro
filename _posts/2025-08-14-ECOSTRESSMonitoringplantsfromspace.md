@@ -14,6 +14,8 @@ image: ecostressjplnasagov-eco-booster.jpg
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/VITALS.git/HEAD)
 
+## Ecostress
+![Palisades Fire Vegetation Stress](https://ecostress.jpl.nasa.gov/downloads/gallery/00139_palisades_esi_map.png)
 
 Earth Observing Fleet - Now
 Released Monday, January 30, 2023
