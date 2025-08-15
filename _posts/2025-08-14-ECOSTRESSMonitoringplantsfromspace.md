@@ -12,9 +12,10 @@ image: ecostressjplnasagov-eco-booster.jpg
     <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
 </picture>
 
-[https://github.com/@nasa/VITALS](https://github.com/ThakaRashard/VITALS)
-This repository provides Python Jupyter notebook examples to help users work with VSWIR and TIR data from the EMIT and ECOSTRESS missions.
-[nasa.github.io/VITALS/](nasa.github.io/VITALS/)
+## ECOsystem Spaceborne Thermal Radiometer
+Experiment on Space Station (ECOSTRESS) Mission [DOWNLOAD_PDF](https://ecostress.jpl.nasa.gov/downloads/userguides/4b_ECOSTRESS_UserGuide_L4_WUE_20190618.pdf)
+<img  alt="image" src="https://github.com/user-attachments/assets/fb3a8093-f84b-4f74-afe6-aa3dec30420b" />
+
 
 [ECOSTRESS: Monitoring plants from space](https://www.youtube.com/watch?v=ALZTMLH9boY)
 [Monitoring Plant Health from Space: NASA’s ECOSTRESS Mission](https://www.youtube.com/watch?v=kR8LlN0ftG4)
@@ -23,7 +24,10 @@ This repository provides Python Jupyter notebook examples to help users work wit
 
 [Rashardnasagit](https://github.com/rashardnasalosangelesJPL/rashardnasalosangelesJPL.github.io)
 
-[NasaVitals ECOSTRESS JUPiTERNOTEBOOK](This repository provides Python Jupyter notebook examples to help users work with VSWIR and TIR data from the EMIT and ECOSTRESS missions. ) 
+[NasaVitals ECOSTRESS JUPiTERNOTEBOOK](This repository provides Python Jupyter notebook examples to help users work with VSWIR and TIR data from the EMIT and ECOSTRESS missions.) 
+[https://github.com/@nasa/VITALS](https://github.com/ThakaRashard/VITALS)
+This repository provides Python Jupyter notebook examples to help users work with VSWIR and TIR data from the EMIT and ECOSTRESS missions.
+[nasa.github.io/VITALS/](nasa.github.io/VITALS/)
 
 <object class="scroller" data="https://eyes.nasa.gov/apps/earth/#/satellites/iss-ecostress" type="text/html" ></object>
 ![httpsecostressjplnasagovlogo](https://ecostress.jpl.nasa.gov/logo.png) 
