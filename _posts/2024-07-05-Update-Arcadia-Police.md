@@ -2,7 +2,22 @@
 title: Update Arcadia Police 
 published: false
 ---
+
+
+
+#NEWS 
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FMaxarTechnologies%2Fposts%2Fpfbid0EWekpascQRbSFaXiyabPtHHUdHAu31P8iqL5GzMCV5FeJVz1uMktqrHKjwvTCv5dl&show_text=true&width=500" width="500" height="461" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+Doxxed on @meta 
+
+Thaka Sartu
+ill try later im trying to find the maps for ms bass Los Angeles County Sheriff's Department County of Los Angeles https://search.earthdata.nasa.gov/search?p=!C3523930138-ORNL_CLOUD!C2497431983-CSDA!C2617126679-POCLOUD!C3236537162-ORNL_CLOUD!C2497387766-CSDA!C2471470251-CSDA!C2497111771-CSDA!C2520330358-CSDA!C2497510652-CSDA!C2497398128-CSDA!C2497404794-CSDA!C2520304080-CSDA!C3273594512-NSIDC_CPRD!C2497439327-CSDA!C3273595705-NSIDC_CPRD!C2497446902-CSDA&pg[1][a]=3527419803!ORNL_CLOUD&pg[1][v]=t&pg[1][gsk]=-start_date&pg[2][a]=3551866316!3551796958!CSDA&pg[2][v]=t&pg[2][gsk]=-start_date&pg[3][a]=3655918639!3655693299!POCLOUD&pg[3][v]=t&pg[3][gsk]=-start_date&pg[4][v]=t&pg[5][v]=t&pg[6][v]=t&pg[7][v]=t&pg[8][v]=t&pg[9][v]=t&pg[10][v]=t&pg[11][v]=t&pg[12][v]=t&pg[13][v]=t&pg[14][v]=t&pg[15][v]=t&pg[16][v]=t&q=maxar&sb[0]=-174.19902%2C-66.05554%2C164.27542%2C83.85056&ff=Available%20in%20Earthdata%20Cloud!Customizable!Map%20Imagery&lat=29.465434482162674&long=12.693350409409163&zoom=1.479118947580282 -#Rashard #TECHSHARiNG Defense Information Systems Agency NASA Mars
+
 <!--
+
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
