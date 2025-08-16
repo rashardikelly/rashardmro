@@ -3,7 +3,7 @@ layout: post
 mermaid: true
 published: true
 title: FireDataCleanup
-image: KL_Sun_UltraSparc.jpg
+image: Overview_HD.png
 ---
 
 ### hotlinks
