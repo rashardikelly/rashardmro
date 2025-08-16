@@ -14,7 +14,7 @@ catagory post loop - by [Rashard Kelly](https://kellyrashardiman.github.io/) [NA
   <li>{{ post.title }}</li>
 {% endfor %}
 
-{% {endraw %}
+{% endraw %}
 
 [Looping Over Jekyll Collections](https://talk.jekyllrb.com/t/looping-over-jekyll-collections/1842)
 
