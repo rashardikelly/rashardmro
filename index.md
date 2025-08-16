@@ -4,7 +4,10 @@ title: Rashard Mars Reconnaissance Orbiter of NasaJPL
 mermaid: true
 ---
 
-
+[ECOSTRESS @nasa-jpl Resource `&` Def page](https://thakarashard.github.io/rashardmro/2025/08/16/ECOSTRESSMonitoringplantsfromspace.html)
+<img  alt="image Jupiter Notebook Exercise" src="https://github.com/user-attachments/assets/8c0f80cb-1e52-451a-b4d1-8908316b83d0" />
+[alt="image Jupiter Notebook Exercise" https://hub.2i2c.mybinder.org/user/thakarashard-vitals-2f447yax/lab/tree/community_contributed/NEON_EMIT/01_Finding_Co-located_NEON_EMIT_Data_NIWO.ipynb](https://hub.2i2c.mybinder.org/user/thakarashard-vitals-2f447yax/lab/tree/community_contributed/NEON_EMIT/01_Finding_Co-located_NEON_EMIT_Data_NIWO.ipynb)
+<img   alt="image ECOSTRESS @nasa-jpl Resource `&` Def page @nasa @whitehouse @blackgirlscode @cityoflosangeles @stateofcalifornia" src="https://github.com/user-attachments/assets/b26e92ca-c30d-4280-9a1d-71798b930bbb" />
 
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
