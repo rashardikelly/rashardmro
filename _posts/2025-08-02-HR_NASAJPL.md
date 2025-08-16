@@ -8,12 +8,20 @@ image: womeninscience.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 
+
+![tumblr_e17ebfc09ab9b3008882a5274b9012c7_62af3330_2048_dey_mad](https://github.com/user-attachments/assets/94f6f612-ab4c-44ef-8d05-8338e15370b8)
+
 [https://metroarch.tumblr.com/ - new @tumblr](https://metroarch.tumblr.com/)
+[https://bubblegumpop01.tumblr.com/](https://bubblegumpop01.tumblr.com/) @nasa-jpl @nasa-pds 
+[Spread of the Palisades and Eaton Fires - January 2025](https://svs.gsfc.nasa.gov/5558/)
+@nasa-pds @podaac [https://bubblegumfm01.tumblr.com/](https://bubblegumfm01.tumblr.com/)
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:EIvkYAn7tuPyjTeZ0JLOSw/791954630014812160/v2" data-did="82fcc36b2438b1c7c062376bf837bf03e910895e"  ><a href="https://www.tumblr.com/metroarch/791954630014812160">https://www.tumblr.com/metroarch/791954630014812160</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
 
 ### # California_Linux: GiT 08 13 Rashard Ci Serving Sites Again Follwers Ing Missing Screen Recording 2025 08 13 4.12.14 PM# C
 <iframe src="https://archive.org/embed/08-13-rashard-ci-serving-sites-again-follwers-ing-missing-screen-recording-2025-08-13-4.12.14-pm" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen=""></iframe>
+
+
 
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid026JQyKMyCPHzYAHZLNsCyuQ9cLyBCactmaUF4xaRxg5ngMAuUurXtH9vCAvHWLLSl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
