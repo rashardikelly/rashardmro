@@ -6,6 +6,10 @@ title: About Rashard
 image: rashardMRO.jpeg
 ---
 
+
+
+<img  alt="CultChild by Rashard and Sartu" src="https://github.com/user-attachments/assets/3df62c9c-14c1-4358-ba54-820ca9b77fc8" />
+
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Frashard.kelly.1%2Fposts%2Fpfbid02uDFH1GKZRqcRTBXh5ggWbQfgBPEiZVPcWBpHAbkRJe89WuvDBjNHhnmskqCpJdRml&show_text=true&width=500" width="500" height="645" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 This was posted sometime after i left gtri @nasa @nasa-jpl
