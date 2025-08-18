@@ -7,6 +7,25 @@ mermaid: true
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
+
+  {% for post in site.posts %}
+    
+<article class="paginator">
+  <a href="{{ site.github.url }}{{ post.url }}">
+    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
+      <h2><span>{{ post.title }}</span></h2>
+    </div>
+  </a>
+</article>
+
+  {% endfor %}
+
+
+<object class="scroller" width="555" height="444" data="https://eyes.nasa.gov/curiosity/" type="text/html" >
+</object>
+
+
+
 [Xanthe Terra](https://www.uahirise.org/PSP_005701_1920)
 
 [LANDSLiDE](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/PSP/ORB_005700_005799/PSP_005701_1920/PSP_005701_1920_RED.browse.jpg)
@@ -48,22 +67,6 @@ forked from [nasa/ECOSTRESS-Data-Resources](https://github.com/nasa/ECOSTRESS-Da
 
 ![122382703_1759953340832982_349434514516290585_n @newshour @blackgirlscode](https://github.com/user-attachments/assets/e95ce80c-2b62-4720-9436-712440688a89)
 
-
-  {% for post in site.posts %}
-    
-<article class="paginator">
-  <a href="{{ site.github.url }}{{ post.url }}">
-    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
-      <h2><span>{{ post.title }}</span></h2>
-    </div>
-  </a>
-</article>
-
-  {% endfor %}
-
-
-<object class="scroller" width="555" height="444" data="https://eyes.nasa.gov/curiosity/" type="text/html" >
-</object>
 
 ![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01592/ids/edr/browse/ncam/NLF_1592_0808272076_784ECM_N0780780NCAM03592_16_095J02_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01592/ids/edr/browse/ncam/NLF_1592_0808272076_784ECM_N0780780NCAM03592_16_095J02_1200.jpg)
 
