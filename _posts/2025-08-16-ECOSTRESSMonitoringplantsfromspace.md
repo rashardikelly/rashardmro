@@ -12,6 +12,31 @@ image: ecostressjplnasagov-eco-booster.jpg
     <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
 </picture>
 
+Emit EMIT-Data-Resources
+Public
+forked from [nasa/EMIT-Data-Resources](https://github.com/nasa/EMIT-Data-Resources)
+
+ECOSTRESS-Data-Resources
+Public
+forked from [nasa/ECOSTRESS-Data-Resources](https://github.com/nasa/ECOSTRESS-Data-Resources)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rashard-ecostress-jpl-iss/ECOSTRESS-Data-Resources.git/HEAD)
+
+[![EMiTBinder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nasa/EMIT-Data-Resources.git/HEAD)
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/f5957e4b-9b85-45ed-be48-0d1fbb5b21f1" />
+
+
+![image](https://github.com/user-attachments/assets/0e0e98d2-b3c5-4093-a842-9ea7a32baa6e)
+
+
+[Astronaut Photography Interactive Map](https://eol.jsc.nasa.gov/ExplorePhotos/?illum=day)
+@nasa @state4ofcalifornia @blackgirlscode @cityoflosangeles @nasa-pds @nasa-jpl i found a nice link array of earth focused nasa websites, that should be bookmarked [Gateway to Astronaut PHotography - https://eol.jsc.nasa.gov/Collections/](https://eol.jsc.nasa.gov/Collections/) @newshour  @ajc
+![Gateway to Astronaut PHotography](https://eol.jsc.nasa.gov/images/navBrandImg.png)
+
+![122382703_1759953340832982_349434514516290585_n @newshour @blackgirlscode](https://github.com/user-attachments/assets/e95ce80c-2b62-4720-9436-712440688a89)
+
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/VITALS.git/HEAD)
 [BinderHub](https://binderhub.readthedocs.io/en/latest/) 
 
