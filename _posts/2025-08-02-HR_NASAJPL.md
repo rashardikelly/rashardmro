@@ -9,6 +9,20 @@ author: "RashardKelly @nasa-jpl"
 ---
 
 
+Emit EMIT-Data-Resources
+Public
+forked from [nasa/EMIT-Data-Resources](https://github.com/nasa/EMIT-Data-Resources)
+
+ECOSTRESS-Data-Resources
+Public
+forked from [nasa/ECOSTRESS-Data-Resources](https://github.com/nasa/ECOSTRESS-Data-Resources)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rashard-ecostress-jpl-iss/ECOSTRESS-Data-Resources.git/HEAD)
+
+[![EMiTBinder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nasa/EMIT-Data-Resources.git/HEAD)
+
+![image](https://github.com/user-attachments/assets/0e0e98d2-b3c5-4093-a842-9ea7a32baa6e)
+
+
 ![122382703_1759953340832982_349434514516290585_n](https://github.com/user-attachments/assets/d9c8154d-cdad-465a-81f7-8cae422761b8)
 
 
