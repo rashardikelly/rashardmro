@@ -116,6 +116,9 @@ Sol 4624: Mars Hand Lens Imager (MAHLI)
 
   </div>  
 
+  ![121005667_1745464908948492_2732019321500875720_n](https://github.com/user-attachments/assets/1fcd367b-e784-446a-865e-bf9ed937b972)
+
+
 ![4624MH0003720011700691C00_DXXX](https://github.com/user-attachments/assets/e7e06518-a009-489b-a9a9-2dad23bc5b74)
 <img  alt="image" src="https://github.com/user-attachments/assets/d93a5eeb-bb15-45fc-8d5d-d6b761bf8f88" />
   
