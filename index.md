@@ -7,6 +7,27 @@ mermaid: true
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
+### Mars Perseverance Sol 1597: Left Navigation Camera (Navcam)
+
+![mars Mars Perseverance Sol 1597: Left Navigation Camera](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01597/ids/edr/browse/ncam/NLG_1597_0808720776_130ECM_N0783588NCAM00518_00_2I3J01_1200.jpg)
+
+Emit EMIT-Data-Resources
+Public
+forked from [nasa/EMIT-Data-Resources](https://github.com/nasa/EMIT-Data-Resources)
+
+ECOSTRESS-Data-Resources
+Public
+forked from [nasa/ECOSTRESS-Data-Resources](https://github.com/nasa/ECOSTRESS-Data-Resources)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rashard-ecostress-jpl-iss/ECOSTRESS-Data-Resources.git/HEAD)
+
+[![EMiTBinder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nasa/EMIT-Data-Resources.git/HEAD)
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/f5957e4b-9b85-45ed-be48-0d1fbb5b21f1" />
+
+
+![image](https://github.com/user-attachments/assets/0e0e98d2-b3c5-4093-a842-9ea7a32baa6e)
+
 
 [Astronaut Photography Interactive Map](https://eol.jsc.nasa.gov/ExplorePhotos/?illum=day)
 @nasa @state4ofcalifornia @blackgirlscode @cityoflosangeles @nasa-pds @nasa-jpl i found a nice link array of earth focused nasa websites, that should be bookmarked [Gateway to Astronaut PHotography - https://eol.jsc.nasa.gov/Collections/](https://eol.jsc.nasa.gov/Collections/) @newshour  @ajc
