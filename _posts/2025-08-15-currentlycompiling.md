@@ -7,6 +7,14 @@ image: tumblr_9996aa2d413f6668f7f48ccdb4f9fb8a_8780e031_2048.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 
+
+<iframe src="https://archive.org/embed/20250816_20250816_1754_EcoStress_CRAM" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Frashard.kelly.1%2Fposts%2Fpfbid0JfgMYLrQzaansxxbGMyPedyKm3ReJuuWDFmnYoBGe7KeYbZP1ECYXfh5WnWBNT24l&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/139132715_853010218832110_867348476190138051_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=yvPIPM2tcngQ7kNvwHeKoTl&amp;_nc_oc=AdnN0xr-yrmwZy1xnWKwQlTTyO9Sebr409rtLogpohiIr3AP-2qL2POlVhWsXqgadGQ&amp;_nc_zt=23&amp;_nc_ht=scontent-lax3-2.xx&amp;_nc_gid=EnKPqz1-3hgjt48jn_NiTA&amp;oh=00_AfW2ddnwz5bU9GeAOa2NIjAPVJQcUpn1Evcuyfib1WT9Pw&amp;oe=68CB3B57" alt="No photo description available."/><img width="1848" height="1224" alt="image" src="https://github.com/user-attachments/assets/d869c1d7-cf04-4e8c-8ec1-3a1bcf80d43f" />
+
+
 ![131908062_1816149488546700_4732829352018775708_n](https://github.com/user-attachments/assets/1bf6433e-c7da-4cdc-8080-532d49ce2fac)
 
 ![122382703_1759953340832982_349434514516290585_n](https://github.com/user-attachments/assets/e95ce80c-2b62-4720-9436-712440688a89)
