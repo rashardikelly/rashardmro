@@ -7,6 +7,40 @@ image: tumblr_9996aa2d413f6668f7f48ccdb4f9fb8a_8780e031_2048.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 
+![131908062_1816149488546700_4732829352018775708_n](https://github.com/user-attachments/assets/1bf6433e-c7da-4cdc-8080-532d49ce2fac)
+
+![122382703_1759953340832982_349434514516290585_n](https://github.com/user-attachments/assets/e95ce80c-2b62-4720-9436-712440688a89)
+
+[ECOSTRESS @nasa-jpl Resource `&` Def page](https://thakarashard.github.io/rashardmro/2025/08/16/ECOSTRESSMonitoringplantsfromspace.html)
+<img  alt="image Jupiter Notebook Exercise" src="https://github.com/user-attachments/assets/8c0f80cb-1e52-451a-b4d1-8908316b83d0" />
+[alt="image Jupiter Notebook Exercise" https://hub.2i2c.mybinder.org/user/thakarashard-vitals-2f447yax/lab/tree/community_contributed/NEON_EMIT/01_Finding_Co-located_NEON_EMIT_Data_NIWO.ipynb](https://hub.2i2c.mybinder.org/user/thakarashard-vitals-2f447yax/lab/tree/community_contributed/NEON_EMIT/01_Finding_Co-located_NEON_EMIT_Data_NIWO.ipynb)
+<img   alt="image ECOSTRESS @nasa-jpl Resource `&` Def page @nasa @whitehouse @blackgirlscode @cityoflosangeles @stateofcalifornia" src="https://github.com/user-attachments/assets/b26e92ca-c30d-4280-9a1d-71798b930bbb" />
+
+
+
+
+catagory post loop - by [Rashard Kelly](https://kellyrashardiman.github.io/) [NASA/JPL](https://rashardgds.github.io/)
+{% raw %}
+
+{% assign posts = site.posts | where_exp: "post", "post.categories contains 'coral'" %}
+{% for post in posts %}
+  <li>{{ post.title }}</li>
+{% endfor %}
+
+{% endraw %}
+
+[Looping Over Jekyll Collections](https://talk.jekyllrb.com/t/looping-over-jekyll-collections/1842)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/07a3629b-f57f-42b9-8df8-9ba76b1f4423" />
+
+<script src="https://gist.github.com/aamnah/dceb067c8bf79d017f1a16523b2c3a75.js"></script>
+
+[Nintendo Power 1988 - 2004](https://archive.org/details/NintendoPower1988-2004/Nintendo%20Power%20Issue%20001%20%28July-August%201988%29/page/n1/mode/2up)
+[BinderHub](https://binderhub.readthedocs.io/en/latest/) BinderHub is a kubernetes-based cloud service that allows users to share reproducible interactive computing environments from code repositories. It is the primary technology behind [https://mybinder.org/](https://mybinder.org/) [How-to Guides](https://repo2docker.readthedocs.io/en/latest/howto/index.html) [x11docker/gnome](https://hub.docker.com/r/x11docker/gnome)
+[You’ve discovered the about page of Michael Rose.](https://mademistakes.com/about/) + [MASTERinG_JEKYLL](https://mademistakes.com/mastering-jekyll/)
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0o3cVJ7aWyGtXM35RvLcojbcgAGWzebhFjZb4SsYg2cPwW4SNNdPC8m4y9gLxd16l%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02oLQCy2seUB1PuT89KmCxUJuM4UnofkMXUkmEtSBEmf94ArSekuoeRmzKDgVDSUVjl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02Eu9WmsovNrcBkG7MwNe7Z8u69nLBT35dFPAVDj8y4DDMbY4Zv7WfAmMokCQ8t72kl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
