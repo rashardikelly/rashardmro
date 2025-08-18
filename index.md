@@ -12,6 +12,7 @@ mermaid: true
 @nasa @state4ofcalifornia @blackgirlscode @cityoflosangeles @nasa-pds @nasa-jpl i found a nice link array of earth focused nasa websites, that should be bookmarked [Gateway to Astronaut PHotography - https://eol.jsc.nasa.gov/Collections/](https://eol.jsc.nasa.gov/Collections/) @newshour  @ajc
 ![Gateway to Astronaut PHotography](https://eol.jsc.nasa.gov/images/navBrandImg.png)
 
+![122382703_1759953340832982_349434514516290585_n @newshour @blackgirlscode](https://github.com/user-attachments/assets/e95ce80c-2b62-4720-9436-712440688a89)
 
 
   {% for post in site.posts %}
