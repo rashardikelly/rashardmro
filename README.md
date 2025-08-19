@@ -4,7 +4,7 @@
 ![Gem Version](https://img.shields.io/gem/v/jekyll.svg)
 
 
-
+![spirit](https://d2gq8errdqpl02.cloudfront.net/Spirit/mer2om_0xxx/browse/hazcam/site0002/2ff010eff02cyl11p1003l000m2.img.jpg)
 ![image](https://github.com/user-attachments/assets/0e0e98d2-b3c5-4093-a842-9ea7a32baa6e)
 
 ![Username rashardkelly](https://github.com/user-attachments/assets/c4d81f0e-2f26-478d-8353-6a685167fe8e)
