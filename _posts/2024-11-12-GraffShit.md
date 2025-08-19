@@ -7,6 +7,9 @@ published: false
 image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
 ---
 
+
+<img src="https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-6/476240352_1600435137266645_7184547113575520445_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=f727a1&amp;_nc_ohc=yBGl9PXlmm8Q7kNvwHJxOIG&amp;_nc_oc=AdkZk1MgVAsuu60qweNfWC_-GuhFWcX9EYOjtGmQXSOmDT9D6vpatlV11CJ35xO4oVs&amp;_nc_zt=23&amp;_nc_ht=scontent-lax3-1.xx&amp;_nc_gid=VHccEaW2nCgSotR3QnHMdA&amp;oh=00_AfUpZxcWTo44Kkl0TJLFiU28hq2J1ahKGJuHKaR8uPPkmg&amp;oe=68A991E6" alt="No photo description available."/><img width="768" height="960" alt="image" src="https://github.com/user-attachments/assets/b2144fd9-450a-4402-9f09-b0d758fa0647" />
+
 {% assign posts = site.posts | where_exp: "post", "post.categories contains 'coral'" %}
 {% for post in posts %}
   <li>{{ post.title }}</li>
