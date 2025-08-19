@@ -4,7 +4,6 @@
 ![Gem Version](https://img.shields.io/gem/v/jekyll.svg)
 
 
-![spirit](https://d2gq8errdqpl02.cloudfront.net/Spirit/mer2om_0xxx/browse/hazcam/site0002/2ff010eff02cyl11p1003l000m2.img.jpg)
 ![image](https://github.com/user-attachments/assets/0e0e98d2-b3c5-4093-a842-9ea7a32baa6e)
 
 ![Username rashardkelly](https://github.com/user-attachments/assets/c4d81f0e-2f26-478d-8353-6a685167fe8e)
@@ -573,6 +572,18 @@ END
 
 ### Running tests
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
+
+
+
+![Spirit](https://d2gq8errdqpl02.cloudfront.net/Spirit/mer2om_0xxx/browse/hazcam/site0002/2fr010eff02cyl11p1003l000m2.img.jpg)
+![spirit](https://d2gq8errdqpl02.cloudfront.net/Spirit/mer2om_0xxx/browse/hazcam/site0002/2ff010eff02cyl11p1003l000m2.img.jpg)
+![Spirit](https://d2gq8errdqpl02.cloudfront.net/Spirit/mer2om_0xxx/browse/hazcam/site0002/2ff010eff02per11p1003l000m2.img.jpg)
+![spirit](https://d2gq8errdqpl02.cloudfront.net/Spirit/mer2om_0xxx/browse/hazcam/site0002/2fr010eff02per11p1003l000m2.img.jpg)
+![Spirit](https://d2gq8errdqpl02.cloudfront.net/Spirit/mer2om_0xxx/browse/hazcam/site0002/2fr010eff02pol11p1003l000m2.img.jpg)
+![Spirit](https://d2gq8errdqpl02.cloudfront.net/Spirit/mer2om_0xxx/browse/hazcam/site0002/2fr010eff02vrt11p1003l000m2.img.jpg)
+![Spirit @nasa-pds](https://d2gq8errdqpl02.cloudfront.net/Spirit/mer2om_0xxx/browse/hazcam/site0002/2fr010eff02vrt11p1003l000m3.img.jpg)
+
+
 
 The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.
 
