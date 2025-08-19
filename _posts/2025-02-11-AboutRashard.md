@@ -6,6 +6,9 @@ title: About Rashard
 image: rashardMRO.jpeg
 ---
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ydGxlS8l7Y0?si=D0Ic9Ol2Z7pYSq-1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Frashard.kelly.1%2Fposts%2Fpfbid02UEFHxGVopnsTBMKj8pSmWDHDfG9hvfbX78fiitiR3QsrYF1sXCPKovXyVRQi4w59l&show_text=true&width=500" width="500" height="608" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 <img  alt="CultChild by Rashard and Sartu" src="https://github.com/user-attachments/assets/3df62c9c-14c1-4358-ba54-820ca9b77fc8" />
