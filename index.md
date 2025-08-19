@@ -40,7 +40,7 @@ OBJECT                            = MISSION
       million kilometers over the course of a 300-day cruise to
       reach Mars on 12 September 1997 [[JPLD-12088](https://pds-geosciences.wustl.edu/missions/mgs/catalog/mission.txt)].
       
-[mission.cat @nasa-jpl @cityoflosangeles @stateofcalifornia @blackgirlscode @whitehouse](https://pds.nasa.gov/data/mgs-m-moc-na_wa-2-sdp-l0-v1.0/dmgsc_1001/mgsc_1122/catalog/mission.cat) [civilian thingverse.com/thing:408065](https://www.thingiverse.com/thing:408065)  [[JPLD-12088](https://pds-geosciences.wustl.edu/missions/mgs/catalog/mission.txt)].
+[mission.cat @nasa-jpl @cityoflosangeles @stateofcalifornia @blackgirlscode @whitehouse](https://pds.nasa.gov/data/mgs-m-moc-na_wa-2-sdp-l0-v1.0/dmgsc_1001/mgsc_1122/catalog/mission.cat) [civilian thingverse.com/thing:408065](https://www.thingiverse.com/thing:408065)  [[JPLD-12088](https://pds-geosciences.wustl.edu/missions/mgs/catalog/mission.txt)]. [https://pds-smallbodies.astro.umd.edu/holdings/ro-cal-cosima-3-v2.0/catalog/ref.cat](https://pds-smallbodies.astro.umd.edu/holdings/ro-cal-cosima-3-v2.0/catalog/ref.cat)
       
 <object class="scroller" width="555" height="444" data="https://eyes.nasa.gov/curiosity/" type="text/html" >
 </object>
