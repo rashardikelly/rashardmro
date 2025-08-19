@@ -21,6 +21,26 @@ mermaid: true
   {% endfor %}
 
 
+OBJECT                            = MISSION
+ MISSION_NAME                     = "MARS GLOBAL SURVEYOR"
+
+ OBJECT                           = MISSION_INFORMATION
+  MISSION_START_DATE              = 1994-10-12
+  MISSION_STOP_DATE               = UNK
+  MISSION_ALIAS_NAME              = "N/A"
+  MISSION_DESC                    = "
+
+    Mission Overview
+    ================
+
+      The Mars Global Surveyor (MGS) spacecraft was launched from
+      the Cape Canaveral Air Station in Florida on 7 November 1996
+      aboard a Delta-2/7925 rocket.  The 1062-kilogram spacecraft,
+      built by Lockheed Martin Astronautics, traveled nearly 750
+      million kilometers over the course of a 300-day cruise to
+      reach Mars on 12 September 1997 [JPLD-12088].
+[mission.cat @nasa-jpl @cityoflosangeles @stateofcalifornia @blackgirlscode @whitehouse](https://pds.nasa.gov/data/mgs-m-moc-na_wa-2-sdp-l0-v1.0/dmgsc_1001/mgsc_1122/catalog/mission.cat)
+      
 <object class="scroller" width="555" height="444" data="https://eyes.nasa.gov/curiosity/" type="text/html" >
 </object>
 
