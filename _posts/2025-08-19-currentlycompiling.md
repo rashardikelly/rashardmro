@@ -8,8 +8,9 @@ author: "RashardKelly @nasa-jpl"
 ---
 
 
-
-vENUS 
+# Galileo Venus Flyby
+Feb. 7, 1990
+NASA's Galileo spacecraft will obtain its first gravity assist on the long road to Jupiter on the night of February 9-10 when it flies by the planet Venus at a distance of some 10,000 miles (16,000 kilometers) above the cloudtops. [READMORE](https://www.jpl.nasa.gov/news/galileo-venus-flyby/) @nasa-pds @stateofcalifornia [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/@repkarenbass) [![Twitter Follow](https://img.shields.io/badge/Social-@neiltyson__-blue?style=social&logo=X)](https://twitter.com/@neiltyson)
 
 <div class="tupperware">
     
