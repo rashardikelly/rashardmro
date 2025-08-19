@@ -7,6 +7,24 @@ mermaid: true
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
+# Spirit
+Mars Inventory
+[LAnding to LAtest @nasa @nasa-jpl @nasa-pds @whitehouse @USnavy - MAY 25 2025](https://pdsimage2.wr.usgs.gov/Mars_Exploration_Rover/Spirit/mer2om_0xxx/browse/navcam/site0138/)
+
+# Spirit Rover [HAZCAM](https://pdsimage2.wr.usgs.gov/Mars_Exploration_Rover/Spirit/mer2om_0xxx/browse/hazcam/)
+[@nasa-jpl](https://www.jpl.nasa.gov/missions/mars-exploration-rover-spirit-mer-spirit/)
+
+![Spirit](https://d2gq8errdqpl02.cloudfront.net/Spirit/mer2om_0xxx/browse/hazcam/site0002/2fr010eff02cyl11p1003l000m2.img.jpg)
+![spirit](https://d2gq8errdqpl02.cloudfront.net/Spirit/mer2om_0xxx/browse/hazcam/site0002/2ff010eff02cyl11p1003l000m2.img.jpg)
+![Spirit](https://d2gq8errdqpl02.cloudfront.net/Spirit/mer2om_0xxx/browse/hazcam/site0002/2ff010eff02per11p1003l000m2.img.jpg)
+![spirit](https://d2gq8errdqpl02.cloudfront.net/Spirit/mer2om_0xxx/browse/hazcam/site0002/2fr010eff02per11p1003l000m2.img.jpg)
+![Spirit](https://d2gq8errdqpl02.cloudfront.net/Spirit/mer2om_0xxx/browse/hazcam/site0002/2fr010eff02pol11p1003l000m2.img.jpg)
+![Spirit](https://d2gq8errdqpl02.cloudfront.net/Spirit/mer2om_0xxx/browse/hazcam/site0002/2fr010eff02vrt11p1003l000m2.img.jpg)
+![Spirit @nasa-pds](https://d2gq8errdqpl02.cloudfront.net/Spirit/mer2om_0xxx/browse/hazcam/site0002/2fr010eff02vrt11p1003l000m3.img.jpg)
+![@whitehouse @stateofcalifornia](https://d2gq8errdqpl02.cloudfront.net/Spirit/mer2om_0xxx/browse/hazcam/site0003/2ff015eff03per27p1214l000m2.img.jpg)
+![Spirit May25](https://d2gq8errdqpl02.cloudfront.net/Spirit/mer2om_0xxx/browse/navcam/site0138/2nnl48ilfb2cypgxp1705r000m1.img.jpg)
+
+
 
   {% for post in site.posts %}
     
@@ -21,6 +39,27 @@ mermaid: true
   {% endfor %}
 
 
+OBJECT                            = MISSION
+ MISSION_NAME                     = "MARS GLOBAL SURVEYOR"
+
+ OBJECT                           = MISSION_INFORMATION
+  MISSION_START_DATE              = 1994-10-12
+  MISSION_STOP_DATE               = UNK
+  MISSION_ALIAS_NAME              = "N/A"
+  MISSION_DESC                    = "
+
+    Mission Overview
+    ================
+
+      The Mars Global Surveyor (MGS) spacecraft was launched from
+      the Cape Canaveral Air Station in Florida on 7 November 1996
+      aboard a Delta-2/7925 rocket.  The 1062-kilogram spacecraft,
+      built by Lockheed Martin Astronautics, traveled nearly 750
+      million kilometers over the course of a 300-day cruise to
+      reach Mars on 12 September 1997 [[JPLD-12088](https://pds-geosciences.wustl.edu/missions/mgs/catalog/mission.txt)].
+      
+[mission.cat @nasa-jpl @cityoflosangeles @stateofcalifornia @blackgirlscode @whitehouse](https://pds.nasa.gov/data/mgs-m-moc-na_wa-2-sdp-l0-v1.0/dmgsc_1001/mgsc_1122/catalog/mission.cat) [civilian thingverse.com/thing:408065](https://www.thingiverse.com/thing:408065)  [[JPLD-12088](https://pds-geosciences.wustl.edu/missions/mgs/catalog/mission.txt)]. [https://pds-smallbodies.astro.umd.edu/holdings/ro-cal-cosima-3-v2.0/catalog/ref.cat](https://pds-smallbodies.astro.umd.edu/holdings/ro-cal-cosima-3-v2.0/catalog/ref.cat)
+      
 <object class="scroller" width="555" height="444" data="https://eyes.nasa.gov/curiosity/" type="text/html" >
 </object>
 
