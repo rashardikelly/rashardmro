@@ -20,6 +20,7 @@ Mars Inventory
 ![spirit](https://d2gq8errdqpl02.cloudfront.net/Spirit/mer2om_0xxx/browse/hazcam/site0002/2fr010eff02per11p1003l000m2.img.jpg)
 ![Spirit](https://d2gq8errdqpl02.cloudfront.net/Spirit/mer2om_0xxx/browse/hazcam/site0002/2fr010eff02pol11p1003l000m2.img.jpg)
 ![Spirit](https://d2gq8errdqpl02.cloudfront.net/Spirit/mer2om_0xxx/browse/hazcam/site0002/2fr010eff02vrt11p1003l000m2.img.jpg)
+![Spirit](https://planetarydata.jpl.nasa.gov/img/data/mer/spirit/mer2om_0xxx/browse/navcam/site0002/2nn011eff02vrt39p1512l000m2.img.jpg)
 ![Spirit @nasa-pds](https://d2gq8errdqpl02.cloudfront.net/Spirit/mer2om_0xxx/browse/hazcam/site0002/2fr010eff02vrt11p1003l000m3.img.jpg)
 ![@whitehouse @stateofcalifornia](https://d2gq8errdqpl02.cloudfront.net/Spirit/mer2om_0xxx/browse/hazcam/site0003/2ff015eff03per27p1214l000m2.img.jpg)
 ![Spirit May25](https://d2gq8errdqpl02.cloudfront.net/Spirit/mer2om_0xxx/browse/navcam/site0138/2nnl48ilfb2cypgxp1705r000m1.img.jpg)
