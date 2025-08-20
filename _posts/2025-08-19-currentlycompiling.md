@@ -7,10 +7,16 @@ image: tumblr_9996aa2d413f6668f7f48ccdb4f9fb8a_8780e031_2048.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 
+[Jay Electronica The Ghost Of Christopher Wallace WITHOUT ](https://soundcloud.com/josh-calhoun-509969798/jay-electronica-the-ghost-of-christopher-wallace-without-diddy-talking-at-the-end)
 
 # Galileo Venus Flyby
 Feb. 7, 1990
-NASA's Galileo spacecraft will obtain its first gravity assist on the long road to Jupiter on the night of February 9-10 when it flies by the planet Venus at a distance of some 10,000 miles (16,000 kilometers) above the cloudtops. [READMORE](https://www.jpl.nasa.gov/news/galileo-venus-flyby/) @nasa-pds @stateofcalifornia [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/@repkarenbass) [![Twitter Follow](https://img.shields.io/badge/Social-@neiltyson__-blue?style=social&logo=X)](https://twitter.com/@neiltyson)
+NASA's Galileo spacecraft will obtain its first gravity assist on the long road to Jupiter on the night of February 9-10 when it flies by the planet Venus at a distance of some 10,000 miles (16,000 kilometers) above the cloudtops. [READMORE](https://www.jpl.nasa.gov/news/galileo-venus-flyby/) 
+There have been 46 space missions to the planet Venus [wiki](https://en.wikipedia.org/wiki/List_of_missions_to_Venus)
+
+
+
+@nasa-pds @stateofcalifornia [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/@repkarenbass) [![Twitter Follow](https://img.shields.io/badge/Social-@neiltyson__-blue?style=social&logo=X)](https://twitter.com/@neiltyson)
 [Venera Soviet Missions to Venus](https://nssdc.gsfc.nasa.gov/planetary/venera.html)
 
 <img width="55" height="55" src="https://nssdc.gsfc.nasa.gov/logo/nasa_logo.gif" />
