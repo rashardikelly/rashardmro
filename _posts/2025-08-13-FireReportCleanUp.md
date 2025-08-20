@@ -11,6 +11,23 @@ image: Overview_HD.png
 [DSCOVR: EPIC _ Gallery : West Coast Wildfires](https://epic.gsfc.nasa.gov/galleries/2020/wildfires)
 [NASA - LANCE - FiRMS Global Fire Map, Live MAps](https://firms.modaps.eosdis.nasa.gov/map/) with [KML](https://developers.google.com/kml) - [downloads](https://firms.modaps.eosdis.nasa.gov/active_fire/) [@nasa it looks like cal fire uses ViiRS or another one of our climate sats @noaa for this map!](https://www.fire.ca.gov/incidents)
 
+
+---
+
+# What's in the Soil? [WATCHNOW](https://www.youtube.com/watch?v=RJ8I2P_Nrxw)
+@datadesk we do a lot of environmental scanning, but we running from poachers man! help us out @FEMA latimes said you are not testing, but i dont think they doing nothing but being hustled... 
+
+
+ Guests: 
+[Tony Briscoe](mailto:tony.briscoe@latimes.com), [LA Times Environment Reporter](https://www.latimes.com/people/tony-briscoe)
+[Noah Haggerty](mailto:noah.haggerty@latimes.com), LA [Times Science and Environment Reporter](https://www.latimes.com/people/noah-haggerty) 
+Megan Lorick, [Malibu R](https://en.wikipedia.org/wiki/Talk:Malibu,_California)esident 
+[Malibu residents demand city leadership for rebuilding after devastating fires](https://www.citizenportal.ai/articles/2802815/Malibu-City/Los-Angeles-County/California/Malibu-residents-demand-city-leadership-for-rebuilding-after-devastating-fires)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJ8I2P_Nrxw?si=LhKJ6eNyz_b5L2hh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<img  alt="image" src="https://github.com/user-attachments/assets/46046d49-476d-497b-ae39-3923495ddbb8" />
+
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0N8xAJvGecruXKARbk9XMTWHi5MiEY1ebYTZ7uTpL7CneemwCfeALH6HB93DmUqfbl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> @cbs-news-data @nasa-jpl @blackgirlscode @whitehouse
 
 ## Ecostress [gallery](https://ecostress.jpl.nasa.gov/wildfire_gallery)
