@@ -8,7 +8,7 @@ mermaid: true
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
 # California_Linux: Ecostress annual review cram prep + report
-
+[Planetary Mission Support List - nssdc.gsfc.nasa.gov/planetary/projects.html](https://nssdc.gsfc.nasa.gov/planetary/projects.html)
 <iframe src="https://archive.org/embed/20250816_20250816_1754_EcoStress_CRAM" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
   {% for post in site.posts %}
