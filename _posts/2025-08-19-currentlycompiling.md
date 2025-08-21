@@ -7,6 +7,8 @@ image: tumblr_9996aa2d413f6668f7f48ccdb4f9fb8a_8780e031_2048.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 
+<img alt="image" src="https://github.com/user-attachments/assets/47285529-0013-4ebb-b2b0-f3f08d5a0ba1" />
+
 [Jay Electronica The Ghost Of Christopher Wallace WITHOUT ](https://soundcloud.com/josh-calhoun-509969798/jay-electronica-the-ghost-of-christopher-wallace-without-diddy-talking-at-the-end)
 
 # Galileo Venus Flyby
