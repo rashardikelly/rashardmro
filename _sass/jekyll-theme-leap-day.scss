@@ -157,7 +157,7 @@ section img {
     }
 
 .box {
-  width: 90%;
+  width: 100vw;
   border: 1px solid #3df28b;
   display: flex;
   flex-wrap: wrap;
@@ -837,10 +837,12 @@ video {
   /*  transition: 4s cubic-bezier(.25,.1,.2,3); */
 }
 
-iframe embed {
+iframe embed video {
   margin: 0px;
   width: 100%;
-  min-height: max-content;
+
+height: auto ;
+
 }
 
 .twoPanelSpread {
