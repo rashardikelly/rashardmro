@@ -11,7 +11,7 @@ author: "RashardKelly @nasa-jpl"
 
 [Android SDK - Low Memory Error - https://support.identity.entrust.com/](https://support.identity.entrust.com/s/article/Android#:~:text=Error%20Handling,'Dont%20keep%20activities'%20option.)
 Error Handling
- to fix this error on Android try   [Developer options](https://developer.android.com/studio/debug/dev-options), scroll all the way down, and uncheck (turn off) the 'Dont keep activities' option. 'Unable to complete previous operation due to low memory' error message on your Android device [Android Developers](https://www.youtube.com/user/androiddevelopers)
+ to fix this error on Android try   [Developer options](https://developer.android.com/studio/debug/dev-options), scroll all the way down, and uncheck (turn off) the 'Dont keep activities' option. 'Unable to complete previous operation due to low memory' error message on your Android device [Android Developers](https://www.youtube.com/user/androiddevelopers) @FEMA
 
 <img alt="image" src="https://github.com/user-attachments/assets/47285529-0013-4ebb-b2b0-f3f08d5a0ba1" />
 
