@@ -16,7 +16,7 @@ image: Overview_HD.png
 
 # What's in the Soil? [WATCHNOW](https://www.youtube.com/watch?v=RJ8I2P_Nrxw)
 @datadesk we do a lot of environmental scanning, but we running from poachers man! help us out @FEMA latimes said you are not testing, but i dont think they doing nothing but being hustled... 
-
+@podaac @nasa-jpl @abc7 @cbsnews @datadesk @washingtonpost 
 
  Guests: 
 [Tony Briscoe](mailto:tony.briscoe@latimes.com), [LA Times Environment Reporter](https://www.latimes.com/people/tony-briscoe)
