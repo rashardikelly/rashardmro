@@ -7,9 +7,7 @@ mermaid: true
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
-# California_Linux: Ecostress annual review cram prep + report
-[Planetary Mission Support List - nssdc.gsfc.nasa.gov/planetary/projects.html](https://nssdc.gsfc.nasa.gov/planetary/projects.html)
-<iframe src="https://archive.org/embed/20250816_20250816_1754_EcoStress_CRAM" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 
   {% for post in site.posts %}
     
@@ -94,7 +92,7 @@ forked from [nasa/ECOSTRESS-Data-Resources](https://github.com/nasa/ECOSTRESS-Da
 
 ![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01592/ids/edr/browse/ncam/NLF_1592_0808272076_784ECM_N0780780NCAM03592_16_095J02_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01592/ids/edr/browse/ncam/NLF_1592_0808272076_784ECM_N0780780NCAM03592_16_095J02_1200.jpg)
 
-
+[LA 92 (Full Documentary)](https://youtu.be/uaotkHlHJwo?t=6301)
 
 Curiosity Raw Images
 Sol 4622: Mars Hand Lens Imager (MAHLI) 
