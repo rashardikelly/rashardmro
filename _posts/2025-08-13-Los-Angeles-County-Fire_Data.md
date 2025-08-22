@@ -6,6 +6,14 @@ title: LA_COUNTY_FiREDATA
 image: shocked-i-know-this.gif
 ---
 
+
+
+### Imagery for the January 2025 Southern California Wildfires
+July 25, 2025 [Link](https://appliedsciences.nasa.gov/our-impact/news/imagery-january-2025-southern-california-wildfires?fbclid=IwY2xjawMUmeBleHRuA2FlbQIxMABicmlkETBTNG5VdjVRVTM5OFYxTDllAR57RhnPcQOExdmpiZQUGIKm2xo71nnMQLrTeLyuhl4CexrFXZXSZ4eJIHp-0g_aem_suduglAdayCjYckgQwYLzg)
+<img alt="image" src="https://github.com/user-attachments/assets/06093647-77d7-4e98-becb-f3038b7eda31" />
+
+<img alt="image" src="https://appliedsciences.nasa.gov/sites/default/files/inline-images/Planet_LAFires_Altadena.png" />
+[planetLabs](https://www.planet.com/industries/nasa/) , [@NASA ViSiBLE_EARTH Query](https://visibleearth.nasa.gov/source/1673/planet-labs)
 # About One-third of Malibu Burned In The Palisades Fire. Where Does It Go From Here?
 @nasa-jpl [Latimes @datadesk](https://github.com/datadesk) made a doc @nasa 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0zsMg7gkC6Y?si=rU9ah5V22lcxwE6W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
