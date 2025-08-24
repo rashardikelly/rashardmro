@@ -1,6 +1,6 @@
-@import "normalize";
+
 @import "fonts";
-/* @import "rouge-base16-dark"; */
+/* @import "rouge-base16-dark";@import "normalize"; */
 @import url("https://fonts.googleapis.com/css2?family=Martian+Mono:wght@100..800&display=swap");
 
 html {
@@ -581,26 +581,20 @@ code {
 
 }
 
-
-
+.highlight, .highlight .w {
+  border: 1px solid dodgerblue;
+  border-radius: 5px;
+  width: 92vw;
+  overflow-x: auto;
+}
 pre {
-
   display:flex;
   width:92vw;
   overflow-x: auto;
   white-space: pre;
   word-wrap: break-word;
-  background: transparent
-    url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
-    center repeat;
-  font: bold 14px/18px "Martian Mono", Arial, "Lucida Sans Unicode", verdana,
-    lucida, sans-serif;
-  color: white;
-  code {
-    margin: 0px;
-    padding: 0px;
-  }
 }
+
 
 kbd {
   background-color: #fafbfc;
