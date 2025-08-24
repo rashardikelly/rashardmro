@@ -593,17 +593,14 @@ pre {
   }
 }
 */
+
 pre {
 
-    display:flex;
+  display:flex;
   width:92vw;
   overflow-x: auto;
   white-space: pre;
   word-wrap: break-word;
-	
-  padding: 8px 15px;
-  border-radius: 5px;
-  border: 1px solid dodgerblue;
   background: transparent
     url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
     center repeat;
