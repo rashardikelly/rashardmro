@@ -8,11 +8,6 @@
   float: left;
   border-bottom: solid 10px #ffffff50;
 }
-*/
-
-.highlight table td { padding: 5px; }
-.highlight table pre { margin: 0; }
-
 .highlight, .highlight .w {
   border: 1px solid dodgerblue;
   border-radius: 5px;
@@ -20,6 +15,12 @@
   overflow-x: auto;
  scrollbar-color: cyan gray;
 }
+*/
+
+.highlight table td { padding: 5px; }
+.highlight table pre { margin: 0; }
+
+
 
 .highlight .err {
   color: #151515;
