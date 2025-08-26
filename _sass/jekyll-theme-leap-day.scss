@@ -45,19 +45,27 @@ body {
   object-fit: contain;
 }
 
+/*
 .highlight, .highlight .w {
   border: 1px solid dodgerblue;
   border-radius: 5px;
   width: 92vw;
   overflow-x: auto;
 }
+*/
+
 
 pre {
-	  border: 1px solid dodgerblue;
+  display: grid;
+  grid-template-columns: auto ;	
+  border: 1px solid dodgerblue;
   border-radius: 5px;
-  display:flex;
-  width:92vw;
+  width:80vw;
+  width: 300px;
+  height: 100px;
+  overflow-y: scroll;
   overflow-x: auto;
+  scrollbar-color: dodgerblue #F2F2F250;
   white-space: pre;
   word-wrap: break-word;
 }
