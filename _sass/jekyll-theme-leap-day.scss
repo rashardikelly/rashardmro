@@ -1,6 +1,6 @@
-@import "normalize";
+
 @import "fonts";
-@import "rouge-base16-dark";
+/* @import "rouge-base16-dark";@import "normalize"; */
 @import url("https://fonts.googleapis.com/css2?family=Martian+Mono:wght@100..800&display=swap");
 
 html {
@@ -44,6 +44,24 @@ body {
   height: 100vh;
   object-fit: contain;
 }
+
+.highlight, .highlight .w {
+  border: 1px solid dodgerblue;
+  border-radius: 5px;
+  width: 92vw;
+  overflow-x: auto;
+}
+
+pre {
+	  border: 1px solid dodgerblue;
+  border-radius: 5px;
+  display:flex;
+  width:92vw;
+  overflow-x: auto;
+  white-space: pre;
+  word-wrap: break-word;
+}
+
 
 .top-container {
   padding: 0px;
@@ -564,6 +582,11 @@ blockquote {
 }
 
 code {
+	  display:flex;
+  width:92vw;
+  overflow-x: auto;
+  white-space: pre;
+  word-wrap: break-word;
   font-family: "Martian Mono", Monaco, Bitstream Vera Sans Mono, Lucida Console,
     Terminal;
   font-size: 13px;
@@ -573,47 +596,10 @@ code {
   padding: 2px 6px;
   background: #33333350;
   border-radius: 2px;
-  width: -moz-fit-content;
-  width: fit-content;
-  word-wrap: break-word;
-	overflow: auto;
-}
-/*
-pre {
-  padding:8px 15px;
-  background: #333333;
-  border-radius: 3px;
-  border:1px solid #c7c7c7;
-  overflow: auto;
-  overflow-y: hidden;
 
-  code {
-    margin: 0px;
-    padding: 0px;
-  }
 }
-*/
-pre {
-  padding: 8px 15px;
-  border-radius: 3px;
-  border: 1px solid #b5e853;
-  overflow: auto;
-  overflow-y: hidden;
-  background: transparent
-    url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
-    center repeat;
-  font: bold 14px/18px "Martian Mono", Arial, "Lucida Sans Unicode", verdana,
-    lucida, sans-serif;
-  color: white;
-  width: -moz-fit-content;
-  width: fit-content;
-	overflow: auto;
-	word-wrap: break-word;
-  code {
-    margin: 0px;
-    padding: 0px;
-  }
-}
+
+
 
 kbd {
   background-color: #fafbfc;
