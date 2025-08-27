@@ -8,9 +8,9 @@ author: "RashardKelly @nasa-jpl"
 ---
 
 
-[MER] @nasa](https://web.archive.org/web/20090404035940/http://www.nasa.gov/mission_pages/mars/images/mer-image_feature_107.html) - [3d](https://web.archive.org/web/20100319062344/http://www.nasa.gov/images/content/54593main_navcam_glyph_cropped-A3R1.jpg)
+[MER @nasa](https://web.archive.org/web/20090404035940/http://www.nasa.gov/mission_pages/mars/images/mer-image_feature_107.html) - [3d](https://web.archive.org/web/20100319062344/http://www.nasa.gov/images/content/54593main_navcam_glyph_cropped-A3R1.jpg)
 
-![PIA04995_](https://photojournal.jpl.nasa.gov/jpegMod/PIA04995_modest.jpg)
+![PIA04995](https://photojournal.jpl.nasa.gov/jpegMod/PIA04995_modest.jpg)
 
 # Front Left Hazcam – Two Year Movie
 [jpl](https://www.jpl.nasa.gov/images/pia25799-front-left-hazcam-two-year-movie/)
