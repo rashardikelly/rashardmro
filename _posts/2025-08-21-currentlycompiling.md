@@ -7,7 +7,7 @@ image: tumblr_9996aa2d413f6668f7f48ccdb4f9fb8a_8780e031_2048.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 
-
+[Jay Electronica The Ghost Of Christopher Wallace WITHOUT ](https://soundcloud.com/josh-calhoun-509969798/jay-electronica-the-ghost-of-christopher-wallace-without-diddy-talking-at-the-end)
 
 ![OPUS](https://opus.pds-rings.seti.org/holdings/previews/COUVIS_0xxx/COUVIS_0001/DATA/D1999_230/FUV1999_230_09_27_full.png)
 
@@ -32,7 +32,7 @@ Error Handling
 
 <img alt="image" src="https://github.com/user-attachments/assets/47285529-0013-4ebb-b2b0-f3f08d5a0ba1" />
 
-[Jay Electronica The Ghost Of Christopher Wallace WITHOUT ](https://soundcloud.com/josh-calhoun-509969798/jay-electronica-the-ghost-of-christopher-wallace-without-diddy-talking-at-the-end)
+
 
 # Galileo Venus Flyby
 Feb. 7, 1990
@@ -45,7 +45,7 @@ There have been 46 space missions to the planet Venus [wiki](https://en.wikipedi
 [Venera Soviet Missions to Venus](https://nssdc.gsfc.nasa.gov/planetary/venera.html)
 
 <img width="55" height="55" src="https://nssdc.gsfc.nasa.gov/logo/nasa_logo.gif" />
-![nasa_logo](https://github.com/user-attachments/assets/90a525c8-a81a-4334-ad15-67a242b271d6)
+
 
 <div class="tupperware">
     
@@ -933,6 +933,7 @@ did i attack him St. Francis Center earlier ? #Undercover ? [https://ia601401.us
 [<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
 ### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) {% include nav.html %}
 
+![nasa_logo](https://github.com/user-attachments/assets/90a525c8-a81a-4334-ad15-67a242b271d6)
 
 # Compiling
 
