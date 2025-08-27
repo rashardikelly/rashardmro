@@ -25,6 +25,19 @@ image: 1965_TIROS9_NOAA_lib.jpeg
 
 ---
 
+
+
+[@NASA STREAM](https://forum.earthdata.nasa.gov/viewtopic.php?t=5601] @podaac ecostress @nasa-pds, im getting amazing detail out of this software 
+
+<img   alt="Screenshot 2025-08-27 4 24 03 PM" src="https://github.com/user-attachments/assets/32151221-b1d8-46e4-9df1-38ab1092d45c" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/d2bf280c-e760-4ec0-bbb9-75c17523a721" />
+<img   alt="Screenshot 2025-08-27 4 13 46 PM" src="https://github.com/user-attachments/assets/498b2005-a67c-4626-92e0-39ed53fd763d" />
+<img  alt="Screenshot 2025-08-27 4 18 52 PM" src="https://github.com/user-attachments/assets/ff7329ea-d7d8-457f-8f80-2d412fb3dcab" />
+<img  alt="Screenshot 2025-08-27 4 22 43 PM" src="https://github.com/user-attachments/assets/56e3c57a-d943-460f-a95e-92e4196d09f2" />
+
+
+
 <img  alt="image" src="https://github.com/user-attachments/assets/6102ff56-635e-4fc6-9afc-f45ac8805955" />
 
 [@Podaac @newshour CHlorophyll/DAMS/Resivoirs/Temp @cbs-news-data](https://worldview.earthdata.nasa.gov/?v=-100.99319951561225,25.488686870457833,-64.35943647999807,43.51936711454919&as=2025-08-15-T00%3A00%3A00Z&ae=2025-08-26-T00%3A00%3A00Z&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,GEDI_ISS_L4B_Aboveground_Biomass_Density_PercentStandardError_201904-202303,GEDI_ISS_L4B_Aboveground_Biomass_Density_StandardError_201904-202303,GEDI_ISS_L4B_Aboveground_Biomass_Density_Mean_201904-202303,MERIS_ENVISAT_Chlorophyll_a,VIIRS_SNPP_L2_Chlorophyll_A,VIIRS_NOAA21_Chlorophyll_a,VIIRS_NOAA20_Chlorophyll_a,S3B_OLCI_Chlorophyll_a,S3A_OLCI_Chlorophyll_a,OCI_PACE_Chlorophyll_a,GRanD_Reservoirs,GRanD_Dams,GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies(hidden),BlueMarble_ShadedRelief&lg=true&tr=el_nino&al=true&av=6.5&ab=on&t=2025-08-15-T00%3A00%3A00Z)
