@@ -6,6 +6,27 @@ image: Aitken_supercomputer_big.jpg
 ---
 
 
+## Committing Changes to the(a) Repository
+A good basic workflow for committing changes to the repository is,
+cite [Ice-sheet and Sea-level System Model `ISSM`:main/README.md](https://github.com/rashardgds/ISSM/blob/main/README.md)
+```bash
+#1. Stash your local changes
+git stash
+
+#2. Update your local branch
+git pull
+
+#3. Merge your local changes
+git stash apply
+
+#4. Add, commit, and push your changes
+git add [file]
+git commit [-m "descriptive commit message"]
+git push
+```
+
+![issm](https://issm.jpl.nasa.gov/layout/issm/images/issm_logo2.png)
+
 catagory post loop - by [Rashard Kelly](https://kellyrashardiman.github.io/) [NASA/JPL](https://rashardgds.github.io/)
 {% raw %}
 
