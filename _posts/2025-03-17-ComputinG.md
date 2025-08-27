@@ -25,7 +25,7 @@ git commit [-m "descriptive commit message"]
 git push
 ```
 
-![issm](https://issm.jpl.nasa.gov/layout/issm/images/issm_logo2.png)
+![issm @blackgirlscode](https://issm.jpl.nasa.gov/layout/issm/images/issm_logo2.png)
 
 catagory post loop - by [Rashard Kelly](https://kellyrashardiman.github.io/) [NASA/JPL](https://rashardgds.github.io/)
 {% raw %}
