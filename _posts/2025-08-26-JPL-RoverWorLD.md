@@ -8,6 +8,10 @@ author: "RashardKelly @nasa-jpl"
 ---
 
 
+# Mars Exploration Rovers: Spirit and Opportunity
+
+[https://pds.mcp.nasa.gov/portal/investigations/urn--nasa--pds--context--investigation--mission---mars----exploration----rover/instruments](https://pds.mcp.nasa.gov/portal/investigations/urn--nasa--pds--context--investigation--mission---mars----exploration----rover/instruments) @cityoflosangeles @stateofcalifornia @blackgirlscode
+[link](https://pds.mcp.nasa.gov/portal/investigations/urn--nasa--pds--context--investigation--mission---mars----exploration----rover/instruments)
 [MER @nasa](https://web.archive.org/web/20090404035940/http://www.nasa.gov/mission_pages/mars/images/mer-image_feature_107.html) - [3d](https://web.archive.org/web/20100319062344/http://www.nasa.gov/images/content/54593main_navcam_glyph_cropped-A3R1.jpg) [Ring-Moon Systems Node](https://pds-rings.seti.org/) [wiki](https://en.wikipedia.org/wiki/Mars_Exploration_Rover)
 
 ![pancam](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Mars_Exploration_Rover.svg/1024px-Mars_Exploration_Rover.svg.png)
