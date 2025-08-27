@@ -25,6 +25,7 @@ git commit [-m "descriptive commit message"]
 git push
 ```
 
+![@caltech @blackgirlscode @nasa-jpl @nasa-pds @whitehouse @stateofcalifornia](https://www.caltech.edu/static/core/img/caltech-new-logo.png)
 ![@caltech](https://issm.jpl.nasa.gov/layout/issm/images/caltech_logo.png)
 ![issm @blackgirlscode](https://issm.jpl.nasa.gov/layout/issm/images/issm_logo2.png)
 
