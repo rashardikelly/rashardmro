@@ -25,6 +25,15 @@ image: 1965_TIROS9_NOAA_lib.jpeg
 
 ---
 
+<img  alt="image" src="https://github.com/user-attachments/assets/6102ff56-635e-4fc6-9afc-f45ac8805955" />
+[@Podaac @newshour CHlorophyll/DAMS/Resivoirs/Temp @cbs-news-data](https://worldview.earthdata.nasa.gov/?v=-100.99319951561225,25.488686870457833,-64.35943647999807,43.51936711454919&as=2025-08-15-T00%3A00%3A00Z&ae=2025-08-26-T00%3A00%3A00Z&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,GEDI_ISS_L4B_Aboveground_Biomass_Density_PercentStandardError_201904-202303,GEDI_ISS_L4B_Aboveground_Biomass_Density_StandardError_201904-202303,GEDI_ISS_L4B_Aboveground_Biomass_Density_Mean_201904-202303,MERIS_ENVISAT_Chlorophyll_a,VIIRS_SNPP_L2_Chlorophyll_A,VIIRS_NOAA21_Chlorophyll_a,VIIRS_NOAA20_Chlorophyll_a,S3B_OLCI_Chlorophyll_a,S3A_OLCI_Chlorophyll_a,OCI_PACE_Chlorophyll_a,GRanD_Reservoirs,GRanD_Dams,GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies(hidden),BlueMarble_ShadedRelief&lg=true&tr=el_nino&al=true&av=6.5&ab=on&t=2025-08-15-T00%3A00%3A00Z)
+[Shorelines @UCLA](https://uclaioes.github.io/shorelines/resources.html)
+![SANTAMONiCA BAY FOUNDATiON](https://cms.santamonicabay.org/wp-content/uploads/2021/08/logo.svg)
+[Stone Canyon Creek!](https://cms.santamonicabay.org/wp-content/uploads/2015/02/Stone-Canyon-Creek-Directions.pdf)
+[@stateofcali9fornia @nasa-pds @nasa-jpl admin panel needs security @atfweb @podaac](https://cms.santamonicabay.org/) 
+
+[Kelp Forest Restoration](https://www.santamonicabay.org/what-we-do/projects/kelp-forest-restoration-project/)
+
 <iframe src="https://archive.org/embed/nasa-worldview-2025-aug-13-to-2025-aug-25" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [FaceBook](https://www.facebook.com/permalink.php?story_fbid=pfbid0wiwQvS5BYQosGGSjF7yK7KNjzsLZ7TLNiisGJq8XtWhoxRqTw97uKgFy6kTcWvfEl&id=100084464911565)
