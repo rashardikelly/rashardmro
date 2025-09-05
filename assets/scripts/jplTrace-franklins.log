@@ -1,0 +1,68 @@
+9.603 ms
+~/.../shared/Documents $ github.com
+github.com: command not found
+~/.../shared/Documents $
+~/.../shared/Documents $ traceroute github.com
+traceroute to github.com (140.82.116.4), 30 hops max, 60 byte packets
+ 1  172.20.0.1 (172.20.0.1)  4.034 ms  4.975 ms  4.354 ms
+ 2  10.0.255.9 (10.0.255.9)  3.734 ms  5.215 ms  4.382 ms
+ 3  12.146.12.9 (12.146.12.9)  3.343 ms  4.259 ms  5.246 ms
+ 4  12.247.206.241 (12.247.206.241)  8.352 ms  6.511 ms  5.394 ms
+ 5  * * *
+ 6  * 32.130.90.123 (32.130.90.123)  19.937 ms *
+ 7  lax-b23-link.ip.twelve99.net (62.115.45.150)  25.527 ms  25.275 ms  23.842 ms
+ 8  sjo-b23-link.ip.twelve99.net (62.115.116.40)  21.282 ms  20.615 ms  19.923 ms
+ 9  sjo-bb1-link.ip.twelve99.net (62.115.139.16)  19.290 ms  19.606 ms  23.822 ms
+10  sea-b1-link.ip.twelve99.net (62.115.132.153)  36.450 ms  39.822 ms  31.566 ms
+11  github-ic-345014.ip.twelve99-cust.net (62.115.175.97)  36.222 ms  32.614 ms github-ic-345013.ip.twelve99-cust.net (62.115.175.95)  35.054 ms
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *^C
+~/.../shared/Documents $ traceroute jpl.nasa.gov
+traceroute to jpl.nasa.gov (54.68.88.92), 30 hops max, 60 byte packets
+ 1  172.20.0.1 (172.20.0.1)  2.719 ms  6.972 ms  6.503 ms
+ 2  10.0.255.9 (10.0.255.9)  7.205 ms  6.884 ms  6.316 ms
+ 3  12.146.12.9 (12.146.12.9)  5.878 ms  5.318 ms  5.214 ms
+ 4  12.247.206.241 (12.247.206.241)  6.335 ms  5.386 ms  5.472 ms
+ 5  32.122.44.24 (32.122.44.24)  4.625 ms 32.122.44.22 (32.122.44.22)  3.599 ms  4.994 ms
+ 6  32.130.27.11 (32.130.27.11)  4.665 ms  4.662 ms 32.130.27.13 (32.130.27.13)  4.729 ms
+ 7  * * *
+ 8  * * *
+ 9  108.166.228.70 (108.166.228.70)  32.024 ms 108.166.228.39 (108.166.228.39)  32.148 ms *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  *^C
+~/.../shared/Documents $ nc -t horizons.jpl.nasa.gov 6775
+��
+
+^C
+~/.../shared/Documents $ trlnet
+No command trlnet found, did you mean:
+ Command telnet in package inetutils
+~/.../shared/Documents $ telnet
+telnet> open
+(to) horizons.jpl.nasa.gov 6775
+Server lookup failure:  horizons.jpl.nssasa.gov:6775, No address associated with hostname
+telnet> open
+(to) horizons.jpl.nasa.gov 6775
+Trying 137.78.251.144...
+Connected to horizons.jpl.nasa.gov.
+Escape character is '^]'.
+Connection closed by foreign host.
+~/.../shared/Documents
