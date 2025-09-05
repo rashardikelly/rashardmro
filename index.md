@@ -7,6 +7,11 @@ mermaid: true
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
+# ELNiNO Nasa Worldview 2025 AUG 13 To 2025 AUG 25
+<iframe src="https://archive.org/embed/nasa-worldview-2025-aug-13-to-2025-aug-25" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<img  alt="Screenshot 2025-09-05 1 14 04 PM" src="https://github.com/user-attachments/assets/f679b865-d782-484f-abb8-85a84a531814" />
+<img  alt="Screenshot 2025-09-05 12 39 22 PM" src="https://github.com/user-attachments/assets/2dfa71ad-c291-4cc5-8d37-6ffd9c7817d5" />
 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/82f7dbb5-7b33-4a22-ae33-c352aa488b7e" />
