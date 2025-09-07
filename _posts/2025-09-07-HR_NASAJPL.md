@@ -2,14 +2,14 @@
 layout: earth
 title:  "Notes for @nasa-jpl HR"
 published: true
-date:   2024-11-18 22:51:06 -0800
+
 tags: earth nsn "Near Space Network" gds 
 image: womeninscience.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 
 @nasa-pds @podaac @cityoflosangeles @stateofcalifornia 
-
+date:   2024-11-18 22:51:06 -0800
 <img alt="image" src="https://github.com/user-attachments/assets/a66514a7-e84e-4593-a821-2bb5870a0ebe" />
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0uPjk75XYiLipGCaYFWp6mPb1NcDtouj9Zk38ajnyBQxbDhtLAWNLfYn7XLyAshgl%26id%3D100084464911565&show_text=true&width=500" width="500" height="781" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
