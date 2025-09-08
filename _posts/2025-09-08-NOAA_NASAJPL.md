@@ -26,6 +26,107 @@ image: 1965_TIROS9_NOAA_lib.jpeg
 ---
 
 
+[DSCOVR: EPIC](https://epic.gsfc.nasa.gov/)
+LAst Update 7/15
+@nasa-jpl @nasa-pds @podaac i went into detail on facebook. @nasa-pds and included @Harvard and Noaa @avanderburg @fbecerra
+There are files after #JULY15 but i did not see anything obviouse about #ImagingData this #gzip is from #July25th  many of the datasources are blank, Since the thing is broaDCASTING Chief Master Sergeant of the Space Force Bill Nelson Congressmember Karen Bass im just trying to get eyes on the issue 
+ ### Start Date End Date Data Type Processing
+Environment  Processing Date Filesize
+ 2025-07-12T00:00:00Z 2025-07-12T23:59:59Z Faraday Cup L1 data OE 2025-07-13T02:20:03Z 0.33 MB
+ 2025-07-12T00:00:00Z 2025-07-12T23:59:59Z Stored Observatory Telemetry OE 2025-07-13T00:00:11Z 34.85 MB
+ 2025-07-12T00:00:00Z 2025-07-12T23:59:59Z Magnetometer L0 data OE 2025-07-13T01:01:00Z 34.50 MB
+ 2025-07-27T00:00:00Z 2025-07-27T23:59:59Z Faraday Cup L1 data OE `2025-07-28T01:02:33Z` 0.00 MB
+ 2025-07-28T00:00:00Z 2025-07-28T23:59:59Z Faraday Cup L1 data OE 2025-07-29T01:02:34Z `0.00` MB
+ 2025-07-28T00:00:00Z 2025-07-28T23:59:59Z Faraday Cup L0 data OE 2025-07-29T01:02:18Z 0.00 MB
+ 2025-07-28T00:00:00Z 2025-07-28T23:59:59Z Magnetometer L0 data OE 2025-07-29T01:01:00Z 0.00 MB
+ 2025-07-28T00:00:00Z 2025-07-28T23:59:59Z Stored Observatory Telemetry OE 2025-07-29T00:00:10Z 0.00 
+ 
+ ```
+      ___    _____     ___                                                      
+    /_ /|  /____/ \  /_ /|       Horizons On-line Ephemeris System v4.98d      
+    | | | |  __ \ /| | | |       Solar System Dynamics Group                   
+ ___| | | | |__) |/  | | |__     Jet Propulsion Laboratory                     
+/___| | | |  ___/    | |/__ /|   Pasadena, CA, USA                             
+|_____|/  |_|/       |_____|/        
+```
+@cityoflosangeles @stateofcalifornia 
+@nasa @whitehouse
+[3](https://www.facebook.com/permalink.php?story_fbid=pfbid0mmmdm6XtYVSqGDGbSKyruR2rYLqeCfweBr2XusTXpNJSHNgZiQ4mgjV5jvM6kK27l&id=100084464911565) [2 - see comments](https://www.facebook.com/permalink.php?story_fbid=pfbid0oFVyGBzyKAFcTZwKbugkPovqCD9udCSNREZ2qACfLHjXQAjXWLzcPFPFbuKJHSS6l&id=100084464911565) [3](https://www.facebook.com/permalink.php?story_fbid=pfbid037qx2RYkMNViZPfcrginUjcUBq9NLPFT5byYEf7Q15MkNEgY1Zp8VNAQfiQEUo6cBl&id=100084464911565)
+
+[@blackgirlscode anime](https://dn720406.ca.archive.org/0/items/fatal-fury-legend-of-the-hungry-wolf-1994-vhs-dub/FatalFury_LegendOfTheHungryWolf_%5B1994%5D.mp4) [fb](https://www.facebook.com/permalink.php?story_fbid=pfbid02CxnRnrf3x7XBN5hk1zYRCr5UsU2KKmxLsuwnQ5KFRUB1G1e2rCvBDNuRX5wuBEsyl&id=100084464911565) [TheMAxx](https://archive.org/details/the-maxx-complete-ytv-run)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/fd8976af-d356-411b-a4fb-2f2d9f15e704" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/cc68c24a-03f6-44a8-acc7-9d9736e4aacd" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b54bfbc6-7d23-4330-aa71-b06e6ee035c2" />
+
+[Raheem The Dream - Toot That Booty Up Original 1st Version - ATL Club Classic](https://youtu.be/4b2IS_JdGS4?t=107)
+
+
+# [epic.gsfc.nasa.gov/*epic_1b_20250715092011.jpg](https://epic.gsfc.nasa.gov/archive/natural/2025/07/15/jpg/epic_1b_20250715092011.jpg) 
+Horizons> DSCOVR
+*******************************************************************************
+ Revised: Sep 03, 2025          DSCOVR Spacecraft  / (Earth)                -78 
+                             http://www.nesdis.noaa.gov/DSCOVR/
+ BACKGROUND:
+  DSCOVR was launched Feb 11, 2015 @ 23:03:02 UTC from Cape Canaveral, Florida, 
+  USA using a Space-X Falcon 9 v1.1
+  DSCOVR was placed in a six-month Lissajous orbit around Sun-Earth Lagrange 
+  Point 1 (L1) on June 8, 2015, about 200 Earth radii upstream of Earth in the
+  direction of the Sun.
+  Main instrument are:
+   (1) Sun-observing Plasma Magnetometer (PlasMag)
+   (2) Earth-observing NIST Advanced Radiometer (NISTAR) 
+   (3) Earth Polychromatic Imaging Camera (EPIC) 
+   (4) Electron Spectrometer (ES)   
+   (5) Pulse Height Analyzer (PHA)
+  Objectives of the DSCOVR 5-year mission:
+   * Observe unperturbed solar wind 15-60 minutes prior to it impacting
+      the Earth's magnetosphere (geomagnetic storm warnings).
+   * Provide early warnings of coronal mass ejections
+   * Observe changes in Earth atmosphere ozone, aerosols, dust, nand cloud
+      height at two hour intervals.
+  DSCOVR (formerly known as Triana) was originally conceived in the late 1990s
+  as a NASA Earth science mission. The mission was canceled and the satellite 
+  was put into storage in 2001. NOAA and the USAF had DSCOVR removed from 
+  storage in 2008 and subsequently funded NASA to test and refurbish the
+  spacecraft and sensors.
+  @NOAA operates #DSCOVR from its Satellite Operations Facility in Suitland, 
+  #Maryland and distributes the data to users and partner agencies. NOAA will 
+  process the space weather data, providing products and forecasts through 
+  the NOAA #SpaceWeather Prediction Center in #BoulderColorado, and archive 
+  the data at the NOAA National Geophysical Data Center in Boulder, Colorado. 
+  NASA is responsible for processing the Earth sensor data.
+ SPACECRAFT PHYSICAL CHARACTERISTICS:
+  Mass      :  570 kg at launch
+ SPACECRAFT TRAJECTORY: 
+EPIC?
+EPIC (Earth Polychromatic Imaging Camera) is a 10-channel spectroradiometer (317 – 780 nm) onboard NOAA’s DSCOVR (Deep Space Climate Observatory) spacecraft. EPIC provides 10 narrow band spectral images of the entire sunlit face of Earth using a 2048x2048 pixel CCD (Charge Coupled Device) detector coupled to a 30-cm aperture Cassegrain telescope (Figure 1).
+<img alt="image" src="https://github.com/user-attachments/assets/677ac0da-7f85-4235-94a7-6f97b2838675" />
+
+U.S. Forest Service - Sierra National Forest @USDAForestService
+@podaac @nasa-pds @nasa-jpl -#[RASHARD](https://archive.org/details/nasa-worldview-2025-aug-13-to-2025-aug-25)
+#GarnetFire 
+Smoke [Outlooks](https://www.facebook.com/SierraNF/posts/pfbid021UAUr4qRfLMWPt1YZ1tebRK3bEsVudbnwatEjfKp4QrNoVkHmjQfcRRtepeGqt4ul) 
+
+<video width="400px" height="auto" controls poster="https://github.com/user-attachments/assets/77752d5e-9e37-4fbe-9856-ae4aec1b8091" > 
+	
+ <source src="https://ia600902.us.archive.org/29/items/20250816_20250816_1754_EcoStress_CRAM/G18_sector_psw_GEOCOLOR_84fr_20250906-1553-ezgif.com-gif-to-mp4-converter.mp4" type="video/mp4">	 
+  <source src="https://ia600902.us.archive.org/29/items/20250816_20250816_1754_EcoStress_CRAM/G18_sector_psw_GEOCOLOR_84fr_20250906-1553-ezgif.com-gif-to-mp4-converter.mp4" type="video/mp4">
+
+</video> 
+
+[@noaa VJ102DNB - VIIRS/JPSS1 Day/Night Band Moderate Resolution 6-Min L1B Swath 750m](https://ladsweb.modaps.eosdis.nasa.gov/missions-and-measurements/products/VJ102DNB/) imported to [@googleearth](https://earth.google.com/web/@45.60697552,-90.76771692,4433.58548918a,11587353.5756886d,30y,303.16120364h,0t,0r/data=CgRCAggBQgIIAEoICJHM754FEAA) via [NasaWorldView_KeyholeMarkeup](https://worldview.earthdata.nasa.gov/?v=-229.26900829080392,-84.93081573071159,95.84926740923699,75.08833559040231&z=4&ics=true&ici=5&icd=60&l=AERONET_ANGSTROM_440-870NM,AERONET_AOD_500NM,GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(hidden),VIIRS_NOAA21_DayNightBand(hidden),VIIRS_NOAA20_DayNightBand(hidden),OMI_Aerosol_Index(hidden),BlueMarble_ShadedRelief(hidden)&lg=true&t=2025-09-02-T23%3A07%3A30Z) ~_[KMZ_EXPORT @blackgirlscode](https://github.com/kellyrashardiman/kellyrashardiman.github.io/blob/master/assets/scripts/snapshot-2023-10-22T00_00_00Z.kmz)
+<img  alt="image" src="https://github.com/user-attachments/assets/cffdb822-2d36-4040-8e0a-0abc89406dd5" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/ec14a445-6362-4e09-b5a4-a00211150683" />
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/37b3e896-5228-40ca-82c2-79215cdf43e0" />
+
+![leadership @stateofcalifornia @nasa-jpl](https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/5/de/5de8d4a6-8258-11ee-a9d8-7f5b5d3a916f/6552751ac0ec3.image.jpg?resize=990%2C660) 
+LA mayor celebrates moving 8,866 homeless into permanent free housing in 2024 [Read https://www.thecentersquare.com/](https://www.thecentersquare.com/california/article_2772a650-b695-11ef-92b8-cb84d1295234.html) [‘There’s just a pile-on’: How Karen Bass lost control of the wildfire narrative - politico.com/](https://www.politico.com/news/2025/01/14/karen-bass-california-wildfires-00198180)
 
 [@NASA STREAM](https://forum.earthdata.nasa.gov/viewtopic.php?t=5601] @podaac ecostress @nasa-pds, im getting amazing detail out of this software 
 
