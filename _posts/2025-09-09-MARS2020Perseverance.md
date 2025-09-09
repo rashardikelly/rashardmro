@@ -21,7 +21,7 @@ Perseverance rover captured this view of Deimos, the smaller of Mars' two moons 
 NASA/JPL-Caltech
 [FULLRES-JPG](https://photojournal.jpl.nasa.gov/jpeg/PIA26556.jpg) [tif](https://photojournal.jpl.nasa.gov/tiff/PIA26556.tif)
 
-![*](https://photojournal.jpl.nasa.gov/figures/PIA26556_figA.jpg)
+![8ppp](https://photojournal.jpl.nasa.gov/figures/PIA26556_figA.jpg)
 
 ![mars2020](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01433/ids/edr/browse/ncam/NLF_1433_0794157157_101ECM_N0692000NCAM00501_01_295J01_800.jpg) 
 
