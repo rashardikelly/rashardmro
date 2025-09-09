@@ -11,6 +11,12 @@ author: "RashardKelly @nasa-jpl"
 # NEWS
 [NASA to Share Details of New Perseverance Mars Rover Finding - nasa.gov](https://www.nasa.gov/news-release/nasa-to-share-details-of-new-perseverance-mars-rover-finding/) [NASA’s Perseverance Mars Rover Spots Bizarre Helmet-Shaped Rock and Mysterious Megaripples](https://scitechdaily.com/nasas-perseverance-mars-rover-spots-bizarre-helmet-shaped-rock-and-mysterious-megaripples/) [Sampling Mars: Geologic Context and Preliminary Characterization of Samples Collected by the NASA Mars 2020 Perseverance Rover Mission](https://astrobiology.com/2025/01/sampling-mars-geologic-context-and-preliminary-characterization-of-samples-collected-by-the-nasa-mars-2020-perseverance-rover-mission.html) [Mars 2020 and ExoMars](https://www.dlr.de/en/wr/research-transfer/projects/planetary-research/mars-2020-and-exomars)
 
+What rashard has been up to @nasa @nasa-jpl @cityoflosangeles
+Compiling . . . 
+ [Rashard WildFire Data from aviris](https://rashardgds.github.io/2025/08/13/FireReportCleanUp.html) && [ECOSTRESS:Monitoring plants from space](https://rashardgds.github.io/2025/09/03/ECOSTRESSMonitoringplantsfromspace.html)
+
+
+<iframe src="https://archive.org/embed/n-02-e-016.-srtmgl-1.2" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ## Library Suppression in Hollywood 
 [.mp4 @cityoflosangeles @stateofcalifornia @nasa @whitehouse @nasa-pds @nasa--jpl](https://archive.org/download/vid-20250225-101844/VID_20250225_101844.mp4)
@@ -19,6 +25,8 @@ author: "RashardKelly @nasa-jpl"
 
 i got better with the cart, my wife is sold for sex in that area and i had recently been robbed and trying to organize my research
 <iframe src="https://archive.org/embed/vid-20250909-095302" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
 
 
  [Mars Relay Network](https://eyes.nasa.gov/apps/mrn/#/mars) i have not looked at i got swamped learning [FirMS](https://www.youtube.com/watch?v=xfSlkvQb7To) i found a @twitter account for a Mars Relay Network feed but it said its dead from APi Changes... if im not online, can someone let me in since its Veterans day? [![Twitter Follow](https://img.shields.io/badge/Social-@mrn_status__-blue?style=social&logo=X)](https://twitter.com/@russss) [![Twitter Follow](https://img.shields.io/badge/Social-@mrn_status__-blue?style=social&logo=X)](https://twitter.com/@russss)
