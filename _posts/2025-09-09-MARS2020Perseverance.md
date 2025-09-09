@@ -11,6 +11,11 @@ author: "RashardKelly @nasa-jpl"
 # NEWS
 [NASA to Share Details of New Perseverance Mars Rover Finding - nasa.gov](https://www.nasa.gov/news-release/nasa-to-share-details-of-new-perseverance-mars-rover-finding/) [NASA’s Perseverance Mars Rover Spots Bizarre Helmet-Shaped Rock and Mysterious Megaripples](https://scitechdaily.com/nasas-perseverance-mars-rover-spots-bizarre-helmet-shaped-rock-and-mysterious-megaripples/) [Sampling Mars: Geologic Context and Preliminary Characterization of Samples Collected by the NASA Mars 2020 Perseverance Rover Mission](https://astrobiology.com/2025/01/sampling-mars-geologic-context-and-preliminary-characterization-of-samples-collected-by-the-nasa-mars-2020-perseverance-rover-mission.html) [Mars 2020 and ExoMars](https://www.dlr.de/en/wr/research-transfer/projects/planetary-research/mars-2020-and-exomars)
 
+
+## Library Suppression in Hollywood 
+[.mp4 @cityoflosangeles @stateofcalifornia @nasa @whitehouse @nasa-pds @nasa--jpl](https://archive.org/download/vid-20250225-101844/VID_20250225_101844.mp4)
+<iframe src="https://archive.org/embed/vid-20250225-101844" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
  [Mars Relay Network](https://eyes.nasa.gov/apps/mrn/#/mars) i have not looked at i got swamped learning [FirMS](https://www.youtube.com/watch?v=xfSlkvQb7To) i found a @twitter account for a Mars Relay Network feed but it said its dead from APi Changes... if im not online, can someone let me in since its Veterans day? [![Twitter Follow](https://img.shields.io/badge/Social-@mrn_status__-blue?style=social&logo=X)](https://twitter.com/@russss) [![Twitter Follow](https://img.shields.io/badge/Social-@mrn_status__-blue?style=social&logo=X)](https://twitter.com/@russss)
 
 ```
@@ -38,6 +43,15 @@ NASA/JPL-Caltech [Monika Luabeya](https://www.nasa.gov/image-article/deimos-befo
 [FULLRES-JPG](https://photojournal.jpl.nasa.gov/jpeg/PIA26556.jpg) [tif](https://photojournal.jpl.nasa.gov/tiff/PIA26556.tif)
 
 ![8ppp](https://photojournal.jpl.nasa.gov/figures/PIA26556_figA.jpg)
+
+
+
+## Deimos Eclipse
+Deimos is the smaller of Mars' two moons. It's 9 by 7 by 6.8 miles in size (15 by 12 by 11 kilometers). Deimos orbits Mars every 30 hours.Deimos was discovered on Aug. 11, 1877 by Asaph Hall. Hall named Mars' moons for the mythological sons of Ares, the Greek counterpart of the Roman god, Mars. Deimos, whose name means dread, is the brother of Phobos. 
+[<video controls poster="https://science.nasa.gov/wp-content/uploads/2024/03/22393_PIA23134-16.gif" src="https://photojournal.jpl.nasa.gov/archive/PIA26249.mp4" alt="pollution Los Angeles" />](https://photojournal.jpl.nasa.gov/archive/PIA26249.mp4) 
+```markdown
+[<video controls poster="https://science.nasa.gov/wp-content/uploads/2024/03/22393_PIA23134-16.gif" src="https://photojournal.jpl.nasa.gov/archive/PIA26249.mp4" alt="pollution Los Angeles" />](https://photojournal.jpl.nasa.gov/archive/PIA26249.mp4)
+```
 
 ![mars2020](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01433/ids/edr/browse/ncam/NLF_1433_0794157157_101ECM_N0692000NCAM00501_01_295J01_800.jpg) 
 
@@ -240,6 +254,12 @@ The [first spacecraft](https://www.whitehouse.gov/) to successfully land [on](ht
 </video>
 
 ```
+
+## Mars Albedo
+NASA ID: PIA02816
+[<img src="https://images-assets.nasa.gov/image/PIA02816/PIA02816~medium.jpg" alt="waymo" />](https://images-assets.nasa.gov/image/PIA02816/PIA02816~medium.jpg) 
+
+
 
 # Library Scare [RelatedTweet](https://x.com/thakasartu/status/1857546216739057809)
 [<img src="https://pbs.twimg.com/media/GcdUMpjaMAEtFwc?format=jpg&name=large" alt="You are not allowed at this location @nasa-jpl @deptofdefense @blackgirlscode thats what it said when i loggedin" />](https://pbs.twimg.com/media/GcdUMpjaMAEtFwc?format=jpg&name=large)
