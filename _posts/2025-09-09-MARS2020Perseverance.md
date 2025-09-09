@@ -11,10 +11,18 @@ author: "RashardKelly @nasa-jpl"
 # NEWS
 [NASA to Share Details of New Perseverance Mars Rover Finding - nasa.gov](https://www.nasa.gov/news-release/nasa-to-share-details-of-new-perseverance-mars-rover-finding/) [NASA’s Perseverance Mars Rover Spots Bizarre Helmet-Shaped Rock and Mysterious Megaripples](https://scitechdaily.com/nasas-perseverance-mars-rover-spots-bizarre-helmet-shaped-rock-and-mysterious-megaripples/) [Sampling Mars: Geologic Context and Preliminary Characterization of Samples Collected by the NASA Mars 2020 Perseverance Rover Mission](https://astrobiology.com/2025/01/sampling-mars-geologic-context-and-preliminary-characterization-of-samples-collected-by-the-nasa-mars-2020-perseverance-rover-mission.html) [Mars 2020 and ExoMars](https://www.dlr.de/en/wr/research-transfer/projects/planetary-research/mars-2020-and-exomars)
 
+NAsa Photojournal Has a favorites feature
+[Link](https://photojournal.jpl.nasa.gov/favorites/PIA26556) 
+
 
  ## Perseverance Views Deimos Before Sunrise
-Perseverance rover captured this view of Deimos, the smaller of Mars' two moons [@nasa-jpl](https://www.jpl.nasa.gov/images/pia26556-perseverance-views-deimos-before-sunrise/)
- 
+Perseverance rover captured this view of Deimos, the smaller of Mars' two moons  shining in the sky at 4:27 a.m. local time on March 1, 2025, the 1,433rd Martian day, or sol, of the mission [READMORE @nasa-jpl](https://www.jpl.nasa.gov/images/pia26556-perseverance-views-deimos-before-sunrise/)
+ Image Credit:
+NASA/JPL-Caltech
+[FULLRES-JPG](https://photojournal.jpl.nasa.gov/jpeg/PIA26556.jpg) [tif](https://photojournal.jpl.nasa.gov/tiff/PIA26556.tif)
+
+![*](https://photojournal.jpl.nasa.gov/figures/PIA26556_figA.jpg)
+
 ![mars2020](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01433/ids/edr/browse/ncam/NLF_1433_0794157157_101ECM_N0692000NCAM00501_01_295J01_800.jpg) 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-StZggK4hhA?si=0F-e2yrdWl4NqDET" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
