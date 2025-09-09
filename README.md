@@ -1,5 +1,7 @@
 # Rashard Kelly NasaJpl MRO JUNO iSS
-[Satellite Data Explorer](https://csdap.earthdata.nasa.gov/)
+[Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) 
+
+![mars2020](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/rashardmro.git/HEAD)
 ![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)
 ![Gem Version](https://img.shields.io/gem/v/jekyll.svg)
