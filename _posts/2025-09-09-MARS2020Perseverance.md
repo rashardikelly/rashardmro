@@ -7,11 +7,43 @@ image: PIA26339.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 
-<style>
-  .ic {
-  filter: contrast(200%); }
-</style>  
-<img class="ic" src="https://mars.nasa.gov/msl-raw-images/msss/04343/mcam/4343ML1066220121007579C00_DXXX.jpg" />
+
+
+
+# Mars Reconnaissance Orbiter 
+>Jim Taylor, Dennis K. Lee, and Shervin Shambayati 
+## 6.1 Mission Overview [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Mars_Reconnaissance_Orbiter_insignia.png" alt="Thanks for SPaceforce Donald, Thanks for Protecting Oaklands girls like Erika so she still have her oakland grandchild re: constancia, bernadette" />](https://upload.wikimedia.org/wikipedia/commons/6/6b/Mars_Reconnaissance_Orbiter_insignia.png) 
+The Mars Reconnaissance Orbiter (MRO) [1, 2] has a suite of instruments
+making observations at Mars, and it provides data-relay services for Mars
+landers and rovers. MRO was launched on August 12, 2005. The orbiter
+successfully went into orbit around Mars on March 10, 2006 and began
+reducing its orbit altitude and circularizing the orbit in preparation for the
+science mission. The orbit changing was accomplished through a process called aerobraking, in preparation for the “science mission” starting in November
+2006, followed by the “relay mission” starting in November 2008. MRO
+participated in the Mars Science Laboratory touchdown and surface mission
+that began in August 2012 (Chapter 7). [ReadMore - PDF](https://descanso.jpl.nasa.gov/monograph/series13/DeepCommo_Chapter6--141029.pdf) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ActiveMission - DoD](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
+
+
+
+## About the United States Space Force
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Logo_of_the_United_States_Space_Force.png/188px-Logo_of_the_United_States_Space_Force.png" alt="Thanks for SPaceforce Donald, Thanks for Protecting Oaklands girls like Erika so she still have her oakland grandchild re: constancia, bernadette United States Space Force" />](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Logo_of_the_United_States_Space_Force.png/188px-Logo_of_the_United_States_Space_Force.png) [The U.S. Space Force](https://www.spaceforce.mil/About-Us/) was established on Dec. 20, 2019, creating the first new branch of the armed services since 1947. The establishment of the USSF resulted from widespread recognition that space is a national security imperative. When combined with the growing threat posed by strategic competitors in space, it became clear that there was a need for a military service focused solely on pursuing superiority in the space domain. [US SPACE Force 101 - PDF](https://www.spaceforce.mil/Portals/2/Documents/SF101/ussf_101_glossy_FINAL_e-version.pdf)
+
+<video controls preload="none" 
+  src="https://d34w7g4gy10iej.cloudfront.net/video/2406/DOD_110409447/DOD_110409447-1024x576-2000k.mp4"
+  poster="https://media.defense.gov/2024/Jul/17/2003504898/2000/2000/0/240716-D-AF999-2001.PNG">
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://d34w7g4gy10iej.cloudfront.net/video/2406/DOD_110409447/DOD_110409447-1024x576-2000k.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+![![SPACE FORCE 101](https://www.spaceforce.mil/portals/2/Documents/SF101/ussf_101.png)](https://www.spaceforce.mil/portals/2/Documents/SF101/ussf_101.png)
+
+### Mars MissionObjectives [MArs Reconnocinse Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT)
+[WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
+[1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf)  [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf) [PDS Cartography and Imaging Sciences Node - WebTool](https://pds-imaging.jpl.nasa.gov/beta/search) [Computer Ethics 4th ed. Deborah G. Johnson](https://github.com/ricoThaka/ricothaka.github.io/blob/pixelsquare/assets/pdf/computer-ethics-4e_compress.pdf)
+
+ 
 
 
 # NEWS
@@ -93,6 +125,18 @@ that began in August 2012 (Chapter 7). [ReadMore - PDF](https://descanso.jpl.nas
 
 ![PHOBOS](https://science.nasa.gov/wp-content/uploads/2017/11/pia10368-stickney-crater-1362x1863-1.jpg)
 
+# Phobos  Eclipse 
+<video controls preload="none"   width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/1308.gif?w=768&format=webp">
+
+  <source src="https://photojournal.jpl.nasa.gov/archive/PIA26248.mp4" type="video/mp4" />
+
+  <source src="https://photojournal.jpl.nasa.gov/archive/PIA26248.mp4" type="video/mp4" />
+
+  Download the
+  or
+  <a href="https://photojournal.jpl.nasa.gov/archive/PIA26248.mp4">MP4</a>
+  video.
+</video>
 
 {% include marsinventory.md %}
 
@@ -158,6 +202,14 @@ The [first spacecraft](https://www.whitehouse.gov/) to successfully land [on](ht
 [ParkErSpaceProbe](https://eyes.nasa.gov/apps/solar-system/#/sc_parker_solar_probe?rate=1&time=2024-12-24T11:27:38.887+00:00)
 
 
+
+# Martian polar ice caps
+
+<picture>
+  <source srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Martian_north_polar_cap.jpg/1024px-Martian_north_polar_cap.jpg" media="(orientation: portrait)" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Martian_north_polar_cap.jpg/1024px-Martian_north_polar_cap.jpg" alt="" />
+</picture>
+
 ```html
 
 <video controls poster="https://assets.science.nasa.gov/content/dam/science/psd/mars/resources/detail_files/2/7/27318_FRH-Two-Year-Movie.gif?w=640&h=480&fit=clip&crop=faces%2Cfocalpoint" >
@@ -172,6 +224,16 @@ The [first spacecraft](https://www.whitehouse.gov/) to successfully land [on](ht
 </video>
 
 ```
+
+# Library Scare [RelatedTweet](https://x.com/thakasartu/status/1857546216739057809)
+[<img src="https://pbs.twimg.com/media/GcdUMpjaMAEtFwc?format=jpg&name=large" alt="You are not allowed at this location @nasa-jpl @deptofdefense @blackgirlscode thats what it said when i loggedin" />](https://pbs.twimg.com/media/GcdUMpjaMAEtFwc?format=jpg&name=large)
+![mariner](https://pbs.twimg.com/media/GZtlCP8aAAEMA_-?format=jpg&name=large)
+[COMPUTiNG:Highlighting liquid code in Jekyll = nithinbekal.com](https://nithinbekal.com/posts/jekyll-liquid-highlight/)
+
+
+[<img src="https://static.wikia.nocookie.net/logopedia/images/8/82/Apple_IIe.png" alt="Apple IIe" />](https://static.wikia.nocookie.net/logopedia/images/8/82/Apple_IIe.png)
+
+
 
 # Mars Exploration Rovers: Spirit and Opportunity
 
