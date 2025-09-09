@@ -8,14 +8,31 @@ author: "RashardKelly @nasa-jpl"
 ---
 
 
-# Mars Exploration Rovers: Spirit and Opportunity
+# NEWS
+
+# Pics & Vids 
+
+# PIA26339: Checking the Cover on Perseverance's SHERLOC
+[jpl](https://www.jpl.nasa.gov/images/pia25799-front-left-hazcam-two-year-movie/)
+[Link @nasa](https://science.nasa.gov/resource/front-left-hazcam-two-year-movie/)
+
+<video controls poster="https://assets.science.nasa.gov/content/dam/science/psd/mars/resources/detail_files/2/7/27318_FRH-Two-Year-Movie.gif?w=640&h=480&fit=clip&crop=faces%2Cfocalpoint" >
+  <source src="https://photojournal.jpl.nasa.gov/archive/PIA26339.mp4" type="video/mp4">
+
+  
+  Download the
+  <a href="https://photojournal.jpl.nasa.gov/archive/PIA26339.mp4">WEBM</a>
+  or
+  <a href="">MP4</a>
+  video.
+</video>
 
 
 # Front Left Hazcam – Two Year Movie
 [jpl](https://www.jpl.nasa.gov/images/pia25799-front-left-hazcam-two-year-movie/)
 [Link @nasa](https://science.nasa.gov/resource/front-left-hazcam-two-year-movie/)
 
-<video controls poster="https://assets.science.nasa.gov/content/dam/science/psd/mars/resources/detail_files/2/7/27318_FRH-Two-Year-Movie.gif?w=640&h=480&fit=clip&crop=faces%2Cfocalpoint" >
+<video controls poster="https://photojournal.jpl.nasa.gov/jpeg/PIA26339.jpg" >
   <source src="https://photojournal.jpl.nasa.gov/archive/PIA25799.mp4" type="video/mp4">
   <source src="https://upload.wikimedia.org/wikipedia/commons/7/78/Front_Left_Hazcam_%E2%80%93_Two_Year_Movie_%28PIA25799%29.webm" type="video/webm" />
   
@@ -26,6 +43,11 @@ author: "RashardKelly @nasa-jpl"
   video.
 </video>
 
+
+# Data
+
+
+# TOOLS 
 ```html
 
 <video controls poster="https://assets.science.nasa.gov/content/dam/science/psd/mars/resources/detail_files/2/7/27318_FRH-Two-Year-Movie.gif?w=640&h=480&fit=clip&crop=faces%2Cfocalpoint" >
@@ -40,6 +62,9 @@ author: "RashardKelly @nasa-jpl"
 </video>
 
 ```
+
+# Mars Exploration Rovers: Spirit and Opportunity
+
 
 [https://science.nasa.gov/resource/front-left-hazcam-two-year-movie/]()
 Sourjenr
