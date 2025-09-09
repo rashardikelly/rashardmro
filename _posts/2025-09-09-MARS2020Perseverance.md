@@ -16,6 +16,11 @@ author: "RashardKelly @nasa-jpl"
 [.mp4 @cityoflosangeles @stateofcalifornia @nasa @whitehouse @nasa-pds @nasa--jpl](https://archive.org/download/vid-20250225-101844/VID_20250225_101844.mp4)
 <iframe src="https://archive.org/embed/vid-20250225-101844" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+
+i got better with the cart, my wife is sold for sex in that area and i had recently been robbed and trying to organize my research
+<iframe src="https://archive.org/embed/vid-20250909-095302" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
  [Mars Relay Network](https://eyes.nasa.gov/apps/mrn/#/mars) i have not looked at i got swamped learning [FirMS](https://www.youtube.com/watch?v=xfSlkvQb7To) i found a @twitter account for a Mars Relay Network feed but it said its dead from APi Changes... if im not online, can someone let me in since its Veterans day? [![Twitter Follow](https://img.shields.io/badge/Social-@mrn_status__-blue?style=social&logo=X)](https://twitter.com/@russss) [![Twitter Follow](https://img.shields.io/badge/Social-@mrn_status__-blue?style=social&logo=X)](https://twitter.com/@russss)
 
 ```
