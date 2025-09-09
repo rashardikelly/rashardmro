@@ -3,21 +3,13 @@ layout: post
 title:  Perseverance[ROVER]
 published: true
 tags: mars dsn "Deep Space Network" robotics 6wheels rover
-image: ESP_062216_2660_RGB.NOMAP.browse.jpg
+image: PIA26339.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 
 
 # Mars Exploration Rovers: Spirit and Opportunity
 
-[https://pds.mcp.nasa.gov/portal/investigations/urn--nasa--pds--context--investigation--mission---mars----exploration----rover/instruments](https://pds.mcp.nasa.gov/portal/investigations/urn--nasa--pds--context--investigation--mission---mars----exploration----rover/instruments) @cityoflosangeles @stateofcalifornia @blackgirlscode
-[link](https://pds.mcp.nasa.gov/portal/investigations/urn--nasa--pds--context--investigation--mission---mars----exploration----rover/instruments)
-[MER @nasa](https://web.archive.org/web/20090404035940/http://www.nasa.gov/mission_pages/mars/images/mer-image_feature_107.html) - [3d](https://web.archive.org/web/20100319062344/http://www.nasa.gov/images/content/54593main_navcam_glyph_cropped-A3R1.jpg) [Ring-Moon Systems Node](https://pds-rings.seti.org/) [wiki](https://en.wikipedia.org/wiki/Mars_Exploration_Rover)
-
-![pancam](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Mars_Exploration_Rover.svg/1024px-Mars_Exploration_Rover.svg.png)
-
-![mer](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PIA17759-MarsOpportunityRover-SelfPortrait-20140106.jpg/1280px-PIA17759-MarsOpportunityRover-SelfPortrait-20140106.jpg)
-[PIA04995](https://photojournal.jpl.nasa.gov/jpegMod/PIA04995_modest.jpg)
 
 # Front Left Hazcam – Two Year Movie
 [jpl](https://www.jpl.nasa.gov/images/pia25799-front-left-hazcam-two-year-movie/)
@@ -158,3 +150,13 @@ i will sort later [nagin](https://science.nasa.gov/people/nagin-cox/) @nasa-jpl
 
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/995809918&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/deltron-3030" title="Deltron 3030" target="_blank" style="color: #cccccc; text-decoration: none;">Deltron 3030</a> · <a href="https://soundcloud.com/deltron-3030/upgrade-a-baymar-college" title="Upgrade (A Baymar College College) [feat. Del The Funky Homosapien, Dan The Automator &amp; Kid Koala]" target="_blank" style="color: #cccccc; text-decoration: none;">Upgrade (A Baymar College College) [feat. Del The Funky Homosapien, Dan The Automator &amp; Kid Koala]</a></div>
+
+[https://pds.mcp.nasa.gov/portal/investigations/urn--nasa--pds--context--investigation--mission---mars----exploration----rover/instruments](https://pds.mcp.nasa.gov/portal/investigations/urn--nasa--pds--context--investigation--mission---mars----exploration----rover/instruments) @cityoflosangeles @stateofcalifornia @blackgirlscode
+[link](https://pds.mcp.nasa.gov/portal/investigations/urn--nasa--pds--context--investigation--mission---mars----exploration----rover/instruments)
+[MER @nasa](https://web.archive.org/web/20090404035940/http://www.nasa.gov/mission_pages/mars/images/mer-image_feature_107.html) - [3d](https://web.archive.org/web/20100319062344/http://www.nasa.gov/images/content/54593main_navcam_glyph_cropped-A3R1.jpg) [Ring-Moon Systems Node](https://pds-rings.seti.org/) [wiki](https://en.wikipedia.org/wiki/Mars_Exploration_Rover)
+
+![pancam](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Mars_Exploration_Rover.svg/1024px-Mars_Exploration_Rover.svg.png)
+
+![mer](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PIA17759-MarsOpportunityRover-SelfPortrait-20140106.jpg/1280px-PIA17759-MarsOpportunityRover-SelfPortrait-20140106.jpg)
+[PIA04995](https://photojournal.jpl.nasa.gov/jpegMod/PIA04995_modest.jpg)
+
