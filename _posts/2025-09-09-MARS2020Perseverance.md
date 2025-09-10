@@ -25,6 +25,8 @@ NASA's Mars Exploration Program includes current missions Odyssey, MRO, Mars Exp
 [PERSEVERANCE RAW IMAGES](https://mars.nasa.gov/mars2020/multimedia/raw-images/)
 [NASA to Share Details of New Perseverance Mars Rover Finding - nasa.gov](https://www.nasa.gov/news-release/nasa-to-share-details-of-new-perseverance-mars-rover-finding/) [NASA’s Perseverance Mars Rover Spots Bizarre Helmet-Shaped Rock and Mysterious Megaripples](https://scitechdaily.com/nasas-perseverance-mars-rover-spots-bizarre-helmet-shaped-rock-and-mysterious-megaripples/) [Sampling Mars: Geologic Context and Preliminary Characterization of Samples Collected by the NASA Mars 2020 Perseverance Rover Mission](https://astrobiology.com/2025/01/sampling-mars-geologic-context-and-preliminary-characterization-of-samples-collected-by-the-nasa-mars-2020-perseverance-rover-mission.html) [Mars 2020 and ExoMars](https://www.dlr.de/en/wr/research-transfer/projects/planetary-research/mars-2020-and-exomars) [Perseverance Rover’s Descent and Touchdown on Mars](https://www.youtube.com/watch?v=4czjS9h4Fpg)
 
+[_@Tesla Diner Revolts_](https://thakarashard.github.io/rashardmro/2025/09/07/tesla.html)
+
 ![mars2020](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 [image atlas @nasa-pds](https://pds-imaging.jpl.nasa.gov/search/?fq=-ATLAS_THUMBNAIL_URL%3Abrwsnotavail.jpg&q=*%3A*) + [BETA](https://pds-imaging.jpl.nasa.gov/beta/search) + [PDS_BUNDLES](https://pds-imaging.jpl.nasa.gov/volumes/) [Mars Reconnaissance Orbiter Online Data Volumes](https://pds-imaging.jpl.nasa.gov/volumes/mro.html)
  
@@ -48,6 +50,15 @@ Compiling . . .
 
 <iframe src="https://archive.org/embed/n-02-e-016.-srtmgl-1.2" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+<img   alt="image" src="https://github.com/user-attachments/assets/2a2ba694-d66c-4f86-a866-770ce8a1c70e" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/42714e05-1259-43d0-9c4b-706712cbc972" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/342221c6-ca46-4310-808c-4a536647bfd5" />
+<img  alt="image" src="https://github.com/user-attachments/assets/34d39e8b-7c91-4ab6-991f-fab6ca851764" />
+
+[Mars Reconnaissance Orbiter Online Data Volumes](https://pds-imaging.jpl.nasa.gov/volumes/mro/release74.html?fbclid=IwY2xjawMtw-VleHRuA2FlbQIxMABicmlkETBWTmhuRlRsbHpxeERUdndrAR4q23qRijdODYOfnJ4ds1ORx7RU7wPAMrjyq2SCou3G1KKTU2febTUdBYzwKg_aem_-ZIH5n63FtjS1i_7_cmOaw) 
 
 # NASA’s Europa Clipper Spacecraft Separates From Falcon Heavy Second Stage
 <video controls preload="none" 
@@ -209,6 +220,7 @@ NASA's Mars rover Curiosity acquired this image using its Mars Hand Lens Imager 
 NAsa Photojournal Has a favorites feature
 [Link](https://photojournal.jpl.nasa.gov/favorites/PIA26556) 
 
+![@google](https://www.google.com/logos/doodles/2025/learning-the-quadratic-equation-6753651837110877.2-law.gif) 
 
 # Right Navigation Camera (Navcam) : Mars Perseverance Sol 1344 : 
 NASA's Mars Perseverance rover acquired this image using its onboard Right Navigation Camera (Navcam). The camera is located high on the rover's mast and aids in driving.
@@ -531,3 +543,5 @@ i will sort later [nagin](https://science.nasa.gov/people/nagin-cox/) @nasa-jpl
 ![mer](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PIA17759-MarsOpportunityRover-SelfPortrait-20140106.jpg/1280px-PIA17759-MarsOpportunityRover-SelfPortrait-20140106.jpg)
 [PIA04995](https://photojournal.jpl.nasa.gov/jpegMod/PIA04995_modest.jpg)
 
+<img src="https://github.com/user-attachments/assets/bd789bc6-b760-48a3-8270-65828b1ebda8" alt="image"/>
+<img  alt="image" src="https://github.com/user-attachments/assets/897eb813-cd67-440d-aacb-19f4fde7d23f" />
