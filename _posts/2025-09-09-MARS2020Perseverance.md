@@ -9,7 +9,22 @@ author: "RashardKelly @nasa-jpl"
 
 
 # NEWS
-[NASA to Share Details of New Perseverance Mars Rover Finding - nasa.gov](https://www.nasa.gov/news-release/nasa-to-share-details-of-new-perseverance-mars-rover-finding/) [NASA’s Perseverance Mars Rover Spots Bizarre Helmet-Shaped Rock and Mysterious Megaripples](https://scitechdaily.com/nasas-perseverance-mars-rover-spots-bizarre-helmet-shaped-rock-and-mysterious-megaripples/) [Sampling Mars: Geologic Context and Preliminary Characterization of Samples Collected by the NASA Mars 2020 Perseverance Rover Mission](https://astrobiology.com/2025/01/sampling-mars-geologic-context-and-preliminary-characterization-of-samples-collected-by-the-nasa-mars-2020-perseverance-rover-mission.html) [Mars 2020 and ExoMars](https://www.dlr.de/en/wr/research-transfer/projects/planetary-research/mars-2020-and-exomars)
+
+<iframe width="650" height="315" src="https://www.youtube.com/embed/-StZggK4hhA?si=0F-e2yrdWl4NqDET" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Perseverance Rover Updates](https://science.nasa.gov/mission/mars-2020-perseverance/science-updates/)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/7bcd9fd7-3a80-4209-94a6-0a68ba68df43" />
+
+
+[PERSEVERANCE RAW IMAGES](https://mars.nasa.gov/mars2020/multimedia/raw-images/)
+[NASA to Share Details of New Perseverance Mars Rover Finding - nasa.gov](https://www.nasa.gov/news-release/nasa-to-share-details-of-new-perseverance-mars-rover-finding/) [NASA’s Perseverance Mars Rover Spots Bizarre Helmet-Shaped Rock and Mysterious Megaripples](https://scitechdaily.com/nasas-perseverance-mars-rover-spots-bizarre-helmet-shaped-rock-and-mysterious-megaripples/) [Sampling Mars: Geologic Context and Preliminary Characterization of Samples Collected by the NASA Mars 2020 Perseverance Rover Mission](https://astrobiology.com/2025/01/sampling-mars-geologic-context-and-preliminary-characterization-of-samples-collected-by-the-nasa-mars-2020-perseverance-rover-mission.html) [Mars 2020 and ExoMars](https://www.dlr.de/en/wr/research-transfer/projects/planetary-research/mars-2020-and-exomars) [Perseverance Rover’s Descent and Touchdown on Mars](https://www.youtube.com/watch?v=4czjS9h4Fpg)
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1215546463&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nasa" title="NASA" target="_blank" style="color: #cccccc; text-decoration: none;">NASA</a> · <a href="https://soundcloud.com/nasa/sets/sounds-from-mars" title="Perseverance Rover Sounds from Mars" target="_blank" style="color: #cccccc; text-decoration: none;">Perseverance Rover Sounds from Mars</a></div>
+
+### Perseverance Meets the Megabreccia
+ [By Henry Manelski](https://science.nasa.gov/blog/perseverance-meets-the-megabreccia/)
 
 What rashard has been up to @nasa @nasa-jpl @cityoflosangeles
 Compiling . . . 
@@ -17,6 +32,137 @@ Compiling . . .
 
 
 <iframe src="https://archive.org/embed/n-02-e-016.-srtmgl-1.2" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+# NASA’s Europa Clipper Spacecraft Separates From Falcon Heavy Second Stage
+<video controls preload="none" 
+  src="https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d1/NASA%27s_Europa_Clipper_Mission-_Spacecraft_Separation.webm/NASA%27s_Europa_Clipper_Mission-_Spacecraft_Separation.webm.720p.vp9.webm"
+  poster="https://blogs.nasa.gov/europaclipper/wp-content/uploads/sites/378/2024/10/Screenshot-2024-10-14-13-05-50_result.jpg?resize=768,432">
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d1/NASA%27s_Europa_Clipper_Mission-_Spacecraft_Separation.webm/NASA%27s_Europa_Clipper_Mission-_Spacecraft_Separation.webm.720p.vp9.webm">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+
+ ## Perseverance Views Deimos Before Sunrise
+Perseverance rover captured this view of Deimos, the smaller of Mars' two moons  shining in the sky at 4:27 a.m. local time on March 1, 2025, the 1,433rd Martian day, or sol, of the mission [READMORE @nasa-jpl](https://www.jpl.nasa.gov/images/pia26556-perseverance-views-deimos-before-sunrise/)
+ Image Credit:
+NASA/JPL-Caltech [Monika Luabeya](https://www.nasa.gov/image-article/deimos-before-dawn/)
+[FULLRES-JPG](https://photojournal.jpl.nasa.gov/jpeg/PIA26556.jpg) [tif](https://photojournal.jpl.nasa.gov/tiff/PIA26556.tif)
+
+![8ppp](https://photojournal.jpl.nasa.gov/figures/PIA26556_figA.jpg)
+
+
+
+## Deimos Eclipse
+Deimos is the smaller of Mars' two moons. It's 9 by 7 by 6.8 miles in size (15 by 12 by 11 kilometers). Deimos orbits Mars every 30 hours.Deimos was discovered on Aug. 11, 1877 by Asaph Hall. Hall named Mars' moons for the mythological sons of Ares, the Greek counterpart of the Roman god, Mars. Deimos, whose name means dread, is the brother of Phobos. 
+[<video controls poster="https://science.nasa.gov/wp-content/uploads/2024/03/22393_PIA23134-16.gif" src="https://photojournal.jpl.nasa.gov/archive/PIA26249.mp4" alt="pollution Los Angeles" />](https://photojournal.jpl.nasa.gov/archive/PIA26249.mp4) 
+```markdown
+[<video controls poster="https://science.nasa.gov/wp-content/uploads/2024/03/22393_PIA23134-16.gif" src="https://photojournal.jpl.nasa.gov/archive/PIA26249.mp4" alt="pollution Los Angeles" />](https://photojournal.jpl.nasa.gov/archive/PIA26249.mp4)
+```
+[<video controls poster="https://science.nasa.gov/wp-content/uploads/2024/03/22393_PIA23134-16.gif" src="https://assets.science.nasa.gov/content/dam/science/psd/mars/downloadable_items/4/5/45732_nasa_perseverance_parachute_deployment.mp4" alt="pollution Los Angeles" />](https://assets.science.nasa.gov/content/dam/science/psd/mars/downloadable_items/4/5/45732_nasa_perseverance_parachute_deployment.mp4) 
+
+
+
+![mars2020](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01433/ids/edr/browse/ncam/NLF_1433_0794157157_101ECM_N0692000NCAM00501_01_295J01_800.jpg) 
+
+
+# Pics & Vids 
+
+# PIA26339: Checking the Cover on Perseverance's SHERLOC
+[jpl](https://www.jpl.nasa.gov/images/pia25799-front-left-hazcam-two-year-movie/)
+[Link @nasa](https://science.nasa.gov/resource/front-left-hazcam-two-year-movie/)
+
+<video controls poster="https://assets.science.nasa.gov/content/dam/science/psd/mars/resources/detail_files/2/7/27318_FRH-Two-Year-Movie.gif?w=640&h=480&fit=clip&crop=faces%2Cfocalpoint" >
+  <source src="https://photojournal.jpl.nasa.gov/archive/PIA26339.mp4" type="video/mp4">
+
+  
+  Download the
+  <a href="https://photojournal.jpl.nasa.gov/archive/PIA26339.mp4">WEBM</a>
+  or
+  <a href="">MP4</a>
+  video.
+</video>
+
+# Perseverance Rover’s Descent and Touchdown on Mars: Onboard Camera Views
+[link](https://science.nasa.gov/resource/perseverance-rovers-descent-and-touchdown-on-mars-onboard-camera-views/) 
+<video controls poster="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031250/schulte-2023-egu-slide2_0015_print.jpg" >
+  <source src="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031250/Perseverance-landing-2160p.mp4" type="video/mp4">
+
+  
+  Download the
+  <a href="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031250/Perseverance-landing-1080p.webm">WEBM</a>
+  or
+  <a href="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031250/Perseverance-landing-2160p.mp4">MP4</a>
+  video.
+</video>
+
+February 22, 2021
+NASA's Mars 2020 Perseverance mission captured thrilling footage of its rover landing in Mars' Jezero Crater on Feb. 18, 2021. The real footage in this video was captured by several cameras that are part of the rover's entry, descent, and landing suite. The views include a camera looking down from the spacecraft's descent stage (a kind of rocket-powered jet pack that helps fly the rover to its landing site), a camera on the rover looking up at the descent stage, a camera on the top of the aeroshell (a capsule protecting the rover) looking up at that parachute, and a camera on the bottom of the rover looking down at the Martian surface.
+
+The audio embedded in the video comes from the mission control call-outs during entry, descent, and landing.
+
+For more information about Perseverance, visit https://mars.nasa.gov/perseverance
+
+# Front Left Hazcam – Two Year Movie
+[jpl](https://www.jpl.nasa.gov/images/pia25799-front-left-hazcam-two-year-movie/)
+[Link @nasa](https://science.nasa.gov/resource/front-left-hazcam-two-year-movie/)
+
+<video controls poster="https://photojournal.jpl.nasa.gov/jpeg/PIA26339.jpg" >
+  <source src="https://photojournal.jpl.nasa.gov/archive/PIA25799.mp4" type="video/mp4">
+  <source src="https://upload.wikimedia.org/wikipedia/commons/7/78/Front_Left_Hazcam_%E2%80%93_Two_Year_Movie_%28PIA25799%29.webm" type="video/webm" />
+  
+  Download the
+  <a href="https://upload.wikimedia.org/wikipedia/commons/7/78/Front_Left_Hazcam_%E2%80%93_Two_Year_Movie_%28PIA25799%29.webm">WEBM</a>
+  or
+  <a href="">MP4</a>
+  video.
+</video>
+
+
+# Data
+[MArs Moons](https://science.nasa.gov/mars/moons/)
+
+
+
+# Viking Project
+![NASAJPL LANDER](https://planetarydata.jpl.nasa.gov/img/data/vl1_vl2-m-lcs-5-midr-pv0.x/vl_2011/hires/l2c1pm.jpg)
+### OCCURRED 47 YEARS AGO
+NASA's Viking Project found a place in history when it became the first U.S. mission to land a spacecraft safely on the surface of Mars and return images of the surface. [ReadMore](https://science.nasa.gov/mission/viking/) + [Viking Lander High Resolution Mosaics](https://planetarydata.jpl.nasa.gov/img/data/vl1_vl2-m-lcs-5-midr-pv0.x/vl_2011/hires/hires.html)
+
+### PIA02985: Dust storm in the Thaumasia region of Mars
+#### Original Caption Released with Image:
+This Viking Orbiter 2 image shows a large dust storm over the Thaumasia region on Mars. This large disturbance soon grew into the first global dust storm observed by the Viking Orbiters. This image was taken at 9:00 local time near perihelion when heating of Mars is at a maximum. The image is at 1400 km across and north is at 1:00. (Viking Orbiter 176B02).
+
+Image Credit:
+[NASA/JPL](https://github.com/customer-stories/jpl)
+![p](https://photojournal.jpl.nasa.gov/jpeg/PIA02985.jpg)
+
+## Sol 4461: Mars Hand Lens Imager (MAHLI)
+Most images acquired by MAHLI in daylight use the sun as an illumination source. However, in some cases, MAHLI's two groups of white light LEDs and one group of longwave ultraviolet (UV) LEDs might be used to illuminate targets [READMORE](https://mars.nasa.gov/raw_images/1436574/?site=msl) `Credits: NASA/JPL-Caltech/MSSS`
+![PENNY_ON_MARS](https://mars.nasa.gov/msl-raw-images/msss/04461/mhli/4461MH0003720011601746C00_DXXX.jpg)
+
+
+[<img src="https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/DTM/PSP/ORB_010700_010799/PSP_010770_1905_ESP_011403_1905/DTEEC_010770_1905_011403_1905_A01.ca.jpg" alt="waymo" />](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/DTM/PSP/ORB_010700_010799/PSP_010770_1905_ESP_011403_1905/DTEEC_010770_1905_011403_1905_A01.ca.jpg)
+  
+![NASAJPL](https://space.jpl.nasa.gov/msl/headers/msl.gif)
+[MARiNER SPACECRAFT 1961 DeClassified](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19790076756_1979076756.pdf) [The MAriner Program](https://space.jpl.nasa.gov/msl/Programs/mariner.html) [MARINER 6 AND 7 NEAR ENCOUNTER IMAGES](https://ser.sese.asu.edu/M67/mar67.oldformat.html)
+
+
+
+# Mars Reconnaissance Orbiter 
+>Jim Taylor, Dennis K. Lee, and Shervin Shambayati 
+## 6.1 Mission Overview [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Mars_Reconnaissance_Orbiter_insignia.png" alt="Thanks for SPaceforce Donald, Thanks for Protecting Oaklands girls like Erika so she still have her oakland grandchild re: constancia, bernadette" />](https://upload.wikimedia.org/wikipedia/commons/6/6b/Mars_Reconnaissance_Orbiter_insignia.png) 
+The Mars Reconnaissance Orbiter (MRO) [1, 2] has a suite of instruments
+making observations at Mars, and it provides data-relay services for Mars
+landers and rovers. MRO was launched on August 12, 2005. The orbiter
+successfully went into orbit around Mars on March 10, 2006 and began
+reducing its orbit altitude and circularizing the orbit in preparation for the
+science mission. The orbit changing was accomplished through a process called aerobraking, in preparation for the “science mission” starting in November
+2006, followed by the “relay mission” starting in November 2008. MRO
+participated in the Mars Science Laboratory touchdown and surface mission
+that began in August 2012 (Chapter 7). [ReadMore - PDF](https://descanso.jpl.nasa.gov/monograph/series13/DeepCommo_Chapter6--141029.pdf) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ActiveMission - DoD](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
 
 ## Library Suppression in Hollywood 
 [.mp4 @cityoflosangeles @stateofcalifornia @nasa @whitehouse @nasa-pds @nasa--jpl](https://archive.org/download/vid-20250225-101844/VID_20250225_101844.mp4)
@@ -49,81 +195,45 @@ NAsa Photojournal Has a favorites feature
 [Link](https://photojournal.jpl.nasa.gov/favorites/PIA26556) 
 
 
- ## Perseverance Views Deimos Before Sunrise
-Perseverance rover captured this view of Deimos, the smaller of Mars' two moons  shining in the sky at 4:27 a.m. local time on March 1, 2025, the 1,433rd Martian day, or sol, of the mission [READMORE @nasa-jpl](https://www.jpl.nasa.gov/images/pia26556-perseverance-views-deimos-before-sunrise/)
- Image Credit:
-NASA/JPL-Caltech [Monika Luabeya](https://www.nasa.gov/image-article/deimos-before-dawn/)
-[FULLRES-JPG](https://photojournal.jpl.nasa.gov/jpeg/PIA26556.jpg) [tif](https://photojournal.jpl.nasa.gov/tiff/PIA26556.tif)
+# Right Navigation Camera (Navcam) : Mars Perseverance Sol 1344 : 
+NASA's Mars Perseverance rover acquired this image using its onboard Right Navigation Camera (Navcam). The camera is located high on the rover's mast and aids in driving.
 
-![8ppp](https://photojournal.jpl.nasa.gov/figures/PIA26556_figA.jpg)
+This image was acquired on Nov. 30, 2024 (Sol 1344) at the local mean solar time of 09:21:50.
 
-
-
-## Deimos Eclipse
-Deimos is the smaller of Mars' two moons. It's 9 by 7 by 6.8 miles in size (15 by 12 by 11 kilometers). Deimos orbits Mars every 30 hours.Deimos was discovered on Aug. 11, 1877 by Asaph Hall. Hall named Mars' moons for the mythological sons of Ares, the Greek counterpart of the Roman god, Mars. Deimos, whose name means dread, is the brother of Phobos. 
-[<video controls poster="https://science.nasa.gov/wp-content/uploads/2024/03/22393_PIA23134-16.gif" src="https://photojournal.jpl.nasa.gov/archive/PIA26249.mp4" alt="pollution Los Angeles" />](https://photojournal.jpl.nasa.gov/archive/PIA26249.mp4) 
-```markdown
-[<video controls poster="https://science.nasa.gov/wp-content/uploads/2024/03/22393_PIA23134-16.gif" src="https://photojournal.jpl.nasa.gov/archive/PIA26249.mp4" alt="pollution Los Angeles" />](https://photojournal.jpl.nasa.gov/archive/PIA26249.mp4)
-```
-
-![mars2020](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01433/ids/edr/browse/ncam/NLF_1433_0794157157_101ECM_N0692000NCAM00501_01_295J01_800.jpg) 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-StZggK4hhA?si=0F-e2yrdWl4NqDET" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-# Pics & Vids 
-
-# PIA26339: Checking the Cover on Perseverance's SHERLOC
-[jpl](https://www.jpl.nasa.gov/images/pia25799-front-left-hazcam-two-year-movie/)
-[Link @nasa](https://science.nasa.gov/resource/front-left-hazcam-two-year-movie/)
-
-<video controls poster="https://assets.science.nasa.gov/content/dam/science/psd/mars/resources/detail_files/2/7/27318_FRH-Two-Year-Movie.gif?w=640&h=480&fit=clip&crop=faces%2Cfocalpoint" >
-  <source src="https://photojournal.jpl.nasa.gov/archive/PIA26339.mp4" type="video/mp4">
-
-  
-  Download the
-  <a href="https://photojournal.jpl.nasa.gov/archive/PIA26339.mp4">WEBM</a>
-  or
-  <a href="">MP4</a>
-  video.
-</video>
-
-
-# Front Left Hazcam – Two Year Movie
-[jpl](https://www.jpl.nasa.gov/images/pia25799-front-left-hazcam-two-year-movie/)
-[Link @nasa](https://science.nasa.gov/resource/front-left-hazcam-two-year-movie/)
-
-<video controls poster="https://photojournal.jpl.nasa.gov/jpeg/PIA26339.jpg" >
-  <source src="https://photojournal.jpl.nasa.gov/archive/PIA25799.mp4" type="video/mp4">
-  <source src="https://upload.wikimedia.org/wikipedia/commons/7/78/Front_Left_Hazcam_%E2%80%93_Two_Year_Movie_%28PIA25799%29.webm" type="video/webm" />
-  
-  Download the
-  <a href="https://upload.wikimedia.org/wikipedia/commons/7/78/Front_Left_Hazcam_%E2%80%93_Two_Year_Movie_%28PIA25799%29.webm">WEBM</a>
-  or
-  <a href="">MP4</a>
-  video.
-</video>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+     <a href="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01344/ids/edr/browse/ncam/NRF_1344_0786241785_659ECM_N0630000NCAM14343_01_195J01_1200.jpg"><img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01344/ids/edr/browse/ncam/NRF_1344_0786241785_659ECM_N0630000NCAM14343_01_195J01_1200.jpg" alt=""> </a>
+        
+      </div>
+    </div>
+ <div class='panelColumn'>
+      <div class='rightColumn'>
+           <a href="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01344/ids/edr/browse/ncam/NLF_1344_0786241785_659ECM_N0630000NCAM14343_04_195J01_1200.jpg"><img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01344/ids/edr/browse/ncam/NLF_1344_0786241785_659ECM_N0630000NCAM14343_04_195J01_1200.jpg" alt=""> </a>
+        
+   </div>
+    </div>
+  </div>
+</div>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+     <a href="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01327/ids/edr/browse/ncam/NLF_1327_0784746083_722ECM_N0620064NCAM02327_07_195J01_1200.jpg"><img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01327/ids/edr/browse/ncam/NLF_1327_0784746083_722ECM_N0620064NCAM02327_07_195J01_1200.jpg" alt=""> </a>
+        
+      </div>
+    </div>
+ <div class='panelColumn'>
+      <div class='rightColumn'>
+           <a href="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01327/ids/edr/browse/ncam/NLF_1327_0784746083_722ECM_N0620064NCAM02327_10_195J01_1200.jpg"><img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01327/ids/edr/browse/ncam/NLF_1327_0784746083_722ECM_N0620064NCAM02327_10_195J01_1200.jpg" alt=""> </a>
+        
+   </div>
+    </div>
+  </div>
+</div>
 
 
-# Data
-[MArs Moons](https://science.nasa.gov/mars/moons/)
-
-
-
-
-
-
-# Mars Reconnaissance Orbiter 
->Jim Taylor, Dennis K. Lee, and Shervin Shambayati 
-## 6.1 Mission Overview [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Mars_Reconnaissance_Orbiter_insignia.png" alt="Thanks for SPaceforce Donald, Thanks for Protecting Oaklands girls like Erika so she still have her oakland grandchild re: constancia, bernadette" />](https://upload.wikimedia.org/wikipedia/commons/6/6b/Mars_Reconnaissance_Orbiter_insignia.png) 
-The Mars Reconnaissance Orbiter (MRO) [1, 2] has a suite of instruments
-making observations at Mars, and it provides data-relay services for Mars
-landers and rovers. MRO was launched on August 12, 2005. The orbiter
-successfully went into orbit around Mars on March 10, 2006 and began
-reducing its orbit altitude and circularizing the orbit in preparation for the
-science mission. The orbit changing was accomplished through a process called aerobraking, in preparation for the “science mission” starting in November
-2006, followed by the “relay mission” starting in November 2008. MRO
-participated in the Mars Science Laboratory touchdown and surface mission
-that began in August 2012 (Chapter 7). [ReadMore - PDF](https://descanso.jpl.nasa.gov/monograph/series13/DeepCommo_Chapter6--141029.pdf) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ActiveMission - DoD](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
 
 
 
