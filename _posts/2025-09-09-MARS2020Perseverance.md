@@ -19,6 +19,8 @@ NASA's Mars Exploration Program includes current missions Odyssey, MRO, Mars Exp
 <iframe width="650" height="315" src="https://www.youtube.com/embed/-StZggK4hhA?si=0F-e2yrdWl4NqDET" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [Perseverance Rover Updates - science.nasa.gov](https://science.nasa.gov/mission/mars-2020-perseverance/science-updates/)
+@nasa-jpl @cityoflosangeles @stateofcalifornia @nasa @nasa-pds thx for sharing the event @blackgirlscode :: @usgs idk how many of u were informed @noaagov
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/794336911814770688" data-did="e94b3120246c27ee555c9442c268fb9af424cfe8"><a href="https://rashardmro.tumblr.com/post/794336911814770688/nasajunocam-normanikordei-normanikordeiofficial">https://rashardmro.tumblr.com/post/794336911814770688/nasajunocam-normanikordei-normanikordeiofficial</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
 
 <img   alt="image" src="https://github.com/user-attachments/assets/7bcd9fd7-3a80-4209-94a6-0a68ba68df43" />
 
