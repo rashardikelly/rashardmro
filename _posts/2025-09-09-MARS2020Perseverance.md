@@ -10,9 +10,42 @@ author: "RashardKelly @nasa-jpl"
 # Mars Exploration Program
 NASA's Mars Exploration Program includes current missions Odyssey, MRO, Mars Express, MSL, InSight, and Mars 2020 [READMORE](https://pds-geosciences.wustl.edu/missions/mep/index.htm)
 
+@nasa-pds
+
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-idea2deploy' %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
+
+Mars Books
+The Mars project
+by Von Braun, Wernher, 1912-1977
+[archive](https://archive.org/details/marsproject0000vonb)
+--
+The scientific exploration of Mars
+by Taylor, F. W
+[archive](https://archive.org/details/scientificexplor0000tayl)
+--
+Mars
+by Bova, Ben, 1932-
+[archive](https://archive.org/details/mars0000bova_g8b1/page/n7/mode/2up)
+
+
+
+
+multi media
+[The Martian 2015](https://archive.org/download/the.-martian.-2015.-extended.-1080p.-brrip.x-264.-aac-etrg/The.Martian.2015.EXTENDED.1080p.BRRip.x264.AAC-ETRG.mp4) [DailyMotion](https://www.dailymotion.com/video/x9a9n1g)
+[Dune 2000 ps1](https://archive.org/details/psx_dune2000)
 ![PDS_GEOCiENCES](https://pds-geosciences.wustl.edu/images/geo_banner_main.jpg)
 
-# NEWS
+# NEWS @foxnews @newshour @datadesk @blackgirlscode @nasa-jpl 
 ![mars2020](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 [Ingenuity Mars Helicopter](https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/)
 
