@@ -27,8 +27,9 @@ Mars Reconnaissance Orbiter After Camera Installation
 A telescopic camera called the High Resolution Imaging Science Experiment, or HiRISE, was installed onto the main structure of NASA's Mars Reconnaissance Orbiter on Dec. 11, 2004 at Lockheed Martin Space Systems, Denver, Colo. HiRISE is at the top of the spacecraft in this image. 
 ![mro @nasa-jpl](https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA07210.width-1024.jpg)
 
+<img  alt="output-onlinepngtools HiRise Steep Sandy Slopes in Coprates Chasma ESP_088620_1660_ESP_088554_1660" src="https://github.com/user-attachments/assets/a4000977-0514-4091-aa63-19c82d6a4d66" />
 
-![HiRise Steep Sandy Slopes in Coprates Chasma ESP_088620_1660_ESP_088554_1660](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_088600_088699/ESP_088620_1660_ESP_088554_1660/ESP_088620_1660_ESP_088554_1660_RED.browse.png) [fullRes @blackgirlscode noir*](https://hirise-pds.lpl.arizona.edu/download/PDS/EXTRAS/ANAGLYPH/ESP/ORB_088600_088699/ESP_088620_1660_ESP_088554_1660/ESP_088620_1660_ESP_088554_1660_RED.JP2)
+[HiRise Steep Sandy Slopes in Coprates Chasma ESP_088620_1660_ESP_088554_1660](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_088600_088699/ESP_088620_1660_ESP_088554_1660/ESP_088620_1660_ESP_088554_1660_RED.browse.png) [fullRes @blackgirlscode noir*](https://hirise-pds.lpl.arizona.edu/download/PDS/EXTRAS/ANAGLYPH/ESP/ORB_088600_088699/ESP_088620_1660_ESP_088554_1660/ESP_088620_1660_ESP_088554_1660_RED.JP2)
 ![Nasa-pds @nasa glenn mars](https://ia601205.us.archive.org/9/items/C-1997-2554/1997_02554.jpg) 
 [archive](https://archive.org/details/C-1997-2554)
 @nasa-pds ~ [Glenn on Archive @nasa-jpl @blackgirlscode](https://archive.org/details/glennresearchcentercollection)
