@@ -15,6 +15,12 @@ image: 1965_TIROS9_NOAA_lib.jpeg
 [@nasa/ECOSTRESS-Data-Resources](https://github.com/nasa/ECOSTRESS-Data-Resources)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rashard-ecostress-jpl-iss/ECOSTRESS-Data-Resources.git/HEAD)
 
+[@usgs waterdashboard @blackgirlscode @northropgrumman]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-88.60613%2C23.78272%2C-76.49095%2C34.19144%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-88.6061262426798%2C23.782719589582307%2C-76.49094827982046%2C34.19143784742009%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Afalse%2C%22checkbox%22%3A%220%2C10%2C12%2C20%2C21%2C22%2C23%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A1%2C11%3A0%2C12%3A1%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D ) 24hr forcast Sept13
+[WorldView @nasa](https://worldview.earthdata.nasa.gov/)
+<img alt="image" src="https://github.com/user-attachments/assets/2d6f8ccd-3913-4779-bd73-115faf44e54e" />
+sea water temp anomolies [link](https://worldview.earthdata.nasa.gov/?v=-85.91303646015967,24.4093416839482,-69.9407129039526,32.270719684268876&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&tr=el_nino&t=2025-09-12-T21%3A06%3A49Z)
+<img  alt="image" src="https://github.com/user-attachments/assets/c2cc78c1-fce4-42e9-b60f-c0cf4af73a91" />
+
 # California_Linux: Ecostress annual review cram prep + report
 [Planetary Mission Support List - nssdc.gsfc.nasa.gov/planetary/projects.html](https://nssdc.gsfc.nasa.gov/planetary/projects.html)
 <iframe src="https://archive.org/embed/20250816_20250816_1754_EcoStress_CRAM" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
