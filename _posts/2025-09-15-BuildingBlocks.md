@@ -6,6 +6,36 @@ title: "@nasa-jpl TroubleTicketsNiSSUes"
 image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 ---
 
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/9d7778b4-ce46-4675-87d7-c21bf02fb8f2" />
+<img  alt="image" src="https://github.com/user-attachments/assets/3e2c0d60-44fe-4063-b50a-4bad7347ce9b" />
+
+EPIC DAILY “BLUE MARBLE” API
+The EPIC API provides information on the daily imagery collected by DSCOVR's Earth Polychromatic Imaging Camera (EPIC) instrument. Uniquely positioned at the Earth-Sun Lagrange point, EPIC provides full disc imagery of the Earth and captures unique perspectives of certain astronomical events such as lunar transits using a 2048x2048 pixel CCD (Charge Coupled Device) detector coupled to a 30-cm aperture Cassegrain telescope.
+<img alt="image @nasa-pds" src="https://github.com/user-attachments/assets/e7db70d1-97e0-4f29-b234-d0b66595c133" />
+`wget https://epic.gsfc.nasa.gov/api/natural`
+Site Name	Archive	Collection	Year	Month	Day	Image Type	File Name
+https://epic.gsfc.nasa.gov	archive	natural	2016	10	31	png	epic_1b_20161031xxxx.png
+https://epic.gsfc.nasa.gov	archive	natural	2016	10	31	jpg	epic_1b_20161031xxxx.jpg
+https://epic.gsfc.nasa.gov	archive	natural	2016	10	31	thumbs	epic_1b_20161031xxxx.jpg
+https://epic.gsfc.nasa.gov	archive	enhanced	2016	10	31	png	epic_RGB_20161031xxxx.png
+https://epic.gsfc.nasa.gov	archive	enhanced	2016	10	31	jpg	epic_RGB_20161031xxxx.jpg
+https://epic.gsfc.nasa.gov	archive	enhanced	2016	10	31	thumbs	epic_RGB_20161031xxxx.jpg
+https://epic.gsfc.nasa.gov	archive	aerosol	2016	10	31	png	epic_uvai_20161031xxxx.png
+https://epic.gsfc.nasa.gov	archive	aerosol	2016	10	31	jpg	epic_uvai_20161031xxxx.jpg
+https://epic.gsfc.nasa.gov	archive	aerosol	2016	10	31	thumbs	epic_uvai_20161031xxxx.jpg
+https://epic.gsfc.nasa.gov	archive	cloud	2016	10	31	png	epic_cloudfraction_20161031xxxx.png
+https://epic.gsfc.nasa.gov	archive	cloud	2016	10	31	jpg	epic_cloudfraction_20161031xxxx.jpg
+https://epic.gsfc.nasa.gov	archive	cloud	2016	10	31	thumbs	epic_cloudfraction_20161031xxxx.jpg
+
+# EXAMPLE QUERIES
+
+[https://epic.gsfc.nasa.gov/api/natural](https://epic.gsfc.nasa.gov/api/natural)_
+[https://epic.gsfc.nasa.gov/api/enhanced/date/2015-10-31](https://epic.gsfc.nasa.gov/api/enhanced/date/2015-10-31)
+[https://epic.gsfc.nasa.gov/api/natural/all](https://epic.gsfc.nasa.gov/api/natural/all)
+[https://epic.gsfc.nasa.gov/archive/natural/2015/10/31/png/epic_1b_20151031074844.png](https://epic.gsfc.nasa.gov/archive/natural/2015/10/31/png/epic_1b_20151031074844.png)
+
 <iframe src="https://archive.org/embed/Julyhotpepper" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
