@@ -2,7 +2,7 @@
 layout: class
 mermaid: true
 published: true
-title: @nasa-jpl TroubleTicketsNiSSUes
+title: "@nasa-jpl TroubleTicketsNiSSUes"
 image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 ---
 
