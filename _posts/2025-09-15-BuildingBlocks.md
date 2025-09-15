@@ -2,7 +2,7 @@
 layout: class
 mermaid: true
 published: true
-title: Building Blocks
+title: @nasa-jpl TroubleTicketsNiSSUes
 image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 ---
 
@@ -14,6 +14,7 @@ Gula Matari
 Quincy Jones
 [CD-ROM Software Library](https://archive.org/details/cdromsoftware)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ExXt21DDDY8?si=CQvK3R2ad2TOSeLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
 
 [thank lapd @blackgirlscode](contact.lapdonline@gmail.com)
 
