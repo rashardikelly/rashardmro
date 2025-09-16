@@ -16,7 +16,7 @@ image: ecostressjplnasagov-eco-booster.jpg
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rashard-ecostress-jpl-iss/ECOSTRESS-Data-Resources.git/HEAD)
 ECOSTRESS-Data-Resources :
 Public forked from [nasa/ECOSTRESS-Data-Resources](https://github.com/nasa/ECOSTRESS-Data-Resources)
-
+tool[VERTeX ASf](https://search.asf.alaska.edu/#/?zoom=3.000&center=-97.494,39.673) <~ SAR DATA Current&Modern
 
 # California_Linux: Ecostress annual review cram prep + report
 Loaded with [Files from the @Tesla revolt](https://archive.org/download/20250816_20250816_1754_EcoStress_CRAM)
@@ -25,7 +25,29 @@ Loaded with [Files from the @Tesla revolt](https://archive.org/download/20250816
 
 # @USGS ECOSTRESS DATASTORE
 works better with [Lynx](https://lynx.invisible-island.net/)
+`You are downloading data from NASA's Land Processes Distributed
+Active Archive Center` [LinK @emit-sds @nasa-pjs @stateofcalifornia @cityoflosangeles](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/)
+```shell
+********************************************************************************
 
+                         U.S. GOVERNMENT COMPUTER
+
+This US Government computer is for authorized users only.  By accessing this
+system you are consenting to complete monitoring with no expectation of privacy.
+Unauthorized access or use may subject you to disciplinary action and criminal
+prosecution.
+
+Attention user: You are downloading data from NASA's Land Processes Distributed
+Active Archive Center (LP DAAC) located at the USGS Earth Resources Observation and
+Science (EROS) Center.
+```
+<img  alt="image" src="https://github.com/user-attachments/assets/4132e699-c791-4f2c-a0aa-b07e88e46727" />
+
+
+<div class="tupperware">
+<img alt="@stateofcalifornia @nasa-jpl DeepSpaceNEtwork" src="https://github.com/user-attachments/assets/7d1f7bfd-244c-40e1-96d8-c9d613449953" />
+<img alt="@stateofcalifornia @nasa-jpl "  src="https://github.com/user-attachments/assets/1a8c958d-0d89-4598-8979-48fc99c24264" />
+</div>
 
 [@CityOFLosangeles HeatMAp](https://www.facebook.com/photo.php?fbid=757580037067487&set=pb.100084464911565.-2207520000&type=3)
 <img  alt="image" src="https://github.com/user-attachments/assets/d3286713-84a5-411d-952d-a3abde945775" />
