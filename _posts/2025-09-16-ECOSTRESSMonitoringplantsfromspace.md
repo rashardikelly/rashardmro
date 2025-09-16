@@ -75,7 +75,7 @@ Aviris was there last year and so was [Emit](https://github.com/nasa/EMIT-Data-R
 @libretro render
 
 ![EMiT](https://essp.nasa.gov/wp-content/uploads/sites/153/2020/10/EMIT_Logo-150x150.png)
-
+[Earth System Science Pathfinder (ESSP)](https://essp.nasa.gov/earth-pathfinder-quests/projects/emit/)
 news: [Extended Mission Approved!](https://earth.jpl.nasa.gov/emit/)
 [User Guide @emit-sds](https://lpdaac.usgs.gov/documents/1695/EMIT_L2B_GHG_User_Guide_V1.pdf)
 <div class="tupperware">
@@ -83,6 +83,7 @@ news: [Extended Mission Approved!](https://earth.jpl.nasa.gov/emit/)
 <img alt="@stateofcalifornia @nasa-jpl "  src="https://github.com/user-attachments/assets/178a5f70-e083-4a67-8a7f-e205bb01d641" />
 </div>
 
+<img width="280" height="280" alt="image" src="https://github.com/user-attachments/assets/82420e48-fd45-46e6-91d1-2cc0cb0a8b5f" />
 
 ### New ECOSTRESS and MODIS Land Surface Temperature Data Reveal Fine-Scale Heat Vulnerability in Cities: A Case Study for Los Angeles County, California
 Abstract
