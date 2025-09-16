@@ -10,6 +10,19 @@ author: "RashardKelly @nasa-jpl"
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
+
+# Robert Capa [loc](https://catdir.loc.gov/catdir/enhancements/fy0728/93046814-d.html)
+[Picasso And Françoise Gilot By Robert Capa](https://www.kpbs.org/news/arts-culture/2009/09/15/picasso-and-francoise-gilot-robert-capa)
+<img alt="RobertCapa Library Punch Card @cityoflosangeles" src="https://github.com/user-attachments/assets/fcd009f5-37ef-48e2-9d3e-a896af473bb7" />
+<img alt="picasso" src="https://github.com/user-attachments/assets/e2a66f9c-0316-4469-b1d8-7b4c122dfd2a" />
+<img alt="picasso" src="https://github.com/user-attachments/assets/d3994b9c-91c7-43c0-8df0-97a2f3aa9dfc" />
+<img alt="picasso" src="https://github.com/user-attachments/assets/0775e1ae-0b3d-4eb0-8b2f-9f1a6ebe83da" />
+
+
+
+
+
+
 ![leadership @stateofcalifornia @nasa-jpl](https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/5/de/5de8d4a6-8258-11ee-a9d8-7f5b5d3a916f/6552751ac0ec3.image.jpg?resize=990%2C660) 
 LA mayor celebrates moving 8,866 homeless into permanent free housing in 2024 [Read https://www.thecentersquare.com/](https://www.thecentersquare.com/california/article_2772a650-b695-11ef-92b8-cb84d1295234.html) [‘There’s just a pile-on’: How Karen Bass lost control of the wildfire narrative - politico.com/](https://www.politico.com/news/2025/01/14/karen-bass-california-wildfires-00198180)
 

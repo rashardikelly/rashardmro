@@ -121,3 +121,58 @@ ASTER is a cooperative effort between NASA and Japan's Ministry of Economy Trade
 ![PAperMArio](https://upload.wikimedia.org/wikipedia/commons/5/54/Paper_Mario_Logo.png)
 ![SuperMarioRPG](https://upload.wikimedia.org/wikipedia/commons/4/46/Super_Mario_RPG_Logo.png)
 ![BOwseR](https://pbs.twimg.com/media/GZ99Nrdb0AoAS8B?format=jpg&name=large)
+!
+```
+1.USA.PS1-ZTM.cuehttps://archive.org/download/sp1gcbcpt2/Xenogears.USA.PS1-ZTM.rar/Xenogears.Disc.1.USA.PS1-ZTM.cue^C             ~/.../_1🚧/mame $
+~/.../_1🚧/mame $ nc -t horizons.jpl.nasa.gov 6775  ��������!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!           Unable to negotiate connection within 2 seconds. Defaults:                                                                                                  TERM= vt102, ROWS= 9999, COLUMNS= 9999, ECHO on, FULL-DUPLEX                                                                                                Your terminal, command-line, telnet, or connection program
+ may not be compliant with RFC 854 and RFC 1073 standards:                                                                                                             http://tools.ietf.org/rfc/rfc854.txt     
+           http://tools.ietf.org/rfc/rfc1073.txt                                                                                                             Using a different program to connect may solve the problem.                                            -OR -                     
+ The network may be slow and need > 2 seconds (try again).
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+                            ======================================================================
+  |                     Jet Propulsion Laboratory                      |        |                                                                    |        |                  * * *    W A R N I N G   * * *                    |
+  |                                                                    |
+  |                          Property of the                           |        |                      UNITED STATES GOVERNMENT                      |
+  |                                                                    |
+  |    This computer is funded by the United States Government and     |        | operated by the California Institute of Technology in support of   |        | ongoing U.S. Government programs and activities.  If you are not   |        | authorized to access this system, disconnect now                                                                                                             ___    _____     ___                                                                                   /_ /|  /____/ \  /_ /|       Horizons On-line Ephemeris System v4.98d     
+    | | | |  __ \ /| | | |       Solar System Dynamics Group                                             ___| | | | |__) |/  | | |__     Jet Propulsion Laboratory                    
+                          JPL Horizons, version 4.98d                         Type '?' for brief help, '?!' for details,          '-' for previous prompt, 'x' to exit                System news updated August 7, 2025
+                          Horizons> 'try cpt2/Xenogears.USA.PS1-ZTM @libretro on @github or @duckstation wget https://archive.org/download/sp1gcbcpt2/Xenogears.USA.PS1-ZTM.rar/Xenogears.Disc.1.USA.PS1-ZTM.cuehttps://archive.org/download/sp1gcbcpt2/Xenogears.USA.PS1-ZTM.rar/Xenogears.Disc.1.USA.PS1-ZTM.cue^C'   'try cpt2/Xenogears.USA.PS1-ZTM @libretro on @github or @duckstation wget https://archive.org/download/sp1gcbcpt2/Xenogears.USA.PS1-ZTM.rar/Xenogears.Disc.1.USA.PS1-ZTM.cuehttps://archive.org/download/sp1gcbcpt2/Xenogears.USA.PS1-ZTM.rar/Xenogears.Disc.1.USA.PS1-ZTM.cue^C'
+Missing operator in "'TRY CPT2/XENOGEARS.USA.PS1-ZTM @LIBRETRO ON @GITHUB OR @DU                        Horizons> top
+top
+
+>EXACT< name search [SPACE sensitive]:
+ NAME = top;              Continue [ <cr>=yes, n=no, ? ] :                    
+*******************************************************************************
+JPL/DASTCOM            Small-body Index Search Results     2025-Sep-12 12:36:17
+
+ Comet AND asteroid index search:                   
+   NAME = top;                                       Matching small-bodies:       No matches found.
+*******************************************************************************                          Select ... [F]tp, [M]ail, [R]edisplay, ?, <cr>: ranger
+ranger                                              >EXACT< name search [SPACE sensitive]:               NAME = ranger;           Continue [ <cr>=yes, n=no, ? ] :                                              *******************************************************************************
+JPL/DASTCOM            Small-body Index Search Results     2025-Sep-12 12:36:26
+                           Comet AND asteroid index search:
+                             NAME = ranger;         
+ Matching small-bodies:       No matches found.     *******************************************************************************
+ Select ... [F]tp, [M]ail, [R]edisplay, ?, <cr>: ranger9
+ranger9                                             >EXACT< name search [SPACE sensitive]:               NAME = ranger9;          Continue [ <cr>=yes, n=no, ? ] :                                              *******************************************************************************                         JPL/DASTCOM            Small-body Index Search Results     2025-Sep-12 12:36:37                         
+ Comet AND asteroid index search:                                                NAME = ranger9;
+                           Matching small-bodies:
+    No matches found.
+*******************************************************************************
+ Select ... [F]tp, [M]ail, [R]edisplay, ?, <cr>: m  m
+                           Enter your Internet e-mail address [?]: earthdata-support@nasa.gov
+earthdata-support@nasa.gov  "earthdata-support@nasa.gov"
+ Confirm e-mail address [yes(<cr>),no] : yes        yes
+ Address stored this login only ... use "email" cmd to change
+```                   Standby ... Data sent to earthdata-support@nasa.gov
+ Select ... [F]tp, [Redisplay, ?, <cr>:                                       
+Horizons>                 
+
+```
+
+
+
+
+
+
