@@ -12,16 +12,22 @@ image: ecostressjplnasagov-eco-booster.jpg
     <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
 </picture>
 
-Emit EMIT-Data-Resources
-Public
-forked from [nasa/EMIT-Data-Resources](https://github.com/nasa/EMIT-Data-Resources)
-
-ECOSTRESS-Data-Resources
-Public
-forked from [nasa/ECOSTRESS-Data-Resources](https://github.com/nasa/ECOSTRESS-Data-Resources)
+[rashard-ecostress-jpl-iss/ECOSTRESS-Data-Resources]
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rashard-ecostress-jpl-iss/ECOSTRESS-Data-Resources.git/HEAD)
+ECOSTRESS-Data-Resources :
+Public forked from [nasa/ECOSTRESS-Data-Resources](https://github.com/nasa/ECOSTRESS-Data-Resources)
 
-[![EMiTBinder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nasa/EMIT-Data-Resources.git/HEAD)
+
+# California_Linux: Ecostress annual review cram prep + report
+Loaded with [Files from the @Tesla revolt](https://archive.org/download/20250816_20250816_1754_EcoStress_CRAM)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rashard-ecostress-jpl-iss/ECOSTRESS-Data-Resources.git/HEAD)
+<iframe src="https://archive.org/embed/20250816_20250816_1754_EcoStress_CRAM" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+
+
+Emit EMIT-Data-Resources
+Public forked from [nasa/EMIT-Data-Resources](https://github.com/nasa/EMIT-Data-Resources) [![EMiTBinder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nasa/EMIT-Data-Resources.git/HEAD)
 
 
 
