@@ -69,6 +69,19 @@ This repository provides Python Jupyter notebook examples to help users work wit
 
 <img src="https://ecostress.jpl.nasa.gov/downloads/gallery/00050_LA_beaches_1Aug2020.png" alt="ECO image"/>
 
+Aviris was there last year and so was [Emit](https://github.com/nasa/EMIT-Data-Resources) - - - [@emit-sds @nasa-jpl @blackgirlscode](https://github.com/emit-sds) +++ [ESSP](https://essp.nasa.gov/earth-pathfinder-quests/projects/emit/)
+![https://aviris.jpl.nasa.gov/images/aviris_text2.png](https://aviris.jpl.nasa.gov/images/aviris_text2.png)
+
+@libretro render
+
+![EMiT](https://essp.nasa.gov/wp-content/uploads/sites/153/2020/10/EMIT_Logo-150x150.png)
+
+news: [Extended Mission Approved!](https://earth.jpl.nasa.gov/emit/)
+[User Guide @emit-sds](https://lpdaac.usgs.gov/documents/1695/EMIT_L2B_GHG_User_Guide_V1.pdf)
+<div class="tupperware">
+<img alt="@stateofcalifornia @nasa-jpl COAST" src="https://github.com/user-attachments/assets/58678f27-1a6e-485a-9745-c6e155a3d218" />
+<img alt="@stateofcalifornia @nasa-jpl "  src="https://github.com/user-attachments/assets/178a5f70-e083-4a67-8a7f-e205bb01d641" />
+</div>
 
 
 ### New ECOSTRESS and MODIS Land Surface Temperature Data Reveal Fine-Scale Heat Vulnerability in Cities: A Case Study for Los Angeles County, California
@@ -142,12 +155,6 @@ Released Monday, January 30, 2023
 [GOES](https://www.star.nesdis.noaa.gov/goes/fulldisk_band.php?sat=G18&band=EXTENT3&length=77)
 
 
-![https://aviris.jpl.nasa.gov/images/aviris_text2.png](https://aviris.jpl.nasa.gov/images/aviris_text2.png)
-
-@libretro render
-
-<img alt="@stateofcalifornia @nasa-jpl COAST" src="https://github.com/user-attachments/assets/58678f27-1a6e-485a-9745-c6e155a3d218" />
-
 
 [CSS_SKiLLS_STATUS @nasa-jpl HTML5 @w3c](https://codepen.io/thakarashard/pen/LEpzdmY)
 
@@ -171,6 +178,9 @@ Released Monday, January 30, 2023
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid05B5Ud5s2wLgdqC4AtgYSxJpXBi4n8it3QFpK2D6qtMiYqtqWYjXAa56RPDJnkATsl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
+
+### LATE FOR WORK
+<img  alt="image" src="https://github.com/user-attachments/assets/9d20456b-19bc-40af-b86c-48fa7b2f1969" />
 
 ![DOSBOX-STAGiNG](https://www.dosbox-staging.org/assets/images/dosbox-staging-no-border.svg)
 
