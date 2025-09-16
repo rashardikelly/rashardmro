@@ -33,6 +33,40 @@ Public forked from [nasa/EMIT-Data-Resources](https://github.com/nasa/EMIT-Data-
 
 ![LA @cityoflosangeles](https://www.mdpi.com/remotesensing/remotesensing-11-02136/article_deploy/html/images/remotesensing-11-02136-g001.png)
 
+<img  alt="image" src="https://github.com/user-attachments/assets/f5957e4b-9b85-45ed-be48-0d1fbb5b21f1" />
+
+
+# JPL Publication 09 - [ecostress](https://ecostress.jpl.nasa.gov/gallerylist) - NASA
+## User Guide Documents - ecostress - NASA
+[Link](https://ecostress.jpl.nasa.gov/data/user-guide-documents-table)
+<img  alt="image" src="https://github.com/user-attachments/assets/78eac8c5-559b-4ffa-a78d-4fa652314cb8" />
+[ecostress-gallery](https://ecostress.jpl.nasa.gov/gallerylist)
+<img  alt="image" src="https://github.com/user-attachments/assets/74367068-b586-4ca4-ad49-902e2eabbfd6" />
+
+
+
+## ECOsystem Spaceborne Thermal Radiometer
+Experiment on Space Station (ECOSTRESS) Mission [DOWNLOAD_PDF](https://ecostress.jpl.nasa.gov/downloads/userguides/4b_ECOSTRESS_UserGuide_L4_WUE_20190618.pdf)
+<img  alt="image" src="https://github.com/user-attachments/assets/fb3a8093-f84b-4f74-afe6-aa3dec30420b" />
+
+
+[ECOSTRESS: Monitoring plants from space](https://www.youtube.com/watch?v=ALZTMLH9boY)
+[Monitoring Plant Health from Space: NASA’s ECOSTRESS Mission](https://www.youtube.com/watch?v=kR8LlN0ftG4)
+[ECOSTRESS: NASA's Next-Generation Mission to Measure Evapotranspiration from the ISS](https://youtu.be/7d1beGfOHPs?si=W_tyGA6TEGoNJSCT) [**NASA ARSET: Introduction to OpenET, Part 1/3**](https://youtu.be/QHqWrO2HMco?si=2MgryGBUvhuH3YK3) [The NASA ECOSTRESS Mission - Dr Josh Fisher (Science Lead, NASA-JPL) - OCTF Seminar](https://youtu.be/fwCjq-Ltkoc)
+[ECOSTRESS Data Reveal Surprising Water Use Patterns](https://ecostress.jpl.nasa.gov/news/ecostress-data-reveal-surprising-water-use-patterns)
+
+[Rashardnasagit](https://github.com/rashardnasalosangelesJPL/rashardnasalosangelesJPL.github.io)
+
+[NasaVitals ECOSTRESS JUPiTERNOTEBOOK](This repository provides Python Jupyter notebook examples to help users work with VSWIR and TIR data from the EMIT and ECOSTRESS missions.) 
+[https://github.com/@nasa/VITALS](https://github.com/ThakaRashard/VITALS)
+This repository provides Python Jupyter notebook examples to help users work with VSWIR and TIR data from the EMIT and ECOSTRESS missions.
+[nasa.github.io/VITALS/](nasa.github.io/VITALS/)
+
+
+<img src="https://ecostress.jpl.nasa.gov/downloads/gallery/00050_LA_beaches_1Aug2020.png" alt="ECO image"/>
+
+
+
 ### New ECOSTRESS and MODIS Land Surface Temperature Data Reveal Fine-Scale Heat Vulnerability in Cities: A Case Study for Los Angeles County, California
 Abstract
 Rapid 21st century urbanization combined with anthropogenic climate warming are significantly increasing heat-related health threats in cities worldwide. In Los Angeles (LA), increasing trends in extreme heat are expected to intensify and exacerbate the urban heat island effect, leading to greater health risks for vulnerable populations. Partnerships between city policymakers and scientists are becoming more important as the need to provide data-driven recommendations for sustainability and mitigation efforts becomes critical. Here we present a model to produce heat vulnerability index (HVI) maps driven by surface temperature data from National Aeronautics and Space Administration’s (NASA) new Ecosystem Spaceborne Thermal Radiometer Experiment on Space Station (ECOSTRESS) thermal infrared sensor. ECOSTRESS was launched in June 2018 with the capability to image fine-scale urban temperatures at a 70 m resolution throughout different times of the day and night. The HVI model further includes information on socio-demographic data, green vegetation abundance, and historical heatwave temperatures from the Moderate Resolution Imaging Spectroradiometer (MODIS) sensor onboard the Aqua spacecraft since 2002. During a period of high heat in July 2018, we identified the five most vulnerable communities at a sub-city block scale in the LA region. The persistence of high HVI throughout the day and night in these areas indicates a clear and urgent need for implementing cooling technologies and green infrastructure to curb future warming. [@nasa-jpl @stateofcalifornia READ](https://www.mdpi.com/2072-4292/11/18/2136?fbclid=IwY2xjawMmt79leHRuA2FlbQIxMABicmlkETBpTWJLbDNIN2RadWNwRFAzAR5s6qR_xbllGZhRHGK70glWCGtN6JVQjcgpArxgQQsRJMM8RzC-C8SD_yad-A_aem_eSZpEAoaGyNmhbmWkFI15w) + [ECOSTRESS Shaping How We Address Urban Heat Islands](https://ecostress.jpl.nasa.gov/news/ecostress-shaping-how-we-address-urban-heat-islands) : [NASA's ECOSTRESS Maps Burn Risk Across Phoenix Streets](https://ecostress.jpl.nasa.gov/news/nasas-ecostress-maps-burn-risk-across-phoenix-streets)
@@ -58,8 +92,6 @@ Rapid 21st century urbanization combined with anthropogenic climate warming are 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2163066369&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/djlordsear" title="Dj Lord Sear - The Lord Sear Special" target="_blank" style="color: #cccccc; text-decoration: none;">Dj Lord Sear - The Lord Sear Special</a> · <a href="https://soundcloud.com/djlordsear/2025-labor-day-ol-skool" title="2025 LABOR DAY OL-SKOOL DRUNKMIX ETC..." target="_blank" style="color: #cccccc; text-decoration: none;">2025 LABOR DAY OL-SKOOL DRUNKMIX ETC...</a></div>
 
 @NASA Jet Propulsion Laboratory NASA Earthdata im layering maps to see if there is #correlation between #PlanktonLevels and #SeaSurfaceTemperature City of Santa Monica - Government here is a useful map, my connection is saturated with playful ppl and cybercriminals at #LAPL_LiL_TOKEYO Keisha Lance Bottoms US Rep Nanette Diaz Barragán [Link to MAp](https://worldview.earthdata.nasa.gov/?v=-180.85812337227324%2C-63.54696249285059%2C70.14876594843392%2C77.6444127500472&as=2025-08-25-T00%3A00%3A00Z&ae=2025-09-02-T00%3A00%3A00Z&l=Reference_Labels_15m%28hidden%29%2CReference_Features_15m%28hidden%29%2CCoastlines_15m%28hidden%29%2COCO-2_Solar_Induced_Florescence_Blended%2CMODIS_Aqua_L2_Chlorophyll_A%2CMODIS_Terra_L2_Chlorophyll_A%2CSEAWIFS_ORBVIEW-2_GAC_Chlorophyll_a%2CMERIS_ENVISAT_Chlorophyll_a%2CVIIRS_SNPP_L2_Chlorophyll_A%2CVIIRS_NOAA20_Chlorophyll_a%2CVIIRS_NOAA21_Chlorophyll_a%2CS3B_OLCI_Chlorophyll_a%2CS3A_OLCI_Chlorophyll_a%2COCI_PACE_Chlorophyll_a%2CGHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies%2CBlueMarble_ShadedRelief&lg=true&tr=el_nino&al=true&ab=on&t=2023-10-22-T06%3A19%3A29Z&fbclid=IwY2xjawMltaRleHRuA2FlbQIxMABicmlkETAyZkg2WGxZU0FDMXJjUUlkAR7JbYxOJA8CR2pUnJPltuX19IJw_wPvs0kPtjvUvqynSW8i2jKNKcUjPMNyoQ_aem_ykR5wrWQwr4wpKjhqtmwug) [@blackgirlscode @whitehouse @nasa-pds @podaac @cityoflosangeles @stateofcalifornia](https://www.facebook.com/permalink.php?story_fbid=pfbid0gjCE3yQAEyTekGVYZudJTxejBCSchep3YWr5A4vk1nUrhYCZ6xXzaqL1BfM5rE7vl&id=100084464911565)
-
-<img  alt="image" src="https://github.com/user-attachments/assets/f5957e4b-9b85-45ed-be48-0d1fbb5b21f1" />
 
 
 ![image](https://github.com/user-attachments/assets/0e0e98d2-b3c5-4093-a842-9ea7a32baa6e)
@@ -101,36 +133,6 @@ Earth Observing Fleet - Now
 Released Monday, January 30, 2023
 [link](https://svs.gsfc.nasa.gov/5067)
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02gD9czuKMgSnMhvz7VUwiU86vb4LWR6FGfM3DcGqPJvTDUArozSuiNRxCmxrs1rc2l%26id%3D100084464911565&show_text=true&width=500" width="500" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
-# JPL Publication 09 - [ecostress](https://ecostress.jpl.nasa.gov/gallerylist) - NASA
-## User Guide Documents - ecostress - NASA
-[Link](https://ecostress.jpl.nasa.gov/data/user-guide-documents-table)
-<img  alt="image" src="https://github.com/user-attachments/assets/78eac8c5-559b-4ffa-a78d-4fa652314cb8" />
-[ecostress-gallery](https://ecostress.jpl.nasa.gov/gallerylist)
-<img  alt="image" src="https://github.com/user-attachments/assets/74367068-b586-4ca4-ad49-902e2eabbfd6" />
-
-
-
-## ECOsystem Spaceborne Thermal Radiometer
-Experiment on Space Station (ECOSTRESS) Mission [DOWNLOAD_PDF](https://ecostress.jpl.nasa.gov/downloads/userguides/4b_ECOSTRESS_UserGuide_L4_WUE_20190618.pdf)
-<img  alt="image" src="https://github.com/user-attachments/assets/fb3a8093-f84b-4f74-afe6-aa3dec30420b" />
-
-
-[ECOSTRESS: Monitoring plants from space](https://www.youtube.com/watch?v=ALZTMLH9boY)
-[Monitoring Plant Health from Space: NASA’s ECOSTRESS Mission](https://www.youtube.com/watch?v=kR8LlN0ftG4)
-[ECOSTRESS: NASA's Next-Generation Mission to Measure Evapotranspiration from the ISS](https://youtu.be/7d1beGfOHPs?si=W_tyGA6TEGoNJSCT) [**NASA ARSET: Introduction to OpenET, Part 1/3**](https://youtu.be/QHqWrO2HMco?si=2MgryGBUvhuH3YK3) [The NASA ECOSTRESS Mission - Dr Josh Fisher (Science Lead, NASA-JPL) - OCTF Seminar](https://youtu.be/fwCjq-Ltkoc)
-[ECOSTRESS Data Reveal Surprising Water Use Patterns](https://ecostress.jpl.nasa.gov/news/ecostress-data-reveal-surprising-water-use-patterns)
-
-[Rashardnasagit](https://github.com/rashardnasalosangelesJPL/rashardnasalosangelesJPL.github.io)
-
-[NasaVitals ECOSTRESS JUPiTERNOTEBOOK](This repository provides Python Jupyter notebook examples to help users work with VSWIR and TIR data from the EMIT and ECOSTRESS missions.) 
-[https://github.com/@nasa/VITALS](https://github.com/ThakaRashard/VITALS)
-This repository provides Python Jupyter notebook examples to help users work with VSWIR and TIR data from the EMIT and ECOSTRESS missions.
-[nasa.github.io/VITALS/](nasa.github.io/VITALS/)
-
-
-<img src="https://ecostress.jpl.nasa.gov/downloads/gallery/00050_LA_beaches_1Aug2020.png" alt="ECO image"/>
-
 
 ![GOEs @noaa @nasa-jpl](https://www.star.nesdis.noaa.gov/goes/images/banner/GOESAllBanner_1800x100px.jpg)
 [GOES](https://www.star.nesdis.noaa.gov/goes/fulldisk_band.php?sat=G18&band=EXTENT3&length=77)
