@@ -14,6 +14,16 @@ image: ecostressjplnasagov-eco-booster.jpg
     <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
 </picture>
 
+
+
+
+
+[annual global hackathon on October 4-5. spaceappschallenge.org](https://www.spaceappschallenge.org/)
+<img alt="@emit-sds https://www.facebook.com/permalink.php?story_fbid=pfbid0oBTstH7RCWHtRCiHornEyoQDq1sYkwDh4Z8uAtVx3PFHTo1bqstnYp3EaH8mfmXQl&id=100084464911565 @nasa-jpl" src="https://github.com/user-attachments/assets/3b6a848c-50c7-4cb5-8ba2-ff1b5ad80136" /> @stateofcalifornia @cityoflosangeles @newshour @datadesk 
+
+[FaceBook rant @blackgirlscode @emit-sds](https://www.facebook.com/permalink.php?story_fbid=pfbid0oBTstH7RCWHtRCiHornEyoQDq1sYkwDh4Z8uAtVx3PFHTo1bqstnYp3EaH8mfmXQl&id=100084464911565 ) 
+
+
 [rashard-ecostress-jpl-iss/ECOSTRESS-Data-Resources REGiSTRATiON ViDEO @nasa-jpl ](https://ia600902.us.archive.org/29/items/20250816_20250816_1754_EcoStress_CRAM/rashard_iman_kelly_NASA_JPLECOSTRESS_ScienceandApplicationsTeamMeeting2025Yourresponsehasbeenrecorded.mp4)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rashard-ecostress-jpl-iss/ECOSTRESS-Data-Resources.git/HEAD)
 ECOSTRESS-Data-Resources :
