@@ -23,8 +23,12 @@ Loaded with [Files from the @Tesla revolt](https://archive.org/download/20250816
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rashard-ecostress-jpl-iss/ECOSTRESS-Data-Resources.git/HEAD)
 <iframe src="https://archive.org/embed/20250816_20250816_1754_EcoStress_CRAM" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+# @USGS ECOSTRESS DATASTORE
+works better with [Lynx](https://lynx.invisible-island.net/)
 
 
+[@CityOFLosangeles HeatMAp](https://www.facebook.com/photo.php?fbid=757580037067487&set=pb.100084464911565.-2207520000&type=3)
+<img  alt="image" src="https://github.com/user-attachments/assets/d3286713-84a5-411d-952d-a3abde945775" />
 
 Emit EMIT-Data-Resources
 Public forked from [nasa/EMIT-Data-Resources](https://github.com/nasa/EMIT-Data-Resources) [![EMiTBinder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nasa/EMIT-Data-Resources.git/HEAD)
@@ -140,6 +144,9 @@ Released Monday, January 30, 2023
 
 ![https://aviris.jpl.nasa.gov/images/aviris_text2.png](https://aviris.jpl.nasa.gov/images/aviris_text2.png)
 
+@libretro render
+
+<img alt="@stateofcalifornia @nasa-jpl COAST" src="https://github.com/user-attachments/assets/58678f27-1a6e-485a-9745-c6e155a3d218" />
 
 
 [CSS_SKiLLS_STATUS @nasa-jpl HTML5 @w3c](https://codepen.io/thakarashard/pen/LEpzdmY)
