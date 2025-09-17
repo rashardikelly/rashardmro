@@ -15,8 +15,12 @@ image: ecostressjplnasagov-eco-booster.jpg
 </picture>
 
 
+EcoStress Hackathon work 
+<img  alt="image @emit-sds @nasa-pds @nasa-jpl @asfadmin @blackgirlscode" src="https://github.com/user-attachments/assets/175bdad4-cda9-460b-b7bb-a271959c379d" />
 
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:1bKzOeq3wXRxsAoXbQ9IKQ/794974179823943680/v2" data-did="2574a98c9a52a5e9ba192e4472db910e2ab680fd"  ><a href="https://www.tumblr.com/rashardmro/794974179823943680/losangeles-from-sentinel-1">https://www.tumblr.com/rashardmro/794974179823943680/losangeles-from-sentinel-1</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
 
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:1bKzOeq3wXRxsAoXbQ9IKQ/794973890136965120/v2" data-did="2e45314205240b786298e42d5d3cf3af44e383e9"  ><a href="https://www.tumblr.com/rashardmro/794973890136965120/map-floods-with-sar-data-and-deep-learning-shivani">https://www.tumblr.com/rashardmro/794973890136965120/map-floods-with-sar-data-and-deep-learning-shivani</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
 
 [annual global hackathon on October 4-5. spaceappschallenge.org](https://www.spaceappschallenge.org/)
 <img alt="@emit-sds https://www.facebook.com/permalink.php?story_fbid=pfbid0oBTstH7RCWHtRCiHornEyoQDq1sYkwDh4Z8uAtVx3PFHTo1bqstnYp3EaH8mfmXQl&id=100084464911565 @nasa-jpl" src="https://github.com/user-attachments/assets/3b6a848c-50c7-4cb5-8ba2-ff1b5ad80136" /> @stateofcalifornia @cityoflosangeles @newshour @datadesk 
