@@ -8,18 +8,6 @@ mermaid: true
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
-<img alt="image" src="https://github.com/user-attachments/assets/a7559fad-536a-4e0b-b055-9f7f50859270" />
-https://dy4owt9f80bz7.cloudfront.net/s3-06b3213905ebfa9144871d6c7f9306f0/asf-ngap2w-p-s1-img-c6fc3715.s3.us-west-2.amazonaws.com/S1A_IW_GRDH_1SDV_20250219T232148_20250219T232213_057972_07278E_6DD9.jpg?A-userid=rashardkelly&Expires=1758321543&Signature=4tnjTSpjU9xaNIzBHGHEt4DoMOpBfzdqeixLEUAKeSto4HPEyIAqLP7-qXycyxqrXH7C-LjumwqG~o-TH0yl7lCwm~gzGxXL4zx4hJtQj13ERxnfMHF~GALtqHpeoNJg8olPHSjJ5vrqb8zb~KxBlIwrz8Fbx5oOkkQjvo8NksFPW6xpuf3HW2VW1PAV2YjTX-5WTQBMltpWzJSZHyYUzHtqx1rZn~iSswc9j2oY85woC~erT063OhmvdafbGut3CbguSprzyro8cTzMDzsHR8s5Ir~dNkeoVtjt1gVUkm-AFEkQZqNsYY3RFOraj6LvMvBs8BGxaeuv534PEXfp4g__&Key-Pair-Id=K36Z9U953ARO59
-
-<img  alt="image" src="https://github.com/user-attachments/assets/30fd95cd-9009-4d57-a864-21244d9c19bf" />
-
-https://dy4owt9f80bz7.cloudfront.net/s3-06b3213905ebfa9144871d6c7f9306f0/asf-ngap2w-p-s1-img-c6fc3715.s3.us-west-2.amazonaws.com/S1A_IW_GRDH_1SDV_20250830T232145_20250830T232210_060772_079083_C29F.jpg?A-userid=rashardkelly&Expires=1758320897&Signature=vmrGsSPzXOD27gO0UIflO8~eB3vzJZCKUINl2YmyCVIilHD6E9jDk-6RLQOEZsu~XkMDlPmUz8uNB8uC~0Jq~mIV1g6Oczdwrp-Kt9EKKZjUQletklRvHbx2bGbRcCe5biL4Rq30NWo~YyLoSPmF14b4RKwJfJSHNFaWYXYIecPQFnsSzpwhX57pjQGhrKlFphk6X56hBDG6R-mTUj97fTmaQ0~FBC-KR0HZ1u3wCnPlZd7hCeNXwrmvzcSu2hd4fXR13YKXdkZctXBFB~Z6VmwnlVUiAwyl~326HyAhoez8k0ij8C9O3R7IRzCi6MJ6u2lE85~BLr3Qw7ML8QvWKg__&Key-Pair-Id=K36Z9U953ARO59
-[HiRes @nasa-jpl emit-sds](https://archive.org/download/vid-20250914-182140/S1A_IW_GRDH_1SDV_20250219T232148_20250219T232213_057972_07278E_6DD9.zip)
-
-# [@nasa-develop @stateofcalifornia @cityoflosangeles @usgs @blackgirlscode](https://ia601006.us.archive.org/10/items/vid-20250910-135146/VID_20250919_103337.mp4)
- [watchVid](https://ia601006.us.archive.org/10/items/vid-20250910-135146/VID_20250919_103337.mp4)
-
-<iframe src="https://archive.org/embed/vid-20250914-182140" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
   {% for post in site.posts %}
