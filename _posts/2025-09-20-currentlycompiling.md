@@ -11,6 +11,15 @@ author: "RashardKelly @nasa-jpl"
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8tchKEI4F5s?si=0LAzeVvuFkZWAvGL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<img  alt="@meta We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More
+If you think this doesn't go against our Community Standards let us know. Give feedback @nasa-jpl @blackgirlscode" src="https://github.com/user-attachments/assets/30166c3a-623f-4ebd-8493-a3343295140c" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/cd604bdb-8009-4690-9c37-0178ed052c34" />
+
+
 # Robert Capa [loc](https://catdir.loc.gov/catdir/enhancements/fy0728/93046814-d.html)
 [Picasso And Françoise Gilot By Robert Capa](https://www.kpbs.org/news/arts-culture/2009/09/15/picasso-and-francoise-gilot-robert-capa)
 <img alt="RobertCapa Library Punch Card @cityoflosangeles" src="https://github.com/user-attachments/assets/fcd009f5-37ef-48e2-9d3e-a896af473bb7" />
