@@ -16,6 +16,7 @@ author: "RashardKelly @nasa-jpl"
 <img  alt="@meta We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More
 If you think this doesn't go against our Community Standards let us know. Give feedback @nasa-jpl @blackgirlscode" src="https://github.com/user-attachments/assets/30166c3a-623f-4ebd-8493-a3343295140c" />
 
+[JUNO_MiSSiON_FiLE @nasa-pds](https://naif.jpl.nasa.gov/pub/naif/pds/data/jno-j_e_ss-spice-6-v1.0/jnosp_1000/catalog/mission.cat) [JUNO_MiSSiON_FiLE @nasa-develop](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/cd604bdb-8009-4690-9c37-0178ed052c34" />
 
