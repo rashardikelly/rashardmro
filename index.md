@@ -9,6 +9,8 @@ mermaid: true
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
 
+<iframe src="https://archive.org/embed/oe_m1m_dscovr_s20250714000000_e20250714235959_p20250715021540_pub.nc" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 
   {% for post in site.posts %}
     
