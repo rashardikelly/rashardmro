@@ -8,7 +8,7 @@ image: womeninscience.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 
-@nasa-pds @podaac @cityoflosangeles @stateofcalifornia 
+[@nasa-pds @podaac @cityoflosangeles @stateofcalifornia](https://youtu.be/qU2pldVF0p8?si=XVPbbbfiHMXlpfjo) <~ exoplanet research seems to be bubbling up @blackgirlscodde 
 date:   2024-11-18 22:51:06 -0800
 <img alt="image" src="https://github.com/user-attachments/assets/a66514a7-e84e-4593-a821-2bb5870a0ebe" />
 
