@@ -6,13 +6,28 @@ title: "ECOSTRESS:Monitoring plants from space"
 image: ecostressjplnasagov-eco-booster.jpg
 ---
 
-[current](https://youtu.be/d8yGrk0Sfxg?t=2335)
+[current](https://youtu.be/d8yGrk0Sfxg?t=2335) = [UHF](https://dn720405.ca.archive.org/0/items/uhf_20221230/UHF.mp4)
 
 <picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
   <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
   <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
     <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
 </picture>
+
+
+# - ECOSTRESS img DATATYPES
+Datastore = `https://e4ftl01.cr.usgs.gov/WORKING/BRWS` @usgs
+pg VNIR, TIR, SWIR
+
+
+[Observing in Infrared @nasa earthobservatory](https://earthobservatory.nasa.gov/features/FalseColor/page5.php)
+Near infrared (NIR)
+
+
+![pg](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/2025.09.12/pg-BR1A0000-2025091201_005_003.1.VNIR.jpg)
+[ I Dream of Jeannie, Season 1Episode 17](https://youtu.be/uEu47HiXGMc)
+[NASA confirms 6,000 exoplanets — scientists say we’re entering ‘Next Great Chapter of Exploration’](https://youtu.be/qU2pldVF0p8?si=o3XDG8_Qscxtojmv)
+
 
 
 EcoStress Hackathon work 
