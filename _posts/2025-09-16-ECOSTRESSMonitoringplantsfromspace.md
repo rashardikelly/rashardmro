@@ -21,10 +21,15 @@ pg VNIR, TIR, SWIR
 
 
 [Observing in Infrared @nasa earthobservatory](https://earthobservatory.nasa.gov/features/FalseColor/page5.php)
-Near infrared (NIR)
+Near infrared (NIR) :: [short-wave-infrared](https://ntrs.nasa.gov/citations/19930066375)
 
 pg-BR1A0000-2025091201_005_003.1.VNIR
 ![pg](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/2025.09.12/pg-BR1A0000-2025091201_005_003.1.VNIR.jpg)
+
+### [Swir,vir,tir]
+
+<img    alt="image" src="https://github.com/user-attachments/assets/ffb4201b-5fa7-4b01-bd82-e94a67347349" />
+
 [ I Dream of Jeannie, Season 1Episode 17](https://youtu.be/uEu47HiXGMc)
 [NASA confirms 6,000 exoplanets — scientists say we’re entering ‘Next Great Chapter of Exploration’](https://youtu.be/qU2pldVF0p8?si=o3XDG8_Qscxtojmv)
 
