@@ -1,6 +1,11 @@
 # Rashard Kelly NasaJpl MRO JUNO iSS
 [Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) 
 
+
+# [@nasa-develop @stateofcalifornia @cityoflosangeles @usgs @blackgirlscode](https://ia601006.us.archive.org/10/items/vid-20250910-135146/VID_20250919_103337.mp4)
+ [watchVid](https://ia601006.us.archive.org/10/items/vid-20250910-135146/VID_20250919_103337.mp4)
+
+
 [@emit-sds - rashards ecostress hackathon sub](https://github.com/ThakaRashard/rashardmro/commit/5b333ec4f5e2c2c85280d17f1892ebd0f79f4058#diff-097a54917a481915404192fd7a8be0c6ba10a4e93d0168b6aeca44cd138f3a32)
 
 ![mars2020](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
