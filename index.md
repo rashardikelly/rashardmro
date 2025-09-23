@@ -9,8 +9,8 @@ mermaid: true
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
 
-<iframe src="https://archive.org/embed/oe_m1m_dscovr_s20250714000000_e20250714235959_p20250715021540_pub.nc" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />
 
   {% for post in site.posts %}
     
@@ -23,6 +23,10 @@ mermaid: true
 </article>
 
   {% endfor %}
+
+
+<iframe src="https://archive.org/embed/oe_m1m_dscovr_s20250714000000_e20250714235959_p20250715021540_pub.nc" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 
 [@nasa-jpl hr](https://ia801301.us.archive.org/27/items/15-ab-souls-outro-feat-ab-soul_202401/Section.80/05%20Tammy%27s%20Song%20%28Her%20Evils%29.mp3)
 <img  alt="image" src="https://github.com/user-attachments/assets/45b035db-a5ae-4e3a-af4f-16ebae6d5c32" />
