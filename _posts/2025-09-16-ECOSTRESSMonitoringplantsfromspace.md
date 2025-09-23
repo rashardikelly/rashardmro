@@ -29,6 +29,8 @@ pg-BR1A0000-2025091201_005_003.1.VNIR
 [NASA confirms 6,000 exoplanets — scientists say we’re entering ‘Next Great Chapter of Exploration’](https://youtu.be/qU2pldVF0p8?si=o3XDG8_Qscxtojmv)
 
 
+[read Beyond Visible Light](https://science.nasa.gov/mission/webb/science-overview/science-explainers/infrared-astronomy/)
+![ELECTROMAGNETiC_SPECTRUM @blackgirlscode](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/outreach/migrated/2018/STScI-01H3W8QBES46GXWSMNY54SR46V.png?w=1024&h=411&fit=crop&crop=faces%2Cfocalpoint)
 
 EcoStress Hackathon work 
 <img  alt="image @emit-sds @nasa-pds @nasa-jpl @asfadmin @blackgirlscode" src="https://github.com/user-attachments/assets/175bdad4-cda9-460b-b7bb-a271959c379d" />
