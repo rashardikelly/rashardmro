@@ -23,6 +23,9 @@ pg VNIR, TIR, SWIR
 [Observing in Infrared @nasa earthobservatory](https://earthobservatory.nasa.gov/features/FalseColor/page5.php)
 Near infrared (NIR) :: [short-wave-infrared](https://ntrs.nasa.gov/citations/19930066375)
 
+
+![Clouds @stateofcalifornia @cityoflosangeles possibly @nasa-jpl @nasa-pds @blackgirlscode](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/2025.09.12/AST_L1T_00309112025050312_20250912121357_2266792_BR.4.QA.jpg)
+
 pg-BR1A0000-2025091201_005_003.1.VNIR
 ![pg](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/2025.09.12/pg-BR1A0000-2025091201_005_003.1.VNIR.jpg)
 
