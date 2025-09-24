@@ -2,10 +2,30 @@
 layout: post
 mermaid: true
 published: true
-title: currentlycompiling
-image: tumblr_9996aa2d413f6668f7f48ccdb4f9fb8a_8780e031_2048.jpg
+title: Satellites
+image: 0102619orig.webp
 author: "RashardKelly @nasa-jpl"
 ---
+
+
+
+
+[Venera Soviet Missions to Venus](https://nssdc.gsfc.nasa.gov/planetary/venera.html)
+
+<img width="55" height="55" src="https://nssdc.gsfc.nasa.gov/logo/nasa_logo.gif" />
+
+
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-venus' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
 
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
@@ -73,23 +93,6 @@ For more than three decades, NASA and an international team of scientists and en
 
 </video> 
 
-California Fires without Fire Pixels
-Oct 29, 2003 [ClickHere](https://svs.gsfc.nasa.gov/2847)
-The Palisades and Eaton Fires, Los Angeles, California
-Image captured on Jan 12, 2025, by the MSI instrument aboard ESA's Sentinel-2A platform.
-[Comparison MAps @nasa-jpl EarthDataSquad](https://www.earthdata.nasa.gov/news/worldview-image-archive/palisades-eaton-fires-los-angeles-california)
-
-![Los Angeles Sheriffs Department](https://lasd.org/wp-content/uploads/2019/02/LASD-grve-small-square_rev.png)
-[ACADEMY CLASS #483 Graduation @meta](https://fb.watch/BV-soGm3j0/)
-<img  alt="image" src="https://github.com/user-attachments/assets/eb320a28-bd90-4be6-8af1-4c6a45a32fb8" />
-
-<img  alt="image" src="https://github.com/user-attachments/assets/43c781fe-1f92-4abb-8708-94de0dcdb569" />
-
-<img alt="image" src="https://github.com/user-attachments/assets/1a26040c-1389-4924-967d-2c3d47e42beb" />
-
-<img   alt="image" src="https://github.com/user-attachments/assets/082137e1-e766-4e61-84df-20aee706350b" />
-
-<img width="1853" height="1079" alt="image" src="https://github.com/user-attachments/assets/44d3dd23-cfab-4ede-b1bc-5bf351d94e57" />
 
 [Beat Street freewithads on @youtube](https://youtu.be/4o5nrZGxyZQ?t=4435)
 [FireReport](https://rashardgds.github.io/2025/08/13/FireReportCleanUp.html)
@@ -109,26 +112,8 @@ Image captured on Jan 12, 2025, by the MSI instrument aboard ESA's Sentinel-2A p
 
 ![OPUS](https://opus.pds-rings.seti.org/holdings/previews/COUVIS_0xxx/COUVIS_0001/DATA/D1999_230/FUV1999_230_09_27_full.png)
 
-OPUS ID:
-co-uvis-fuv1999_230_09_27
-Instrument Name:
-Cassini UVIS
-Planet:
-Other
-Intended Target Name(s):
-Earth
-Observation Start Time (YMDhms):
-1999-08-18T09:27:20.064
-Observation Duration (secs):
-43200
 
 ![OPUS EARTH](https://opus.pds-rings.seti.org/holdings/previews/COUVIS_0xxx/COUVIS_0001/DATA/D1999_230/FUV1999_230_03_27_full.png)
-
-[Android SDK - Low Memory Error - https://support.identity.entrust.com/](https://support.identity.entrust.com/s/article/Android#:~:text=Error%20Handling,'Dont%20keep%20activities'%20option.)
-Error Handling
- to fix this error on Android try   [Developer options](https://developer.android.com/studio/debug/dev-options), scroll all the way down, and uncheck (turn off) the 'Dont keep activities' option. 'Unable to complete previous operation due to low memory' error message on your Android device [Android Developers](https://www.youtube.com/user/androiddevelopers) @FEMA
-
-<img alt="image" src="https://github.com/user-attachments/assets/47285529-0013-4ebb-b2b0-f3f08d5a0ba1" />
 
 
 
@@ -140,22 +125,7 @@ There have been 46 space missions to the planet Venus [wiki](https://en.wikipedi
 
 
 @nasa-pds @stateofcalifornia [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/@repkarenbass) [![Twitter Follow](https://img.shields.io/badge/Social-@neiltyson__-blue?style=social&logo=X)](https://twitter.com/@neiltyson)
-[Venera Soviet Missions to Venus](https://nssdc.gsfc.nasa.gov/planetary/venera.html)
 
-<img width="55" height="55" src="https://nssdc.gsfc.nasa.gov/logo/nasa_logo.gif" />
-
-
-<div class="tupperware">
-    
-{% for image in site.static_files %}
-    {% if image.path contains 'assets/images/gallery-venus' | sort: 'date' | reverse %} 
-        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
-            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
-        </a>
-    {% endif %}
-{% endfor %}
-
-</div>
 
 [PDS Imaging Node: Data Archive](https://planetarydata.jpl.nasa.gov/img/data/mgs-m-moc-na_wa-2-sdp-l0-v1.0/mgsc_1116/extras/) @nasa-jpl [MArs Global Surveyor MGS](https://www.jpl.nasa.gov/missions/mars-global-surveyor/)
 
