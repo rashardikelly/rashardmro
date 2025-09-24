@@ -8,7 +8,7 @@ author: "RashardKelly @nasa-jpl"
 ---
 
 
-
+![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
 [Venera Soviet Missions to Venus](https://nssdc.gsfc.nasa.gov/planetary/venera.html)
 
@@ -28,7 +28,7 @@ author: "RashardKelly @nasa-jpl"
 </div>
 
 
-![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
+
 <img alt="image" src="https://github.com/user-attachments/assets/a7559fad-536a-4e0b-b055-9f7f50859270" />
 https://dy4owt9f80bz7.cloudfront.net/s3-06b3213905ebfa9144871d6c7f9306f0/asf-ngap2w-p-s1-img-c6fc3715.s3.us-west-2.amazonaws.com/S1A_IW_GRDH_1SDV_20250219T232148_20250219T232213_057972_07278E_6DD9.jpg?A-userid=rashardkelly&Expires=1758321543&Signature=4tnjTSpjU9xaNIzBHGHEt4DoMOpBfzdqeixLEUAKeSto4HPEyIAqLP7-qXycyxqrXH7C-LjumwqG~o-TH0yl7lCwm~gzGxXL4zx4hJtQj13ERxnfMHF~GALtqHpeoNJg8olPHSjJ5vrqb8zb~KxBlIwrz8Fbx5oOkkQjvo8NksFPW6xpuf3HW2VW1PAV2YjTX-5WTQBMltpWzJSZHyYUzHtqx1rZn~iSswc9j2oY85woC~erT063OhmvdafbGut3CbguSprzyro8cTzMDzsHR8s5Ir~dNkeoVtjt1gVUkm-AFEkQZqNsYY3RFOraj6LvMvBs8BGxaeuv534PEXfp4g__&Key-Pair-Id=K36Z9U953ARO59
 
