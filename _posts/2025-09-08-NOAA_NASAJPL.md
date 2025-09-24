@@ -6,6 +6,11 @@ image: 1965_TIROS9_NOAA_lib.jpeg
 ---
 
 
+Ecco The Dolphin
+[wiki](https://en.m.wikipedia.org/wiki/Ecco_the_Dolphin_(video_game)) [fandom](https://eccothedolphin.fandom.com/wiki/Ecco:_The_Tides_of_Time)
+
+<iframe src="https://archive.org/embed/ecco_bin" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 # CLimateTunes
 <object width="500" height="250" data="https://www.youtube.com/embed/MxGEVIvSFeY" title="Journey - Wheel in the Sky (Official HD Video - 1978)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></object>
 
