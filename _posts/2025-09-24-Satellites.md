@@ -18,7 +18,7 @@ author: "RashardKelly @nasa-jpl"
 <div class="tupperware">
     
 {% for image in site.static_files %}
-    {% if image.path contains 'assets/images/gallery-venus' | sort: 'date' | reverse %} 
+    {% if image.path contains 'assets/images/gallery-venus' | sort: 'date' %} 
         <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
             <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
         </a>
