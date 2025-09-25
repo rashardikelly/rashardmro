@@ -16,7 +16,7 @@ Identification & CAC Cards
 ![CAC](https://vandenbergfss.com/wp-content/uploads/2024/07/cac-card-2-d948afd2.png.webp) 
 
 
-[Flyby](https://science.nasa.gov/mission/new-horizons/)
+[Flyby](https://science.nasa.gov/mission/new-horizons/) [common](https://soundcloud.com/josh-calhoun-330633673/be-1?si=33cc6ae82b5442c8b9947857af691218&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) erika hated me after i heard that record @blackgirlscode 
 ![PLUTO @StateofCalifornia](https://science.nasa.gov/wp-content/uploads/2023/06/pia11709-pluto-heart-1920x640-1.jpg)
 [@nasa-pds @podaac @cityoflosangeles @stateofcalifornia](https://youtu.be/qU2pldVF0p8?si=XVPbbbfiHMXlpfjo) <~ exoplanet research seems to be bubbling up @blackgirlscodde 
 date:   2024-11-18 22:51:06 -0800
