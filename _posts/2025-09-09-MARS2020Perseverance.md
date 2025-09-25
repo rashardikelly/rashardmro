@@ -10,7 +10,15 @@ author: "RashardKelly @nasa-jpl"
 # [Mars](https://youtu.be/SKlbDtWYHJk) Exploration Program
 NASA's Mars Exploration Program includes current missions Odyssey, MRO, Mars Express, MSL, InSight, and Mars 2020 [READMORE](https://pds-geosciences.wustl.edu/missions/mep/index.htm)
 
+<style>
+.whitebg {background-color:white;}
+</style>
 
+## Wifi [IEEE 802.11b-1999](https://en.wikipedia.org/wiki/IEEE_802.11b-1999)
+
+<IMG class="whitebg" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/2.4_GHz_Wi-Fi_channels_%28802.11b%2Cg_WLAN%29.svg" />   
+
+[Messenger - Earth Departure Movie](https://messenger.jhuapl.edu/Explore/media/videos/mdis_depart.mpeg)
 # Mars Reconnaissance Orbiter
 
 Launched in August of 2005, the High Resolution Imaging Science Experiment (HiRISE) is flying onboard the Mars Reconnaissance Orbiter (MRO) mission. HiRISE will investigate deposits and landforms resulting from geologic and climatic processes and assist in the evaluation of candidate landing sites.  [Link marsoweb.nas.nasa.gov/hirise/](https://marsoweb.nas.nasa.gov/hirise/) [fullres 3d anaglyph](https://www.uahirise.org/anaglyph/ESP_088645_1945_ESP_087933_1945_RED)
