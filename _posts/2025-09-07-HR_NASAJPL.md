@@ -8,6 +8,15 @@ image: womeninscience.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 
+
+[COMMON ACCESS CARD](https://vandenbergfss.com/military-personnel-flight/#:~:text=Force%20Management:,Force.Management@spaceforce.mil)
+Identification & CAC Cards
+@nasa-jpl [NewsAboutHer @blackgirlscode](https://www.elle.com/culture/music/a33544593/cardi-b-wap-kylie-jenner-normani-twitter-reactions/) @ajc oooh this video [go](https://ia600704.us.archive.org/21/items/i_saw_some_scary_graffiti_threatening_elon_musk/F-hti3easAA54F1.jpeg)nna hurt [@newshour](https://thatgrapejuice.net/2022/05/watch-cardi-triestennis-season-2-episode-12-starring-normani/)
+![CAC](https://vandenbergfss.com/wp-content/uploads/2024/07/cac-card-2-d948afd2.png.webp) 
+
+
+[Flyby](https://science.nasa.gov/mission/new-horizons/)
+![PLUTO @StateofCalifornia](https://science.nasa.gov/wp-content/uploads/2023/06/pia11709-pluto-heart-1920x640-1.jpg)
 [@nasa-pds @podaac @cityoflosangeles @stateofcalifornia](https://youtu.be/qU2pldVF0p8?si=XVPbbbfiHMXlpfjo) <~ exoplanet research seems to be bubbling up @blackgirlscodde 
 date:   2024-11-18 22:51:06 -0800
 <img alt="image" src="https://github.com/user-attachments/assets/a66514a7-e84e-4593-a821-2bb5870a0ebe" />
