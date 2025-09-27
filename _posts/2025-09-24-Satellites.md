@@ -7,7 +7,35 @@ image: 0102619orig.webp
 author: "RashardKelly @nasa-jpl"
 ---
 
+### Resources 
+[Accessing Data for the World's Water with SWOT](https://www.earthdata.nasa.gov/learn/webinars/accessing-data-worlds-water-swot)
+[Watch](https://www.youtube.com/watch?v=lKtFMfHH5Ic) /// [SWOT Data Access Workshop July 2024](https://youtu.be/7qqiUqR43_8)
+Hydrology Data Products from the SWOT Mission @cityoflosangeles @stateofcalifornia [Meet the SWOT Mission Makers: Cedric David](https://www.youtube.com/watch?v=XrvuRIpiqP4) ::: [advisio](https://mobile.aviso.altimetry.fr/en/home.html)
 
+[Watch](https://www.youtube.com/watch?v=-gd0Fu56LW4) [SWOT Reference Frames, Coordinates, Static Surfaces and Tides (Webinar Recording, May 19, 2025)](https://youtu.be/1Wxw1QVIRn8) [River Discharge from the SWOT Mission](https://www.youtube.com/watch?v=UWpqwy2IZog) From Space to Solutions: Access, Visualization, and Analysis Services for SWOT Hydrology [WATCH](https://www.youtube.com/watch?v=ypdww5ZoD8M)
+
+SWOT River Database (SWORD)
+[https://www.swordexplorer.com/](https://www.swordexplorer.com/)
+<img alt="image" src="https://github.com/user-attachments/assets/464b111a-fc92-4b5f-84db-6afb5f9d8a98" />
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-gd0Fu56LW4?si=GY9V6yW3fxbOUwbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Los Angeles River 
+its phase two of my @nasa:#EARTHDATA taskslistt 
+Since im Learning The Satellites that provide the dataproducts ill start on this page and create a portable [include](https://jekyllrb.com/docs/includes/), The following archive is an intro to what i grounded last year. I want to demonstrate proficiency in all the data products I agreed to work with for 20205 with AppliedAction26 @Nasa-jpl.
+# California_Linux : RiverDataLosAngeles
+Exploring Ecostress, Emit, Aviris, SWOT, and Sentinel DataProducts - RashardNasaEarthData
+by [RashardKelly](https://archive.org/search?query=creator%3A%22RashardKelly%22) - on [GiTHub](https://rashardiman.github.io/)
+
+<iframe src="https://archive.org/embed/RashardNasaEarthDataRiverWatch" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[@usgs Water Dashboard]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-118.30456%2C34.08195%2C-117.64538%2C34.33777%5D&view=%7B%22basemap%22%3A%22CartoDarkmatter2%22%2C%22bounds%22%3A%22-118.30455780029298%2C34.08195280002996%2C-117.64537811279298%2C34.337766445056666%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Atrue%2C%22checkbox%22%3A%220%2C10%2C17%2C19%2C20%2C21%2C22%2C23%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D ) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/414bd0f6-c41e-4df6-8a2f-689e713e6d55" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/a2e93ad4-1309-4061-aeda-dc7d265bfb46" />
+
+[CAssini](https://pds-imaging.jpl.nasa.gov/help/How_to_obtain_Cassini_data.pdf)
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
 [Venera Soviet Missions to Venus](https://nssdc.gsfc.nasa.gov/planetary/venera.html)
@@ -52,22 +80,20 @@ If you think this doesn't go against our Community Standards let us know. Give f
 
 <img  alt="image" src="https://github.com/user-attachments/assets/cd604bdb-8009-4690-9c37-0178ed052c34" />
 
-
-# Robert Capa [loc](https://catdir.loc.gov/catdir/enhancements/fy0728/93046814-d.html)
-[Picasso And Françoise Gilot By Robert Capa](https://www.kpbs.org/news/arts-culture/2009/09/15/picasso-and-francoise-gilot-robert-capa)
-<img alt="RobertCapa Library Punch Card @cityoflosangeles" src="https://github.com/user-attachments/assets/fcd009f5-37ef-48e2-9d3e-a896af473bb7" />
-<img alt="picasso" src="https://github.com/user-attachments/assets/e2a66f9c-0316-4469-b1d8-7b4c122dfd2a" />
-<img alt="picasso" src="https://github.com/user-attachments/assets/d3994b9c-91c7-43c0-8df0-97a2f3aa9dfc" />
-<img alt="picasso" src="https://github.com/user-attachments/assets/0775e1ae-0b3d-4eb0-8b2f-9f1a6ebe83da" />
-
-
-
-
-
-
-![leadership @stateofcalifornia @nasa-jpl](https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/5/de/5de8d4a6-8258-11ee-a9d8-7f5b5d3a916f/6552751ac0ec3.image.jpg?resize=990%2C660) 
-LA mayor celebrates moving 8,866 homeless into permanent free housing in 2024 [Read https://www.thecentersquare.com/](https://www.thecentersquare.com/california/article_2772a650-b695-11ef-92b8-cb84d1295234.html) [‘There’s just a pile-on’: How Karen Bass lost control of the wildfire narrative - politico.com/](https://www.politico.com/news/2025/01/14/karen-bass-california-wildfires-00198180)
-
+[[PreMagellan](https://web.archive.org/web/20100528053701/http://starbrite.jpl.nasa.gov/pds/viewMissionProfile.jsp?MISSION_NAME=PRE-MAGELLAN)
+    Mission Overview
+    ============================
+ 
+      This entity is a collection of selected Earth-based radar data
+      of Venus, the Moon, Mercury, and Mars, Pioneer Venus radar data,
+      airborne radar images of Earth, and line of sight acceleration
+      data derived from tracking the Pioneer Venus Orbiter and Viking
+      Orbiter 2.  Included are 12.6 centimeter wavelength Arecibo
+      Venus radar images, 12.6 to 12.9 cm Goldstone Venus radar images
+      and altimetry data, together with altimetry, brightness
+      temperature, Fresnel reflectivity and rms slopes derived from
+      the Pioneer Venus Radar Mapper. 
+[readmore](https://web.archive.org/web/20100528053701/http://starbrite.jpl.nasa.gov/pds/viewMissionProfile.jsp?MISSION_NAME=PRE-MAGELLAN)
 
 <img  alt="politico @cityoflosangeles" src="https://github.com/user-attachments/assets/8c48efd3-5cae-46b0-9a65-04aa294e9684" />
 
