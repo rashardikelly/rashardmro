@@ -10,9 +10,13 @@ author: "RashardKelly @nasa-jpl"
 ### Resources 
 [Accessing Data for the World's Water with SWOT](https://www.earthdata.nasa.gov/learn/webinars/accessing-data-worlds-water-swot)
 [Watch](https://www.youtube.com/watch?v=lKtFMfHH5Ic)
-Hydrology Data Products from the SWOT Mission @cityoflosangeles @stateofcalifornia [Meet the SWOT Mission Makers: Cedric David](https://www.youtube.com/watch?v=XrvuRIpiqP4)
+Hydrology Data Products from the SWOT Mission @cityoflosangeles @stateofcalifornia [Meet the SWOT Mission Makers: Cedric David](https://www.youtube.com/watch?v=XrvuRIpiqP4) ::: [advisio](https://mobile.aviso.altimetry.fr/en/home.html)
 
 [Watch](https://www.youtube.com/watch?v=-gd0Fu56LW4) [SWOT Reference Frames, Coordinates, Static Surfaces and Tides (Webinar Recording, May 19, 2025)](https://youtu.be/1Wxw1QVIRn8) [River Discharge from the SWOT Mission](https://www.youtube.com/watch?v=UWpqwy2IZog)
+
+SWOT River Database (SWORD)
+[https://www.swordexplorer.com/](https://www.swordexplorer.com/)
+<img alt="image" src="https://github.com/user-attachments/assets/464b111a-fc92-4b5f-84db-6afb5f9d8a98" />
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-gd0Fu56LW4?si=GY9V6yW3fxbOUwbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
