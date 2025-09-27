@@ -7,11 +7,13 @@ image: 0102619orig.webp
 author: "RashardKelly @nasa-jpl"
 ---
 
-
+### Resources 
+[Accessing Data for the World's Water with SWOT](https://www.earthdata.nasa.gov/learn/webinars/accessing-data-worlds-water-swot) [Watch](https://www.youtube.com/watch?v=lKtFMfHH5Ic)
 ### Los Angeles River 
 its phase two of my @nasa:#EARTHDATA taskslistt 
 Since im Learning The Satellites that provide the dataproducts ill start on this page and create a portable [include](https://jekyllrb.com/docs/includes/), The following archive is an intro to what i grounded last year. I want to demonstrate proficiency in all the data products I agreed to work with for 20205 with AppliedAction26 @Nasa-jpl.
-# California_Linux : RiverDataLosAngeles Exploring Ecostress, Emit, Aviris, SWOT, and Sentinel DataProducts - RashardNasaEarthData
+# California_Linux : RiverDataLosAngeles
+Exploring Ecostress, Emit, Aviris, SWOT, and Sentinel DataProducts - RashardNasaEarthData
 by [RashardKelly](https://archive.org/search?query=creator%3A%22RashardKelly%22) - on [GiTHub](https://rashardiman.github.io/)
 
 <iframe src="https://archive.org/embed/RashardNasaEarthDataRiverWatch" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
