@@ -12,7 +12,7 @@ author: "RashardKelly @nasa-jpl"
 [Watch](https://www.youtube.com/watch?v=lKtFMfHH5Ic) /// [SWOT Data Access Workshop July 2024](https://youtu.be/7qqiUqR43_8)
 Hydrology Data Products from the SWOT Mission @cityoflosangeles @stateofcalifornia [Meet the SWOT Mission Makers: Cedric David](https://www.youtube.com/watch?v=XrvuRIpiqP4) ::: [advisio](https://mobile.aviso.altimetry.fr/en/home.html)
 
-[Watch](https://www.youtube.com/watch?v=-gd0Fu56LW4) [SWOT Reference Frames, Coordinates, Static Surfaces and Tides (Webinar Recording, May 19, 2025)](https://youtu.be/1Wxw1QVIRn8) [River Discharge from the SWOT Mission](https://www.youtube.com/watch?v=UWpqwy2IZog)
+[Watch](https://www.youtube.com/watch?v=-gd0Fu56LW4) [SWOT Reference Frames, Coordinates, Static Surfaces and Tides (Webinar Recording, May 19, 2025)](https://youtu.be/1Wxw1QVIRn8) [River Discharge from the SWOT Mission](https://www.youtube.com/watch?v=UWpqwy2IZog) From Space to Solutions: Access, Visualization, and Analysis Services for SWOT Hydrology [WATCH](https://www.youtube.com/watch?v=ypdww5ZoD8M)
 
 SWOT River Database (SWORD)
 [https://www.swordexplorer.com/](https://www.swordexplorer.com/)
