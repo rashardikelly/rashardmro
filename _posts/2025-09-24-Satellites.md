@@ -12,7 +12,7 @@ author: "RashardKelly @nasa-jpl"
 [Watch](https://www.youtube.com/watch?v=lKtFMfHH5Ic)
 Hydrology Data Products from the SWOT Mission @cityoflosangeles @stateofcalifornia [Meet the SWOT Mission Makers: Cedric David](https://www.youtube.com/watch?v=XrvuRIpiqP4)
 
-[Watch](https://www.youtube.com/watch?v=-gd0Fu56LW4) [SWOT Reference Frames, Coordinates, Static Surfaces and Tides (Webinar Recording, May 19, 2025)](https://youtu.be/1Wxw1QVIRn8)
+[Watch](https://www.youtube.com/watch?v=-gd0Fu56LW4) [SWOT Reference Frames, Coordinates, Static Surfaces and Tides (Webinar Recording, May 19, 2025)](https://youtu.be/1Wxw1QVIRn8) [River Discharge from the SWOT Mission](https://www.youtube.com/watch?v=UWpqwy2IZog)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-gd0Fu56LW4?si=GY9V6yW3fxbOUwbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
