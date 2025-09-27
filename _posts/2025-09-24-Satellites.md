@@ -8,6 +8,21 @@ author: "RashardKelly @nasa-jpl"
 ---
 
 
+### Los Angeles River 
+its phase two of my @nasa:#EARTHDATA taskslistt 
+Since im Learning The Satellites that provide the dataproducts ill start on this page and create a portable [include](https://jekyllrb.com/docs/includes/), The following archive is an intro to what i grounded last year. I want to demonstrate proficiency in all the data products I agreed to work with for 20205 with AppliedAction26 @Nasa-jpl.
+# California_Linux : RiverDataLosAngeles Exploring Ecostress, Emit, Aviris, SWOT, and Sentinel DataProducts - RashardNasaEarthData
+by [RashardKelly](https://archive.org/search?query=creator%3A%22RashardKelly%22) - on [GiTHub](https://rashardiman.github.io/)
+
+<iframe src="https://archive.org/embed/RashardNasaEarthDataRiverWatch" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[@usgs Water Dashboard]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-118.30456%2C34.08195%2C-117.64538%2C34.33777%5D&view=%7B%22basemap%22%3A%22CartoDarkmatter2%22%2C%22bounds%22%3A%22-118.30455780029298%2C34.08195280002996%2C-117.64537811279298%2C34.337766445056666%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Atrue%2C%22checkbox%22%3A%220%2C10%2C17%2C19%2C20%2C21%2C22%2C23%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D ) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/414bd0f6-c41e-4df6-8a2f-689e713e6d55" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/a2e93ad4-1309-4061-aeda-dc7d265bfb46" />
+
+
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
 [Venera Soviet Missions to Venus](https://nssdc.gsfc.nasa.gov/planetary/venera.html)
