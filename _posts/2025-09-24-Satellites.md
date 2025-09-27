@@ -8,7 +8,14 @@ author: "RashardKelly @nasa-jpl"
 ---
 
 ### Resources 
-[Accessing Data for the World's Water with SWOT](https://www.earthdata.nasa.gov/learn/webinars/accessing-data-worlds-water-swot) [Watch](https://www.youtube.com/watch?v=lKtFMfHH5Ic)
+[Accessing Data for the World's Water with SWOT](https://www.earthdata.nasa.gov/learn/webinars/accessing-data-worlds-water-swot)
+[Watch](https://www.youtube.com/watch?v=lKtFMfHH5Ic)
+Hydrology Data Products from the SWOT Mission @cityoflosangeles @stateofcalifornia
+
+[Watch](https://www.youtube.com/watch?v=-gd0Fu56LW4)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-gd0Fu56LW4?si=GY9V6yW3fxbOUwbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Los Angeles River 
 its phase two of my @nasa:#EARTHDATA taskslistt 
 Since im Learning The Satellites that provide the dataproducts ill start on this page and create a portable [include](https://jekyllrb.com/docs/includes/), The following archive is an intro to what i grounded last year. I want to demonstrate proficiency in all the data products I agreed to work with for 20205 with AppliedAction26 @Nasa-jpl.
