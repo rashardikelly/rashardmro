@@ -8,9 +8,17 @@ image: womeninscience.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 
+@nasa @nasa-jpl @stateofcalifornia
+Rashards Verifyable Skills.[..](https://gist.github.com/Fil/780eb92d6071d96343decebc77013ed1)
+Retriving Information With [Telnet](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/telnet)
+<img  alt="image @blackgirlscode @usnavby" src="https://github.com/user-attachments/assets/2aa5a89e-cdee-46b2-8878-e07476327ed4" />
+
 # The Best Oromo Music - Giiftii. Hallo Dawe - Part.1 (Sirbooota Oromoo)
 [Dj_QuEERRoO](https://www.youtube.com/@oromo44/videos)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/stwV3Q2q2RY?si=F6v3s5dBIiJ7KacM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+![@nasa-jpl @blackgirlscode](https://home.army.mil/stewart/6515/5742/1543/RockytheBulldog.png)
 
 @nasa-jpl HR @nasa @whitehouse 
 one of the girls said she was oromo so im trying to get resources to clean our path... 
