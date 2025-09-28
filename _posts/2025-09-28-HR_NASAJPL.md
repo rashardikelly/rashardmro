@@ -8,6 +8,9 @@ image: womeninscience.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 
+# The Best Oromo Music - Giiftii. Hallo Dawe - Part.1 (Sirbooota Oromoo)
+[Dj_QuEERRoO](https://www.youtube.com/@oromo44/videos)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/stwV3Q2q2RY?si=F6v3s5dBIiJ7KacM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 @nasa-jpl HR @nasa @whitehouse 
 one of the girls said she was oromo so im trying to get resources to clean our path... 
