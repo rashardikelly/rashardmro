@@ -8,6 +8,23 @@ image: womeninscience.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 
+
+
+# While I was gone
+we got pushed around and settled in atlanta, and other ppl started spending time with me and i want everyone accounted for so i never disrupt a mission again... im sorry for missing [Mars2020](https://science.nasa.gov/mission/mars-2020-perseverance/)
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-fb1' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
+
+@blackgirlscode @stateofcalifornia 
 @nasa @nasa-jpl @stateofcalifornia
 Rashards Verifyable Skills.[..](https://gist.github.com/Fil/780eb92d6071d96343decebc77013ed1)
 Retriving Information With [Telnet](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/telnet)
