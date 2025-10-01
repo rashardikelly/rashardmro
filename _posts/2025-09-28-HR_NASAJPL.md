@@ -8,6 +8,7 @@ image: womeninscience.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 
+<img  alt="good luck @blackgirlcode" src="https://github.com/user-attachments/assets/43d8d492-1e19-4fcd-a027-0e6785f58132" />
 
 <img  alt="@nasa-pds" src="https://github.com/user-attachments/assets/079f7e92-a3e8-4947-88db-11d64b8302cf" />
 <img width="@nasa-jpl @blackgirlscode @cityoflosangeles @stateofcalifornia" alt="image" src="https://github.com/user-attachments/assets/9150d122-f809-4a34-b550-7432dfcd4e10" />
