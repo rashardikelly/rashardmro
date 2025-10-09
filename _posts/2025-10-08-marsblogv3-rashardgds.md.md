@@ -3,7 +3,7 @@ layout: post
 mermaid: true
 published: true
 title: MarsBlog @nasa-jpl rashardsResearch
-image: Mars_Perseverance_EAF_0002_0667110417_773ECV_N0010052EDLC00002_0010LUJ01.png
+image: Mars_Perseverance_NRF_1646_0813065456_362ECM_N0791204NCAM03646_07_195J.png
 ---
 
 
