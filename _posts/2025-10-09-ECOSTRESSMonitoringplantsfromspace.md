@@ -14,6 +14,33 @@ somafm [SaceStationSOMA](https://somafm.com/spacestation/) OR [Deep Space One](h
     <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
 </picture>
 
+## EcoStress HeatMAp 
+
+
+[KMZ @google @stateofcalifornia](https://ecostress.jpl.nasa.gov/downloads/images/ECOSTRESS_LST_SummerDay_LosAngeles.kmz) 
+[GoogleMaps @nasa-jpl @blackgirlscode](https://earth.google.com/web/@33.97546243,-118.21866348,46.7908069a,121182.25139954d,30y,0h,0t,0r/data=CgRCAggBOgMKATBCAggASggI2cjE5QEQAA)
+
+<img  alt="image @google" src="https://github.com/user-attachments/assets/50ea44d1-a3e1-4d27-8859-1bdc34f8dcad" />
+
+
+![@cityoflosangeles @nasa-jpl @stateofcalifornia @blackgirlscode](https://ecostress.jpl.nasa.gov/downloads/images/streetheat_la.png?fbclid=IwY2xjawNU4RxleHRuA2FlbQIxMABicmlkETA2T3E0blUwRUFLQnpMMkVsAR5v5o1RYIpESdxSSYr2m9xC73zGw2icIckRQEEr5TgOc-re8DlCu_B5jrtaMg_aem_Gs25fLM42-KfUzGVGafE0w)
+
+
+
+# Los Angeleles [SarView @cityoflosangeles ](https://www.earthdata.nasa.gov/data/tools/vertex)
+@whitehouse @asfadmin @nasa-jpl @emit-sds @blackgirlscode @stateofcalifornia 
+
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-lasar10-9' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
 
 # - ECOSTRESS img DATATYPES
 Datastore = `https://e4ftl01.cr.usgs.gov/WORKING/BRWS` @usgs
