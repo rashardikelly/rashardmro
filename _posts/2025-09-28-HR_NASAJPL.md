@@ -10,6 +10,15 @@ author: "RashardKelly @nasa-jpl"
 
 
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0M6bLRf5LQ7VApqLR82AUR2XTvDwzn4waQ1FdmqoRkgubcmGjxctR8c1yyQCe81aFl%26id%3D100084464911565&show_text=true&width=500" width="500" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+@nasa-jpl this tweet is the girl i went out with thats part of @blackgirlscode @whitehouse 
+@nasa-pds i have more explaining to do bc of a act she in . . . l8tr
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Full Episode Here: <a href="https://t.co/cKxRS3aT1f">https://t.co/cKxRS3aT1f</a> ♥️</p>&mdash; SpringHill (@makespringhill) <a href="https://twitter.com/makespringhill/status/1842033364007579777?ref_src=twsrc%5Etfw">October 4, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02bodacEmgcxyvBTRngQdcuJ8GYuGYQUtjc8wZ41uY6kSz9ocvbtWJ9bPHfu26PKcxl%26id%3D100084464911565&show_text=true&width=500" width="500" height="402" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid06XdiEP3wm7DTFTXT7uYH6RZfqb8dugTA8Z5WCwzi4DCZzuXM1PHTUUA8fbnyQgKgl%26id%3D100084464911565&show_text=true&width=500" width="500" height="742" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
