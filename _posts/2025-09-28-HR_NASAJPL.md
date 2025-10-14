@@ -8,6 +8,7 @@ image: womeninscience.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 
+<img   alt="image" src="https://github.com/user-attachments/assets/262118c9-bf7d-416a-9b0a-430d3d469e59" />
 
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0M6bLRf5LQ7VApqLR82AUR2XTvDwzn4waQ1FdmqoRkgubcmGjxctR8c1yyQCe81aFl%26id%3D100084464911565&show_text=true&width=500" width="500" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
