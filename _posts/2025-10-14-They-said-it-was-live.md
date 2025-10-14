@@ -8,7 +8,12 @@ image: post_computinsg.PNG
 author: RashardKelly @nasa-jpl
 ---
 
-# Live: Here's what the LA river looks like after heavy rain arrived overnight
+# Team Coverage: Storm brings evacuations, flooded roads to Southern California
+@blackgirlscode 
+@disney @cbsinteractive @nasa-jpl @cityoflosangeles
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zklEQdaO3Aw?si=Fg9-QHNMMmpmJNki" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Live: Here's what the LA river looks like after heavy rain arrived overnight
 @disney @cbsinteractive @nasa-jpl @cityoflosangeles
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AQ9K_EjBFMg?si=V-n4lvnC2yOfgpyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
