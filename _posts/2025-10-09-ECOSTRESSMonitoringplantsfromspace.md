@@ -8,11 +8,36 @@ image: ecostressjplnasagov-eco-booster.jpg
 somafm [SaceStationSOMA](https://somafm.com/spacestation/) OR [Deep Space One](https://somafm.com/deepspaceone/)
 [current](https://youtu.be/d8yGrk0Sfxg?t=2335) = [UHF](https://dn720405.ca.archive.org/0/items/uhf_20221230/UHF.mp4)
 
+`You are downloading data from NASA's Land Processes Distributed
+Active Archive Center` [LinK @emit-sds @nasa-pjs @stateofcalifornia @cityoflosangeles](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/)
+
 <picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
   <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
   <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
     <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
 </picture>
+
+
+
+# - ECOSTRESS img DATATYPES
+Datastore = `https://e4ftl01.cr.usgs.gov/WORKING/BRWS` @usgs
+pg VNIR, TIR, SWIR
+
+
+[Observing in Infrared @nasa earthobservatory](https://earthobservatory.nasa.gov/features/FalseColor/page5.php)
+Near infrared (NIR) :: [short-wave-infrared](https://ntrs.nasa.gov/citations/19930066375)
+
+
+![Clouds @stateofcalifornia @cityoflosangeles possibly @nasa-jpl @nasa-pds @blackgirlscode](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/2025.09.12/AST_L1T_00309112025050312_20250912121357_2266792_BR.4.QA.jpg)
+
+pg-BR1A0000-2025091201_005_003.1.VNIR
+![pg](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/2025.09.12/pg-BR1A0000-2025091201_005_003.1.VNIR.jpg)
+
+### [Swir,vir,tir]
+
+<img    alt="image" src="https://github.com/user-attachments/assets/ffb4201b-5fa7-4b01-bd82-e94a67347349" />
+
+![@nasa-jpl looks like firedata @podaac](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/2025.09.12/AST_L1T_00309112025001522_20250912100346_1763552_BR.4.QA.jpg)
 
 ## EcoStress HeatMAp 
 
@@ -42,25 +67,131 @@ somafm [SaceStationSOMA](https://somafm.com/spacestation/) OR [Deep Space One](h
 
 </div>
 
-# - ECOSTRESS img DATATYPES
-Datastore = `https://e4ftl01.cr.usgs.gov/WORKING/BRWS` @usgs
-pg VNIR, TIR, SWIR
 
 
-[Observing in Infrared @nasa earthobservatory](https://earthobservatory.nasa.gov/features/FalseColor/page5.php)
-Near infrared (NIR) :: [short-wave-infrared](https://ntrs.nasa.gov/citations/19930066375)
+[IT Linux Systems Engineer](https://job-boards.greenhouse.io/spacex/jobs/8053599002)
+<img  alt="image" src="https://github.com/user-attachments/assets/86569675-ee91-464a-a8e0-804e44b36eb4" />
+![new](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/2025.09.12/AST_L1T_00309112025232702_20250912135154_2440578_BR.4.QA.jpg)
+![new](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/2025.09.12/AST_L1T_00309112025232737_20250912135314_2442617_BR.4.QA.jpg)
 
+```shell
+root@rhel:~# python
+Python 3.9.21 (main, Aug 19 2025, 00:00:00) 
+[GCC 11.5.0 20240719 (Red Hat 11.5.0-5)] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from exif import Image
+>>> with open('AST_L1T_00309112025232737_20250912135314_2442617_BR.4.QA.jpg') as image_file:
+...     my_image = Image(image_file)
+... 
+Traceback (most recent call last):
+  File "<stdin>", line 2, in <module>
+  File "/usr/local/lib/python3.9/site-packages/exif/_image.py", line 72, in __init__
+    img_bytes = img_file.read()  # type: ignore
+  File "/usr/lib64/python3.9/codecs.py", line 322, in decode
+    (result, consumed) = self._buffer_decode(data, self.errors, final)
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+>>> from exif import Image
+>>> with open('AST_L1T_00309112025232737_20250912135314_2442617_BR.4.QA.jpg') as image_file:
+...     my_image = Image(image_file)
+... 
+Traceback (most recent call last):
+  File "<stdin>", line 2, in <module>
+  File "/usr/local/lib/python3.9/site-packages/exif/_image.py", line 72, in __init__
+    img_bytes = img_file.read()  # type: ignore
+  File "/usr/lib64/python3.9/codecs.py", line 322, in decode
+    (result, consumed) = self._buffer_decode(data, self.errors, final)
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+>>>     my_image = Image(image_file)
+  File "<stdin>", line 1
+    my_image = Image(image_file)
+IndentationError: unexpected indent
+>>>    my_image = Image(image_file)
+  File "<stdin>", line 1
+    my_image = Image(image_file)
+IndentationError: unexpected indent
+>>> my_image = Image(image_file)
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "/usr/local/lib/python3.9/site-packages/exif/_image.py", line 72, in __init__
+    img_bytes = img_file.read()  # type: ignore
+ValueError: I/O operation on closed file.
+>>> exit
+Use exit() or Ctrl-D (i.e. EOF) to exit
+>>> exit()
+root@rhel:~# ls -l
+total 232
+-rw-r--r--. 1 root root 221296 Oct  9 20:57 AST_L1T_00309112025232737_20250912135314_2442617_BR.4.QA.jpg
+-rw-r--r--. 1 root root    214 Oct  9 20:40 config.json
+-rw-r--r--. 1 root root    115 Oct  9 20:40 Containerfile
+drwxr-xr-x. 4 root root     52 Oct  9 20:40 etc
+-rw-r--r--. 1 root root     30 Oct  9 20:39 post-run.log
+root@rhel:~# ls -l^C
+root@rhel:~# history
+    1  python
+    2  pip install exif
+    3  yum install pip
+    4  pip install exif
+    5  python
+    6  wgethttps://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/2025.09.12/AST_L1T_00309112025232737_20250912135314_2442617_BR.4.QA.jpg
+    7  wget https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/2025.09.12/AST_L1T_00309112025232737_20250912135314_2442617_BR.4.QA.jpg
+    8  ls- 
+    9  ls -l
+   10  python
+   11  ls -l
+   12  history
+root@rhel:~# python
+Python 3.9.21 (main, Aug 19 2025, 00:00:00) 
+[GCC 11.5.0 20240719 (Red Hat 11.5.0-5)] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> with open('AST_L1T_00309112025232737_20250912135314_2442617_BR.4.QA.jpg') as image_file
+  File "<stdin>", line 1
+    with open('AST_L1T_00309112025232737_20250912135314_2442617_BR.4.QA.jpg') as image_file
+                                                                                           ^
+SyntaxError: invalid syntax
+>>> from exif import Image
+>>> with open('AST_L1T_00309112025232737_20250912135314_2442617_BR.4.QA.jpg') as image_file
+  File "<stdin>", line 1
+    with open('AST_L1T_00309112025232737_20250912135314_2442617_BR.4.QA.jpg') as image_file
+                                                                                           ^
+SyntaxError: invalid syntax
+>>> with open('AST_L1T_00309112025232737_20250912135314_2442617_BR.4.QA.jpg') as image_file:
+... 
+  File "<stdin>", line 2
 
-![Clouds @stateofcalifornia @cityoflosangeles possibly @nasa-jpl @nasa-pds @blackgirlscode](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/2025.09.12/AST_L1T_00309112025050312_20250912121357_2266792_BR.4.QA.jpg)
+    ^
+IndentationError: expected an indented block
+>>> with open('AST_L1T_00309112025232737_20250912135314_2442617_BR.4.QA.jpg') as image_file:
+...    
+... my_image = Image(image_file)
+  File "<stdin>", line 3
+    my_image = Image(image_file)
+    ^
+IndentationError: expected an indented block
+>>>    my_image = Image(image_file)
+  File "<stdin>", line 1
+    my_image = Image(image_file)
+IndentationError: unexpected indent
+>>>     my_image = Image(image_file)
+  File "<stdin>", line 1
+    my_image = Image(image_file)
+IndentationError: unexpected indent
+>>> my_image = Image(image_file)
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'image_file' is not defined
+>>> with open('AST_L1T_00309112025232737_20250912135314_2442617_BR.4.QA.jpg') as image_file:
+...     
+...     my_image = Image(image_file)
+...    
+...
+```
 
-pg-BR1A0000-2025091201_005_003.1.VNIR
-![pg](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/2025.09.12/pg-BR1A0000-2025091201_005_003.1.VNIR.jpg)
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+    <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+</picture>
 
-### [Swir,vir,tir]
-
-<img    alt="image" src="https://github.com/user-attachments/assets/ffb4201b-5fa7-4b01-bd82-e94a67347349" />
-
-![@nasa-jpl looks like firedata @podaac](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/2025.09.12/AST_L1T_00309112025001522_20250912100346_1763552_BR.4.QA.jpg)
 
 <div class="tupperware" markdown="1">
   
@@ -68,9 +199,15 @@ pg-BR1A0000-2025091201_005_003.1.VNIR
 ![@blackgirlscode @nasa-jpl @stateofcalifornia](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/2025.09.12/AST_L1T_00309112025001548_20250912100437_1768441_BR.4.QA.jpg)
 
 </div>
-[ I Dream of Jeannie, Season 1Episode 17](https://youtu.be/uEu47HiXGMc)
+
+[I Dream of Jeannie, Season 1Episode 17](https://youtu.be/uEu47HiXGMc)
 [NASA confirms 6,000 exoplanets — scientists say we’re entering ‘Next Great Chapter of Exploration’](https://youtu.be/qU2pldVF0p8?si=o3XDG8_Qscxtojmv)
 
+# California_Linux: Ecostress annual review cram prep + report
+Loaded with [Files from the @Tesla revolt](https://archive.org/download/20250816_20250816_1754_EcoStress_CRAM)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rashard-ecostress-jpl-iss/ECOSTRESS-Data-Resources.git/HEAD)
+
+<iframe src="https://archive.org/embed/20250816_20250816_1754_EcoStress_CRAM" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [read Beyond Visible Light](https://science.nasa.gov/mission/webb/science-overview/science-explainers/infrared-astronomy/)
 ![ELECTROMAGNETiC_SPECTRUM @blackgirlscode](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/outreach/migrated/2018/STScI-01H3W8QBES46GXWSMNY54SR46V.png?w=1024&h=411&fit=crop&crop=faces%2Cfocalpoint)
@@ -97,10 +234,7 @@ ECOSTRESS-Data-Resources :
 Public forked from [nasa/ECOSTRESS-Data-Resources](https://github.com/nasa/ECOSTRESS-Data-Resources)
 tool[VERTeX ASf](https://search.asf.alaska.edu/#/?zoom=3.000&center=-97.494,39.673) <~ SAR DATA Current&Modern
 
-# California_Linux: Ecostress annual review cram prep + report
-Loaded with [Files from the @Tesla revolt](https://archive.org/download/20250816_20250816_1754_EcoStress_CRAM)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rashard-ecostress-jpl-iss/ECOSTRESS-Data-Resources.git/HEAD)
-<iframe src="https://archive.org/embed/20250816_20250816_1754_EcoStress_CRAM" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 
 # @USGS ECOSTRESS DATASTORE
 works better with [Lynx](https://lynx.invisible-island.net/)
