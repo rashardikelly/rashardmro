@@ -26,6 +26,9 @@ nslookup -type=mx jpl.nasa.gov
 nslookup -q=mx firms.modaps.eosdis.nasa.gov
 nslookup -q=ns firms.modaps.eosdis.nasa.gov
 nslookup -type=ns uahirise.org
+nslookup -type=mx uahirise.org
+nslookup -type=mx home.treasury.govnslookup -type=ns home.treasury.govnslookup -type=ns treasurer.ca.gov
+nslookup -type=mx treasurer.ca.gov
 nslookup -type=mx uahirise.orgho
 host trumpcard.gov  
 host commerce.gov
@@ -60,6 +63,8 @@ nslookup -type=ns hollyjmitchell.com
 nslookup -type=mx hollyjmitchell.com
 nslookup -type=ns esa.int
 nslookup -type=mx esa.int
+nslookup -type=ns spacetelescope.or
+nslookup -type=mx spacetelescope.or
 nslookup -type=ns spacetelescope.org
 
 nslookup -type=mx spacetelescope.org
