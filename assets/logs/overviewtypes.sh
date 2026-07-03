@@ -69,6 +69,14 @@ nslookup -type=ns spacetelescope.org
 
 nslookup -type=mx spacetelescope.org
 
+nslookup -type=ns pds-geosciences.wustl.edu
+nslookup -type=mx pds-geosciences.wustl.edu
+nslookup -type=ns centcom.mil
+nslookup -type=mx centcom.mil
+nslookup -type=ns glorillaofficial.com
+nslookup -type=mx glorillaofficial.com
+ nslookup -type=ns officialnormani.com
+nslookup -type=mx officialnormani.com
 traceroute reelecthydee.com
 nslookup -type=ns healthebay.org
 nslookup -type=mx healthebay.org
