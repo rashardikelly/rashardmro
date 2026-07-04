@@ -13,6 +13,8 @@ cal
 nslookup -type=mx spacex.com
 nslookup -type=ns spacex.com
 host  spacex.com
+nslookup -type=ns proofpoint.com
+nslookup -type=mx proofpoint.com
 nslookup -type=mx whitehouse.gov
 nslookup -type=ns whitehouse.gov
 host -a whitehouse.gov
@@ -23,6 +25,8 @@ nslookup -type=ns earthdata.nasa.gov
 nslookup -type=mx earthdata.nasa.gov 
 nslookup -type=ns jpl.nasa.gov
 nslookup -type=mx jpl.nasa.gov
+nslookup -type=ns virtiserv.com
+nslookup -type=mx virtiserv.com
 nslookup -q=mx firms.modaps.eosdis.nasa.gov
 nslookup -q=ns firms.modaps.eosdis.nasa.gov
 nslookup -type=ns uahirise.org
@@ -63,19 +67,15 @@ nslookup -type=ns hollyjmitchell.com
 nslookup -type=mx hollyjmitchell.com
 nslookup -type=ns esa.int
 nslookup -type=mx esa.int
-nslookup -type=ns spacetelescope.or
-nslookup -type=mx spacetelescope.or
 nslookup -type=ns spacetelescope.org
-
 nslookup -type=mx spacetelescope.org
-
 nslookup -type=ns pds-geosciences.wustl.edu
 nslookup -type=mx pds-geosciences.wustl.edu
 nslookup -type=ns centcom.mil
 nslookup -type=mx centcom.mil
 nslookup -type=ns glorillaofficial.com
 nslookup -type=mx glorillaofficial.com
- nslookup -type=ns officialnormani.com
+nslookup -type=ns officialnormani.com
 nslookup -type=mx officialnormani.com
 traceroute reelecthydee.com
 nslookup -type=ns healthebay.org
@@ -343,6 +343,7 @@ curl virtiserv.com
 curl nasa.gov
 curl whitehouse.gov
 traceroute esa.int
+traceroute proofpoint.co.
 nslookup -type=ns virtiserv.com
 nslookup -type=mx virtiserv.com
 echo " #NEWS ra5hard.github.io  && cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html"
