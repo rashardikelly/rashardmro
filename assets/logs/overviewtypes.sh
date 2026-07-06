@@ -10,6 +10,12 @@ nslookup -type=mx whitehouse.gov
 nslookup -type=ns whitehouse.gov
 nslookup -type=mx war.gov
 nslookup -type=ns war.gov
+nslookup -type=mx congress.gov
+nslookup -type=ns congress.gov
+nslookup -type=mx loc.gov
+nslookup -type=ns loc.gov
+nslookup -type=mx visitthecapitol.gov
+nslookup -type=ns visitthecapitol.gov
 nslookup -type=ns earthdata.nasa.gov  
 nslookup -type=mx earthdata.nasa.gov 
 nslookup -type=ns jpl.nasa.gov
@@ -20,6 +26,16 @@ nslookup -type=mx spacex.com
 nslookup -type=ns spacex.com
 nslookup -type=ns proofpoint.com
 nslookup -type=mx proofpoint.com
+nslookup -type=mx dot.gov
+nslookup -type=ns dot.gov
+nslookup -type=mx fmcsa.dot.gov
+nslookup -type=ns fmcsa.dot.gov
+nslookup -type=ns cloudflare.com
+nslookup -type=mx CLOUDFLARE.COM
+nslookup -type=ns starchild.gsfc.nasa.gov
+nslookup -type=mx starchild.gsfc.nasa.gov
+nslookup -type=mx portoflosangeles.org
+nslookup -type=ns portoflosangeles.org
 nslookup -type=ns mdscc.nasa.gov
 nslookup -type=mx mdscc.nasa.gov
 nslookup -type=ns gdscc.nasa.gov
@@ -36,6 +52,8 @@ nslookup -type=ns pds-geosciences.wustl.edu
 nslookup -type=mx pds-geosciences.wustl.edu
 nslookup -type=ns centcom.mil
 nslookup -type=mx centcom.mil
+nslookup -type=mx jobs.lamayor.org
+nslookup -type=ns jobs.lamayor.org
 nslookup -type=ns healthebay.org
 nslookup -type=mx healthebay.org
 nslookup -type=mx issinfo.net
@@ -108,6 +126,8 @@ nslookup -type=mx lindseyhorvath.com
 nslookup -type=ns lindseyhorvath.com
 nslookup -type=mx karenbass.com
 nslookup -type=ns karenbass.com
+nslookup -type=mx steveharvey.com
+nslookup -type=ns steveharvey.com
 nslookup -type=mx raulclaros.com
 nslookup -type=ns raulclaros.com
 host raulclaros.com
@@ -121,6 +141,14 @@ nslookup -type=ns officialnormani.com
 nslookup -type=mx officialnormani.com
 nslookup -type=ns dojacat.com
 nslookup -type=mx dojacat.com
+nslookup -type=ns people.com
+nslookup -type=mx people.com
+nslookup -type=ns elle.com
+nslookup -type=mx elle.com
+nslookup -type=ns store.megantheestallion.com
+nslookup -type=mx store.megantheestallion.com
+nslookup -type=ns megantheestallion.com
+nslookup -type=mx megantheestallion.com
 traceroute reelecthydee.com
 
 
@@ -240,22 +268,22 @@ nslookup -type=mx tiktok.com
 nslookup -type=ns tiktok.com
 nslookup -type=mx distrowatch.com
 nslookup -type=ns distrowatch.com
-host -a wikipedia.org
-host -a saxavord.com
+
 nslookup -type=ns facebook.com
 nslookup -type=mx facebook.com
 nslookup -type=ns x.com
 nslookup -type=mx x.com
-host twitter.com
+
 nslookup -type=ns tumblr.com
 nslookup -type=mx tumblr.com
 nslookup -type=ns essence.com
 nslookup -type=mx essence.com
 nslookup -type=ns ebony.com
 nslookup -type=mx ebony.com
-
+host twitter.com
 host -a bsky.app
-
+host -a wikipedia.org
+host -a saxavord.com
 ## channels
 nslookup -type=ns cbs.com
 nslookup -type=mx cbs.com
@@ -314,9 +342,8 @@ nslookup -type=mx ladottransit.com
 nslookup -type=ns bigbluebus.com
 nslookup -type=mx ladottransit.com
 nslookup -type=mx lapdonline.org
-traceroute ladottransit.com
+
 nslookup -type=ns lapdonline.org
-traceroute lapdonline.org
 
 nslookup -type=ns commerce.gov
 nslookup -type=mx commerce.gov
@@ -326,11 +353,12 @@ nslookup -type=mx  wellsfargo.com
 nslookup -type=ns  wellsfargo.com
 nslookup -type=ns musiccenter.org
 nslookup -type=mx musiccenter.org
-traceroute musiccenter.org
+
 nslookup -type=ns laopera.org 
 nslookup -type=mx laopera.org 
-traceroute laoperA.org
 
+nslookup -type=ns coalongbeach.org 
+nslookup -type=mx coalongbeach.org
 nslookup -type=ns stfranciscenterla.org   
 nslookup -type=mx stfranciscenterla.org   
 
@@ -377,8 +405,7 @@ traceroute level2.net
 curl virtiserv.com
 curl nasa.gov
 curl whitehouse.gov
-traceroute esa.int
-traceroute proofpoint.com
+
 nslookup -type=ns virtiserv.com
 nslookup -type=mx virtiserv.com
 echo " #NEWS ra5hard.github.io  && cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html"
@@ -399,4 +426,11 @@ date
 traceroute en.beidou.gov.cn
 dig whitehouse.gov NS +trace
 host whithouse.gov
+host georgiaaquarium.org
 host -a ecostress.jpl.nasa.gov
+traceroute esa.int
+traceroute proofpoint.com
+traceroute lapdonline.org
+traceroute musiccenter.org
+traceroute laoperA.org
+traceroute ladottransit.com
