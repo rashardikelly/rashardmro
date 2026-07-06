@@ -8,6 +8,8 @@ echo "https://archive.org/details/losangelesenormo0000weav #NEWS ra5hard.github.
 traceroute localhost
 nslookup -type=mx whitehouse.gov
 nslookup -type=ns whitehouse.gov
+nslookup -type=mx whitehouse.com
+nslookup -type=ns whitehouse.com
 nslookup -type=mx war.gov
 nslookup -type=ns war.gov
 nslookup -type=mx congress.gov
@@ -54,6 +56,8 @@ nslookup -type=ns centcom.mil
 nslookup -type=mx centcom.mil
 nslookup -type=mx jobs.lamayor.org
 nslookup -type=ns jobs.lamayor.org
+nslookup -type=mx lamayor.org
+nslookup -type=ns lamayor.org
 nslookup -type=ns healthebay.org
 nslookup -type=mx healthebay.org
 nslookup -type=mx issinfo.net
@@ -149,10 +153,10 @@ nslookup -type=ns store.megantheestallion.com
 nslookup -type=mx store.megantheestallion.com
 nslookup -type=ns megantheestallion.com
 nslookup -type=mx megantheestallion.com
-traceroute reelecthydee.com
-
-
-traceroute hollyjmitchell.com
+nslookup -type=ns defjamshop.com
+nslookup -type=mx defjamshop.com
+nslookup -type=ns defjam.com
+nslookup -type=mx defjam.com
 nslookup -type=ns reelecthydee.com  
 nslookup -type=mx reelecthydee.com
 nslookup -type=ns global.jaxa.jp
@@ -164,10 +168,7 @@ nslookup -type=mx gov.uk
 nslookup -type=ns ecostress.jpl.nasa.gov
 nslookup -type=mx ecostress.jpl.nasa.gov
 traceroute trumpcard.gov
-host trumpcard.gov
-host commerce.gov
-host usgs.gov
-host pbs.org
+
 nslookup -type=ns usps.com
 nslookup -type=mx usps.com
 dig usps.com ANY
@@ -176,12 +177,7 @@ nslookup -type=mx wp1-ext.usps.gov
 dig wp1-ext.usps.gov ANY
 nslookup -type=mx uspto.com
 nslookup -type=ns uspto.com
-host -a gov.uk
-host -a africanspaceagency.org
-host -a asal.dz
-host -a  mayor.lacity.gov
-host -a gavrt.lewiscenter.org
-host -a satellitegroundstation.com
+
 nslookup -type=ns jpl.nasa.gov
 nslookup -type=mx jpl.nasa.gov
 nslookup -type=ns space.gov.au
@@ -427,10 +423,22 @@ traceroute en.beidou.gov.cn
 dig whitehouse.gov NS +trace
 host whithouse.gov
 host georgiaaquarium.org
+host trumpcard.gov
+host commerce.gov
+host usgs.gov
+host pbs.org
+host -a gov.uk
+host -a africanspaceagency.org
+host -a asal.dz
+host -a  mayor.lacity.gov
+host -a gavrt.lewiscenter.org
+host -a satellitegroundstation.com
 host -a ecostress.jpl.nasa.gov
 traceroute esa.int
 traceroute proofpoint.com
 traceroute lapdonline.org
 traceroute musiccenter.org
 traceroute laoperA.org
+traceroute reelecthydee.com
+traceroute hollyjmitchell.com
 traceroute ladottransit.com
