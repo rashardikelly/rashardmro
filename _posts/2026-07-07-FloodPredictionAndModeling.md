@@ -9,6 +9,11 @@ author: "RashardKelly @nasa-jpl"
 ---
 
 
+# Excercise 2
+@nasa-openscapes @doug-newman-nasa @nasa-jpl
+@blackgirlscode [_`later`_ Species Distribution Modeling with Google Earth Engine . PDF](https://www.earthdata.nasa.gov/s3fs-public/2026-07/ARSET-Species2026-part1-slides.pdf)
+[<video controls src="https://archive.org/download/mydocs_202607/ex2.mp4" />](https://archive.org/download/mydocs_202607/ex2.mp4)
+
 
 [https://www.earthdata.nasa.gov/s3fs-public/2026-06/ARSET-Floods2026-part1-exercise.pdf](https://www.earthdata.nasa.gov/s3fs-public/2026-06/ARSET-Floods2026-part1-exercise.pdf)
 
@@ -23,4 +28,7 @@ detect floods? - [3-day: 10.5067/MODIS/MCDWD_L3_F3_NRT.061  @podaac Flood 3 Day 
 
 <img  alt="image @blackgirlscode @whitehouse" src="https://github.com/user-attachments/assets/b5842776-91ae-41e0-bff0-6bea46a8517a" />
 
-[<video controls src="https://https://archive.org/download/SPACEBEACH/VirtiservMonitoringandPredictingFloodsUsingEarthObservationsExcercise1Recording2026-07-07_115158SPACEBEACH_RexRichardSONKarenBAss.mp4" />](https://archive.org/download/SPACEBEACH/VirtiservMonitoringandPredictingFloodsUsingEarthObservationsExcercise1Recording2026-07-07_115158SPACEBEACH_RexRichardSONKarenBAss.mp4)
+[<video controls src="https://archive.org/download/SPACEBEACH/VirtiservMonitoringandPredictingFloodsUsingEarthObservationsExcercise1Recording2026-07-07_115158SPACEBEACH_RexRichardSONKarenBAss.mp4" />](https://archive.org/download/SPACEBEACH/VirtiservMonitoringandPredictingFloodsUsingEarthObservationsExcercise1Recording2026-07-07_115158SPACEBEACH_RexRichardSONKarenBAss.mp4)
+
+[nasaevents.webex.com/webappng/sites/nasaevents/webinar/webinarSeries/register/c650981ca52044aa950d0a12c1d7df25 @webex](https://nasaevents.webex.com/webappng/sites/nasaevents/webinar/webinarSeries/register/c650981ca52044aa950d0a12c1d7df25)
+<img   alt="image" src="https://github.com/user-attachments/assets/9cf00e5a-1edc-4bc9-bcea-2c3f214661f2" />
