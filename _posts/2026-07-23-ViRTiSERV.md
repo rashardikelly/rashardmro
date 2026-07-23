@@ -8,6 +8,152 @@ author: "RashardKelly @nasa-jpl"
 permalink: /virtiserv
 ---
 
+# bye trice
+i will wait for instructions and broadcast publically anything you are trying to say over Long Distance whatever [LRAD](https://www.moma.org/interactives/exhibitions/2013/designandviolence/long-range-acoustic-device-lrad-corporation/) brand you into @nasa-jpl its touch and go @blackgirlscode i love you all 💯
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x8344PSeH30?si=f4RXo8y-6JiEKsQX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+<script src="https://gist.github.com/ThakaRashard/265e98a66ae2a41c5fbafb11000c27ab.js"></script>
+
+@foratlanta hi @doug-newman-nasa
+I need help because they told me if i see them married i have to get somoen from outside to get them to me to verify it persoannly @blackgirlscode may have been hijacked in the school sysyem by whoever is detoothing me! @nbcnews ~> @newshour its the dns my mail has not gotten through and some of her imposters have befriended me adn i know it im scared!!!! @la-county-isd and confused!!!! 
+[https://www.zola.com/wedding/robandtricedominicanrepublic](https://www.zola.com/wedding/robandtricedominicanrepublic)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/2cc212b0-3c8c-434b-bd35-4e214ea6bf7c" />
+
+```html
+
+Non-authoritative answer:
+tiktok.com mail exchanger = 20 mx2.tiktok.com.
+tiktok.com mail exchanger = 30 mx3.tiktok.com.
+tiktok.com mail exchanger = 10 mx1.tiktok.com. and walk to the thing if there is a question of chastity before its an issue and i miss my kids growing up 
+
+
+
+jpl.nasa.gov mail exchanger = 20 mxb-0020b901.gslb.pphosted.com.
+jpl.nasa.gov mail exchanger = 20 mxa-0020b901.gslb.pphosted.com.
+
+spacex.com mail exchanger = 5 mxa-003ea501.gslb.gpphosted.com.
+spacex.com mail exchanger = 5 mxb-003ea501.gslb.gpphosted.com.
+
+Authoritative answers can be found from:
+
+Server: 8.8.8.8
+Address: 8.8.8.8#53
+
+Non-authoritative answer:
+spacex.com nameserver = ns-cloud-b2.googledomains.com.
+spacex.com nameserver = ns-cloud-b1.googledomains.com.
+spacex.com nameserver = ns-cloud-b4.googledomains.com.
+spacex.com nameserver = ns-cloud-b3.googledomains.com.
+Non-authoritative answer:
+foxnews.com mail exchanger = 10 mxa-00195501.gslb.pphosted.com.
+foxnews.com mail exchanger = 10 mxb-00195501.gslb.pphosted.com.
+
+Non-authoritative answer:
+jpl.nasa.gov nameserver = a11-67.akam.net.
+jpl.nasa.gov nameserver = a14-67.akam.net.
+jpl.nasa.gov nameserver = a2-67.akam.net.
+jpl.nasa.gov nameserver = a8-65.akam.net.
+jpl.nasa.gov nameserver = a1-91.akam.net.
+jpl.nasa.gov nameserver = a7-65.akam.net.
+
+cbs.com nameserver = dns3.p09.nsone.net.
+cbs.com nameserver = dns1.p09.nsone.net.
+cbs.com nameserver = ns0243.secondary.cloudflare.com.
+cbs.com nameserver = ns0004.secondary.cloudflare.com.
+cbs.com nameserver = dns4.p09.nsone.net.
+cbs.com nameserver = dns2.p09.nsone.net.
+
+jw.org nameserver = a7-66.akam.net.
+jw.org nameserver = a28-65.akam.net.
+jw.org nameserver = a1-141.akam.net.
+jw.org nameserver = a11-66.akam.net.
+jw.org nameserver = a22-67.akam.net.
+jw.org nameserver = a26-64.akam.net.
+
+karenbass.com mail exchanger = 5 alt1.aspmx.l.google.com.
+karenbass.com mail exchanger = 10 alt4.aspmx.l.google.com.
+karenbass.com mail exchanger = 10 alt3.aspmx.l.google.com.
+karenbass.com mail exchanger = 5 alt2.aspmx.l.google.com.
+karenbass.com mail exchanger = 1 aspmx.l.google.com.
+
+```
+
+
+@nasa-jpl long beach library censors the wilma betty gif @la-county-isd @CityOfLosAngeles
+[bubblegumpop01.tumblr.com/](https://bubblegumpop01.tumblr.com/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/8aabc501-4e5e-4d53-92d5-ce567a261e1d" />
+
+
+# Rubi Rose 
+_Rubiana_ [SoundCloud🎼🎧](https://soundcloud.com/rubianarose)
+[ATL](https://www.atlantaga.gov/government/departments/human-resources), [Eritrea](https://shabait.com/) [[1](https://www.state.gov/countries-areas/eritrea)] [[2](https://er.usembassy.gov/)]
+
+<img  alt="image" src="https://github.com/user-attachments/assets/0de615a9-3f22-4425-b33c-92962c703de8" />
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1137995113&color=%230094ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nksboss" title="YRN REK" target="_blank" style="color: #cccccc; text-decoration: none;">YRN REK</a> · <a href="https://soundcloud.com/nksboss/lowkeyyrubirose" title="Lowkeyy/RubiRose💋" target="_blank" style="color: #cccccc; text-decoration: none;">Lowkeyy/RubiRose💋</a></div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1636720818&color=%230094ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/rubianarose" title="Rubi Rose" target="_blank" style="color: #cccccc; text-decoration: none;">Rubi Rose</a> · <a href="https://soundcloud.com/rubianarose/hood-bitch-aesthetic" title="Hood Bitch Aesthetic" target="_blank" style="color: #cccccc; text-decoration: none;">Hood Bitch Aesthetic</a></div>
+
+@foratlanta
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QU_jblpEDbw?si=SJFWyHH6yfkbXvgO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:1bKzOeq3wXRxsAoXbQ9IKQ/822562379031265280/v2" data-did="b343ac8d8c11ca5aed13179a1f4c0461a44ec052"  ><a href="https://www.tumblr.com/rashardmro/822562379031265280">https://www.tumblr.com/rashardmro/822562379031265280</a></div><script async src="https://assets.tumblr.com/post.js?_v=2e3257777411face7e6785c8941f968f"></script>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L8qSNcnVyOY?si=26xcSW_Tybbt0M2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+# docs/TheNAsaMarsConference_Vol71.pdf
+@nasa @nasa-giss @nasa-jpl 
+[pdf](https://github.com/virtiserv/virtiserv.github.io/blob/master/docs/TheNAsaMarsConference_Vol71.pdf)
+
+<img   alt="TheNAsaMarsConference_Vol71_page-0001" src="https://github.com/user-attachments/assets/f36d0403-09c1-413d-8a00-09d72326835c" />
+
+
+<img  alt="what_is_aSTreet_Coder_page-0002" src="https://github.com/user-attachments/assets/c6b51815-6594-4012-9d94-640cbb83f3d8" />
+
+[docs.alexomar.com/`biblioteca`/Best%20of%202600.pdf @nasa-jpl @blackgirlscode @cisagov](https://docs.alexomar.com/biblioteca/Best%20of%202600.pdf) / / [wired.com/2008](https://www.wired.com/2008/06/the-best-of-260/) // [GoodReads](https://www.goodreads.com/en/book/show/2909444-the-best-of-2600) // [CodingHorror](https://blog.codinghorror.com/our-hacker-odyssey/) // [@reddit](https://www.reddit.com/r/hacking/comments/7yeyhw/the_best_of_2600_a_hacker_odyssey_pdf/?rdt=60584) // [Wiki](https://en.wikipedia.org/wiki/2600:_The_Hacker_Quarterly) 
+<img alt="image" src="https://github.com/user-attachments/assets/3557a4c1-0c5d-4fb2-9cea-848f43aea73f" />
+
+
+# Designing Social Interfaces:
+## Principles, Patterns, and Practices for Improving the User Experience
+[GoodReads📖📚](https://www.goodreads.com/en/book/show/6523283-designing-social-interfaces) // [Orielly📖](https://www.oreilly.com/library/view/designing-social-interfaces/9781491919842/)
+
+<img   alt="what_is_aSTreet_Coder_page-0013" src="https://github.com/user-attachments/assets/9004763b-a0dc-4a32-8e54-9e3e11dec226" />
+
+
+<h2 style="color:white;" class="neon">
+
+ LiGHTSKiNKEiSHA
+ </h2>
+
+<video id="my_video_1" class="video-js vjs-default-skin" width="640px" height="267px" controls preload="none" poster='https://www.hotnewhiphop.com/image/740x416/cover/1613944317_f6ed84318a4e0b17c5da0a2999496be2.jpg/b19dee9cd5791475ced166996ba92bd1/1613944317_9c1f11b25b3c6de32f75ae280feac08c.jpg' data-setup='{ "aspectRatio":"640:267", "playbackRates": [1, 1.5, 2] }'>
+<source src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/FDH_LSK.mp4" type='video/mp4' />
+	
+ <source src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/FDH_LSK.mp4" type='video/mp4' />
+	
+</video>
+
+```html
+
+<h2 style="color:white;" class="neon">
+
+ LiGHTSKiNKEiSHA
+ </h2>
+
+<video id="my_video_1" class="video-js vjs-default-skin" width="640px" height="267px" controls preload="none" poster='https://www.hotnewhiphop.com/image/740x416/cover/1613944317_f6ed84318a4e0b17c5da0a2999496be2.jpg/b19dee9cd5791475ced166996ba92bd1/1613944317_9c1f11b25b3c6de32f75ae280feac08c.jpg' data-setup='{ "aspectRatio":"640:267", "playbackRates": [1, 1.5, 2] }'>
+<source src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/FDH_LSK.mp4" type='video/mp4' />
+	
+ <source src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/FDH_LSK.mp4" type='video/mp4' />
+	
+</video>
+```
+
 # Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
 
