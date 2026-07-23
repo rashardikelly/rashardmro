@@ -29,6 +29,300 @@ permalink: /virtiserv
 
 @newshour @foxnews @nbcnews @cbs-news-data /[Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4](https://ia800409.us.archive.org/8/items/vid-20260411-163609-170/Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4)
 
+{% highlight ruby %}
+1 # HOLE_TO_ANOTHER_UNiVERSE##############################
+2 # TO####################################################
+3 # ANOTHER###############################################
+4 # UNiVERSE#########################VirtiservLatrice#####
+{% endhighlight %}
+
+@foratlanta hi @doug-newman-nasa
+I need help because they told me if i see them married i have to get somoen from outside to get them to me to verify it persoannly @blackgirlscode may have been hijacked in the school sysyem by whoever is detoothing me! @nbcnews ~> @newshour its the dns my mail has not gotten through and some of her imposters have befriended me adn i know it im scared!!!! @la-county-isd and confused!!!! 
+[https://www.zola.com/wedding/robandtricedominicanrepublic](https://www.zola.com/wedding/robandtricedominicanrepublic)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/2cc212b0-3c8c-434b-bd35-4e214ea6bf7c" />
+
+```html
+
+Non-authoritative answer:
+tiktok.com mail exchanger = 20 mx2.tiktok.com.
+tiktok.com mail exchanger = 30 mx3.tiktok.com.
+tiktok.com mail exchanger = 10 mx1.tiktok.com. and walk to the thing if there is a question of chastity before its an issue and i miss my kids growing up 
+
+
+
+jpl.nasa.gov mail exchanger = 20 mxb-0020b901.gslb.pphosted.com.
+jpl.nasa.gov mail exchanger = 20 mxa-0020b901.gslb.pphosted.com.
+
+spacex.com mail exchanger = 5 mxa-003ea501.gslb.gpphosted.com.
+spacex.com mail exchanger = 5 mxb-003ea501.gslb.gpphosted.com.
+
+Authoritative answers can be found from:
+
+Server: 8.8.8.8
+Address: 8.8.8.8#53
+
+Non-authoritative answer:
+spacex.com nameserver = ns-cloud-b2.googledomains.com.
+spacex.com nameserver = ns-cloud-b1.googledomains.com.
+spacex.com nameserver = ns-cloud-b4.googledomains.com.
+spacex.com nameserver = ns-cloud-b3.googledomains.com.
+Non-authoritative answer:
+foxnews.com mail exchanger = 10 mxa-00195501.gslb.pphosted.com.
+foxnews.com mail exchanger = 10 mxb-00195501.gslb.pphosted.com.
+
+Non-authoritative answer:
+jpl.nasa.gov nameserver = a11-67.akam.net.
+jpl.nasa.gov nameserver = a14-67.akam.net.
+jpl.nasa.gov nameserver = a2-67.akam.net.
+jpl.nasa.gov nameserver = a8-65.akam.net.
+jpl.nasa.gov nameserver = a1-91.akam.net.
+jpl.nasa.gov nameserver = a7-65.akam.net.
+
+cbs.com nameserver = dns3.p09.nsone.net.
+cbs.com nameserver = dns1.p09.nsone.net.
+cbs.com nameserver = ns0243.secondary.cloudflare.com.
+cbs.com nameserver = ns0004.secondary.cloudflare.com.
+cbs.com nameserver = dns4.p09.nsone.net.
+cbs.com nameserver = dns2.p09.nsone.net.
+
+jw.org nameserver = a7-66.akam.net.
+jw.org nameserver = a28-65.akam.net.
+jw.org nameserver = a1-141.akam.net.
+jw.org nameserver = a11-66.akam.net.
+jw.org nameserver = a22-67.akam.net.
+jw.org nameserver = a26-64.akam.net.
+
+karenbass.com mail exchanger = 5 alt1.aspmx.l.google.com.
+karenbass.com mail exchanger = 10 alt4.aspmx.l.google.com.
+karenbass.com mail exchanger = 10 alt3.aspmx.l.google.com.
+karenbass.com mail exchanger = 5 alt2.aspmx.l.google.com.
+karenbass.com mail exchanger = 1 aspmx.l.google.com.
+
+```
+
+
+@nasa-jpl long beach library censors the wilma betty gif @la-county-isd @CityOfLosAngeles
+[bubblegumpop01.tumblr.com/](https://bubblegumpop01.tumblr.com/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/8aabc501-4e5e-4d53-92d5-ce567a261e1d" />
+
+
+# Rubi Rose 
+_Rubiana_ [SoundCloud🎼🎧](https://soundcloud.com/rubianarose)
+[ATL](https://www.atlantaga.gov/government/departments/human-resources), [Eritrea](https://shabait.com/) [[1](https://www.state.gov/countries-areas/eritrea)] [[2](https://er.usembassy.gov/)]
+
+<img  alt="image" src="https://github.com/user-attachments/assets/0de615a9-3f22-4425-b33c-92962c703de8" />
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1137995113&color=%230094ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nksboss" title="YRN REK" target="_blank" style="color: #cccccc; text-decoration: none;">YRN REK</a> · <a href="https://soundcloud.com/nksboss/lowkeyyrubirose" title="Lowkeyy/RubiRose💋" target="_blank" style="color: #cccccc; text-decoration: none;">Lowkeyy/RubiRose💋</a></div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1636720818&color=%230094ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/rubianarose" title="Rubi Rose" target="_blank" style="color: #cccccc; text-decoration: none;">Rubi Rose</a> · <a href="https://soundcloud.com/rubianarose/hood-bitch-aesthetic" title="Hood Bitch Aesthetic" target="_blank" style="color: #cccccc; text-decoration: none;">Hood Bitch Aesthetic</a></div>
+
+@foratlanta
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QU_jblpEDbw?si=SJFWyHH6yfkbXvgO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:1bKzOeq3wXRxsAoXbQ9IKQ/822562379031265280/v2" data-did="b343ac8d8c11ca5aed13179a1f4c0461a44ec052"  ><a href="https://www.tumblr.com/rashardmro/822562379031265280">https://www.tumblr.com/rashardmro/822562379031265280</a></div><script async src="https://assets.tumblr.com/post.js?_v=2e3257777411face7e6785c8941f968f"></script>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L8qSNcnVyOY?si=26xcSW_Tybbt0M2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+# docs/TheNAsaMarsConference_Vol71.pdf
+@nasa @nasa-giss @nasa-jpl 
+[pdf](https://github.com/virtiserv/virtiserv.github.io/blob/master/docs/TheNAsaMarsConference_Vol71.pdf)
+
+<img   alt="TheNAsaMarsConference_Vol71_page-0001" src="https://github.com/user-attachments/assets/f36d0403-09c1-413d-8a00-09d72326835c" />
+
+
+<img  alt="what_is_aSTreet_Coder_page-0002" src="https://github.com/user-attachments/assets/c6b51815-6594-4012-9d94-640cbb83f3d8" />
+
+[docs.alexomar.com/`biblioteca`/Best%20of%202600.pdf @nasa-jpl @blackgirlscode @cisagov](https://docs.alexomar.com/biblioteca/Best%20of%202600.pdf) / / [wired.com/2008](https://www.wired.com/2008/06/the-best-of-260/) // [GoodReads](https://www.goodreads.com/en/book/show/2909444-the-best-of-2600) // [CodingHorror](https://blog.codinghorror.com/our-hacker-odyssey/) // [@reddit](https://www.reddit.com/r/hacking/comments/7yeyhw/the_best_of_2600_a_hacker_odyssey_pdf/?rdt=60584) // [Wiki](https://en.wikipedia.org/wiki/2600:_The_Hacker_Quarterly) 
+<img alt="image" src="https://github.com/user-attachments/assets/3557a4c1-0c5d-4fb2-9cea-848f43aea73f" />
+
+
+# Designing Social Interfaces:
+## Principles, Patterns, and Practices for Improving the User Experience
+[GoodReads📖📚](https://www.goodreads.com/en/book/show/6523283-designing-social-interfaces) // [Orielly📖](https://www.oreilly.com/library/view/designing-social-interfaces/9781491919842/)
+
+<img   alt="what_is_aSTreet_Coder_page-0013" src="https://github.com/user-attachments/assets/9004763b-a0dc-4a32-8e54-9e3e11dec226" />
+
+
+<h2 style="color:white;" class="neon">
+
+ LiGHTSKiNKEiSHA
+ </h2>
+
+<video id="my_video_1" class="video-js vjs-default-skin" width="640px" height="267px" controls preload="none" poster='https://www.hotnewhiphop.com/image/740x416/cover/1613944317_f6ed84318a4e0b17c5da0a2999496be2.jpg/b19dee9cd5791475ced166996ba92bd1/1613944317_9c1f11b25b3c6de32f75ae280feac08c.jpg' data-setup='{ "aspectRatio":"640:267", "playbackRates": [1, 1.5, 2] }'>
+<source src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/FDH_LSK.mp4" type='video/mp4' />
+	
+ <source src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/FDH_LSK.mp4" type='video/mp4' />
+	
+</video>
+
+```html
+
+<h2 style="color:white;" class="neon">
+
+ LiGHTSKiNKEiSHA
+ </h2>
+
+<video id="my_video_1" class="video-js vjs-default-skin" width="640px" height="267px" controls preload="none" poster='https://www.hotnewhiphop.com/image/740x416/cover/1613944317_f6ed84318a4e0b17c5da0a2999496be2.jpg/b19dee9cd5791475ced166996ba92bd1/1613944317_9c1f11b25b3c6de32f75ae280feac08c.jpg' data-setup='{ "aspectRatio":"640:267", "playbackRates": [1, 1.5, 2] }'>
+<source src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/FDH_LSK.mp4" type='video/mp4' />
+	
+ <source src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/FDH_LSK.mp4" type='video/mp4' />
+	
+</video>
+``` 
+	
+# #HAPPENiNG_NOW::: City of Compton Council Meeting 7-21-2026 
+[Watch - youtube.com/watch?v=H_7CCuIRgu8 @CityOfLosAngeles @la-county-isd](https://www.youtube.com/watch?v=H_7CCuIRgu8)
+<img alt="image" src="https://github.com/user-attachments/assets/8ecf5005-7e82-4f78-a87a-807b8ac2dfc4" />
+
+@nasa-jpl @howard-university-web-services
+The ppl at the park playing on the phone @nbcnews @newshour @cityoflosangles
+[MAP - @BLACKGiRLSCODE](https://www.google.com/maps/place/34%C2%B010'04.0%22N+118%C2%B022'59.5%22W/@34.1677778,-118.3831944,851m/data=!3m1!1e3!4m4!3m3!8m2!3d34.1677778!4d-118.3831944?entry=ttu&g_ep=EgoyMDI2MDcxOS4wIKXMDSoASAFQAw%3D%3D)
+<img alt="image" src="https://github.com/user-attachments/assets/b23a5b7b-4808-4fb5-97ce-09e9250ab46c" />
+
+
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:1bKzOeq3wXRxsAoXbQ9IKQ/822712616214544384/v2" data-did="d4d6a8534a6e00c5514880d62df17f884e4d9a18"  ><a href="https://www.tumblr.com/rashardmro/822712616214544384/brandybrandybrandy-hi-brandy-i-got-robbed-last">https://www.tumblr.com/rashardmro/822712616214544384/brandybrandybrandy-hi-brandy-i-got-robbed-last</a></div><script async src="https://assets.tumblr.com/post.js?_v=2e3257777411face7e6785c8941f968f"></script>
+
+```html
+
+@lanajharris@gmail.com THE PHONE IS ON VERMONT google.com/maps/place/34.08837666666667,-118.29131666666666 <~ @douglas.j.newman@nasa.gov @mayorandcitycouncil@beverlyhills.org
+@mayor@longbeach.gov @mayor@youngstownohio.gov LATRICE BUSINESS VIRTISERV HAD A DATABREACH IT WAS MOSTLY RESEARCH I HAVE NOT TURNED INTO nas yet @ROC@jpl.nasa.gov
+@rep76@ohiohouse.gov @report@cisa.gov @rep57@ohiohouse.gov  AVE @contact.lapdonline@gmail.com @press@hot97.com @HollyJMitchell@bos.lacounty.gov @kathryn@bos.lacounty.gov
+google.com/maps/place/34.08837666666667,-118.29131666666666
+
+On Tue, Jul 21, 2026 at 6:03 PM Rashard Iman Kelly <holetoanotheruniverse40@gmail.com> wrote:
+@georgia.governor@gov.state.ga.us hi its rashard iman kelly, i dont know what to claim man, but im working!
+I got robbed at city hall in la, it was a cart robbery and they took my cellphones and sneakers to disable me getting any more progress in the region @Gavin Newsom
+@GovernorRon.Desantis@eog.myflorida.com im just checking in Governors,, these are my facts, Latrice Fitzpatrick owner of VirtiservLLC hired me at the skate park, theres so many
+things at JPL i have done in the last 6 months that let me know i should not stop following accepted instructions @nagincox@outlook.com Rover Curiosity is finally starting to look
+dated to me, it was so modern when i was introduced to persevere @jisaacman@shift4.com so at this point i know i have a public spat with @chloe.bailey@gmail.com  /
+@chloe.baily@gmail.com at a tabloid level bc i got mad about Timbaland making beats in her closet! However it is my belife that @lanajharris@gmail.com of @info@hot97.com is HAlle her
+ counter part from ChloexHAlle and at the very least i know at least in atlanta @keishaforgovernor@gmail.com Brandy was doubling for her on some wacky movie they were making
+@normani@fifthharmonyofficial.com could tell you more! @katyperry@umgstores.com as well! So @douglas.j.newman@nasa.gov its like since @Normaniofficial@outlook.com moved on to greener
+pastures and @operations@wearebgc.org is a @The White House shop they shifted me for Lanas new job at @press@hot97.com ... @HollyJMitchell@bos.lacounty.gov i created the account
+ virtiserv@outlook.com and it gets attacked on somne schedule and I dont knwo what Chloe, LAna, or any of those other girls do, but they invited me to a coffee shop in east atlanta
+and i cant remember what happened but the light skin one did the worm on a dirty bar floor during my dj set and now she dance for drake all my special gone @betpressinfo@bet.net can
+i have my phone back, i got the neogeo working well anywy keeping her business name up in its self with all the doxxing of the pretty maidens is while in balance something that my
+commitment @smallbusiness.programsoffice@jpl.nasa.gov requires @kathryn@bos.lacounty.gov if i let down a pretty girl i made a promise to at a skate park, thats bad luck man!
+
+
+
+---
+#DATABREACH - RASHARD_iMANKELLY_ROBBED at CiTYHALL DOWNTOWNLOSANELES TALL DARK SKiNED AFRiCAN iNSURRECTiONiST
+
+
+@lanajharris@gmail.com hi I tried to get in touch with @robinnbarnes@gmail.com which may be @chloe.bailey@gmail.com the actress singer
+ @hollyjmitchell@bos.lacounty.gov so @normani@fifthharmonyofficial.comwho proposed to me at the OLD_FORTH_WARD_SKATEPARK ?
+@onelana10@juno.comare you Bia ? If so I know we have a past and Chloe x Halle maybe the shared boyfriend arrange ment I was offered after
+@normani@fifthharmonyofficial.comdumped me after munas death @keishaforgovernor@gmail.comdo you know Barbara Riley ? She did the Funeral ....
+ok long story short I need you guys to all know we had a data breach thats @NASAJPL @jplnewsroom@jpl.nasa.gov and Virtiserv @Small Business Programs Office and I lost all my belongings!
+The guy menaced and chased me off while I was watching a ai video on essence youtube channel.
+ As I was understanding that you guys use a lot o speech dictaiton to build and deploy architecture the guy walks up and I heard a mumbled threat and evaded the attack and he started tossing my things over the patio wall at city hall @HEATHER MATA I got new pants from StFrancis and a pair of sandals 
+
+I need to deactivate the Cloud C8 and Blu5 android mobile computers @Dsnnow @douglas.j.newman@nasa.gov because
+ I read cellphone threats were data breaches and should be reported immediately @report@cisa.gov 
+
+@lanajharris@gmail.comwhatever latrice is I did what she said and I started work early from the library,
+ im just missing things and uninjured tell her mom thanks and im not abandoning her virtual assistant firm @atlantacouncil@atlantaga.gov ,
+ virtiserv.github.io will expand so ppl can see what im doing, what the body of disocveries is and where the should be presented @Earthdata Support @Answers
+
+https://discoveratlanta.com/things-to-do/old-fourth-ward-skate-park/
+https://exploregeorgia.org/atlanta/outdoors-nature/parks/old-4th-ward-skatepark
+https://goskate.com/sp/listing/historic-fourth-ward-skatepark/
+Rashard#DATABREACH - RASHARD_iMANKELLY_ROBBED at CiTYHALL DOWNTOWNLOSANELES TALL DARK SKiNED AFRiCAN iNSURRECTiONiST
+
+
+```
+## Taken from [raw.githubusercontent.com/virtiserv/rashardmro/refs/heads/master/_posts/2026-03-21-Marsblogv2.md](https://raw.githubusercontent.com/virtiserv/rashardmro/refs/heads/master/_posts/2026-03-21-Marsblogv2.md)
+[Muddy Waters , Mannish Boy , 1977 Hard Again version](https://www.youtube.com/watch?v=LY_inPuMU7c) [Muddy Waters - Mannish Boy (Audio)](https://www.youtube.com/watch?v=bSfqNEvykv0) [Aquaboogie (A Psychoalphadiscobetabioaquadoloop)](https://www.youtube.com/watch?v=pqEDxjLC-gQ) [Testing Example Code In Your Jekyll Posts](https://www.rubypigeon.com/posts/testing-example-code-in-your-jekyll-posts/)
+
+# About Kashdoll and Me Updated
+Jamie, Robin I am running across her more often and i have reason to belive she is manessah my Family Services rep and i got hen pecked and run over so they could change a lot of ppl life real quick after the [insurrection in washington](https://www.nationalguard.mil/News/Article/2466077/dod-details-national-guard-response-to-capitol-attack/). That sounds like a crazy theory to me, but i think she got picked up by playboy in highschool, [she in this video](https://www.youtube.com/watch?v=MuNx-_dqM90). She always quick visits and this tape [Trapped in The Dollhouse](https://audiomack.com/kashbratz/album/trapped-in-the-dollhouse-1) i got an update after she was twerking inviting me to be more friendly in the studio. Mind you all this political turmoil is amuck! And once the Riot happened its like atlanta fell apart, but in this message i get that she is brotheled in some way! In BratMail she let me know she was looking at me `On my new new shit, like my name is Rashaad` that was my update.  
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/422507901&color=%23b7ff00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/realniggarealshit" title="IMTHEHIGHPRIESTESS" target="_blank" style="color: #cccccc; text-decoration: none;">IMTHEHIGHPRIESTESS</a> · <a href="https://soundcloud.com/realniggarealshit/kashdoll-intro" title="KashDoll (Intro)" target="_blank" style="color: #cccccc; text-decoration: none;">KashDoll (Intro)</a></div>
+
+{% highlight ruby %} 
+[Verse]
+[Intro]
+So everyones been wondering why
+Kash Doll's been rapping on everyone else beats
+And why she's been riding other people waves
+And, um, why she's killing all these remixes?
+It's because I can't put my own original music out, okay?
+It's because I signed myself in a hoe ass contract
+I did that and now I'm trapped inside of a fucking dollhouse
+And I wanna get out of this shit
+No way to escape the dollhouse
+But you know what?
+Timing is everything and I think God has perfect timing
+So right now, I'm just gonna get on every fucking beat there is
+{% endhighlight %}
+
+![donald](https://media.newyorker.com/photos/5ff762f7515a1fd85f89c326/16:9/w_2559,h_1439,c_limit/Marantz-CapitolMob.jpg)
+[<img src="https://rollcall.com/app/uploads/2024/01/trump_BC_042_010621.jpg" alt="DonaldORweLL" />](https://rollcall.com/app/uploads/2024/01/trump_BC_042_010621.jpg)
+[<img src="https://media.cnn.com/api/v1/images/stellar/prod/210205104923-104-january-6-capitol-riots.jpg?q=x_27,y_174,h_1652,w_2937,c_crop/w_1280" alt="flag" />](https://media.cnn.com/api/v1/images/stellar/prod/210205104923-104-january-6-capitol-riots.jpg?q=x_27,y_174,h_1652,w_2937,c_crop/w_1280)
+[<img src="https://media.cnn.com/api/v1/images/stellar/prod/211105100656-02-jan-6-riot.jpg?q=w_3000,h_2001,x_0,y_0,c_fill" alt="" />](https://media.cnn.com/api/v1/images/stellar/prod/211105100656-02-jan-6-riot.jpg?q=w_3000,h_2001,x_0,y_0,c_fill)
+[<img src="https://media.cnn.com/api/v1/images/stellar/prod/220104155104-january-6-insurrection-anniversary-walk-up.jpg?q=w_1160,c_fill/f_webp" alt="" />](https://media.cnn.com/api/v1/images/stellar/prod/220104155104-january-6-insurrection-anniversary-walk-up.jpg?q=w_1160,c_fill/f_webp)
+
+
+[January 6 U.S. Capitol attack riot, Washington, D.C., U.S. [2021]](https://www.britannica.com/event/January-6-U-S-Capitol-attack) January 6 U.S. Capitol attack, storming of the United States Capitol on January 6, 2021, by a mob of supporters of Republican Pres. Donald J. Trump. The attack disrupted a joint session of Congress convened to certify the results of the presidential election of 2020, which Trump had lost to his Democratic opponent, Joe Biden. Because its object was to prevent a legitimate president-elect from assuming office, the attack was widely regarded as an insurrection or attempted coup d’état. The Federal Bureau of Investigation (FBI) and other law-enforcement agencies also considered it an act of domestic terrorism. For having given a speech before the attack in which he encouraged a large crowd of his supporters near the White House to march to the Capitol and violently resist Congress’s certification of Biden’s victory—which many in the crowd then did—Trump was impeached by the Democratic-led House of Representatives for “incitement of insurrection” (he was subsequently acquitted by the Senate). [cite - BritannicA](https://www.britannica.com/event/January-6-U-S-Capitol-attack)
+[Planning and Execution Timeline for the National Guard’s Involvement in the January 6, 2021 Violent Attack at the U.S. Capitol](https://www.defense.gov/News/Releases/Release/Article/2467051/planning-and-execution-timeline-for-the-national-guards-involvement-in-the-janu/)
+
+[<img src="https://ichef.bbci.co.uk/news/800/cpsprodpb/1404E/production/_116389918_capitol_floorplan_map2_640-nc.png.webp" alt="in surrection" />](https://ichef.bbci.co.uk/news/800/cpsprodpb/1404E/production/_116389918_capitol_floorplan_map2_640-nc.png.webp)
+
+[<img src="https://image.cnbcfm.com/api/v1/image/106820239-1609969463086-gettyimages-1230455296-AFP_8YA8KY.jpeg?v=1610113433" alt="in surrection" />](https://image.cnbcfm.com/api/v1/image/106820239-1609969463086-gettyimages-1230455296-AFP_8YA8KY.jpeg?v=1610113433)
+[<img src="https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22223110/GettyImages_1230453292.jpg?quality=90&strip=all&crop=0%2C2.8443683409437%2C100%2C94.311263318113&w=2400" alt="" />](https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22223110/GettyImages_1230453292.jpg?quality=90&strip=all&crop=0%2C2.8443683409437%2C100%2C94.311263318113&w=2400)
+[<img src="https://ichef.bbci.co.uk/news/800/cpsprodpb/55C6/production/_116385912_senate_chamber_pic640.png.webp" alt="in surrection" />](https://ichef.bbci.co.uk/news/800/cpsprodpb/55C6/production/_116385912_senate_chamber_pic640.png.webp) [Phones of top Pentagon officials were wiped of Jan. 6 messages](https://www.washingtonpost.com/national-security/2022/08/02/pentagon-jan-6-phones-wiped/) The DOD is the latest part of the federal government to have deleted official phone communications relevant to investigations into the events of the Jan. 6 attack on the Capitol [Transcripts Show President Trump's Directives to Pentagon Leadership to "Keep January 6 Safe" Were Deliberately Ignored -house.gov](https://cha.house.gov/2024/9/transcripts-show-president-trump-s-directives-to-pentagon-leadership-to-keep-january-6-safe-were-deliberately-ignored) [Pentagon, D.C. officials point fingers at each other over Capitol riot response](https://www.nbcnews.com/news/crime-courts/pentagon-d-c-officials-point-fingers-each-other-over-capitol-n1253547) [Three Years Since the Jan. 6 Attack on the Capitol](https://www.justice.gov/usao-dc/36-months-jan-6-attack-capitol-0) [7 hours, 700 arrests, 1 year later: The Jan. 6 Capitol attack, by the numbers - ABC7](https://abc7.com/jan-6-insurrection-us-capitol-riot/11428976/) [Capitol riots: A visual guide to the storming of Congress](https://www.bbc.com/news/world-us-canada-55575260) [Fact check: Five enduring lies about the Capitol insurrection - CNN - Brian Dale and Marshall Cohen](https://www.cnn.com/2022/01/04/politics/fact-check-capitol-insurrection-january-6-lies/index.html) [The January 6th insurrection in photos - rollcall.com](https://rollcall.com/2024/01/05/the-january-6th-insurrection-in-photos/) [How Networked Incitement Fueled the January 6 Capitol Insurrection - scientific american](https://www.scientificamerican.com/article/jan-6-was-an-example-of-networked-incitement/) [U.S. CAPITOL RIOT - iOwA CapiTal diSpatch](https://iowacapitaldispatch.com/tag/u-s-capitol-riot/) [What Trump Said to Supporters on Jan. 6 Before Their Capitol Riot - WSJ](https://www.wsj.com/articles/what-trump-said-to-supporters-on-jan-6-before-their-capitol-riot-11610498173) Democrats, seeking to impeach the president, say his comments incited the crowd to storm the building while lawmakers were certifying Biden’s election
+
+![Kash Doll: Brat Mail](https://media.pitchfork.com/photos/5aac18d09fe2d82be24601a8/16:9/w_1280,c_limit/Brat%20Mail%20Kash%20Doll.jpg)
+
+# About Kash Doll and Me
+NasaJPL, I dont know what she is going by at the moment but she is my post erika wife forever girlfriend surrounding that. The name I was given origionally was Vanessa Walker. We were little kids here from africa that got kidnapped and moved east. She is still in some sort of human trafficking situation. To me she is a really important person and as some of you know my energy towards those in [UpperUnix] administration know how i look up to you. Its isolated bc im learning from you. She is similar. But she has a lot of identities and worst case I want you guys to know i never did any fruad with her. But know thats whats required of her. The character Normani, looks like an attempt for the girls to substitute for each other bc i still get her confused with Erika when she has the [LightComplexion](https://media.pitchfork.com/photos/5aac18d09fe2d82be24601a8/16:9/w_1280,c_limit/Brat%20Mail%20Kash%20Doll.jpg) bc they share similar features. Im also afraid bc she is ethiopian and i have not seen her dress traditionally in a long time... She still talkes to me, but she plays [minecraft](https://youtu.be/K4vtrzcqyg0?si=Bc-Alnd9YbOu90In) and communicates differnt from other girls
+
+<embed width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/411406869&color=%2329f247&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true" />
+
+[<img src="https://media.pitchfork.com/photos/5aac18d09fe2d82be24601a8/1:1/w_800,h_800,c_limit/Brat%20Mail%20Kash%20Doll.jpg" alt="kash doll : Brat MAil />](https://media.pitchfork.com/photos/5aac18d09fe2d82be24601a8/1:1/w_800,h_800,c_limit/Brat%20Mail%20Kash%20Doll.jpg)
+
+## Intro (Brat Mail) [LyricS](https://genius.com/Kash-doll-intro-brat-mail-lyrics)
+
+{% highlight ruby %} 
+[Verse]
+Look, I be exploring the foreigns with more power than stars
+On my new new shit, like my name is Rashaad
+And my punchlines seasoned plenty minds like it's time
+So, if he ever tell you he ain't feelin' me, he lying'
+Shout out to me, all on BET
+I'm a very rich chick, on my Nene Leakes
+I'm a boss, every move gotta come through me
+Murder broads in my minks
+May they rest in peace
+And I'm still the top chick
+Any bitch think I drop dick get higher than Mariah
+And she like a five octave
+Stop it, please stop it
+Blowing money
+All in Neiman's in there Diddy bopping
+And you know I came to murder it
+My city watchin'
+I'm so humble, I'ma front like I don't do this often
+It's Kash Doll, bow down, and kiss the ring
+Soon as this paperwork done
+I'm touching everything
+A murder scene
+
+[Outro]
+Haha
+Yeah, that way
+The doll way
+{% endhighlight %}
+
+
+[The Lady In The Bottle  I Dream Of Jeannie s1e1](https://www.youtube.com/watch?v=F41Y37XTZck)
+
+
 
 
 
