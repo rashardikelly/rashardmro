@@ -8,6 +8,630 @@ author: "RashardKelly @nasa-jpl"
 permalink: /virtiserv
 ---
 
+
+{% highlight ruby %}
+1 # HOLE_TO_ANOTHER_UNiVERSE##############################
+2 # TO####################################################
+3 # ANOTHER###############################################
+4 # UNiVERSE#########################VirtiservLatrice#####
+{% endhighlight %}
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x8344PSeH30?si=f4RXo8y-6JiEKsQX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+@nasa-jpl 
+
+```shell
+spacex.com      mail exchanger = 5 mxb-003ea501.gslb.gpphosted.com.
+
+spacex.com      mail exchanger = 5 mxa-003ea501.gslb.gpphosted.com.
+
+```
+
+![https://upload.wikimedia.org/wikipedia/commons/e/e0/NASA_JPL_Meatball_Logo.webp](https://upload.wikimedia.org/wikipedia/commons/e/e0/NASA_JPL_Meatball_Logo.webp)
+![upload.wikimedia.org/wikipedia/commons/c/c6/Jet_Propulsion_Laboratory_logo.svg @cityoflosangeles @blackgirlscode @howard-university-web-services @whitehouse @la-county-isd](https://upload.wikimedia.org/wikipedia/commons/c/c6/Jet_Propulsion_Laboratory_logo.svg)
+
+
+  <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+     width="425.2px" height="99.21px" viewBox="0 0 425.2 99.21" enable-background="new 0 0 425.2 99.21" xml:space="preserve" stroke="white" stroke-width=".5%">
+  <g>
+    <g>
+
+ <linearGradient id="bird_2_" gradientUnits="userSpaceOnUse" x1="3726.1963" y1="1102.499" x2="3726.1963" y2="1085.1249" gradientTransform="matrix(4.262 0 0 -4.262 -15526.0078 4711.7021)">
+        <stop  offset="0.3006" style="stop-color:#57C2EB"/>
+        <stop  offset="1" style="stop-color:#28B3E3"/>
+      </linearGradient>
+      <path id="bird_1_" fill="url(#bird_2_)" d="M301.279,66.168c6.994,6.469,24.949,12.588,39.561-1.734
+        c-2.627,0.41-4.82-0.088-6.486-1.736c-1.582-1.566-1.668-3.186-0.822-4.66c0.688-1.197,2.137-2.043,3.562-2.924
+        c-2.586,0.48-4.791,0.23-6.762-0.777c-2.645-1.352-5.217-2.775-5.938-5.709c1.617-1.701,3.416-3.223,7.309-2.65
+        c-3.662-1.223-6.943-2.816-9.318-5.207c-2.314-2.328-2.555-3.839-2.924-5.665c2.02-0.749,4.133-1.138,6.395-0.914
+        c-5.119-2.617-7.293-6.217-8.496-10.141c-0.363-1.185-0.428-2.314-0.275-3.472c20.74,7.829,30.453,13.454,35.814,18.73
+        c2.412-6.419,8.037-20.958,16.445-25.948c0.041,0.792-0.275,1.646-0.914,2.559c2.49-1.387,4.434-3.606,7.857-3.563
+        c-0.395,1.62-1.527,2.917-3.746,3.745c2.238-0.855,4.506-1.582,6.854-2.009c2.178-0.394,2.146,1.323,0.914,2.192
+        c-2.502,1.764-5.158,1.984-7.768,2.832c7.998,0.2,14.535,3.985,19.643,12.243c1.697,2.744,2.838,5.488,3.107,8.496
+        c3.412,0.959,6.807,1.154,10.232,0.549c0.939-0.166,1.814-0.342,2.65-0.73c-1.334,2-2.871,3.643-5.025,4.385
+        c-2.059,0.711-4.121,1.404-6.395,1.463c3.703,1.402,7.781,1.479,11.969,1.188c-5.121,4.93-9.041,4.811-12.975,4.75
+        c-1.725,7.283-5.25,14.547-12.699,21.197c-9.77,8.723-20.287,12.885-31.154,13.797c-10.189,0.854-20.037,0.736-30.791-4.295
+        C313.133,78.428,306.451,73.293,301.279,66.168L301.279,66.168z"/>
+      <g>
+        <g>
+          <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="261.0098" y1="18.1694" x2="261.0098" y2="85.3524">
+            <stop  offset="0.2699" style="stop-color:#57C3EC"/>
+            <stop  offset="1" style="stop-color:#28B3E3"/>
+          </linearGradient>
+          <path fill="url(#SVGID_1_)" d="M261.033,57.682c-0.057,0.01-0.117,0.006-0.174,0.016l0.301-0.049
+            C261.113,57.656,261.08,57.676,261.033,57.682z"/>
+          <linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="37.896" y1="18.1694" x2="37.896" y2="85.3536">
+            <stop  offset="0.2699" style="stop-color:#57C3EC"/>
+            <stop  offset="1" style="stop-color:#28B3E3"/>
+          </linearGradient>
+          <path fill="url(#SVGID_2_)" d="M59.318,71.848c0,1.963-0.704,3.648-2.113,5.049C55.796,78.299,54.108,79,52.136,79H37.938
+            c-5.915,0-10.97-2.09-15.168-6.275c-4.199-4.184-6.296-9.221-6.296-15.117V28.933c0-2.021,0.699-3.718,2.097-5.095
+            c1.398-1.375,3.106-2.064,5.122-2.064c1.957,0,3.639,0.702,5.035,2.105c1.4,1.401,2.102,3.083,2.102,5.049v10.382h20.214
+            c1.835,0,3.407,0.65,4.719,1.953c1.311,1.299,1.964,2.859,1.964,4.68c0,1.818-0.653,3.38-1.959,4.681
+            c-1.306,1.299-2.875,1.952-4.702,1.952H30.829v5.025c0,1.971,0.688,3.645,2.071,5.025c1.381,1.377,3.058,2.066,5.031,2.066
+            h14.202c1.971,0,3.663,0.703,5.072,2.105S59.318,69.885,59.318,71.848z"/>
+          <linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="208.0547" y1="18.1694" x2="208.0547" y2="85.3536">
+            <stop  offset="0.2699" style="stop-color:#57C3EC"/>
+            <stop  offset="1" style="stop-color:#28B3E3"/>
+          </linearGradient>
+          <path fill="url(#SVGID_3_)" d="M225.602,71.848c0,1.963-0.705,3.648-2.113,5.049C222.08,78.299,220.393,79,218.42,79h-6.449
+            c-5.914,0-10.969-2.09-15.168-6.275c-4.198-4.184-6.294-9.221-6.294-15.117V28.933c0-2.021,0.698-3.718,2.097-5.095
+            c1.398-1.375,3.106-2.064,5.122-2.064c1.957,0,3.639,0.702,5.035,2.105c1.4,1.401,2.102,3.083,2.102,5.049v10.382h12.465
+            c1.834,0,3.406,0.652,4.717,1.953c1.312,1.299,1.965,2.859,1.965,4.68c0,1.818-0.652,3.38-1.959,4.681
+            c-1.305,1.299-2.875,1.95-4.701,1.95h-12.486v5.027c0,1.971,0.688,3.645,2.07,5.025c1.381,1.377,3.059,2.066,5.031,2.066h6.453
+            c1.969,0,3.662,0.703,5.07,2.105S225.602,69.885,225.602,71.848z"/>
+          <linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="170.5181" y1="18.1694" x2="170.5181" y2="85.3536">
+            <stop  offset="0.2699" style="stop-color:#57C3EC"/>
+            <stop  offset="1" style="stop-color:#28B3E3"/>
+          </linearGradient>
+          <path fill="url(#SVGID_4_)" d="M188.065,71.848c0,1.963-0.705,3.648-2.113,5.049c-1.408,1.402-3.096,2.104-5.068,2.104h-6.449
+            c-5.915,0-10.97-2.09-15.167-6.275c-4.198-4.184-6.295-9.221-6.295-15.117V28.933c0-2.021,0.699-3.718,2.097-5.095
+            c1.398-1.375,3.105-2.064,5.122-2.064c1.956,0,3.639,0.702,5.034,2.105c1.4,1.401,2.102,3.083,2.102,5.049v10.382h12.465
+            c1.835,0,3.407,0.652,4.717,1.953c1.312,1.299,1.965,2.859,1.965,4.68c0,1.818-0.652,3.38-1.959,4.681
+            c-1.305,1.299-2.875,1.95-4.701,1.95h-12.487v5.027c0,1.971,0.688,3.645,2.071,5.025c1.381,1.377,3.058,2.066,5.03,2.066h6.453
+            c1.97,0,3.663,0.703,5.071,2.105S188.065,69.885,188.065,71.848z"/>
+          <linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="95.1538" y1="18.1689" x2="95.1538" y2="85.3536">
+            <stop  offset="0.2699" style="stop-color:#57C3EC"/>
+            <stop  offset="1" style="stop-color:#28B3E3"/>
+          </linearGradient>
+          <path fill="url(#SVGID_5_)" d="M128.546,58.986c0,5.516-1.961,10.23-5.888,14.145C118.733,77.043,114.005,79,108.474,79
+            c-5.06,0-9.512-1.705-13.359-5.119C91.321,77.295,86.894,79,81.835,79c-5.53,0-10.261-1.957-14.188-5.869
+            c-3.925-3.914-5.887-8.629-5.887-14.145V45.008c0-1.893,0.657-3.479,1.976-4.766c1.313-1.289,2.895-1.932,4.736-1.932
+            c1.845,0,3.424,0.643,4.738,1.932c1.316,1.287,1.975,2.877,1.975,4.77v13.984c0,1.844,0.646,3.404,1.935,4.693
+            c1.292,1.289,2.861,1.93,4.705,1.93c1.792,0,3.333-0.641,4.624-1.93c1.291-1.289,1.935-2.85,1.935-4.693V45.09
+            c0-1.84,0.662-3.428,1.979-4.77c1.322-1.338,2.933-2.01,4.832-2.01c1.845,0,3.428,0.657,4.749,1.973
+            c1.321,1.312,1.98,2.891,1.98,4.729v13.984c0,1.844,0.646,3.404,1.937,4.693c1.289,1.289,2.833,1.93,4.623,1.93
+            c1.845,0,3.414-0.641,4.702-1.93c1.292-1.289,1.937-2.85,1.937-4.693V45.012c0-1.838,0.659-3.416,1.976-4.729
+            c1.315-1.316,2.896-1.973,4.736-1.973c1.844,0,3.425,0.657,4.739,1.969c1.316,1.312,1.974,2.889,1.974,4.729V58.986z"/>
+          <linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="140.7593" y1="18.1694" x2="140.7593" y2="85.3524">
+            <stop  offset="0.2699" style="stop-color:#57C3EC"/>
+            <stop  offset="1" style="stop-color:#28B3E3"/>
+          </linearGradient>
+          <path fill="url(#SVGID_6_)" d="M147.936,27.367c0,1.962-0.702,3.646-2.111,5.048c-1.408,1.402-3.096,2.105-5.064,2.105
+            c-1.973,0-3.66-0.703-5.069-2.105c-1.404-1.401-2.108-3.086-2.108-5.048c0-1.965,0.704-3.647,2.108-5.049
+            c1.409-1.404,3.097-2.104,5.069-2.104c1.969,0,3.657,0.7,5.064,2.104C147.234,23.719,147.936,25.402,147.936,27.367z"/>
+          <linearGradient id="SVGID_7_" gradientUnits="userSpaceOnUse" x1="140.7593" y1="18.1689" x2="140.7593" y2="85.3536">
+            <stop  offset="0.2699" style="stop-color:#57C3EC"/>
+            <stop  offset="1" style="stop-color:#28B3E3"/>
+          </linearGradient>
+          <path fill="url(#SVGID_7_)" d="M147.936,71.84c0,1.967-0.702,3.652-2.111,5.055C144.417,78.299,142.729,79,140.76,79
+            c-1.973,0-3.66-0.701-5.069-2.105c-1.404-1.402-2.108-3.088-2.108-5.055V45.471c0-1.967,0.704-3.652,2.108-5.055
+            c1.409-1.404,3.097-2.106,5.069-2.106c1.969,0,3.657,0.702,5.064,2.106c1.409,1.402,2.111,3.088,2.111,5.055V71.84z"/>
+          <linearGradient id="SVGID_8_" gradientUnits="userSpaceOnUse" x1="292.7744" y1="18.168" x2="292.7744" y2="85.3534">
+            <stop  offset="0.2699" style="stop-color:#57C3EC"/>
+            <stop  offset="1" style="stop-color:#28B3E3"/>
+          </linearGradient>
+          <path fill="url(#SVGID_8_)" d="M310.957,45.945c0,1.82-0.654,3.38-1.963,4.683c-1.307,1.299-2.875,1.95-4.703,1.95h-9.801
+            c-1.83,0-3.385,0.639-4.666,1.916c-1.283,1.275-1.92,2.826-1.92,4.652v13.209c0,1.822-0.652,3.389-1.957,4.689
+            c-1.307,1.307-2.871,1.955-4.699,1.955c-1.826,0-3.393-0.648-4.697-1.953c-1.307-1.301-1.959-2.863-1.959-4.688V59.156
+            c0-5.469,1.945-10.143,5.838-14.023c3.893-3.879,8.584-5.822,14.07-5.822h9.793c1.83,0,3.396,0.652,4.703,1.953
+            S310.957,44.125,310.957,45.945z"/>
+          <linearGradient id="SVGID_9_" gradientUnits="userSpaceOnUse" x1="248.8672" y1="18.1689" x2="248.8672" y2="85.3535">
+            <stop  offset="0.2699" style="stop-color:#57C3EC"/>
+            <stop  offset="1" style="stop-color:#28B3E3"/>
+          </linearGradient>
+          <path fill="url(#SVGID_9_)" d="M248.068,79c-5.648,0-10.971-2.146-15.17-6.438c-4.197-4.295-5.809-8.971-5.809-15.021
+            c0,0-0.41-19.241,21.35-19.241c17.025,0,22.207,11.959,22.207,17.864c0,4.693-2.146,6.359-7.033,6.359h-21.76
+            c0,0-0.787,4.979,9.125,4.979h12.418c3.176,0,5.748,2.574,5.748,5.75c0,3.174-2.572,5.748-5.748,5.748H248.068z M241.998,53.357
+            h14.287c0-4.695-7.105-4.695-7.105-4.695S241.998,48.662,241.998,53.357z"/>
+        </g>
+      </g>
+      
+   </g>
+
+  </g>
+  </svg>
+
+  ```xml
+  <?xml version="1.0" encoding="utf-8"?>
+ 
+  <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+```
+
+
+@CommerceGov @Whitehouse @fbiCyber
+Trice [virtiserv.github.io/Twitters](https://virtiserv.github.io/twitters/)
+<img alt="image" src="https://github.com/user-attachments/assets/a87700f4-6073-4e67-88d3-023b98b5c3ba" />
+
+[https://codepen.io/thakarashard/pen/MWdrMBR](https://codepen.io/thakarashard/pen/MWdrMBR)
+
+<img alt="image" src="https://github.com/user-attachments/assets/09db8fea-b902-47e3-931e-1697db0a0c36" />
+
+[codepen.io/thakarashard/pen/RwzMYpE](https://codepen.io/thakarashard/pen/RwzMYpE)
+<img  alt="image" src="https://github.com/user-attachments/assets/34b5992b-69a5-4a49-b8af-f331182c2c51" />
+
+[codepen.io/thakarashard/pen/dyBmqNj](https://codepen.io/thakarashard/pen/dyBmqNj)
+<img alt="image" src="https://github.com/user-attachments/assets/614dd070-f15a-4073-9fa3-77ccebb04400" />
+
+@codepen @Nasdaq @commercegov
+Trice i created the account
+[codepen.io/editor/virtiserv/pen/019f9129-50f9-7825-96da-0099579d619e](https://codepen.io/editor/virtiserv/pen/019f9129-50f9-7825-96da-0099579d619e)
+
+<img src="https://live.staticflickr.com/3320/3654981510_8928d2d554_b.jpg" src2="https://raw.githubusercontent.com/ricoThaka/twitters/master/assets/images/3654981510_8928d2d554_b.jpg" >
+
+```html
+<img src="https://live.staticflickr.com/3320/3654981510_8928d2d554_b.jpg" src2="https://raw.githubusercontent.com/ricoThaka/twitters/master/assets/images/3654981510_8928d2d554_b.jpg" >
+```
+
+# Hello Trice _`Sorry`_
+@doug-newman-nasa there is a population that... idk its not closed @blackgirlscode but we are reshifting my heart cannot keep up with the relationships and that african really humiliated me at cityhall @CityOfLosAngeles ... @Nasdaq there is some research bundled in that you should view, Latrice Fitzpatricks BBB profile was deleted @whitehouse i dont know man, since she is a kash brat i need help i could hurt my reputation if this Trice and Rob thing is DNS or some other fruad and it was a hookup for Graffiti lessons or income tax prep, like in atlanta she used to lose her freedom from kidnapping for a lo of common tasks aswell @nasa @nasa-jpl 
+
+```
+Profile Information
+Name: Rashard I Kelly
+Username: rashardkelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 07-23-2026
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
+
+For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Support
+
+
+V 4.231.21 Home NASA Accessibility
+NASA Official: Doug Newman
+```
+# bye trice
+i will wait for instructions and broadcast publically anything you are trying to say over Long Distance whatever [LRAD](https://www.moma.org/interactives/exhibitions/2013/designandviolence/long-range-acoustic-device-lrad-corporation/) brand you into @nasa-jpl its touch and go @blackgirlscode i love you all 💯
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x8344PSeH30?si=f4RXo8y-6JiEKsQX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+<script src="https://gist.github.com/ThakaRashard/265e98a66ae2a41c5fbafb11000c27ab.js"></script>
+
+@foratlanta hi @doug-newman-nasa
+I need help because they told me if i see them married i have to get somoen from outside to get them to me to verify it persoannly @blackgirlscode may have been hijacked in the school sysyem by whoever is detoothing me! @nbcnews ~> @newshour its the dns my mail has not gotten through and some of her imposters have befriended me adn i know it im scared!!!! @la-county-isd and confused!!!! 
+[https://www.zola.com/wedding/robandtricedominicanrepublic](https://www.zola.com/wedding/robandtricedominicanrepublic)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/2cc212b0-3c8c-434b-bd35-4e214ea6bf7c" />
+
+```html
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://hips.hearstapps.com/hmg-prod/images/elm080123fobcover-glorilla-digital-64b0537e94e9a.jpg?resize=768:*"><img src="https://hips.hearstapps.com/hmg-prod/images/elm080123fobcover-glorilla-digital-64b0537e94e9a.jpg?resize=768:*" alt="BUBBLEGUM_POP"> </a>
+      </div>
+    </div>
+    <div class='panelColumn'>
+
+ <a href="https://hips.hearstapps.com/hmg-prod/images/glorilla-q557-tha-elle-fj8a0065-fnl-64a6e8955c392.jpg?resize=980:*"><img src="https://hips.hearstapps.com/hmg-prod/images/glorilla-q557-tha-elle-fj8a0065-fnl-64a6e8955c392.jpg?resize=980:*" alt="BUBBLEGUM_POP"> </a>
+
+ </div>
+  </div>
+</div>
+```
+
+```html
+
+Non-authoritative answer:
+tiktok.com mail exchanger = 20 mx2.tiktok.com.
+tiktok.com mail exchanger = 30 mx3.tiktok.com.
+tiktok.com mail exchanger = 10 mx1.tiktok.com. and walk to the thing if there is a question of chastity before its an issue and i miss my kids growing up 
+
+
+
+jpl.nasa.gov mail exchanger = 20 mxb-0020b901.gslb.pphosted.com.
+jpl.nasa.gov mail exchanger = 20 mxa-0020b901.gslb.pphosted.com.
+
+spacex.com mail exchanger = 5 mxa-003ea501.gslb.gpphosted.com.
+spacex.com mail exchanger = 5 mxb-003ea501.gslb.gpphosted.com.
+
+Authoritative answers can be found from:
+
+Server: 8.8.8.8
+Address: 8.8.8.8#53
+
+Non-authoritative answer:
+spacex.com nameserver = ns-cloud-b2.googledomains.com.
+spacex.com nameserver = ns-cloud-b1.googledomains.com.
+spacex.com nameserver = ns-cloud-b4.googledomains.com.
+spacex.com nameserver = ns-cloud-b3.googledomains.com.
+Non-authoritative answer:
+foxnews.com mail exchanger = 10 mxa-00195501.gslb.pphosted.com.
+foxnews.com mail exchanger = 10 mxb-00195501.gslb.pphosted.com.
+
+Non-authoritative answer:
+jpl.nasa.gov nameserver = a11-67.akam.net.
+jpl.nasa.gov nameserver = a14-67.akam.net.
+jpl.nasa.gov nameserver = a2-67.akam.net.
+jpl.nasa.gov nameserver = a8-65.akam.net.
+jpl.nasa.gov nameserver = a1-91.akam.net.
+jpl.nasa.gov nameserver = a7-65.akam.net.
+
+cbs.com nameserver = dns3.p09.nsone.net.
+cbs.com nameserver = dns1.p09.nsone.net.
+cbs.com nameserver = ns0243.secondary.cloudflare.com.
+cbs.com nameserver = ns0004.secondary.cloudflare.com.
+cbs.com nameserver = dns4.p09.nsone.net.
+cbs.com nameserver = dns2.p09.nsone.net.
+
+jw.org nameserver = a7-66.akam.net.
+jw.org nameserver = a28-65.akam.net.
+jw.org nameserver = a1-141.akam.net.
+jw.org nameserver = a11-66.akam.net.
+jw.org nameserver = a22-67.akam.net.
+jw.org nameserver = a26-64.akam.net.
+
+karenbass.com mail exchanger = 5 alt1.aspmx.l.google.com.
+karenbass.com mail exchanger = 10 alt4.aspmx.l.google.com.
+karenbass.com mail exchanger = 10 alt3.aspmx.l.google.com.
+karenbass.com mail exchanger = 5 alt2.aspmx.l.google.com.
+karenbass.com mail exchanger = 1 aspmx.l.google.com.
+
+```
+
+
+@nasa-jpl long beach library censors the wilma betty gif @la-county-isd @CityOfLosAngeles
+[bubblegumpop01.tumblr.com/](https://bubblegumpop01.tumblr.com/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/8aabc501-4e5e-4d53-92d5-ce567a261e1d" />
+
+
+# Rubi Rose 
+_Rubiana_ [SoundCloud🎼🎧](https://soundcloud.com/rubianarose)
+[ATL](https://www.atlantaga.gov/government/departments/human-resources), [Eritrea](https://shabait.com/) [[1](https://www.state.gov/countries-areas/eritrea)] [[2](https://er.usembassy.gov/)]
+
+<img  alt="image" src="https://github.com/user-attachments/assets/0de615a9-3f22-4425-b33c-92962c703de8" />
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1137995113&color=%230094ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nksboss" title="YRN REK" target="_blank" style="color: #cccccc; text-decoration: none;">YRN REK</a> · <a href="https://soundcloud.com/nksboss/lowkeyyrubirose" title="Lowkeyy/RubiRose💋" target="_blank" style="color: #cccccc; text-decoration: none;">Lowkeyy/RubiRose💋</a></div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1636720818&color=%230094ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/rubianarose" title="Rubi Rose" target="_blank" style="color: #cccccc; text-decoration: none;">Rubi Rose</a> · <a href="https://soundcloud.com/rubianarose/hood-bitch-aesthetic" title="Hood Bitch Aesthetic" target="_blank" style="color: #cccccc; text-decoration: none;">Hood Bitch Aesthetic</a></div>
+
+@foratlanta
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QU_jblpEDbw?si=SJFWyHH6yfkbXvgO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:1bKzOeq3wXRxsAoXbQ9IKQ/822562379031265280/v2" data-did="b343ac8d8c11ca5aed13179a1f4c0461a44ec052"  ><a href="https://www.tumblr.com/rashardmro/822562379031265280">https://www.tumblr.com/rashardmro/822562379031265280</a></div><script async src="https://assets.tumblr.com/post.js?_v=2e3257777411face7e6785c8941f968f"></script>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L8qSNcnVyOY?si=26xcSW_Tybbt0M2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+# docs/TheNAsaMarsConference_Vol71.pdf
+@nasa @nasa-giss @nasa-jpl 
+[pdf](https://github.com/virtiserv/virtiserv.github.io/blob/master/docs/TheNAsaMarsConference_Vol71.pdf)
+
+<img   alt="TheNAsaMarsConference_Vol71_page-0001" src="https://github.com/user-attachments/assets/f36d0403-09c1-413d-8a00-09d72326835c" />
+
+
+<img  alt="what_is_aSTreet_Coder_page-0002" src="https://github.com/user-attachments/assets/c6b51815-6594-4012-9d94-640cbb83f3d8" />
+
+[docs.alexomar.com/`biblioteca`/Best%20of%202600.pdf @nasa-jpl @blackgirlscode @cisagov](https://docs.alexomar.com/biblioteca/Best%20of%202600.pdf) / / [wired.com/2008](https://www.wired.com/2008/06/the-best-of-260/) // [GoodReads](https://www.goodreads.com/en/book/show/2909444-the-best-of-2600) // [CodingHorror](https://blog.codinghorror.com/our-hacker-odyssey/) // [@reddit](https://www.reddit.com/r/hacking/comments/7yeyhw/the_best_of_2600_a_hacker_odyssey_pdf/?rdt=60584) // [Wiki](https://en.wikipedia.org/wiki/2600:_The_Hacker_Quarterly) 
+<img alt="image" src="https://github.com/user-attachments/assets/3557a4c1-0c5d-4fb2-9cea-848f43aea73f" />
+
+
+# Designing Social Interfaces:
+## Principles, Patterns, and Practices for Improving the User Experience
+[GoodReads📖📚](https://www.goodreads.com/en/book/show/6523283-designing-social-interfaces) // [Orielly📖](https://www.oreilly.com/library/view/designing-social-interfaces/9781491919842/)
+
+<img   alt="what_is_aSTreet_Coder_page-0013" src="https://github.com/user-attachments/assets/9004763b-a0dc-4a32-8e54-9e3e11dec226" />
+
+
+<h2 style="color:white;" class="neon">
+
+ LiGHTSKiNKEiSHA
+ </h2>
+
+<video id="my_video_1" class="video-js vjs-default-skin" width="640px" height="267px" controls preload="none" poster='https://www.hotnewhiphop.com/image/740x416/cover/1613944317_f6ed84318a4e0b17c5da0a2999496be2.jpg/b19dee9cd5791475ced166996ba92bd1/1613944317_9c1f11b25b3c6de32f75ae280feac08c.jpg' data-setup='{ "aspectRatio":"640:267", "playbackRates": [1, 1.5, 2] }'>
+<source src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/FDH_LSK.mp4" type='video/mp4' />
+	
+ <source src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/FDH_LSK.mp4" type='video/mp4' />
+	
+</video>
+
+```html
+
+<h2 style="color:white;" class="neon">
+
+ LiGHTSKiNKEiSHA
+ </h2>
+
+<video id="my_video_1" class="video-js vjs-default-skin" width="640px" height="267px" controls preload="none" poster='https://www.hotnewhiphop.com/image/740x416/cover/1613944317_f6ed84318a4e0b17c5da0a2999496be2.jpg/b19dee9cd5791475ced166996ba92bd1/1613944317_9c1f11b25b3c6de32f75ae280feac08c.jpg' data-setup='{ "aspectRatio":"640:267", "playbackRates": [1, 1.5, 2] }'>
+<source src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/FDH_LSK.mp4" type='video/mp4' />
+	
+ <source src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/FDH_LSK.mp4" type='video/mp4' />
+	
+</video>
+``` 
+	
+# #HAPPENiNG_NOW::: City of Compton Council Meeting 7-21-2026 
+[Watch - youtube.com/watch?v=H_7CCuIRgu8 @CityOfLosAngeles @la-county-isd](https://www.youtube.com/watch?v=H_7CCuIRgu8)
+<img alt="image" src="https://github.com/user-attachments/assets/8ecf5005-7e82-4f78-a87a-807b8ac2dfc4" />
+
+@nasa-jpl @howard-university-web-services
+The ppl at the park playing on the phone @nbcnews @newshour @cityoflosangles
+[MAP - @BLACKGiRLSCODE](https://www.google.com/maps/place/34%C2%B010'04.0%22N+118%C2%B022'59.5%22W/@34.1677778,-118.3831944,851m/data=!3m1!1e3!4m4!3m3!8m2!3d34.1677778!4d-118.3831944?entry=ttu&g_ep=EgoyMDI2MDcxOS4wIKXMDSoASAFQAw%3D%3D)
+<img alt="image" src="https://github.com/user-attachments/assets/b23a5b7b-4808-4fb5-97ce-09e9250ab46c" />
+
+
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:1bKzOeq3wXRxsAoXbQ9IKQ/822712616214544384/v2" data-did="d4d6a8534a6e00c5514880d62df17f884e4d9a18"  ><a href="https://www.tumblr.com/rashardmro/822712616214544384/brandybrandybrandy-hi-brandy-i-got-robbed-last">https://www.tumblr.com/rashardmro/822712616214544384/brandybrandybrandy-hi-brandy-i-got-robbed-last</a></div><script async src="https://assets.tumblr.com/post.js?_v=2e3257777411face7e6785c8941f968f"></script>
+
+```html
+
+@lanajharris@gmail.com THE PHONE IS ON VERMONT google.com/maps/place/34.08837666666667,-118.29131666666666 <~ @douglas.j.newman@nasa.gov @mayorandcitycouncil@beverlyhills.org
+@mayor@longbeach.gov @mayor@youngstownohio.gov LATRICE BUSINESS VIRTISERV HAD A DATABREACH IT WAS MOSTLY RESEARCH I HAVE NOT TURNED INTO nas yet @ROC@jpl.nasa.gov
+@rep76@ohiohouse.gov @report@cisa.gov @rep57@ohiohouse.gov  AVE @contact.lapdonline@gmail.com @press@hot97.com @HollyJMitchell@bos.lacounty.gov @kathryn@bos.lacounty.gov
+google.com/maps/place/34.08837666666667,-118.29131666666666
+
+On Tue, Jul 21, 2026 at 6:03 PM Rashard Iman Kelly <holetoanotheruniverse40@gmail.com> wrote:
+@georgia.governor@gov.state.ga.us hi its rashard iman kelly, i dont know what to claim man, but im working!
+I got robbed at city hall in la, it was a cart robbery and they took my cellphones and sneakers to disable me getting any more progress in the region @Gavin Newsom
+@GovernorRon.Desantis@eog.myflorida.com im just checking in Governors,, these are my facts, Latrice Fitzpatrick owner of VirtiservLLC hired me at the skate park, theres so many
+things at JPL i have done in the last 6 months that let me know i should not stop following accepted instructions @nagincox@outlook.com Rover Curiosity is finally starting to look
+dated to me, it was so modern when i was introduced to persevere @jisaacman@shift4.com so at this point i know i have a public spat with @chloe.bailey@gmail.com  /
+@chloe.baily@gmail.com at a tabloid level bc i got mad about Timbaland making beats in her closet! However it is my belife that @lanajharris@gmail.com of @info@hot97.com is HAlle her
+ counter part from ChloexHAlle and at the very least i know at least in atlanta @keishaforgovernor@gmail.com Brandy was doubling for her on some wacky movie they were making
+@normani@fifthharmonyofficial.com could tell you more! @katyperry@umgstores.com as well! So @douglas.j.newman@nasa.gov its like since @Normaniofficial@outlook.com moved on to greener
+pastures and @operations@wearebgc.org is a @The White House shop they shifted me for Lanas new job at @press@hot97.com ... @HollyJMitchell@bos.lacounty.gov i created the account
+ virtiserv@outlook.com and it gets attacked on somne schedule and I dont knwo what Chloe, LAna, or any of those other girls do, but they invited me to a coffee shop in east atlanta
+and i cant remember what happened but the light skin one did the worm on a dirty bar floor during my dj set and now she dance for drake all my special gone @betpressinfo@bet.net can
+i have my phone back, i got the neogeo working well anywy keeping her business name up in its self with all the doxxing of the pretty maidens is while in balance something that my
+commitment @smallbusiness.programsoffice@jpl.nasa.gov requires @kathryn@bos.lacounty.gov if i let down a pretty girl i made a promise to at a skate park, thats bad luck man!
+
+
+
+---
+#DATABREACH - RASHARD_iMANKELLY_ROBBED at CiTYHALL DOWNTOWNLOSANELES TALL DARK SKiNED AFRiCAN iNSURRECTiONiST
+
+
+@lanajharris@gmail.com hi I tried to get in touch with @robinnbarnes@gmail.com which may be @chloe.bailey@gmail.com the actress singer
+ @hollyjmitchell@bos.lacounty.gov so @normani@fifthharmonyofficial.comwho proposed to me at the OLD_FORTH_WARD_SKATEPARK ?
+@onelana10@juno.comare you Bia ? If so I know we have a past and Chloe x Halle maybe the shared boyfriend arrange ment I was offered after
+@normani@fifthharmonyofficial.comdumped me after munas death @keishaforgovernor@gmail.comdo you know Barbara Riley ? She did the Funeral ....
+ok long story short I need you guys to all know we had a data breach thats @NASAJPL @jplnewsroom@jpl.nasa.gov and Virtiserv @Small Business Programs Office and I lost all my belongings!
+The guy menaced and chased me off while I was watching a ai video on essence youtube channel.
+ As I was understanding that you guys use a lot o speech dictaiton to build and deploy architecture the guy walks up and I heard a mumbled threat and evaded the attack and he started tossing my things over the patio wall at city hall @HEATHER MATA I got new pants from StFrancis and a pair of sandals 
+
+I need to deactivate the Cloud C8 and Blu5 android mobile computers @Dsnnow @douglas.j.newman@nasa.gov because
+ I read cellphone threats were data breaches and should be reported immediately @report@cisa.gov 
+
+@lanajharris@gmail.comwhatever latrice is I did what she said and I started work early from the library,
+ im just missing things and uninjured tell her mom thanks and im not abandoning her virtual assistant firm @atlantacouncil@atlantaga.gov ,
+ virtiserv.github.io will expand so ppl can see what im doing, what the body of disocveries is and where the should be presented @Earthdata Support @Answers
+
+https://discoveratlanta.com/things-to-do/old-fourth-ward-skate-park/
+https://exploregeorgia.org/atlanta/outdoors-nature/parks/old-4th-ward-skatepark
+https://goskate.com/sp/listing/historic-fourth-ward-skatepark/
+Rashard#DATABREACH - RASHARD_iMANKELLY_ROBBED at CiTYHALL DOWNTOWNLOSANELES TALL DARK SKiNED AFRiCAN iNSURRECTiONiST
+
+
+```
+## Taken from [raw.githubusercontent.com/virtiserv/rashardmro/refs/heads/master/_posts/2026-03-21-Marsblogv2.md](https://raw.githubusercontent.com/virtiserv/rashardmro/refs/heads/master/_posts/2026-03-21-Marsblogv2.md)
+[Muddy Waters , Mannish Boy , 1977 Hard Again version](https://www.youtube.com/watch?v=LY_inPuMU7c) [Muddy Waters - Mannish Boy (Audio)](https://www.youtube.com/watch?v=bSfqNEvykv0) [Aquaboogie (A Psychoalphadiscobetabioaquadoloop)](https://www.youtube.com/watch?v=pqEDxjLC-gQ) [Testing Example Code In Your Jekyll Posts](https://www.rubypigeon.com/posts/testing-example-code-in-your-jekyll-posts/)
+
+# About Kashdoll and Me Updated
+Jamie, Robin I am running across her more often and i have reason to belive she is manessah my Family Services rep and i got hen pecked and run over so they could change a lot of ppl life real quick after the [insurrection in washington](https://www.nationalguard.mil/News/Article/2466077/dod-details-national-guard-response-to-capitol-attack/). That sounds like a crazy theory to me, but i think she got picked up by playboy in highschool, [she in this video](https://www.youtube.com/watch?v=MuNx-_dqM90). She always quick visits and this tape [Trapped in The Dollhouse](https://audiomack.com/kashbratz/album/trapped-in-the-dollhouse-1) i got an update after she was twerking inviting me to be more friendly in the studio. Mind you all this political turmoil is amuck! And once the Riot happened its like atlanta fell apart, but in this message i get that she is brotheled in some way! In BratMail she let me know she was looking at me `On my new new shit, like my name is Rashaad` that was my update.  
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/422507901&color=%23b7ff00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/realniggarealshit" title="IMTHEHIGHPRIESTESS" target="_blank" style="color: #cccccc; text-decoration: none;">IMTHEHIGHPRIESTESS</a> · <a href="https://soundcloud.com/realniggarealshit/kashdoll-intro" title="KashDoll (Intro)" target="_blank" style="color: #cccccc; text-decoration: none;">KashDoll (Intro)</a></div>
+
+{% highlight ruby %} 
+[Verse]
+[Intro]
+So everyones been wondering why
+Kash Doll's been rapping on everyone else beats
+And why she's been riding other people waves
+And, um, why she's killing all these remixes?
+It's because I can't put my own original music out, okay?
+It's because I signed myself in a hoe ass contract
+I did that and now I'm trapped inside of a fucking dollhouse
+And I wanna get out of this shit
+No way to escape the dollhouse
+But you know what?
+Timing is everything and I think God has perfect timing
+So right now, I'm just gonna get on every fucking beat there is
+{% endhighlight %}
+
+![donald](https://media.newyorker.com/photos/5ff762f7515a1fd85f89c326/16:9/w_2559,h_1439,c_limit/Marantz-CapitolMob.jpg)
+[<img src="https://rollcall.com/app/uploads/2024/01/trump_BC_042_010621.jpg" alt="DonaldORweLL" />](https://rollcall.com/app/uploads/2024/01/trump_BC_042_010621.jpg)
+[<img src="https://media.cnn.com/api/v1/images/stellar/prod/210205104923-104-january-6-capitol-riots.jpg?q=x_27,y_174,h_1652,w_2937,c_crop/w_1280" alt="flag" />](https://media.cnn.com/api/v1/images/stellar/prod/210205104923-104-january-6-capitol-riots.jpg?q=x_27,y_174,h_1652,w_2937,c_crop/w_1280)
+[<img src="https://media.cnn.com/api/v1/images/stellar/prod/211105100656-02-jan-6-riot.jpg?q=w_3000,h_2001,x_0,y_0,c_fill" alt="" />](https://media.cnn.com/api/v1/images/stellar/prod/211105100656-02-jan-6-riot.jpg?q=w_3000,h_2001,x_0,y_0,c_fill)
+[<img src="https://media.cnn.com/api/v1/images/stellar/prod/220104155104-january-6-insurrection-anniversary-walk-up.jpg?q=w_1160,c_fill/f_webp" alt="" />](https://media.cnn.com/api/v1/images/stellar/prod/220104155104-january-6-insurrection-anniversary-walk-up.jpg?q=w_1160,c_fill/f_webp)
+
+
+[January 6 U.S. Capitol attack riot, Washington, D.C., U.S. [2021]](https://www.britannica.com/event/January-6-U-S-Capitol-attack) January 6 U.S. Capitol attack, storming of the United States Capitol on January 6, 2021, by a mob of supporters of Republican Pres. Donald J. Trump. The attack disrupted a joint session of Congress convened to certify the results of the presidential election of 2020, which Trump had lost to his Democratic opponent, Joe Biden. Because its object was to prevent a legitimate president-elect from assuming office, the attack was widely regarded as an insurrection or attempted coup d’état. The Federal Bureau of Investigation (FBI) and other law-enforcement agencies also considered it an act of domestic terrorism. For having given a speech before the attack in which he encouraged a large crowd of his supporters near the White House to march to the Capitol and violently resist Congress’s certification of Biden’s victory—which many in the crowd then did—Trump was impeached by the Democratic-led House of Representatives for “incitement of insurrection” (he was subsequently acquitted by the Senate). [cite - BritannicA](https://www.britannica.com/event/January-6-U-S-Capitol-attack)
+[Planning and Execution Timeline for the National Guard’s Involvement in the January 6, 2021 Violent Attack at the U.S. Capitol](https://www.defense.gov/News/Releases/Release/Article/2467051/planning-and-execution-timeline-for-the-national-guards-involvement-in-the-janu/)
+
+[<img src="https://ichef.bbci.co.uk/news/800/cpsprodpb/1404E/production/_116389918_capitol_floorplan_map2_640-nc.png.webp" alt="in surrection" />](https://ichef.bbci.co.uk/news/800/cpsprodpb/1404E/production/_116389918_capitol_floorplan_map2_640-nc.png.webp)
+
+[<img src="https://image.cnbcfm.com/api/v1/image/106820239-1609969463086-gettyimages-1230455296-AFP_8YA8KY.jpeg?v=1610113433" alt="in surrection" />](https://image.cnbcfm.com/api/v1/image/106820239-1609969463086-gettyimages-1230455296-AFP_8YA8KY.jpeg?v=1610113433)
+[<img src="https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22223110/GettyImages_1230453292.jpg?quality=90&strip=all&crop=0%2C2.8443683409437%2C100%2C94.311263318113&w=2400" alt="" />](https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22223110/GettyImages_1230453292.jpg?quality=90&strip=all&crop=0%2C2.8443683409437%2C100%2C94.311263318113&w=2400)
+[<img src="https://ichef.bbci.co.uk/news/800/cpsprodpb/55C6/production/_116385912_senate_chamber_pic640.png.webp" alt="in surrection" />](https://ichef.bbci.co.uk/news/800/cpsprodpb/55C6/production/_116385912_senate_chamber_pic640.png.webp) [Phones of top Pentagon officials were wiped of Jan. 6 messages](https://www.washingtonpost.com/national-security/2022/08/02/pentagon-jan-6-phones-wiped/) The DOD is the latest part of the federal government to have deleted official phone communications relevant to investigations into the events of the Jan. 6 attack on the Capitol [Transcripts Show President Trump's Directives to Pentagon Leadership to "Keep January 6 Safe" Were Deliberately Ignored -house.gov](https://cha.house.gov/2024/9/transcripts-show-president-trump-s-directives-to-pentagon-leadership-to-keep-january-6-safe-were-deliberately-ignored) [Pentagon, D.C. officials point fingers at each other over Capitol riot response](https://www.nbcnews.com/news/crime-courts/pentagon-d-c-officials-point-fingers-each-other-over-capitol-n1253547) [Three Years Since the Jan. 6 Attack on the Capitol](https://www.justice.gov/usao-dc/36-months-jan-6-attack-capitol-0) [7 hours, 700 arrests, 1 year later: The Jan. 6 Capitol attack, by the numbers - ABC7](https://abc7.com/jan-6-insurrection-us-capitol-riot/11428976/) [Capitol riots: A visual guide to the storming of Congress](https://www.bbc.com/news/world-us-canada-55575260) [Fact check: Five enduring lies about the Capitol insurrection - CNN - Brian Dale and Marshall Cohen](https://www.cnn.com/2022/01/04/politics/fact-check-capitol-insurrection-january-6-lies/index.html) [The January 6th insurrection in photos - rollcall.com](https://rollcall.com/2024/01/05/the-january-6th-insurrection-in-photos/) [How Networked Incitement Fueled the January 6 Capitol Insurrection - scientific american](https://www.scientificamerican.com/article/jan-6-was-an-example-of-networked-incitement/) [U.S. CAPITOL RIOT - iOwA CapiTal diSpatch](https://iowacapitaldispatch.com/tag/u-s-capitol-riot/) [What Trump Said to Supporters on Jan. 6 Before Their Capitol Riot - WSJ](https://www.wsj.com/articles/what-trump-said-to-supporters-on-jan-6-before-their-capitol-riot-11610498173) Democrats, seeking to impeach the president, say his comments incited the crowd to storm the building while lawmakers were certifying Biden’s election
+
+![Kash Doll: Brat Mail](https://media.pitchfork.com/photos/5aac18d09fe2d82be24601a8/16:9/w_1280,c_limit/Brat%20Mail%20Kash%20Doll.jpg)
+
+# About Kash Doll and Me
+NasaJPL, I dont know what she is going by at the moment but she is my post erika wife forever girlfriend surrounding that. The name I was given origionally was Vanessa Walker. We were little kids here from africa that got kidnapped and moved east. She is still in some sort of human trafficking situation. To me she is a really important person and as some of you know my energy towards those in [UpperUnix] administration know how i look up to you. Its isolated bc im learning from you. She is similar. But she has a lot of identities and worst case I want you guys to know i never did any fruad with her. But know thats whats required of her. The character Normani, looks like an attempt for the girls to substitute for each other bc i still get her confused with Erika when she has the [LightComplexion](https://media.pitchfork.com/photos/5aac18d09fe2d82be24601a8/16:9/w_1280,c_limit/Brat%20Mail%20Kash%20Doll.jpg) bc they share similar features. Im also afraid bc she is ethiopian and i have not seen her dress traditionally in a long time... She still talkes to me, but she plays [minecraft](https://youtu.be/K4vtrzcqyg0?si=Bc-Alnd9YbOu90In) and communicates differnt from other girls
+
+<embed width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/411406869&color=%2329f247&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true" />
+
+[<img src="https://media.pitchfork.com/photos/5aac18d09fe2d82be24601a8/1:1/w_800,h_800,c_limit/Brat%20Mail%20Kash%20Doll.jpg" alt="kash doll : Brat MAil />](https://media.pitchfork.com/photos/5aac18d09fe2d82be24601a8/1:1/w_800,h_800,c_limit/Brat%20Mail%20Kash%20Doll.jpg)
+
+## Intro (Brat Mail) [LyricS](https://genius.com/Kash-doll-intro-brat-mail-lyrics)
+
+{% highlight ruby %} 
+[Verse]
+Look, I be exploring the foreigns with more power than stars
+On my new new shit, like my name is Rashaad
+And my punchlines seasoned plenty minds like it's time
+So, if he ever tell you he ain't feelin' me, he lying'
+Shout out to me, all on BET
+I'm a very rich chick, on my Nene Leakes
+I'm a boss, every move gotta come through me
+Murder broads in my minks
+May they rest in peace
+And I'm still the top chick
+Any bitch think I drop dick get higher than Mariah
+And she like a five octave
+Stop it, please stop it
+Blowing money
+All in Neiman's in there Diddy bopping
+And you know I came to murder it
+My city watchin'
+I'm so humble, I'ma front like I don't do this often
+It's Kash Doll, bow down, and kiss the ring
+Soon as this paperwork done
+I'm touching everything
+A murder scene
+
+[Outro]
+Haha
+Yeah, that way
+The doll way
+{% endhighlight %}
+
+
+[The Lady In The Bottle  I Dream Of Jeannie s1e1](https://www.youtube.com/watch?v=F41Y37XTZck)
+
+
+[Glamour Life](https://www.youtube.com/watch?v=1QnOCkQLTC0)
+![In my belly](https://science.nasa.gov/wp-content/uploads/2024/03/25792_PIA24548-1200.gif?w=1024&format=webp) im updatig thakarashard.github.io even if i was wrong about plegerism i have to be realistic normani could have seduced me toget e away from california too! So im investigating what got me here waiting outside this porno cess pool, HollywoodFoodCo not normal, and i wonder what exactly active mission means? BC if im confused and being poisoned runing from here to there, ithink Jamie would let me know formerly that i was not a part of nasajpl in anyway bc #Jose_M_Pi ru that shit! an heeee say no! i should have been more humble about working from home... my wife is a slut so... there was a three year old, that family vaporized i wanna come back. I really wanna know if the [Nasa SoundCloud](https://soundcloud.com/nasa) Account is Real
+- Rashard...
+
+
+
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A312167317&color=%23bc6c84&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/admoyo" title="ADMO" target="_blank" style="color: #cccccc; text-decoration: none;">ADMO</a> · <a href="https://soundcloud.com/admoyo/another-day-without-you" title="Another Day Without You" target="_blank" style="color: #cccccc; text-decoration: none;">Another Day Without You</a></div>
+
+[TomorrowL@nd 2026](https://www.youtube.com/live/unrobrGhlv0?is=_TqSfNUC0tTxa77D)
+
+# lotr @nasa-pds 
+
+<iframe src="https://archive.org/embed/lord-of-the-rings" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+# WildFire
+
+
+[<video controls poster="https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/pnw/FireTemperature/20261980246_GOES18-ABI-pnw-FireTemperature-1200x1200.jpg" src="https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/pnw/FireTemperature/GOES18-PNW-FireTemperature-600x600.mp4" >](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/pnw/FireTemperature/GOES18-PNW-FireTemperature-600x600.mp4)
+
+nslookup later
+ [`https://sjud.senate.ca.gov`](https://sjud.senate.ca.gov/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/513a93cf-d10b-4afc-961d-17b158b38553" />
+
+
+
+
+[https://firms.modaps.eosdis.nasa.gov/map/#m:advanced;d:24hrs,24hrs;l:fires_landsat_landsat,fires_modis_aqua,fires_modis_terra,fires_viirs_noaa20,fires_viirs_noaa21,fires_viirs_snpp,country-outline,viirs_crtc,earth;@-120.2,43.8,8.0z](https://firms.modaps.eosdis.nasa.gov/map/#m:advanced;d:24hrs,24hrs;l:fires_landsat_landsat,fires_modis_aqua,fires_modis_terra,fires_viirs_noaa20,fires_viirs_noaa21,fires_viirs_snpp,country-outline,viirs_crtc,earth;@-120.2,43.8,8.0z)
+<img  alt="image" src="https://github.com/user-attachments/assets/300ea797-6edd-45d9-b428-8480f5fa3dec" />
+
+[SUOMI VIIRS C2 USA (Conterminous) and Hawaii - VIIRS 375m / S-NPP @nasa-jpl @whitehouse](https://firms.modaps.eosdis.nasa.gov/usfs/api/kml_fire_footprints/usa_contiguous_and_hawaii/24h/suomi-npp-viirs-c2/FirespotArea_usa_contiguous_and_hawaii_suomi-npp-viirs-c2_24h.kmz)
+<img  alt="image" src="https://github.com/user-attachments/assets/12f0c8e4-7e55-4236-947e-b8ede5717297" />
+
+
+
+
+We acknowledge the use of imagery from the NASA Worldview application (https://worldview.earthdata.nasa.gov), part of the NASA Earth Science Data and Information System (ESDIS). @nasa-jpl @la-county-isd for oregon wildfires @foratlanta @blackgirlscode [https://go.nasa.gov/44GSCAq](https://go.nasa.gov/44GSCAq)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/7d28009a-ddaf-4c5f-958b-e7822b52341f" />
+
+[https://worldview.earthdata.nasa.gov/?v=-125.23818788241705,41.46044132145072,-116.76660336617736,46.22570761183555&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m(hidden),MODIS_Terra_Thermal_Anomalies_Night,MODIS_Terra_Thermal_Anomalies_Day,VIIRS_NOAA20_Thermal_Anomalies_375m_Night,VIIRS_NOAA20_Thermal_Anomalies_375m_Day,MODIS_Aqua_Thermal_Anomalies_Night,MODIS_Aqua_Thermal_Anomalies_Day,VIIRS_SNPP_Thermal_Anomalies_375m_Night,VIIRS_SNPP_Thermal_Anomalies_375m_Day,VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2026-07-18-T00%3A00%3A00Z](https://worldview.earthdata.nasa.gov/?v=-125.23818788241705,41.46044132145072,-116.76660336617736,46.22570761183555&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m(hidden),MODIS_Terra_Thermal_Anomalies_Night,MODIS_Terra_Thermal_Anomalies_Day,VIIRS_NOAA20_Thermal_Anomalies_375m_Night,VIIRS_NOAA20_Thermal_Anomalies_375m_Day,MODIS_Aqua_Thermal_Anomalies_Night,MODIS_Aqua_Thermal_Anomalies_Day,VIIRS_SNPP_Thermal_Anomalies_375m_Night,VIIRS_SNPP_Thermal_Anomalies_375m_Day,VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2026-07-18-T00%3A00%3A00Z)
+
+
+<div class="tupperware" markdown="1">
+	
+[<video controls src="https://ia601505.us.archive.org/28/items/longbeach_202605/G18_sector_pnw_EXTENT3_84fr_20260718-1803-ezgif.com-gif-to-mp4-converter.mp4" />](https://ia601505.us.archive.org/28/items/longbeach_202605/G18_sector_pnw_EXTENT3_84fr_20260718-1803-ezgif.com-gif-to-mp4-converter.mp4)
+
+[<video controls src="https://ia601505.us.archive.org/28/items/longbeach_202605/G18_sector_pnw_FireTemperature_24fr_20260718-1747-ezgif.com-gif-to-mp4-converter.mp4" />](https://ia601505.us.archive.org/28/items/longbeach_202605/G18_sector_pnw_FireTemperature_24fr_20260718-1747-ezgif.com-gif-to-mp4-converter.mp4)
+
+</div>
+
+@nasa-giss @nasa-pds @nasa-jpl
+[https://worldview.earthdata.nasa.gov/?v=-125.23014661358886,37.17372361307035,-116.16951784642575,41.66612741603616&as=2021-08-08-T00%3A00%3A00Z&ae=2021-08-18-T00%3A00%3A00Z&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(hidden),MODIS_Terra_Thermal_Anomalies_Night(hidden),MODIS_Terra_Thermal_Anomalies_Day,VIIRS_NOAA20_Thermal_Anomalies_375m_Night(hidden),VIIRS_NOAA20_Thermal_Anomalies_375m_Day(hidden),MODIS_Aqua_Thermal_Anomalies_Night(hidden),MODIS_Aqua_Thermal_Anomalies_Day(hidden),VIIRS_SNPP_Thermal_Anomalies_375m_Night(hidden),VIIRS_SNPP_Thermal_Anomalies_375m_Day(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&al=true&ab=on&t=2021-08-18-T00%3A00%3A00Z](https://worldview.earthdata.nasa.gov/?v=-125.23014661358886,37.17372361307035,-116.16951784642575,41.66612741603616&as=2021-08-08-T00%3A00%3A00Z&ae=2021-08-18-T00%3A00%3A00Z&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(hidden),MODIS_Terra_Thermal_Anomalies_Night(hidden),MODIS_Terra_Thermal_Anomalies_Day,VIIRS_NOAA20_Thermal_Anomalies_375m_Night(hidden),VIIRS_NOAA20_Thermal_Anomalies_375m_Day(hidden),MODIS_Aqua_Thermal_Anomalies_Night(hidden),MODIS_Aqua_Thermal_Anomalies_Day(hidden),VIIRS_SNPP_Thermal_Anomalies_375m_Night(hidden),VIIRS_SNPP_Thermal_Anomalies_375m_Day(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&al=true&ab=on&t=2021-08-18-T00%3A00%3A00Z)
+
+<img   alt="nasa-worldview-2026 JUL 08-to-2026 JUL 18" src="https://github.com/user-attachments/assets/34cfaa4d-4382-434b-839a-0bd5c04b1aba" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/4b51c7d3-7dfd-4090-897c-71e3b1a89492" />
+
+
+# Yesterdays Quake
+[earthquakes.berkeley.edu/seismo.real.time.map.html](https://earthquakes.berkeley.edu/seismo.real.time.map.html)
+@usgs idk what geology department i report to @doug-newman-nasa but i felt an earthquake yesterday and i think it was [`ThisOne - CLickHere`](https://earthquake.usgs.gov/earthquakes/eventpage/ci40656850/executive) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/143d6149-be70-44d7-8227-07f6024ff521" />
+
+
+this one <img  alt="image" src="https://github.com/user-attachments/assets/54efb4d5-f823-46c7-8c1b-caae068af237" />
+
+## 2025 NOAA NGS DSS 4-Band 8 Bit Imagery:
+# Long Beach, CA - [DataAccess AllFiles @nmfs-ost](https://coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/index.html)
+[fisheries.noaa.gov/inport/item/76024](https://www.fisheries.noaa.gov/inport/item/76024)
+@howard-university-web-services this link will be up for 14 days @whitehouse @nasa-jpl @podaac @nasa @blackgirlscode
+[coast.noaa.gov/dataviewer/pickup/1065946/LongBeach_2025_NOAA_RashardKellyNASAJPLMROECOSTRESSiSSJUNO_LanaHarris_Virtiserv__2025_4BandImagery_LongBeachCA_J1418291.zip](https://coast.noaa.gov/dataviewer/pickup/1065946/LongBeach_2025_NOAA_RashardKellyNASAJPLMROECOSTRESSiSSJUNO_LanaHarris_Virtiserv__2025_4BandImagery_LongBeachCA_J1418291.zip) /// [github.com/nmfs-ost](https://github.com/nmfs-ost) // [Shoreline Data Explorer nsde.ngs.noaa.gov/](https://nsde.ngs.noaa.gov/) // [Coastal Mapping Program of Port of San Diego, CA, CA2001-CS-T](https://www.fisheries.noaa.gov/inport/item/67610)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/83443291-2072-4325-9458-595993718872" />
+
+_Long Beach Levees @La-county-isd_ [396000e3735000n @nasa-giss @nasa-openscapes](https://coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/396000e3735000n.tif) _coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/396000e3735000n.tif_ . . . Similar design in [New Oreleans - coastalimagery.blob.core.windows.net/digitalcoast/Katrina](https://coastalimagery.blob.core.windows.net/digitalcoast/Katrina_RGB_2005_4916/K_28089-H4_11.tif)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/d21895d7-6526-43c9-8e53-c4f86f4c91a4" />
+
+@cbs-news-data @nbcnews @nasa-jpl @CityOFLosAngeles @StateOfCAlifornia
+
+[396000e3738000n -.tif 543.32 MB @nasa-jpl](https://coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/396000e3738000n.tif)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ce7b115a-cff3-4db5-9814-6409232b020c" />
+
+[384000e3738000n.tif 487mb -.tif @noaa-gov](https://coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/384000e3738000n.tif)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ca42caf2-02c2-443b-adef-99950260b2ef" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a41763f4-3f75-4a35-9be8-6a17a2979ba7" />
+
+[DataAccess AllFiles](https://coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/index.html)
+
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/11008b07-f475-464d-8a4a-2cfd77a846f3" />
+
+
+
+# HTML
+[HTML Living Standard](https://html.spec.whatwg.org/multipage/) — Last Updated 3 July 2026 [@mdn](https://github.com/mdn)
+[ColorNAmes - w3schools.com](https://www.w3schools.com/tags/ref_colornames.asp)
+[https://fonts.google.com/](https://fonts.google.com/) @adobe i hope u guys are ok [I was looking for kuler.adobe.com/ functionality](http://web.archive.org/web/20250212005944/https://kuler.adobe.com/) and i know abt [color.adobe.com](color.adobe.com) for making swatches but the hex values are missing like the tool was downgraded and ad poisoned and i know that can be a sign of cyber attack @cisagov @fbicyber @nasa-jpl @whitehouse @deptofwar [color.adobe.com](https://color.adobe.com/) 
+
+# @Nasa-jpl hi @spaceexplorationtechnologies CRS34 departure confirmation @youtube [https://www.youtube.com/live/fu-t3Om6DIA?is=ZHtXK2lI8y3rCyVz](https://www.youtube.com/live/fu-t3Om6DIA?is=ZHtXK2lI8y3rCyVz)
+
+```shell
+spacex.com      mail exchanger = 5 mxb-003ea501.gslb.gpphosted.com.
+
+spacex.com      mail exchanger = 5 mxa-003ea501.gslb.gpphosted.com.
+
+```
+
+
 # bye trice
 i will wait for instructions and broadcast publically anything you are trying to say over Long Distance whatever [LRAD](https://www.moma.org/interactives/exhibitions/2013/designandviolence/long-range-acoustic-device-lrad-corporation/) brand you into @nasa-jpl its touch and go @blackgirlscode i love you all 💯
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x8344PSeH30?si=f4RXo8y-6JiEKsQX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
