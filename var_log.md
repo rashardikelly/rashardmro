@@ -8,6 +8,165 @@ permalink: /var/log
 
 <img alt="image" src="https://github.com/user-attachments/assets/04c90641-d5b5-4674-81da-bf6e9f46d8cc" />
 
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Say what you want, the stage presence is undeniable 🎤! Stop playing with <a href="https://x.com/RealRemyMa?ref_src=twsrc%5Etfw">@RealRemyMa</a> <a href="https://t.co/B3AZcVxbYr">pic.twitter.com/B3AZcVxbYr</a></p>&mdash; HOT 97 (@HOT97) <a href="https://x.com/HOT97/status/2080971537927086315?ref_src=twsrc%5Etfw">July 25, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pwBFOuCrdr4?si=y945qLtxli8bSxZt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+  
+  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt=" @deptofwar logo @nasa-jpl https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+  
+</picture>
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Sybil Wilkes Covers Today&#39;s What We Need to Know: FBI Investigates Nolan Wells Case, New Tariffs, and More <a href="https://t.co/Xx2L60BSuf">https://t.co/Xx2L60BSuf</a></p>&mdash; Hot 107.9 Atlanta (@hot1079atl) <a href="https://x.com/hot1079atl/status/2081752600496492996?ref_src=twsrc%5Etfw">July 27, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+
+
+
+[![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
+[![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) 
+[![Twitter Follow](https://img.shields.io/badge/Social-@DojaCat__-blue?style=social&logo=X)](https://twitter.com/@DojaCat)
+[![Twitter Follow](https://img.shields.io/badge/Social-@RealRemyMa__-blue?style=social&logo=X)](https://twitter.com/@RealRemyMa)
+[![Twitter Follow](https://img.shields.io/badge/Social-@Power106LA__-blue?style=social&logo=X)](https://twitter.com/@Power106LA)
+[![Twitter Follow](https://img.shields.io/badge/Social-@BrownBagAM__-blue?style=social&logo=X)](https://twitter.com/@BrownBagAM)
+[![Twitter Follow](https://img.shields.io/badge/Social-@IAmSteveHarvey__-blue?style=social&logo=X)](https://twitter.com/@IAmSteveHarvey)
+[![Twitter Follow](https://img.shields.io/badge/Social-@Latto__-blue?style=social&logo=X)](https://twitter.com/@Latto)
+[![Twitter Follow](https://img.shields.io/badge/Social-@_LanaHarris__-blue?style=social&logo=X)](https://twitter.com/@_LanaHarris)
+[![Twitter Follow](https://img.shields.io/badge/Social-@Tip__-blue?style=social&logo=X)](https://twitter.com/@Tip)
+[![Twitter Follow](https://img.shields.io/badge/Social-@Domani__-blue?style=social&logo=X)](https://twitter.com/@Domani)
+[![Twitter Follow](https://img.shields.io/badge/Social-@Drake__-blue?style=social&logo=X)](https://twitter.com/@Drake)
+[![Twitter Follow](https://img.shields.io/badge/Social-@PeteHegseth__-blue?style=social&logo=X)](https://twitter.com/@PeteHegseth)
+[![Twitter Follow](https://img.shields.io/badge/Social-@DeKalbSchools__-blue?style=social&logo=X)](https://twitter.com/@DeKalbSchools)
+[![Twitter Follow](https://img.shields.io/badge/Social-@ChloeBailey__-blue?style=social&logo=X)](https://twitter.com/@ChloeBailey)
+[![Twitter Follow](https://img.shields.io/badge/Social-@GavinNewsom__-blue?style=social&logo=X)](https://twitter.com/@GavinNewsom)
+[![Twitter Follow](https://img.shields.io/badge/Social-@JenSiebelNewsom__-blue?style=social&logo=X)](https://twitter.com/@JenSiebelNewsom)
+[![Twitter Follow](https://img.shields.io/badge/Social-@Dance411__-blue?style=social&logo=X)](https://twitter.com/@Dance411)
+[![Twitter Follow](https://img.shields.io/badge/Social-@MagicCity__-blue?style=social&logo=X)](https://twitter.com/@MagicCity)
+[![Twitter Follow](https://img.shields.io/badge/Social-@ComplexMusic__-blue?style=social&logo=X)](https://twitter.com/@ComplexMusic)
+[![Twitter Follow](https://img.shields.io/badge/Social-@Tinashe__-blue?style=social&logo=X)](https://twitter.com/@Tinashe)
+[![Twitter Follow](https://img.shields.io/badge/Social-@atlcouncil__-blue?style=social&logo=X)](https://twitter.com/@atlcouncil)
+[![Twitter Follow](https://img.shields.io/badge/Social-@KeishaBottoms__-blue?style=social&logo=X)](https://twitter.com/@KeishaBottoms)
+[![Twitter Follow](https://img.shields.io/badge/Social-@lakeyah__-blue?style=social&logo=X)](https://twitter.com/@lakeyah)
+[![Twitter Follow](https://img.shields.io/badge/Social-@coi_leray__-blue?style=social&logo=X)](https://twitter.com/@coi_leray)
+[![Twitter Follow](https://img.shields.io/badge/Social-@LindseyPHorvath__-blue?style=social&logo=X)](https://twitter.com/@LindseyPHorvath)
+[![Twitter Follow](https://img.shields.io/badge/Social-@HollyJMitchell__-blue?style=social&logo=X)](https://twitter.com/@HollyJMitchell)
+[![Twitter Follow](https://img.shields.io/badge/Social-@_HollyJMitchell__-blue?style=social&logo=X)](https://twitter.com/@_HollyJMitchell)
+[![Twitter Follow](https://img.shields.io/badge/Social-@KTLA__-blue?style=social&logo=X)](https://twitter.com/@KTLA)
+[![Twitter Follow](https://img.shields.io/badge/Social-@SFCLA__-blue?style=social&logo=X)](https://twitter.com/@SFCLA)
+[![Twitter Follow](https://img.shields.io/badge/Social-@THEREALSWIZZZ__-blue?style=social&logo=X)](https://twitter.com/@THEREALSWIZZZ)
+[![Twitter Follow](https://img.shields.io/badge/Social-@aliciakeys__-blue?style=social&logo=X)](https://twitter.com/@aliciakeys)
+[![Twitter Follow](https://img.shields.io/badge/Social-@nbcsnl__-blue?style=social&logo=X)](https://twitter.com/@nbcsnl)
+[![Twitter Follow](https://img.shields.io/badge/Social-@LightSkinKeisha__-blue?style=social&logo=X)](https://twitter.com/@LightSkinKeisha)
+[![Twitter Follow](https://img.shields.io/badge/Social-@ellamai__-blue?style=social&logo=X)](https://twitter.com/@ellamai)
+[![Twitter Follow](https://img.shields.io/badge/Social-@drinkchamps__-blue?style=social&logo=X)](https://twitter.com/@drinkchamps)
+[![Twitter Follow](https://img.shields.io/badge/Social-@keishakashdoll__-blue?style=social&logo=X)](https://twitter.com/@keishakashdoll)
+[![Twitter Follow](https://img.shields.io/badge/Social-@chloexhalle__-blue?style=social&logo=X)](https://twitter.com/@chloexhalle)
+[![Twitter Follow](https://img.shields.io/badge/Social-@HalleBailey__-blue?style=social&logo=X)](https://twitter.com/@HalleBailey)
+[![Twitter Follow](https://img.shields.io/badge/Social-@SaucySantana__-blue?style=social&logo=X)](https://twitter.com/@SaucySantana)
+[![Twitter Follow](https://img.shields.io/badge/Social-@chloeandhalle__-blue?style=social&logo=X)](https://twitter.com/@chloeandhalle)
+[![Twitter Follow](https://img.shields.io/badge/Social-@cxhnews__-blue?style=social&logo=X)](https://twitter.com/@cxhnews)
+[![Twitter Follow](https://img.shields.io/badge/Social-@LaurenLondon__-blue?style=social&logo=X)](https://twitter.com/@LaurenLondon)
+[![Twitter Follow](https://img.shields.io/badge/Social-@HOT97__-blue?style=social&logo=X)](https://twitter.com/@HOT97)
+[![Twitter Follow](https://img.shields.io/badge/Social-@hot1079atl__-blue?style=social&logo=X)](https://twitter.com/@hot1079atl)
+[![Twitter Follow](https://img.shields.io/badge/Social-@parksideaps__-blue?style=social&logo=X)](https://twitter.com/@parksideaps)
+[![Twitter Follow](https://img.shields.io/badge/Social-@CBSNewsATL__-blue?style=social&logo=X)](https://twitter.com/@CBSNewsATL)
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">From the unforgettable performances, iconic moments, and the unmatched energy from the fans . Watch the official recap. Summer Jam 2026 🔥🎥 <a href="https://t.co/zxN1jMQR0V">pic.twitter.com/zxN1jMQR0V</a></p>&mdash; HOT 97 (@HOT97) <a href="https://x.com/HOT97/status/2081047995584315714?ref_src=twsrc%5Etfw">July 25, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">For some parents, finding the right place for their young children to learn can feel like a challenge. One McDonough mom decided that if she couldn&#39;t find the village her family needed, she would build it herself. <a href="https://t.co/Fs7N1yI4uY">https://t.co/Fs7N1yI4uY</a></p>&mdash; CBS Atlanta (@CBSNewsATL) <a href="https://x.com/CBSNewsATL/status/2081801800038965657?ref_src=twsrc%5Etfw">July 27, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Bam Adebayo Recounts How &quot;Terrifying&quot; It Was To Ask A&#39;Ja Wilson&#39;s Dad Permission To Marry Her <a href="https://t.co/SLgHNsGk4i">https://t.co/SLgHNsGk4i</a></p>&mdash; Hot 107.9 Atlanta (@hot1079atl) <a href="https://x.com/hot1079atl/status/2081807912704315729?ref_src=twsrc%5Etfw">July 27, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Y’all, I’m so fullllll. WE RICHHHHH 💛🥹</p>&mdash; My name is MUNI (@munilong) <a href="https://x.com/munilong/status/2069503919030468971?ref_src=twsrc%5Etfw">June 23, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E5RY0GUFNrs?si=07NAAd7Rh9LtWVcs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Mars in motion! ⏩<br><br>While on its way to explore a mysterious, metal-rich asteroid, our Psyche spacecraft sped by Mars for a gravity assist to pick up speed and adjust its trajectory. As it approached the planet, it captured this series of high-res snaps. <a href="https://t.co/KB4w6WKnVj">pic.twitter.com/KB4w6WKnVj</a></p>&mdash; NASA JPL (@NASAJPL) <a href="https://x.com/NASAJPL/status/2078181331453055101?ref_src=twsrc%5Etfw">July 17, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">First day of The Last Balloon Tour starts tomorrow in Charlotte, NC !! <a href="https://t.co/jd2kCL5xng">https://t.co/jd2kCL5xng</a></p>&mdash; Tank and The Bangas (@TankandDaBangas) <a href="https://x.com/TankandDaBangas/status/2061411640445153701?ref_src=twsrc%5Etfw">June 1, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Heiress Harris may be the daughter of music royalty, but she&#39;s building a name in the music industry that&#39;s her own. <a href="https://t.co/mshlMMuWhO">https://t.co/mshlMMuWhO</a></p>&mdash; CBS Atlanta (@CBSNewsATL) <a href="https://x.com/CBSNewsATL/status/2069359845317239120?ref_src=twsrc%5Etfw">June 23, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+Chloe Bailey Deletes Twitter To Block Out Negativity: ‘I Don’t Need To Do That To Myself’ [Read - essence.com @nasa-pds](https://www.essence.com/lifestyle/health-wellness/chloe-bailey-deletes-twitter/)
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">One year of <a href="https://x.com/chloexhalle?ref_src=twsrc%5Etfw">@chloexhalle</a> sophomore album <a href="https://x.com/hashtag/UngodlyHour?src=hash&amp;ref_src=twsrc%5Etfw">#UngodlyHour</a>. 👼🏾 What’s your favorite tracks? <a href="https://x.com/hashtag/1YearOfUngodlyHour?src=hash&amp;ref_src=twsrc%5Etfw">#1YearOfUngodlyHour</a> <a href="https://t.co/9hfFeVlEMc">pic.twitter.com/9hfFeVlEMc</a></p>&mdash; chloe x halle news (@cxhnews) <a href="https://x.com/cxhnews/status/1403698284833783808?ref_src=twsrc%5Etfw">June 12, 2021</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">.<a href="https://x.com/chloexhalle?ref_src=twsrc%5Etfw">@chloexhalle</a> for <a href="https://x.com/FlauntMagazine?ref_src=twsrc%5Etfw">@FlauntMagazine</a>’s “Teenage Wasteland,” photoshoot. Read the story here: <a href="https://t.co/KZA7v52bM3">https://t.co/KZA7v52bM3</a> <a href="https://t.co/16Vl2oa7cB">pic.twitter.com/16Vl2oa7cB</a></p>&mdash; ‏ً (@chloeandhalle) <a href="https://x.com/chloeandhalle/status/979491500731101185?ref_src=twsrc%5Etfw">March 29, 2018</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Y&#39;all know I had to be listening to my baby <a href="https://x.com/kashdoll?ref_src=twsrc%5Etfw">@kashdoll</a> <a href="https://t.co/x38IcrCWU3">https://t.co/x38IcrCWU3</a></p>&mdash; Kash Doll Paradise ❤ (@keishakashdoll) <a href="https://x.com/keishakashdoll/status/911365529474158592?ref_src=twsrc%5Etfw">September 22, 2017</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Sisterhood rule #1: Don&#39;t go after your friend&#39;s ain&#39;t 💩 man! Ebony Riley said what she said and points were made. 👏🏾<br><br>Weigh in on the group chat and stream the series premiere of <a href="https://x.com/hashtag/GirlsNightIn?src=hash&amp;ref_src=twsrc%5Etfw">#GirlsNightIn</a> NOW on YouTube! <a href="https://t.co/9JLuU2DdN1">pic.twitter.com/9JLuU2DdN1</a></p>&mdash; BET (@BET) <a href="https://x.com/BET/status/2081801797644018012?ref_src=twsrc%5Etfw">July 27, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+
+[Effects of Inhaled Tobacco and Cannabis Co-Use on Respiratory Health and Tobacco Cessation: An Official American Thoracic Society Research Statement @NIHGOV @Blackgirlscode](https://pmc.ncbi.nlm.nih.gov/articles/PMC12618986/) /// [Meet the scientists of the current NASA Sea Level Change Team. @doug-newman-nasa](https://sealevel.nasa.gov/science-team/team-members?page=1&itemsPerPage=50&sort=&search=&table=site_staffs&status=1&categories_id=(4))
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Sippin My Tea with Supervisor Mitchell <a href="https://t.co/xgzhkz8rTU">https://t.co/xgzhkz8rTU</a></p>&mdash; Holly J. Mitchell (@HollyJMitchell) <a href="https://x.com/HollyJMitchell/status/2071398262792421385?ref_src=twsrc%5Etfw">June 29, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Grateful for my friend and my Senator, <a href="https://x.com/ReverendWarnock?ref_src=twsrc%5Etfw">@ReverendWarnock</a>, and honored to sign a copy of The Rough Side of the Mountain for him. <br><br>Tomorrow, I share it with all of you. 💛<a href="https://x.com/MarinerBooks?ref_src=twsrc%5Etfw">@MarinerBooks</a> <a href="https://t.co/bPL0PoENOm">pic.twitter.com/bPL0PoENOm</a></p>&mdash; Keisha Lance Bottoms (@KeishaBottoms) <a href="https://x.com/KeishaBottoms/status/2046246933895745815?ref_src=twsrc%5Etfw">April 20, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+@stateofcalifornia @whitehouse @nasa-jpl @nbcnews @blackgirlscode
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F6b0DvtWu0E?si=Y469sQgdtVo7D6OE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hi Parents, there is still time to register for the 2020 Spring Progressive Program!<br><br>Kids Dance 411 Progressive Program gets bigger and better with each and every season! Choose from a variety of dance styles from… <a href="https://t.co/xV5R6q5VtM">https://t.co/xV5R6q5VtM</a></p>&mdash; Dance 411 (@Dance411) <a href="https://x.com/Dance411/status/1233161454972370945?ref_src=twsrc%5Etfw">February 27, 2020</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kpW9zZH6XT4?si=8jlgl5fFvEQNPyZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">’RESURRECTION’ the mixtape with <a href="https://x.com/Timbaland?ref_src=twsrc%5Etfw">@timbaland</a> out June 19th ⚡️ <br><br>Pre-Save now:<a href="https://t.co/b30pnw8lKJ">https://t.co/b30pnw8lKJ</a> <a href="https://t.co/snLrrXOQ2z">pic.twitter.com/snLrrXOQ2z</a></p>&mdash; Chlöe (@ChloeBailey) <a href="https://x.com/ChloeBailey/status/2064060980342976826?ref_src=twsrc%5Etfw">June 8, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Yeeeeeea. Not a good day to be a <a href="https://x.com/hashtag/cavs?src=hash&amp;ref_src=twsrc%5Etfw">#cavs</a> fan. <a href="https://x.com/hashtag/CavsVsWarriors?src=hash&amp;ref_src=twsrc%5Etfw">#CavsVsWarriors</a></p>&mdash; Lana Harris (@_LanaHarris) <a href="https://x.com/_LanaHarris/status/739645817175351301?ref_src=twsrc%5Etfw">June 6, 2016</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+@nasa-pds how can I be normal with this in my background, I don't want to hurt anyone @blackgirlscode @la-county-isd @whitehouse [@newshour its rashard from gtri](https://ra5hard.github.io/)
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Okayyy video out now 👯‍♀️ <a href="https://t.co/CgBLdgE11e">pic.twitter.com/CgBLdgE11e</a></p>&mdash; BIG MAMA (@Latto) <a href="https://x.com/Latto/status/2079598961992630723?ref_src=twsrc%5Etfw">July 21, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+
+ <blockquote class="twitter-tweet"><p lang="en" dir="ltr">God woke you up today. What are you grateful for?</p>&mdash; Steve Harvey (@IAmSteveHarvey) <a href="https://x.com/IAmSteveHarvey/status/2081790720336105676?ref_src=twsrc%5Etfw">July 27, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+ 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hz4VHZDAAiI?si=SAtLOR1hAI5EIa8Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# The.Wizard.1989
+
+<iframe src="https://archive.org/embed/thewizard_202001" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mXnJqYwebF8?si=4Y46KGA2cgPgceNo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dI3xkL7qUAc?si=_1WDzvNhYAFbBSB9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6uRkMzqGkq0?si=gKghs80hpiqPVSvQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# NAMCO SYSTEM 22
+### CPU : Motorola 68EC020 32-bit @ 24.576 MH
+
+
+<iframe src="https://archive.org/embed/arcade_raveracw" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+![system22](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sys22_point_rom_pcb_01.jpg/1280px-Sys22_point_rom_pcb_01.jpg)
+
+![namcoSystem21](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Namco_System_21_Polygonizer_logo.svg/3840px-Namco_System_21_Polygonizer_logo.svg.png)
+
+>By Namco Ltd. - Namco Ltd., Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=88836027">Link</a>
+
+[SYSTEM16](https://www.system16.com/hardware.php?id=537)
+
+[Tekken Tag Tournament (World, TEG2/VER.C1, set 1)](https://www.retrogames.cc/arcade-games/tekken-tag-tournament-world-teg2-ver-c1-set-1.html) [ソウルキャリバー Sōrukyaribā World, SOC14/VER.C](https://www.retrogames.cc/arcade-games/soul-calibur-world-soc14-ver-c.html)
+
+
+
+
+[<video autoplay loading="eager" controls src="https://dn711101.ca.archive.org/0/items/longbeach_202605/LATRiCEFiTZPATRiCKorLANAHARRiS_thiswassenttomeKARENBASS_GAViNNEWSOM_ViA_FEED_injection_NASAJPL_DIOUGNEWMAN.mp4" />](https://dn711101.ca.archive.org/0/items/longbeach_202605/LATRiCEFiTZPATRiCKorLANAHARRiS_thiswassenttomeKARENBASS_GAViNNEWSOM_ViA_FEED_injection_NASAJPL_DIOUGNEWMAN.mp4.mp4)
+
+<img alt="IMG_20250714_084757_1" src="https://github.com/user-attachments/assets/026f8e8c-3e1c-48a1-a034-62b2aba771bb" />
+
+
+[www-robotics.jpl.nasa.gov/](https://www-robotics.jpl.nasa.gov/)
+[https://www.jpl.nasa.gov/virtual-tour/ @nasa-pds @newshour @foxnews](https://www.jpl.nasa.gov/virtual-tour/)
+<img  alt="image @nasa-pds @newshour @foxnews " src="https://github.com/user-attachments/assets/5c5fe82d-4be4-4910-a323-0fddcf31a1e5" />
 
 
 nslookup -type=mxhealthebay.org
