@@ -41,6 +41,7 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 @CityOfLosAngeles Karen Bass @noaagov @nasa-jpl @nasa-pds @dhs-gov
 [FY12-24YTD ICE detention analysis @UWCHR](https://uwchr.github.io/ice-detain/) /// [`Employees ask @GitHub` to cancel ICE contract](https://www.washingtonpost.com/technology/2019/10/09/employees-ask-github-cancel-ice-contract-we-cannot-offset-human-lives-with-money/)
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">I clashed with Trump&#39;s ICE agents and Angeleno&#39;s locked arms to protect our neighbors.<br><br>I achieved the first two-year drop in homelessness ever. <br><br>I battled red tape and insurers to help families rebuild from fires. <br><br>Now, I haven&#39;t always got it right. There&#39;s more work to do.… <a href="https://t.co/NUArlCsFF9">pic.twitter.com/NUArlCsFF9</a></p>&mdash; Karen Bass (@KarenBassLA) <a href="https://x.com/KarenBassLA/status/2047707712029675791?ref_src=twsrc%5Etfw">April 24, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
 [https://www.onlinegdb.com/online_bash_shell](https://www.onlinegdb.com/online_bash_shell)
 <img   alt="image" src="https://github.com/user-attachments/assets/34d706d6-1af7-467b-a7c1-d9fbe7306958" />
 
