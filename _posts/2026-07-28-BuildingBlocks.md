@@ -25,6 +25,131 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
 
+@doug-newman-nasa @nasa-openscapes @nasa-giss [nslookup hostnames in log - clickhere](https://github.com/virtiserv/rashardmro/blob/master/assets/logs/cityhalla.log)
+sad @nasa-jpl @nasa 
+
+
+
+# MX Records @nasa-jpl @usnavy
+
+jpl.nasa.gov	mail exchanger = 20 mxb-0020b901.gslb.pphosted.com.
+jpl.nasa.gov	mail exchanger = 20 mxa-0020b901.gslb.pphosted.com.
+
+## mxa-0020b901.gslb.pphosted.com.
+
+| Mx Record | mxa-0020b901.gslb.pphosted.com. | 
+| -----------|---------------------------------|
+| IP | 67.231.155.103 | 
+| Status | Success | 
+| Test duration(ms) | 25 | 
+| AS Number | AS22843 | 
+| Organization | Proofpoint, Inc. | 
+| Domain | proofpoint.com | 
+| Country | United States | 
+| Abuse Contact | Network : 67.231.144.0/20<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
+
+## mxb-0020b901.gslb.pphosted.com.
+
+| Mx Record | mxb-0020b901.gslb.pphosted.com. | 
+| -----------|---------------------------------|
+| IP | 67.231.155.103 | 
+| Status | Success | 
+| Test duration(ms) | 20 | 
+| AS Number | AS22843 | 
+| Organization | Proofpoint, Inc. | 
+| Domain | proofpoint.com | 
+| Country | United States | 
+| Abuse Contact | Network : 67.231.144.0/20<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
+
+
+
+# MX Records 
+@SpaceExplorationTechnoligies
+spacex.com	mail exchanger = 5 mxb-003ea501.gslb.gpphosted.com.
+spacex.com	mail exchanger = 5 mxa-003ea501.gslb.gpphosted.com.
+
+## mxa-003ea501.gslb.gpphosted.com.
+
+| Mx Record | mxa-003ea501.gslb.gpphosted.com. | 
+| -----------|----------------------------------|
+| IP | 66.159.227.33 | 
+| Status | Success | 
+| Test duration(ms) | 68 | 
+| AS Number | AS26211 | 
+| Organization | Proofpoint, Inc. | 
+| Domain | proofpoint.com | 
+| Country | United States | 
+| Abuse Contact | Network : 66.159.224.0/19<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
+
+## mxb-003ea501.gslb.gpphosted.com.
+
+| Mx Record | mxb-003ea501.gslb.gpphosted.com. | 
+| -----------|----------------------------------|
+| IP | 66.159.227.33 | 
+| Status | Success | 
+| Test duration(ms) | 67 | 
+| AS Number | AS26211 | 
+| Organization | Proofpoint, Inc. | 
+| Domain | proofpoint.com | 
+| Country | United States | 
+| Abuse Contact | Network : 66.159.224.0/19<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
+# MX Records 
+
+## mxb-0038fd02.gslb.gpphosted.com.
+
+| Mx Record | mxb-0038fd02.gslb.gpphosted.com. | 
+| -----------|----------------------------------|
+| IP | 66.159.228.37 | 
+| Status | Success | 
+| Test duration(ms) | 28 | 
+| AS Number | AS22843 | 
+| Organization | Proofpoint, Inc. | 
+| Domain | proofpoint.com | 
+| Country | United States | 
+| Abuse Contact | Network : 66.159.224.0/19<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
+
+## mxa-0038fd02.gslb.gpphosted.com.
+
+| Mx Record | mxa-0038fd02.gslb.gpphosted.com. | 
+| -----------|----------------------------------|
+| IP | 66.159.227.37 | 
+| Status | Success | 
+| Test duration(ms) | 66 | 
+| AS Number | AS26211 | 
+| Organization | Proofpoint, Inc. | 
+| Domain | proofpoint.com | 
+| Country | United States | 
+| Abuse Contact | Network : 66.159.224.0/19<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
+
+ @nbcnews spacex mail served from utah according to this @blackgirlscode @nasa-pds @nasa-jpl @deptofwar
+
+# NS Records 
+@doug-newman-nasa @nasa-openscapes @nasa-giss [nslookup hostnames in log - clickhere](https://github.com/virtiserv/rashardmro/blob/master/assets/logs/cityhalla.log)
+sad @nasa-jpl @nasa 
+| Domain Name | NS | TTL | 
+|-------------|----|-----|
+| war.gov | use2.akam.net. | 21600 | 
+| war.gov | ns1-95.akam.net. | 21600 | 
+| war.gov | eur6.akam.net. | 21600 | 
+| war.gov | use9.akam.net. | 21600 | 
+| war.gov | usc5.akam.net. | 21600 | 
+| war.gov | asia3.akam.net. | 21600 | 
+| war.gov | asia2.akam.net. | 21600 | 
+| war.gov | ns1-116.akam.net. | 21600 | 
+
+
+@doug-newman-nasa @nasa-openscapes @nasa-giss [nslookup hostnames in log - clickhere](https://github.com/virtiserv/rashardmro/blob/master/assets/logs/cityhalla.log)
+sad @nasa-jpl @nasa 
+| Domain Name | NS | TTL | 
+|-------------|----|-----|
+| war.gov | use2.akam.net. | 21600 | 
+| war.gov | ns1-95.akam.net. | 21600 | 
+| war.gov | eur6.akam.net. | 21600 | 
+| war.gov | use9.akam.net. | 21600 | 
+| war.gov | usc5.akam.net. | 21600 | 
+| war.gov | asia3.akam.net. | 21600 | 
+| war.gov | asia2.akam.net. | 21600 | 
+| war.gov | ns1-116.akam.net. | 21600 | 
 
 
 @USnavy , @icegov got comprimised, idk where the team is coding now . . . @Whitehouse [github.com/icegov](https://github.com/icegov)
