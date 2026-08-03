@@ -11,6 +11,17 @@ categories: LA eco ecostress space dsn nsn climate weather
 date:   2026-08-01 0:51:06 
 ---
 
+
+<img width="600" height="600" alt="ezgif com-resize" src="https://github.com/user-attachments/assets/1d59dddc-0207-4359-8801-e71c761ff89d" />
+
+
+<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/164a419b-e748-444d-8bad-3eb4ab3112a7" />
+
+ # AVIRIS-5 L2A Orthocorrected Surface Reflectance,
+Facility Instrument Collection [@ornldaac - Data at a Glance](https://www.earthdata.nasa.gov/data/catalog/ornl-cloud-av3-l2a-rfl-2357-1)
+@cityoflosangeles
+<img  alt="image @cityoflosangeles @nasa-jpl " src="https://github.com/user-attachments/assets/02673300-e1a2-476f-aedd-40fa7b7f12b5" />
+
  
 ## 2025 NOAA NGS DSS 4-Band 8 Bit Imagery:
 # Long Beach, CA - [DataAccess AllFiles @nmfs-ost](https://coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/index.html)
