@@ -12,10 +12,156 @@ date:   2026-08-01 0:51:06
 ---
 
 
-<img width="600" height="600" alt="ezgif com-resize" src="https://github.com/user-attachments/assets/1d59dddc-0207-4359-8801-e71c761ff89d" />
+
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+  
+  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt=" @deptofwar logo @nasa-jpl https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+  
+</picture>
+
+ -   [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
+ -   [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL)
 
 
-<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/164a419b-e748-444d-8bad-3eb4ab3112a7" />
+<img  alt="EMIT_L1B_RAD_001_20231018T210240_2329114_008" src="https://github.com/user-attachments/assets/f3603ef6-4ee7-4737-8e87-1e8384e128a1" />
+
+
+<img alt="EMIT_L1B_RAD_001_20250805T170846_2521711_004" src="https://github.com/user-attachments/assets/f9a7ca7a-86f3-45ae-a1b3-335114e83d41" />
+
+
+
+[EMIT_L1B_RAD_001_20260602T180011_2615312_003/EMIT_L1B_RAD_001_20260602T180011_2615312_003.png @EMIT-SDS @lA-COUNTY-ISD @CITYOFLOSANgELES](https://search.earthdata.nasa.gov/search/granules?p=C2408009906-LPCLOUD!C2076102081-LPCLOUD&pg[1][v]=t&pg[1][gsk]=-start_date&pg[1][m]=download&pg[1][cd]=f&g=G4207410245-LPCLOUD&q=EMIT&sb[0]=-119.27194%2C33.39476%2C-117.68315%2C34.04479&lat=33.6615906&long=-118.12857959102142&zoom=9.430587593607589)
+
+<img  alt="EMIT_L1B_RAD_001_20260602T180011_2615312_003  @CITYOFLOSANGELES @NOAAGOV @COMMERCEGOV @FBICYBER @STATEOFCALIFORNIA @EMIT-SDS @HOWARD-UNIVERSITY-WEB-SERVICES" src="https://github.com/user-attachments/assets/990b81e1-cdac-48f0-8f05-5b20122d9dd9" />
+
+
+[search.earthdata.nasa.gov/search/granules?p=C2408009906-LPCLOUD!C2076102081-LPCLOUD&pg[1][v]=t&pg[1][gsk]=-start_date&pg[1][m]=download&pg[1][cd]=f&g=G4221131205-LPCLOUD&q=EMIT&sb[0]=-119.27194%2C33.39476%2C-117.68315%2C34.04479&lat=33.82046125&long=-118.51938603088962&zoom=9.515931928384592](https://search.earthdata.nasa.gov/search/granules?p=C2408009906-LPCLOUD!C2076102081-LPCLOUD&pg[1][v]=t&pg[1][gsk]=-start_date&pg[1][m]=download&pg[1][cd]=f&g=G4221131205-LPCLOUD&q=EMIT&sb[0]=-119.27194%2C33.39476%2C-117.68315%2C34.04479&lat=33.82046125&long=-118.51938603088962&zoom=9.515931928384592)
+
+<img  alt=" @CITYOFLOSANGELES @NOAAGOV @COMMERCEGOV @FBICYBER @STATEOFCALIFORNIA @EMIT-SDS EMIT_L1B_RAD_001_20260615T203704_2616613_011" src="https://github.com/user-attachments/assets/6178ff06-fb8a-4096-a58f-a5ca6000bbfc" />
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5cMzGDvGuPA?si=Xd4VVTZUmbejL2OK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+@nasa-jpl @la-county-isd @cityoflosangeles
+
+<img alt="ezgif com-resize" src="https://github.com/user-attachments/assets/1d59dddc-0207-4359-8801-e71c761ff89d" />
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/164a419b-e748-444d-8bad-3eb4ab3112a7" />
+
+ # AVIRIS-5 L2A Orthocorrected Surface Reflectance,
+Facility Instrument Collection [@ornldaac - Data at a Glance](https://www.earthdata.nasa.gov/data/catalog/ornl-cloud-av3-l2a-rfl-2357-1)
+@cityoflosangeles
+<img  alt="image @cityoflosangeles @nasa-jpl " src="https://github.com/user-attachments/assets/02673300-e1a2-476f-aedd-40fa7b7f12b5" />
+
+# AVIRIS-5 L2A Orthocorrected Surface Reflectance,
+Facility Instrument Collection [@ornldaac - Data at a Glance](https://www.earthdata.nasa.gov/data/catalog/ornl-cloud-av3-l2a-rfl-2357-1)
+@cityoflosangeles
+<img  alt="image @cityoflosangeles @nasa-jpl " src="https://github.com/user-attachments/assets/02673300-e1a2-476f-aedd-40fa7b7f12b5" />
+
+ 
+## 2025 NOAA NGS DSS 4-Band 8 Bit Imagery:
+# Long Beach, CA - [DataAccess AllFiles @nmfs-ost](https://coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/index.html)
+[fisheries.noaa.gov/inport/item/76024](https://www.fisheries.noaa.gov/inport/item/76024)
+@howard-university-web-services this link will be up for 14 days @whitehouse @nasa-jpl @podaac @nasa @blackgirlscode
+[coast.noaa.gov/dataviewer/pickup/1065946/LongBeach_2025_NOAA_RashardKellyNASAJPLMROECOSTRESSiSSJUNO_LanaHarris_Virtiserv__2025_4BandImagery_LongBeachCA_J1418291.zip](https://coast.noaa.gov/dataviewer/pickup/1065946/LongBeach_2025_NOAA_RashardKellyNASAJPLMROECOSTRESSiSSJUNO_LanaHarris_Virtiserv__2025_4BandImagery_LongBeachCA_J1418291.zip) /// [github.com/nmfs-ost](https://github.com/nmfs-ost) // [Shoreline Data Explorer nsde.ngs.noaa.gov/](https://nsde.ngs.noaa.gov/) // [Coastal Mapping Program of Port of San Diego, CA, CA2001-CS-T](https://www.fisheries.noaa.gov/inport/item/67610)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/83443291-2072-4325-9458-595993718872" />
+
+_Long Beach Levees @La-county-isd_ [396000e3735000n @nasa-giss @nasa-openscapes](https://coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/396000e3735000n.tif) _coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/396000e3735000n.tif_ . . . Similar design in [New Oreleans - coastalimagery.blob.core.windows.net/digitalcoast/Katrina](https://coastalimagery.blob.core.windows.net/digitalcoast/Katrina_RGB_2005_4916/K_28089-H4_11.tif)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/d21895d7-6526-43c9-8e53-c4f86f4c91a4" />
+
+@cbs-news-data @nbcnews @nasa-jpl @CityOFLosAngeles @StateOfCAlifornia
+
+[396000e3738000n -.tif 543.32 MB @nasa-jpl](https://coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/396000e3738000n.tif)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ce7b115a-cff3-4db5-9814-6409232b020c" />
+
+[384000e3738000n.tif 487mb -.tif @noaa-gov](https://coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/384000e3738000n.tif)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ca42caf2-02c2-443b-adef-99950260b2ef" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a41763f4-3f75-4a35-9be8-6a17a2979ba7" />
+
+[DataAccess AllFiles](https://coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/index.html)
+
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/11008b07-f475-464d-8a4a-2cfd77a846f3" />
+
+
+
+# Eaton Canyon / Palisades 
+@emit-sds @nasa-openscapes @nasa-jpl @cityoflosangeles @stateofcalifornia
+[MONiTORiNG @nasa-jpl aviso.altimetry.fr/en/news/operational-news-and-status/operational-status.html](https://www.aviso.altimetry.fr/en/news/operational-news-and-status/operational-status.html)
+UA_crparc_09118_25032_007_250930_L090_CX_01 @nasa-jpl @lacountyDPH @la-county-isd @cityoflosangeles @asfadmin
+<img  alt="image" src="https://github.com/user-attachments/assets/fd3b4d1e-13e8-4b67-9757-b8cb94d5e3c5" />
+
+@asfadmin our email in public dns is listed as coing from here  @nasa-jpl @nasa-pds
+
+# MX Records @nasa-jpl @usnavy
+| Domain Name | MX | TTL | 
+|-------------|----|-----|
+| jpl.nasa.gov | mxb-0020b901.gslb.pphosted.com. | 15745 | 
+| jpl.nasa.gov | mxa-0020b901.gslb.pphosted.com. | 15745 | 
+| spacex.com | mxb-003ea501.gslb.gpphosted.com. | 15745 | 
+| spacex.com | mxa-003ea501.gslb.gpphosted.com. | 15745 | 
+| longbeach.gov | mxb-00539a01.gslb.pphosted.com. | 15745 | 
+| longbeach.gov | mxa-00539a01.gslb.pphosted.com. | 15745 |
+| atlantaga.gov | mxb-003fa601.gslb.pphosted.com. | 15745 |
+| atlantaga.gov | mxa-003fa601.gslb.pphosted.com. | 15745 |
+| fultoncountyga.gov | mxa-0032a901.gslb.pphosted.com. | 15745 |
+| fultoncountyga.gov | mxb-0032a901.gslb.pphosted.com. | 15745 |
+| bet.com | mxa-00262c01.gslb.pphosted.com. | 15745 |
+| bet.com | mxb-00262c01.gslb.pphosted.com. | 15745 |
+| mtv.com | [dnschecker.org](dnschecker.org) | 15745 |
+| mtv.com | [dnschecker.org](dnschecker.org) | 15745 |
+
+# NS Records 
+
+| Domain Name | NS | TTL | 
+|-------------|----|-----|
+| jpl.nasa.gov | a14-67.akam.net. | 21600 | 
+| jpl.nasa.gov | a7-65.akam.net. | 21600 | 
+| jpl.nasa.gov | a11-67.akam.net. | 21600 | 
+| jpl.nasa.gov | a2-67.akam.net. | 21600 | 
+| jpl.nasa.gov | a1-91.akam.net. | 21600 | 
+| jpl.nasa.gov | a8-65.akam.net. | 21600 | 
+
+@emergingcoders @noaagov @nbcnews @newshour
+
+# NS Records 
+
+| Domain Name | NS | TTL | 
+|-------------|----|-----|
+| war.gov @deptofwar| use9.akam.net. | 21600 | 
+| war.gov @deptofwar| asia3.akam.net. | 21600 | 
+| war.gov @deptofwar| asia2.akam.net. | 21600 | 
+| war.gov @deptofwar| usc5.akam.net. | 21600 | 
+| war.gov @deptofwar| eur6.akam.net. | 21600 | 
+| war.gov @deptofwar| ns1-116.akam.net. | 21600 | 
+| war.gov @deptofwar| use2.akam.net. | 21600 | 
+| war.gov @deptofwar| ns1-95.akam.net. | 21600 | 
+
+
+
+@whitehouse @nasa-jpl
+
+<img  alt="tumblr_35300d3bd6591f7bf5cc45653bf20532_52a1c7bf_1280" src="https://github.com/user-attachments/assets/2a53188a-e294-4874-906b-dd8d827a7f64" />
+
+<img src="https://github.com/user-attachments/assets/415bed78-1f1b-46a2-885c-101fa7ab105d" alt="AV320250123t202047_001_L2A_OE_f576f24d_RFL_ORT_BROWSE"/>
+
+
+
+<img alt="ezgif com-resize" src="https://github.com/user-attachments/assets/1d59dddc-0207-4359-8801-e71c761ff89d" />
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/164a419b-e748-444d-8bad-3eb4ab3112a7" />
 
  # AVIRIS-5 L2A Orthocorrected Surface Reflectance,
 Facility Instrument Collection [@ornldaac - Data at a Glance](https://www.earthdata.nasa.gov/data/catalog/ornl-cloud-av3-l2a-rfl-2357-1)
