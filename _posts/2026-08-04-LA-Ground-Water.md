@@ -24,6 +24,16 @@ permalink: /lagroundwater
  -   [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
  -   [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL)
 
+# ECOSTRESS Tiled Evaporative Stress Index PT-JPL Instantaneous L4 Global 70 m V002
+
+
+@nasa-jpl @cityofsantamonica @la-county-isd @CityOfLosangeles [Holly J Mitchell](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) hi its [rashard](https://ra5hard.github.io/) Since this image is the plant temperature i thinnk those spotches in the ocean is the [Kelp Forest @Ucla @vimeo @nasa-pds](https://www.santamonicabay.org/what-we-do/projects/kelp-forest-restoration-project/) @doug-newman-nasa @blackgirlscode hi @NOAAgov @USNAVY [https://search.earthdata.nasa.gov/search/granules/granule-details?p=C2076104650-LPCLOUD!C2076104650-LPCLOUD&pg[1][a]=4263774534!LPCLOUD&pg[1][v]=t&pg[1][gsk]=-start_date&g=G4263774534-LPCLOUD&q=ecostress&sb[0]=-118.94085%2C33.26251%2C-117.34503%2C34.20349&lat=33.835430349999996&long=-118.50775364468085&zoom=8.100569520342773](https://search.earthdata.nasa.gov/search/granules/granule-details?p=C2076104650-LPCLOUD!C2076104650-LPCLOUD&pg[1][a]=4263774534!LPCLOUD&pg[1][v]=t&pg[1][gsk]=-start_date&g=G4263774534-LPCLOUD&q=ecostress&sb[0]=-118.94085%2C33.26251%2C-117.34503%2C34.20349&lat=33.835430349999996&long=-118.50775364468085&zoom=8.100569520342773)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e83d7a46-d4bf-4528-88e8-d45d85e9a97b" />
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/676436631?h=fab6527fa1" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
+
+<img alt="image" src="https://github.com/user-attachments/assets/9e4fe986-cc7f-4bfe-8971-4944fec494de" />
 
 ## 2025 NOAA NGS DSS 4-Band 8 Bit Imagery:
 # Long Beach, CA - [DataAccess AllFiles @nmfs-ost](https://coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/index.html)
@@ -107,15 +117,7 @@ _Long Beach Levees @La-county-isd_ [396000e3735000n @nasa-giss @nasa-openscapes]
 [![Twitter Follow](https://img.shields.io/badge/Social-@Grimezsz__-blue?style=social&logo=X)](https://twitter.com/@Grimezsz)
 [![Twitter Follow](https://img.shields.io/badge/Social-@4everBrandy__-blue?style=social&logo=X)](https://twitter.com/@4everBrandy)
 [![Twitter Follow](https://img.shields.io/badge/Social-@GloTheofficial__-blue?style=social&logo=X)](https://twitter.com/@GloTheofficial)
-# ECOSTRESS Tiled Evaporative Stress Index PT-JPL Instantaneous L4 Global 70 m V002
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/676436631?h=fab6527fa1" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
-
-@nasa-jpl @cityofsantamonica @la-county-isd @CityOfLosangeles [Holly J Mitchell](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) hi its [rashard](https://ra5hard.github.io/) Since this image is the plant temperature i thinnk those spotches in the ocean is the [Kelp Forest @Ucla @vimeo @nasa-pds](https://www.santamonicabay.org/what-we-do/projects/kelp-forest-restoration-project/) @doug-newman-nasa @blackgirlscode hi @NOAAgov @USNAVY [https://search.earthdata.nasa.gov/search/granules/granule-details?p=C2076104650-LPCLOUD!C2076104650-LPCLOUD&pg[1][a]=4263774534!LPCLOUD&pg[1][v]=t&pg[1][gsk]=-start_date&g=G4263774534-LPCLOUD&q=ecostress&sb[0]=-118.94085%2C33.26251%2C-117.34503%2C34.20349&lat=33.835430349999996&long=-118.50775364468085&zoom=8.100569520342773](https://search.earthdata.nasa.gov/search/granules/granule-details?p=C2076104650-LPCLOUD!C2076104650-LPCLOUD&pg[1][a]=4263774534!LPCLOUD&pg[1][v]=t&pg[1][gsk]=-start_date&g=G4263774534-LPCLOUD&q=ecostress&sb[0]=-118.94085%2C33.26251%2C-117.34503%2C34.20349&lat=33.835430349999996&long=-118.50775364468085&zoom=8.100569520342773)
-
-<img  alt="image" src="https://github.com/user-attachments/assets/e83d7a46-d4bf-4528-88e8-d45d85e9a97b" />
-
-<img alt="image" src="https://github.com/user-attachments/assets/9e4fe986-cc7f-4bfe-8971-4944fec494de" />
 
 
 <img  alt="EMIT_L1B_RAD_001_20231018T210240_2329114_008" src="https://github.com/user-attachments/assets/f3603ef6-4ee7-4737-8e87-1e8384e128a1" />
