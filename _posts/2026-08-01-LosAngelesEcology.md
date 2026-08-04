@@ -43,8 +43,10 @@ date:   2026-08-01 0:51:06
 
 <img  alt=" @CITYOFLOSANGELES @NOAAGOV @COMMERCEGOV @FBICYBER @STATEOFCALIFORNIA @EMIT-SDS EMIT_L1B_RAD_001_20260615T203704_2616613_011" src="https://github.com/user-attachments/assets/6178ff06-fb8a-4096-a58f-a5ca6000bbfc" />
 
-
+```html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5cMzGDvGuPA?si=Xd4VVTZUmbejL2OK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+
 
 @nasa-jpl @la-county-isd @cityoflosangeles
 
@@ -54,11 +56,6 @@ date:   2026-08-01 0:51:06
 <img alt="image" src="https://github.com/user-attachments/assets/164a419b-e748-444d-8bad-3eb4ab3112a7" />
 
  # AVIRIS-5 L2A Orthocorrected Surface Reflectance,
-Facility Instrument Collection [@ornldaac - Data at a Glance](https://www.earthdata.nasa.gov/data/catalog/ornl-cloud-av3-l2a-rfl-2357-1)
-@cityoflosangeles
-<img  alt="image @cityoflosangeles @nasa-jpl " src="https://github.com/user-attachments/assets/02673300-e1a2-476f-aedd-40fa7b7f12b5" />
-
-# AVIRIS-5 L2A Orthocorrected Surface Reflectance,
 Facility Instrument Collection [@ornldaac - Data at a Glance](https://www.earthdata.nasa.gov/data/catalog/ornl-cloud-av3-l2a-rfl-2357-1)
 @cityoflosangeles
 <img  alt="image @cityoflosangeles @nasa-jpl " src="https://github.com/user-attachments/assets/02673300-e1a2-476f-aedd-40fa7b7f12b5" />
@@ -94,6 +91,11 @@ _Long Beach Levees @La-county-isd_ [396000e3735000n @nasa-giss @nasa-openscapes]
 
 <img   alt="image" src="https://github.com/user-attachments/assets/11008b07-f475-464d-8a4a-2cfd77a846f3" />
 
+
+# AVIRIS-5 L2A Orthocorrected Surface Reflectance,
+Facility Instrument Collection [@ornldaac - Data at a Glance](https://www.earthdata.nasa.gov/data/catalog/ornl-cloud-av3-l2a-rfl-2357-1)
+@cityoflosangeles
+<img  alt="image @cityoflosangeles @nasa-jpl " src="https://github.com/user-attachments/assets/02673300-e1a2-476f-aedd-40fa7b7f12b5" />
 
 
 # Eaton Canyon / Palisades 
