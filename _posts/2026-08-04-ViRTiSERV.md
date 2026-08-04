@@ -11,6 +11,1458 @@ permalink: /virtiserv
 
 
 
+![https://us.embassyeritrea.org/wp-content/uploads/2020/06/er270.png @nasa-jpl @deptofwar @whitehouse ](https://us.embassyeritrea.org/wp-content/uploads/2020/06/er270.png)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Seminar for Participants in Eritrean Community Festival in US<br><br>Mr. Yosuf Saiq, Head of Organizational Affairs of the PFDJ, conducted a seminar for participants at the 52nd Eritrean Community Festival in the United States.<br><br>Noting that the unity and values nurtured by the Eritrean… <a href="https://t.co/q86KWHq46V">pic.twitter.com/q86KWHq46V</a></p>&mdash; Ministry of Information, Eritrea (@shabait) <a href="https://x.com/shabait/status/2084683255790575952?ref_src=twsrc%5Etfw">August 4, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+ 
+[https://globaledge.msu.edu/global-resources/resource/4584](https://globaledge.msu.edu/global-resources/resource/4584) @howard-university-web-=services
+[https://shabait.com/](https://shabait.com/)
+[https://www.interpol.int/en/Who-we-are/Member-countries/Africa/ERITREA](https://www.interpol.int/en/Who-we-are/Member-countries/Africa/ERITREA)
+[https://www.state.gov/countries-areas/eritrea](https://www.state.gov/countries-areas/eritrea) // [https://us.embassyeritrea.org/](https://us.embassyeritrea.org/) // [https://www.eritrea.be/old/eritrea-government.htm](https://www.eritrea.be/old/eritrea-government.htm) // [https://www.comesa.int/state-of-eritrea/](https://www.comesa.int/state-of-eritrea/) // [https://mojeritrea.net/](https://mojeritrea.net/)
+
+
+
+
+
+# "The Whole World Is On Fire": The Global [Wildfire Outbreak](https://ecostress.jpl.nasa.gov/wildfire_gallery)
+@howard-university-web-services 
+[WATCH - youtube.com/watch?v=K45NFimZq1Q](https://www.youtube.com/watch?v=K45NFimZq1Q)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/88a4ab8a-6038-436a-b9b5-9c3db21920fe" />
+
+[ATHARA - https://hydroviewer.geoglows.org/#lon=38.90&lat=16.24&zoom=11.00&definition=](https://hydroviewer.geoglows.org/#lon=38.90&lat=16.24&zoom=11.00&definition=) // [Eritrea, Africa's Hermit Kingdom - in a Nutshell](https://suetravels.com/africa/eritrea/eritrea-africas-hermit-kingdom-in-a-nutshell/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/2bc6d6ab-bd38-43bc-bd2b-66404042e3f4" />
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/0b9c53cb-e79f-4283-9fe5-075040cf1ffb" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/7cd0386b-0d93-4594-8b37-2a9e94ef2a2c" />
+
+## GRACE FO Soil Moisture Within Continental United States: Monitoring Drought
+[ReadMore](https://svs.gsfc.nasa.gov/5574/) 
+
+_Gravity Recovery and Climate Experiment (GRACE)_ [info @nasa](https://sealevel.nasa.gov/missions/grace)
+[ice loss](https://svs.gsfc.nasa.gov/31166/)
+[<video controls poster="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005574/gws.01000_print.jpg" src="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005574/gws.mp4" />](https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005574/gws.mp4)
+
+
+
+## GRACE Groundwater Anomalies
+
+![https://apps.geoglows.org/grace-groundwater/geoglows-logo-nav.png](https://apps.geoglows.org/grace-groundwater/geoglows-logo-nav.png)
+[@nasa-openscapes @nasa-jpl firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,country-outline,noaa20_crtc,earth;@-117.1,42.8,6.4z](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,country-outline,noaa20_crtc,earth;@-117.1,42.8,6.4z) / 
+
+
+
+## THE HEALTH EFFECTS OF
+# CoNDUCTED ENERGY WEAPONS
+@la-county-isd @canada-ca
+[ @spaceexplorationtechnologies https://youtu.be/krZhzn-Pe-g?is=uWHElbzmzLiw87wR](https://youtu.be/krZhzn-Pe-g?is=uWHElbzmzLiw87wR)
+
+[ @cityoflosangeles KARENBASS - HOLLYMitchell @la-county-isd prisonpolicy.org/scans/council_canadian_academics/The%20Health%20Effects%20of%20Conducted%20Energy%20Weapons.pdf](https://www.prisonpolicy.org/scans/council_canadian_academics/The%20Health%20Effects%20of%20Conducted%20Energy%20Weapons.pdf)
+
+<img alt="image" src="https://github.com/user-attachments/assets/8d3b0c78-7e11-407c-bc6f-49a1b2fc27da" />
+[https://www.prisonpolicy.org/scans/council_canadian_academics/The%20Health%20Effects%20of%20Conducted%20Energy%20Weapons.pdf](https://www.prisonpolicy.org/scans/council_canadian_academics/The%20Health%20Effects%20of%20Conducted%20Energy%20Weapons.pdf)
+
+
+
+
+# "The Whole World Is On Fire": The Global [Wildfire Outbreak](https://ecostress.jpl.nasa.gov/wildfire_gallery)
+@howard-university-web-services 
+[WATCH - youtube.com/watch?v=K45NFimZq1Q](https://www.youtube.com/watch?v=K45NFimZq1Q)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/88a4ab8a-6038-436a-b9b5-9c3db21920fe" />
+
+[ATHARA - https://hydroviewer.geoglows.org/#lon=38.90&lat=16.24&zoom=11.00&definition=](https://hydroviewer.geoglows.org/#lon=38.90&lat=16.24&zoom=11.00&definition=) // [Eritrea, Africa's Hermit Kingdom - in a Nutshell](https://suetravels.com/africa/eritrea/eritrea-africas-hermit-kingdom-in-a-nutshell/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/2bc6d6ab-bd38-43bc-bd2b-66404042e3f4" />
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/0b9c53cb-e79f-4283-9fe5-075040cf1ffb" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/7cd0386b-0d93-4594-8b37-2a9e94ef2a2c" />
+
+## GRACE FO Soil Moisture Within Continental United States: Monitoring Drought
+[ReadMore](https://svs.gsfc.nasa.gov/5574/) 
+
+_Gravity Recovery and Climate Experiment (GRACE)_ [info @nasa](https://sealevel.nasa.gov/missions/grace)
+[ice loss](https://svs.gsfc.nasa.gov/31166/)
+[<video controls poster="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005574/gws.01000_print.jpg" src="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005574/gws.mp4" />](https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005574/gws.mp4)
+
+
+
+## GRACE Groundwater Anomalies
+
+![https://apps.geoglows.org/grace-groundwater/geoglows-logo-nav.png](https://apps.geoglows.org/grace-groundwater/geoglows-logo-nav.png)
+[@nasa-openscapes @nasa-jpl firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,country-outline,noaa20_crtc,earth;@-117.1,42.8,6.4z](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,country-outline,noaa20_crtc,earth;@-117.1,42.8,6.4z) / 
+
+Monitoring California Groundwater
+Released Wednesday, June 7, 2023
+
+
+[<video controls poster="https://svs.gsfc.nasa.gov/vis/a030000/a031100/a031177/grace_ca_water_title1_202202_print.jpg" src="https://svs.gsfc.nasa.gov/vis/a030000/a031100/a031177/grace_ca_water_200205-202202_title1_1080p6.mp4" />](https://svs.gsfc.nasa.gov/vis/a030000/a031100/a031177/grace_ca_water_200205-202202_title1_1080p6.mp4)
+
+[<video controls poster="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_black_v3_20230316_1200_print.jpg" src="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_2002-2023_seasonal_1080p.mp4" />](https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_2002-2023_seasonal_1080p.mp4)
+
+[apps.geoglows.org/grace-groundwater](https://apps.geoglows.org/grace-groundwater) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/f8fec3ba-912a-4051-86ee-d50ab54cc2bf" />
+[apps.geoglows.org/grace-groundwater](https://apps.geoglows.org/grace-groundwater) 
+<img  alt="image" src="https://github.com/user-attachments/assets/ac7e640d-608f-4c7f-9fdb-b8f99a15098e" />
+
+[hydroviewer.geoglows.org/#lon=57.41&lat=25.94&zoom=5.27&definition=](https://hydroviewer.geoglows.org/#lon=57.41&lat=25.94&zoom=5.27&definition=)
+<img  alt="image" src="https://github.com/user-attachments/assets/f5344382-c6a5-4eda-ad24-e2ca667e4660" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/7f15a7d8-03ca-473a-ae64-51f8ce7d92e8" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/02e8fada-2422-453b-b6c9-2340680fc574" />
+
+
+<img alt="FIRMS_24hrs,24hrs @-359 6,0 0,2 8z" src="https://github.com/user-attachments/assets/fb04ec88-0db7-4f10-b469-65831422cb19" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/68be8273-cbc4-4df6-a0e0-a0066c2ac857" />
+
+[github.com/virtiserv/rashardmro/blob/master/assets/logs/cityhalla.log](https://github.com/virtiserv/rashardmro/blob/master/assets/logs/cityhalla.log)
+
+![https://github.com/virtiserv/virtiserv.github.io/blob/master/assets/plots/GIOVANNI-output8lSCn_uI.png?raw=true](https://github.com/virtiserv/virtiserv.github.io/blob/master/assets/plots/GIOVANNI-output8lSCn_uI.png?raw=true)
+# NS Records 
+
+| Domain Name | NS | TTL | 
+|-------------|----|-----|
+| hot97.com | vivienne.ns.cloudflare.com. | 21600 | 
+| hot97.com | denver.ns.cloudflare.com. | 21600 | 
+
+| Mx Record | hot97-com.mail.protection.outlook.com. | 
+| -----------|----------------------------------------|
+| IP | 52.101.42.16 | 
+| Status | Success | 
+| Test duration(ms) | 73 | 
+| AS Number | AS8075 | 
+| Organization | Microsoft Corporation | 
+| Domain | microsoft.com | 
+| Country | United States | 
+| Abuse Contact | Network : 52.96.0.0-52.115.255.255<br />Name : Microsoft Abuse Contact<br />Email : abuse@microsoft.com<br />Phone : +1-425-882-8080<br />Address : US, WA, Redmond, One Microsoft Way, 98052<br />Country: US<br /> | | Mx Record | hot97-com.mail.protection.outlook.com. | 
+
+External site 
+
+The host or presenter would like @Webex Meetings to open a website on your computer. @Cisco is not responsible for the content or availability of external sites. We recommend that you make sure this website content is from a trusted source. If you view this page or go to this site, you will be subject to the privacy policy and terms and conditions of the destination site.
+
+Destination site: [https://www.earthdata.nasa.gov/learn/trainings/nasa-earth-observations-reservoir-water-utility-management](https://www.earthdata.nasa.gov/learn/trainings/nasa-earth-observations-reservoir-water-utility-management)
+
+@cbs-news-data @blackgirlscode @nassa-pds @nasa-jpl
+
+<img  alt="image" src="https://github.com/user-attachments/assets/5b456c4f-8cec-49b7-b369-a9915c5e4562" />
+
+[https://swotviz.cuahsi.io/ @la-county-isd](https://swotviz.cuahsi.io)
+
+{% raw %}
+
+/#/map?center={%22lat%22:38.47939467327645,%22lng%22:-12.304687500000002}&zoom=3&activeBaseLayerName=CartoDB_DarkMatterNoLabels&activeOverlays=[%22Lakes%22,%22Esri_Hydro_Reference_Overlay%22]
+
+{% endraw %}
+ <~ @doug-newman-nasa @shopify @jekyll this link stopped me from building [virtiserv.github.io/actions/runs/30945121653/job/92113078071](https://github.com/virtiserv/virtiserv.github.io/actions/runs/30945121653/job/92113078071) @SWOT-community 
+ 
+` Liquid Exception: Liquid syntax error (line 13): Unknown tag '22lat' in index.md `
+
+<img   alt="image" src="https://github.com/user-attachments/assets/7bb4b101-2c45-4287-a150-b38867e7f68f" />
+
+
+
+
+[GEOGLOWS - RiverForcastingSystem @la-county-isd @cityoflosangeles](https://hydroviewer.geoglows.org/#lon=10.00&lat=18.00&zoom=3.00&definition=) // [registry.opendata.aws/`geoglows-v2`/](https://registry.opendata.aws/geoglows-v2/)
+
+[https://hydroviewer.geoglows.org/#lon=46.63&lat=21.03&zoom=5.27&definition= @howard-university-web-services @emergingcoders @blackgirlscode](https://hydroviewer.geoglows.org/#lon=46.63&lat=21.03&zoom=5.27&definition=)
+
+<img alt="image" src="https://github.com/user-attachments/assets/2bee625a-f40e-47aa-876c-cb0a55b30778" />
+
+[https://hydroviewer.geoglows.org/#lon=10.00&lat=18.00&zoom=3.00&definition=](https://hydroviewer.geoglows.org/#lon=10.00&lat=18.00&zoom=3.00&definition=)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/211975b5-256c-44d5-86e1-05900c1ff2f3" />
+
+[https://earth.gsfc.nasa.gov/gwm](https://earth.gsfc.nasa.gov/gwm)
+<img  alt="image" src="https://github.com/user-attachments/assets/42a66b34-a58b-4fbe-b6bf-09cc75136611" />
+
+
+[@nasa-openscapes](https://worldview.earthdata.nasa.gov/?v=-116.24666127043507,35.1001305765356,-114.00049942313542,36.71750417215029&as=2026-07-15-T00%3A00%3A00Z&ae=2026-07-25-T00%3A00%3A00Z&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,GRanD_Reservoirs,GRanD_Dams,OPERA_L3_Dynamic_Surface_Water_Extent-HLS(disabled=5),OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=9),BlueMarble_NextGeneration,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&al=true&ab=on&s=33.9419,-24.2681%2B-71.3202,-35.7146%2B-77.0365,39.985%2B-114.762,36.017&t=2026-07-23-T00%3A00%3A00Z)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/15113435-dfed-4e3b-88d7-d7f28045e0d6" />
+<img  alt="image" src="https://github.com/user-attachments/assets/7bdd8d48-5729-43f5-b256-365dd9f9da39" />
+
+
+#  Funeral Director Arrested for Stealing $2.2M Estate
+@howard-university-web-services 
+[WATCH @nasa-jpl she need viewers! youtu.be/JeR0tCr3F2c?si=T1HQ5DyXuYjC4Z7w](https://youtu.be/JeR0tCr3F2c?si=T1HQ5DyXuYjC4Z7w)
+
+# NS Records 
+
+| Domain Name | NS | TTL | 
+|-------------|----|-----|
+| hot97.com | vivienne.ns.cloudflare.com. | 21600 | 
+| hot97.com | denver.ns.cloudflare.com. | 21600 | 
+
+| Mx Record | hot97-com.mail.protection.outlook.com. | 
+| -----------|----------------------------------------|
+| IP | 52.101.42.16 | 
+| Status | Success | 
+| Test duration(ms) | 73 | 
+| AS Number | AS8075 | 
+| Organization | Microsoft Corporation | 
+| Domain | microsoft.com | 
+| Country | United States | 
+| Abuse Contact | Network : 52.96.0.0-52.115.255.255<br />Name : Microsoft Abuse Contact<br />Email : abuse@microsoft.com<br />Phone : +1-425-882-8080<br />Address : US, WA, Redmond, One Microsoft Way, 98052<br />Country: US<br /> | | Mx Record | hot97-com.mail.protection.outlook.com. | 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/0a8bef8d-caaa-4480-b7c1-6b242be25455" />
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/7720e49a-96dc-4c4f-9775-56aa8b11d2e4" />
+
+
+# NS Records 
+
+| Domain Name | NS | TTL | 
+|-------------|----|-----|
+| hot97.com | vivienne.ns.cloudflare.com. | 21600 | 
+| hot97.com | denver.ns.cloudflare.com. | 21600 | 
+
+
+
+# MX Records 
+
+## hot97-com.mail.protection.outlook.com.
+
+| Mx Record | hot97-com.mail.protection.outlook.com. | 
+| -----------|----------------------------------------|
+| IP | 52.101.42.16 | 
+| Status | Success | 
+| Test duration(ms) | 73 | 
+| AS Number | AS8075 | 
+| Organization | Microsoft Corporation | 
+| Domain | microsoft.com | 
+| Country | United States | 
+| Abuse Contact | Network : 52.96.0.0-52.115.255.255<br />Name : Microsoft Abuse Contact<br />Email : abuse@microsoft.com<br />Phone : +1-425-882-8080<br />Address : US, WA, Redmond, One Microsoft Way, 98052<br />Country: US<br /> | 
+
+
+
+
+
+## FIRO: Agile Reservoir Management Saves Millions Through Smart Forecasting
+[link - federallabs.org/flc-highlights/awards/firo-agile-reservoir-management](https://federallabs.org/flc-highlights/awards/firo-agile-reservoir-management)
+# NS Records 
+
+| Domain Name | NS | TTL | 
+|-------------|----|-----|
+| federallabs.org | stanley.ns.cloudflare.com. | 21600 | 
+| federallabs.org | maria.ns.cloudflare.com. | 21600 | 
+
+# MX Records 
+
+## us-smtp-inbound-1.mimecast.com.
+
+| Mx Record | us-smtp-inbound-1.mimecast.com. | 
+| -----------|---------------------------------|
+| IP | 170.10.128.221 | 
+| Status | Success | 
+| Test duration(ms) | 17 | 
+| AS Number | AS30031 | 
+| Organization | Mimecast North America Inc | 
+| Domain | mimecast.com | 
+| Country | United States | 
+| Abuse Contact | Network : 170.10.128.0/19<br />Name : MIMEC-ABUSE<br />Email : abuse@mimecast.com<br />Phone : +1-617-393-7050<br />Address : US, MA, Lexington, 191 Spring St, 02421<br />Country: US<br /> | 
+
+## us-smtp-inbound-2.mimecast.com.
+
+| Mx Record | us-smtp-inbound-2.mimecast.com. | 
+| -----------|---------------------------------|
+| IP | 170.10.128.141 | 
+| Status | Success | 
+| Test duration(ms) | 18 | 
+| AS Number | AS30031 | 
+| Organization | Mimecast North America Inc | 
+| Domain | mimecast.com | 
+| Country | United States | 
+| Abuse Contact | Network : 170.10.128.0/19<br />Name : MIMEC-ABUSE<br />Email : abuse@mimecast.com<br />Phone : +1-617-393-7050<br />Address : US, MA, Lexington, 191 Spring St, 02421<br />Country: US<br /> | 
+
+
+
+
+<img width="1919" height="828" alt="image" src="https://github.com/user-attachments/assets/5a1f7065-119e-47f2-8a57-7828fff4986c" />
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/6c2bc842-1da2-4efc-9c95-07d9d090d130" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/fd0beb41-8bb2-46ab-a50b-10ff821b9d51" />
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/ec8964ab-c56b-4ef7-9c42-8c81d4da317d" />
+
+<img alt="GIOVANNI-outputG02VOBir" src="https://github.com/user-attachments/assets/dc626bfd-7719-499e-99f2-8e865a2d506b" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/36cbfe11-eb15-4a6f-a525-ef75bfc09c8a" />
+
+
+@webex, why was i removed from my training ? [Rashard @nasa-openscapes @doug-newman-nasa] @nasa-pds @nasa-jpl @nasa-giss @nasa-develop 
+<img alt="image" src="https://github.com/user-attachments/assets/7b2c68ed-450c-47d9-91ad-d7d72b8abb9f" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/530c7ce0-4935-49ba-a674-a5d153db3342" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/c0ae44ec-f269-42ea-8156-1f821d622653" />
+
+[CHiLE RainFALL - worldview.earthdata.nasa.gov/?v=-75.960825,-44.011475,-66.679575,-27.417724999999997&z=4&as=2026-07-15-T00%3A00%3A00Z&ae=2026-07-25-T00%3A00%3A00Z&l=Reference_Labels_15m(hidden)](https://worldview.earthdata.nasa.gov/?v=-75.960825,-44.011475,-66.679575,-27.417724999999997&z=4&as=2026-07-15-T00%3A00%3A00Z&ae=2026-07-25-T00%3A00%3A00Z&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,IMERG_Precipitation_Rate_30min,IMERG_Precipitation_Rate,BlueMarble_NextGeneration,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&al=true&ab=on&s=33.9419,-24.2681%2B-71.3202,-35.7146&t=2026-07-25-T00%3A00%3A00Z)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/46317466-1bbd-4bbd-b120-21aee65f564a" />
+
+<img  alt="GIOVANNI-output9qlSidUP" src="https://github.com/user-attachments/assets/989b28d0-e0dc-40e1-9e68-af52cbcb0eb8" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/11174bc2-9f38-480a-b322-fa0f494be5f5" />
+
+
+# NASA Earth Observations for Reservoir and Water Utility Management
+@blackgirlscode hi @howard-university-web-services
+<img alt="image" src="https://github.com/user-attachments/assets/52cdaab3-ecb2-41df-9e13-981d1f8e111d" />
+
+
+# Israel Sabotaging The Gaza Deal?
+[Wildfires Everywhere](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,country-outline,terra_crc,earth;@-112.3,42.3,6.0z), [Ariana Grande](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,country-outline,terra_crc,earth;@-112.3,42.3,6.0z)'s Health : HOT 97 News 8/3/26 @usatoday @newshour @nasa-jpl `newsroom` @howard-university-web-services @emergingcoders @blackgirlscode 
+[WATCH - youtu.be/B_4VOG02JTg?si=YRv8So99J726PajF](https://youtu.be/B_4VOG02JTg?si=YRv8So99J726PajF)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e8e0a9d8-d29e-493a-a7f0-789d42fbdf26" />
+
+```
+
+Name: Rashard I Kelly
+Username: rashardkelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 08-03-2026
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
+
+For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Support
+
+
+V 4.231.22 Home NASA Accessibility
+NASA Official: Doug Newman @doug-newman-nasa
+```
+
+[In-N-Out Shooting, Abandoned Town & Teacher Arrested | The Daily Drop](https://www.youtube.com/watch?v=KnyuCIJujbA)
+<img   alt="image" src="https://github.com/user-attachments/assets/253e67a5-011e-4c81-8a10-9011644d2568" />
+
+
+## [Tony Yayo](https://soundcloud.com/tony_yayo) vs. [Memphis Bleek](https://afrotech.com/memphis-bleek-net-worth) : Who Really Has the Better Album?
+[WATCH - youtube.com/watch?v=taqk_dQKkbE @disney @nbcnews](https://www.youtube.com/watch?v=taqk_dQKkbE)
+@paramount-engineering hi im sorry for all the confusion i went to a danceclass and the girls turned out to be [LRAD](https://hackers-arise.com/long-range-acoustic-device-lrad-part-2-tactics-and-countermeasures/) toting [Playboy Bunnies](https://www.deezer.com/us/artist/6469379) @nbcnews 
+<img  alt="image" src="https://github.com/user-attachments/assets/8eae7936-5d41-4d52-b459-b043f6329311" />
+
+
+# HOT 97 News Live! 8/3/26 [Chlöe](https://www.youtube.com/channel/UCOriumHxzl4O2G7MXS7rrpQ)
+[https://www.chloebailey.net/](https://www.chloebailey.net/) @blackgirlscode
+@howard-university-web-services . . . @nasa-jpl that was the address I was instructed to tion if I'm doing work for them @blackgirlscode \ @USnavy Chlöe bailey got a whitwoman porn on her page @la-county-isd @podaac for hosting ? @nasa-pds @nasa-jpl 
+
+[WATCH - youtube.com/live/vmq2bxtjOds?si=Lti-FTgeYVTKF2ZH](https://www.youtube.com/live/vmq2bxtjOds?si=Lti-FTgeYVTKF2ZH)
+<img   alt="image" src="https://github.com/user-attachments/assets/2ed98a01-8849-43ae-a3fb-cdc4dcbb77dc" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/fedd07f8-b90a-4b69-80b2-bb72a72e59ac" />
+
+
+```html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vmq2bxtjOds?si=f450gnkowRfIxm0r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+<img alt="image" src="https://github.com/user-attachments/assets/04996098-c11e-40bc-a04d-86853bad38a1" />
+[https://en.wikipedia.org/wiki/She_Knows_(J._Cole_song)](https://en.wikipedia.org/wiki/She_Knows_(J._Cole_song))
+
+# _J. Cole - She Knows (Explicit Video) ft. [Amber Coffman](https://www.youtube.com/watch?v=twCZQWTZxDM), [Cults](https://www.youtube.com/watch?v=eAM9diyVRiM)_
+[WATCH - youtu.be/jYdaQJzcAcw?si=tyyISLjoDneflr_R](https://youtu.be/jYdaQJzcAcw?si=tyyISLjoDneflr_R) +++++++ [Dirty Projectors - Stillness Is The Move (Official Video)](https://youtu.be/YMPF6lpM0XM?si=kYQluO_YX4JwKKXT) 
+
+<img  alt="image @howard-university-web-services @nasa-jpl " src="https://github.com/user-attachments/assets/26647cc8-0860-47ba-bfef-06731f6c9d34" />
+
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0Fs9cdPDhptWEDJmiCbkEW?utm_source=generator&si=c2f703fcdb674cf1" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+## Did [Drake](https://www.youtube.com/hashtag/drake) Snitch on [YG](https://www.youtube.com/hashtag/yg)?! Drakeo the Ruler Murder Conspiracy Gets CRAZY! [EMAiL📧`info@HOT97.com`](mailto:info@hot97.com)
+[Watch - youtube.com/watch?v=X_odzc2oPo0 @dhs-gov @nasa @FemaGov @fbicyber ](https://www.youtube.com/watch?v=X_odzc2oPo0)
+The Mornings With Mero crew breaks down the wild rumors swirling around Drake allegedly funneling information to the feds about YG's alleged involvement in the murder of Drakeo the Ruler. From Glasses Malone's IG story to YG's cryptic "B Team Rollout, Red Alert" post, we unpack what it all means, the conspiracy theories connecting Drake and DJ Academics, and why rappers keep putting sensitive info out in public IG stories instead of keeping it private. 
+
+Plus: J. Cole's electrifying concert (that half the crew missed), the ongoing Dreamville "ban" debate, why music fans shouldn't have to pick sides in rap beefs, and Jim Jones' controversial take on kitten heels in the club — the ladies clap back. - [_Hot97_](https://www.youtube.com/hashtag/hot97)
+<img  alt="image" src="https://github.com/user-attachments/assets/0d0cdecf-346c-4bfa-bf7a-c93e0522e7a8" />
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">LINK ME THERE <a href="https://t.co/yAuItmkSkc">pic.twitter.com/yAuItmkSkc</a></p>&mdash; yg (@YG) <a href="https://x.com/YG/status/2066935663812071679?ref_src=twsrc%5Etfw">June 16, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">LINK ME THERE <a href="https://t.co/yAuItmkSkc">pic.twitter.com/yAuItmkSkc</a></p>&mdash; yg (@YG) <a href="https://x.com/YG/status/2066935663812071679?ref_src=twsrc%5Etfw">June 16, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+
+#  [_ARSET Applied Remote Sensing Training Program_](https://www.earthdata.nasa.gov/data/projects/arset)
+![https://earthdata.nasa.gov/s3fs-public/styles/hds_two_column/public/2025-05/LogoWithTextColor.png](https://earthdata.nasa.gov/s3fs-public/styles/hds_two_column/public/2025-05/LogoWithTextColor.png)
+
+## Fwd: Registration approved for Webex webinar: Part 1: Data Requirements for Reservoir Management
+11am @nasa-openscapes @doug-newman-nasa
+@cityoflosangeles @usgs @blackgirlscode [AGENDA - earthdata.nasa.gov/s3fs-public/2026-06/arset-2026-reservoirs-agenda.pdf](https://www.earthdata.nasa.gov/s3fs-public/2026-06/arset-2026-reservoirs-agenda.pdf) // [Register @emergingcoders @nasa-giss](https://www.earthdata.nasa.gov/learn/trainings/nasa-earth-observations-reservoir-water-utility-management)
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/4a884206-a845-4a99-8703-3248111ed3f4" />
+
+```
+@HollyJMitchell@bos.lacounty.gov Mrs Mitchell, if i am imagining things about @chloe.bailey@gmail.com
+i would like to be corrected @normani@fifthharmonyofficial.com @Normaniofficial@outlook.com
+or crazy things about @lanajharris@gmail.com @onelana10@juno.com @nkordei@valdosta.edu
+can you work with family services to make my pickup gentle, i was lied to and cheated on!
+ @ksc-newsroom@mail.nasa.gov .............. @letschat@virtiserv.com @press@hot97.com
+@Small Business Programs Office @lanajharris@gmail.com hi i signed up for the late class
+ since my availability changed @atlantacouncil@atlantaga.gov @office@lafirstumc.org 
+
+---------- Forwarded message ---------
+From: NASA ARSET <messenger@webex.com>
+Date: Mon, Aug 3, 2026 at 11:07 AM
+Subject: Registration approved for Webex webinar: Part 1: Data Requirements for Reservoir Management
+To: <holetoanotheruniverse40@gmail.com>
+```
+
+<img alt="image" src="https://github.com/user-attachments/assets/56dab74a-0722-4872-8d25-f46bedc531ed" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/470fc0d8-ceba-4ece-9e41-f9a5fbe7b8ef" />
+
+
+@nasa-pds [Watch - youtube.com/live/5cMzGDvGuPA?si=ddGZRcwjlFQbiBwC](https://www.youtube.com/live/5cMzGDvGuPA?si=ddGZRcwjlFQbiBwC)
+<img alt="image" src="https://github.com/user-attachments/assets/82c8831b-0d65-46d3-b59c-5bf9ac1478bc" />
+
+
+<img Alt="image" src="https://github.com/user-attachments/assets/32a8cc3a-b155-483e-bc0c-b5dee1232572" />
+
+# Digging Into [Trump](https://www.whitehouse.gov/administration/donald-j-trump/)'s Speech, 
+Robot MMA Fight, The Odyssey, San Fermín Festival : HOT 97 News 7/17/26
+[WATCH - youtu.be/d8D5w1uuSwI?si=g9b9yossyMkJqgts](https://youtu.be/d8D5w1uuSwI?si=g9b9yossyMkJqgts)
+
+<img  alt="image @commercegov @blackgirlscode @howard-university-web-services " src="https://github.com/user-attachments/assets/9e6a869a-0767-4706-9e03-15d30659f51b" />
+
+
+[@whitehouse .gov/administration/donald-j-trump/](https://www.whitehouse.gov/administration/donald-j-trump/)
+![@nasa-jpl @nasa-pds @nasa-develop @blackgirlscode whitehouse.gov/wp-content/uploads/2025/06/President-Donald-Trump-Official-Presidential-Portrait.png?resize=1536,864](https://www.whitehouse.gov/wp-content/uploads/2025/06/President-Donald-Trump-Official-Presidential-Portrait.png?resize=1536,864)
+
+```html
+Profile Information
+Name: Rashard I Kelly
+Username: rashardkelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 08-03-2026
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
+
+For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Support
+
+
+V 4.231.22 Home NASA Accessibility
+NASA Official: Doug Newman
+```
+
+
+# HOT 97 News Live! 8/3/26 [Chlöe](https://www.youtube.com/channel/UCOriumHxzl4O2G7MXS7rrpQ)
+[https://www.chloebailey.net/](https://www.chloebailey.net/) @blackgirlscode
+@howard-university-web-services . . . @nasa-jpl that was the address I was instructed to tion if I'm doing work for them @blackgirlscode \ @USnavy Chlöe bailey got a whitwoman porn on her page @la-county-isd @podaac for hosting ? @nasa-pds @nasa-jpl 
+
+[WATCH - youtube.com/live/vmq2bxtjOds?si=Lti-FTgeYVTKF2ZH](https://www.youtube.com/live/vmq2bxtjOds?si=Lti-FTgeYVTKF2ZH)
+<img   alt="image" src="https://github.com/user-attachments/assets/2ed98a01-8849-43ae-a3fb-cdc4dcbb77dc" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/fedd07f8-b90a-4b69-80b2-bb72a72e59ac" />
+
+
+```html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vmq2bxtjOds?si=f450gnkowRfIxm0r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+<img alt="image" src="https://github.com/user-attachments/assets/04996098-c11e-40bc-a04d-86853bad38a1" />
+
+
+### DOD Instruction 1035.01, “Telework and Remote Work”
+@blackgirlscode [VirtiservAstro](https://www.facebook.com/thevirtiservway/) Remember im from the garage / fire dept so im learning how to file @la-county-isd @StateOFCalifornia they sent me on a scavenger hunt --- @newshour 
+
+DOD Instruction 1035.01, “Telework and Remote,” establishes policy, assigns responsibilities, and prescribes procedures for implementing DOD telework and remote work programs. This policy replaces DOD Instruction 1035.01, “Telework Policy,” dated April 4, 2012.
+
+@deptofdefense @nasa-giss @blackgirlscode @la-county-isd @cityoflosangeles @nasa-jpl @whitehouse @nasa-giss
+[Telework and Remote Work Toolkit](https://www.dcpas.osd.mil/policy/worklife/telework-remote-work)
+
+[dcpas.osd.mil/sites/default/files/2025-02/Initial%20Department%20of%20Defense%20Implementation%20Guidance%20Return%20to%20In-Person%20Work.pdf](https://www.dcpas.osd.mil/sites/default/files/2025-02/Initial%20Department%20of%20Defense%20Implementation%20Guidance%20Return%20to%20In-Person%20Work.pdf)
+<img   alt="image" src="https://github.com/user-attachments/assets/ef7c0603-3103-4eb8-8cf7-bb6febaf9a79" />
+
+![https://kathrynbarger.lacounty.gov/wp-content/uploads/2025/12/white-logo-1.png @longbeachinnovationteam @voyager-tech-inc](https://kathrynbarger.lacounty.gov/wp-content/uploads/2025/12/white-logo-1.png) 
+
+
+<picture>
+ 
+  <source
+    srcset="https://github.com/user-attachments/assets/bfc50bfe-972a-48ab-b6b2-b098f0666e6b"
+  />
+    <source
+    srcset="https://planetarydata.jpl.nasa.gov/images/PDSIMG_logo.png"
+  />
+
+
+
+  <img  alt="image" src="https://github.com/user-attachments/assets/bfc50bfe-972a-48ab-b6b2-b098f0666e6b" />
+  
+</picture>
+
+@blackgirlscode @nbcnews [Jared](https://youtu.be/8VwRdui50FY?si=dVJh20tr5-67AHkv) π [Jupiter @nasa Saving Gallileo📺🛰️📡🪐](https://youtu.be/aezcXjKYZkM?si=8g6V30fpvS11BKzs)
+
+@nasa-jpl i dont know how to write if things are changing a lot 
+
+Memorandum for Chief Human Capital Officers [READ](https://www.opm.gov/chcoc/latest-memos/2025-guide-to-telework-and-remote-work-in-the-federal-government.pdf)
+From: Veronica E. Hinton
+Associate Director
+Workforce Policy and Innovation
+Subject: **Guide to Telework and Remote Work in the Federal Government**
+On January 20, 2025, President Donald J. Trump signed a Presidential Memorandum
+(PM) titled, [Return to In-Person Work](https://www.federalregister.gov/documents/2025/01/28/2025-01907/return-to-in-person-work), which instructed Executive department and
+agency heads to “take all necessary steps to terminate remote work arrangements and
+require employees to return to work in-person at their respective duty stations on a
+full-time basis.” 
+[web.archive.org/web/20251207034849/https://www.opm.gov/policy-data-oversight/future-of-the-workforce/hybrid-work-environment-toolkit/prepare-to-transition-checklist.pdf](https://web.archive.org/web/20251207034849/https://www.opm.gov/policy-data-oversight/future-of-the-workforce/hybrid-work-environment-toolkit/prepare-to-transition-checklist.pdf)
+[https://www.opm.gov/policy-data-oversight/future-of-the-workforce/hybrid-work-environment-toolkit/prepare-to-transition-checklist.pdf](https://www.opm.gov/policy-data-oversight/future-of-the-workforce/hybrid-work-environment-toolkit/prepare-to-transition-checklist.pdf)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/8bc48576-6d40-433a-be16-3152cd355a62" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/9302b59f-ecb5-4bfc-8642-64ed7c598e4f" />
+
+
+@Nasa-pds
+While using the [DeepSpaceNetwork](https://www.nasa.gov/communicating-with-missions/dsn/) monitoring tool [DSN _NOW_](https://eyes.nasa.gov/apps/dsn-now/dsn.html) and soaw Juno transmitting data. I dont know who controls these things , but @usgs stores in more portable formats... I guess its architecture to explore for the lab, Alot of sites are here on github @CityOfLosAngeles Karenbass / HollyMitchell i spend a lot of time browsing because wheni find repos i can work, thats how we work in this era 
+
+
+
+_Overview of the FITS Data Format_ [Link - heasarc.gsfc.nasa.gov/docs/heasarc/fits_overview.html](https://heasarc.gsfc.nasa.gov/docs/heasarc/fits_overview.html) [[1](https://danmoser.github.io/notes/gai_fits-imgs.html)]
+FITS was originally developed in the late 1970's as an archive and interchange format for astronomical data files. In the past decade FITS has also come into wide use as an on-line file format that can be directly read and written by data analysis software. FITS is much more than just another image format (such as JPG or GIF) and is primarily designed to store scientific data sets consisting of multidimensional arrays and 2-dimensional tables containing rows and columns of data.
+@blackgirlscode @nasa-pds im going to check on [juno](https://pds-ppi.igpp.ucla.edu/mission/JUNO) @la-county-isd was the big bear man angry with me with the isd hat on @LACMTA? 
+
+[Deep Space Network Explainer Video: How Do We Know Where Faraway Spacecraft Are?](https://www.nasa.gov/stem-content/deep-space-network-explainer-video-how-do-we-know-where-faraway-spacecraft-are/) `books` [Uplink-Downlink A History of the `Deep Space Network` 1957–1997](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4227.pdf) :: [Deep Space Telecommunications Systems Engineering 1982](https://ntrs.nasa.gov/api/citations/19830013955/downloads/19830013955.pdf) [Read You Loud and Clear! - _dEEPsPACEnETWORK @NASA-JPL_](https://ntrs.nasa.gov/api/citations/20080020389/downloads/20080020389.pdf) The Story of NASA's Spaceflight Tracking and Data Network [Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) :: [How to compete for NASA contracts @blackgirlscode](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf) [Rover ControL an Planning Software ](https://human-factors.arc.nasa.gov/publications/COCPIT_Mars_Perseverance_Rover.pdf) [AMMOS offers an Suite of tools for Real-time Monitoring and Control of a Spacecraft](https://ammos.nasa.gov/pdf/Brochure-Monitor-Control-Solution.pdf) part of the - Ground Data System (GDS) tool suite 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/8216048e-0012-4942-b306-2930a9dd119a" />
+
+
+<picture>: The Picture element [docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/picture) @mdn @geeksforgeeks [Tut](https://www.w3schools.com/tags/tag_picture.asp) @w3schools @blackgirlscode @la-county-isd @cityoflosangeles @stateofcalifornia
+
+```
+<picture>
+ 
+  <source
+    srcset="https://github.com/user-attachments/assets/bfc50bfe-972a-48ab-b6b2-b098f0666e6b"
+  />
+    <source
+    srcset="https://planetarydata.jpl.nasa.gov/images/PDSIMG_logo.png"
+  />
+  <img width="933" height="176" alt="image" src="https://github.com/user-attachments/assets/bfc50bfe-972a-48ab-b6b2-b098f0666e6b" />
+  
+</picture>
+```
+
+
+## Juno Orbit 73
+[@nasa-pds planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0033/EXTRAS/FULL/RDR/`JUPITER/ORBIT_73`/JNCR_2025159_73C00021_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0033/EXTRAS/FULL/RDR/JUPITER/ORBIT_73/JNCR_2025159_73C00021_V01.PNG)
+
+@nasa-jpl I still don't know how to get color out of these images
+<img  alt="image" src="https://github.com/user-attachments/assets/b90deb64-d672-4db0-ad78-122d2aa5d9ac" />
+
+[@stateofcalifornia planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0033/EXTRAS/FULL/RDR/JUPITER/ORBIT_73/JNCR_2025159_73M00024_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0033/EXTRAS/FULL/RDR/JUPITER/ORBIT_73/JNCR_2025159_73M00024_V01.PNG)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/c72cbda0-58f9-4132-a697-8d014f3da3fa" />
+
+<img src="https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0033/EXTRAS/FULL/RDR/JUPITER/ORBIT_73/JNCR_2025159_73M00024_V01.PNG"/>
+
+[https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0033/EXTRAS/FULL/RDR/JUPITER/ORBIT_73/JNCR_2025159_73C00021_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0033/EXTRAS/FULL/RDR/JUPITER/ORBIT_73/JNCR_2025159_73C00021_V01.PNG)
+
+# Juno Orbit77
+@nasa-pds hi its [rashard @nasa-jpl @nasa-openscapes](https://ra5hard.github.io/) 
+A lot of the images are sup0er grainy. I was saying the camera is broken for a while bc I don't see solid images in the data product for like I do with cassini or the rovers... @nasa-jpl Orbit77 finished compiling in April I'll keep me eyes open to see the pattern, I don't want to miss anything! - [Rashard](https://ra5hard.github.io/linux/) [@ucla planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0034/EXTRAS/FULL/RDR/`JUPITER/ORBIT_77`/JNCR_2025291_77M00031_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0034/EXTRAS/FULL/RDR/JUPITER/ORBIT_77/JNCR_2025291_77M00031_V01.PNG)(
+[essence.com/news/erika-renee-johnson-kelly-found-georgia/](https://www.essence.com/news/erika-renee-johnson-kelly-found-georgia/)
+
+![https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0034/EXTRAS/FULL/RDR/JUPITER/ORBIT_77/JNCR_2025291_77M00031_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0034/EXTRAS/FULL/RDR/JUPITER/ORBIT_77/JNCR_2025291_77M00031_V01.PNG)
+
+<img src="https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0034/EXTRAS/FULL/RDR/JUPITER/ORBIT_77/JNCR_2025289_77R00002_V01.PNG" alt="@nasa-pds" />
+
+## Juno Orbit76 @nasa-pds @nasa-develop
+[planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0034/EXTRAS/FULL/RDR/JUPITER/ORBIT_76/JNCR_2025278_76T00146_V01.PNG @nasa-pds @nasa-develop @blackgirlscode](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0034/EXTRAS/FULL/RDR/JUPITER/ORBIT_76/JNCR_2025278_76T00146_V01.PNG)
+![https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0034/EXTRAS/FULL/RDR/JUPITER/ORBIT_76/JNCR_2025278_76T00146_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0034/EXTRAS/FULL/RDR/JUPITER/ORBIT_76/JNCR_2025278_76T00146_V01.PNG)
+
+# Orbit 74 @nasa-pds
+## @nasa-jpl @whitehouse
+yo [MayorBass](https://www.congress.gov/member/karen-bass/B001270) @la-county-isd judging from the work on this unit you gotta evaluate the area, people from the party world will corrupt people. idk who has the most stable city in the globe that has a healthy sex life @cityoflosangeles you just don't @nbcnews ... @nasa-pds ppl clowning me bc of sabotage when you guys hired me or shortly b4.... @doug-newman-nasa ppl got too happy with placing black people places to talk to ppl they cant talk to that's all you guys do like every day! @TheSpaceDevs @AxiomSpace @BlueOrigin [https://www.congress.gov/member/karen-bass/B001270](https://www.congress.gov/member/karen-bass/B001270) // [https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0034/EXTRAS/FULL/RDR/`JUPITER/ORBIT_74`/JNCR_2025212_74T00143_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0034/EXTRAS/FULL/RDR/JUPITER/ORBIT_74/JNCR_2025212_74T00143_V01.PNG)
+
+![https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0034/EXTRAS/FULL/RDR/JUPITER/ORBIT_74/JNCR_2025212_74T00143_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0034/EXTRAS/FULL/RDR/JUPITER/ORBIT_74/JNCR_2025212_74T00143_V01.PNG)
+
+# The Keyport Cancer Crisis & Elon Musk’s AI Lawsuit | The Daily Drop
+[WATCH - youtu.be/mQ7uVEiLWMQ?si=3Wi0a1dMl96YnWH5](https://youtu.be/mQ7uVEiLWMQ?si=3Wi0a1dMl96YnWH5)
+@nasa-jpl please don't hold our relationship status against her having a press interview, she is highly educated from @howard-university-web-services and I'm pretty sure she is [Halle](https://www.grammy.com/artists/chloe-x-halle/243636/) of [Chloe and HAlle](https://chloexhalle.com/) @teslamotors she is related to a rapper with Grammys so she is really volatile and indanger of being enslaved by sex traffickers @dhs-gov ask that Asian man why he on camera with that little girl ? [`Halle Bailey Warns Twitter To ‘Keep It Cute’ Amidst Sister Chloe’s Criticism: ‘I Go To War For The Ones I Love’](https://www.yahoo.com/news/halle-bailey-warns-twitter-keep-174330188.html)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/239e85eb-bb25-41cf-bd7c-bd0791f31946" />
+
+
+## @NASA's SpaceX Crew-13 Mission Overview 
+_News Conference (Aug. 3, 2026)_ [@SpaceExplorationTechnologies](https://github.com/spaceexplorationtechnologies) // [r-spacex](https://github.com/r-spacex) ++ [@Reddit reddit.com/r/spacex/ @nasa-pds @CityOfLosAngeles](reddit.com/r/spacex/)
+[WATCH - @nasa-jpl youtube.com/live/IDUtReQSlb0?si=M2k7z8F56IRk-zu7](https://www.youtube.com/live/IDUtReQSlb0?si=M2k7z8F56IRk-zu7)
+@Nasa-JPL @DEPTofWAR I'm tired, I got cheated on and I cant get basic things like headphones and a replacement handset @stateofcalifornia - [rashard](https://ra5hard.github.io/) hi @BLACKGiRLSCODE @cbs-news-data
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IDUtReQSlb0?si=jkCSpR3_K2W3waiy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[tiktok.com/@chloexhalleofficial](https://www.tiktok.com/@chloexhalleofficial)
+@emerginCoders [Dojacat](https://www.dojacat.com/) hi CHloe and HAlle ned @tiktok account help @nasa-jpl what are the boundaries of small business support... They are so pretty their beauty makes me feel isolated bc they love making unauthorized biographies and docs about us @nasa-giss @nasa-develop @doug-newman-nasa 
+```
+Something went wrong
+Sorry about that! Please try again later.
+```
+<img alt="image" src="https://github.com/user-attachments/assets/26e74b8b-87e8-446f-9715-44f882f409cc" />
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">hate that i made you looove me ❤️🎸 <a href="https://t.co/NdFtkeCX1Q">pic.twitter.com/NdFtkeCX1Q</a></p>&mdash; Halle (@HalleBailey) <a href="https://x.com/HalleBailey/status/2079245379359609011?ref_src=twsrc%5Etfw">July 20, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+## [BLXST](https://en.wikipedia.org/wiki/Talk:Blxst) Explains Traumatic Home Invasion, [Tyler, the Creator](https://en.wikipedia.org/wiki/Talk:Tyler,_the_Creator) & Breaks Down LA Music
+[WATCH - youtu.be/mXOPIe9AdDc?si=h4Y8gZzkz20Btoep](https://youtu.be/mXOPIe9AdDc?si=h4Y8gZzkz20Btoep)
+BLXST stopped by HOT 97 to talk to Nessa about his new album, Labor of Love, and why creating this project became such a personal journey. He shares why he chose to write and produce every song himself, opens up about staying independent without a manager, and explains the meaning behind the album title and why his childhood home became the cover art. He also reflects on the L.A. artists who inspired him, the changing culture of collaboration in hip hop, and the unforgettable Tyler, The Creator story that still makes him laugh.
+
+BLXST also gets candid about one of the most difficult moments of his life, revealing how a home invasion involving his family inspired one of the album's most emotional songs. He talks about fatherhood, raising two sons, balancing family with his career, and the legacy he hopes to leave behind. Labor of Love is out now. Watch our full conversation with BLXST on HOT 97. [EMAiL📧`info@HOT97.com`](mailto:info@hot97.com)
+<img  alt="image" src="https://github.com/user-attachments/assets/14ef637f-0418-4b3b-8b15-7a649fdb79ac" />
+
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">LONG BEACH , CA • TOMORROW <br>1PM <a href="https://x.com/VIPLONGBEACH?ref_src=twsrc%5Etfw">@VIPLONGBEACH</a> <a href="https://t.co/SpQjcjCPUv">pic.twitter.com/SpQjcjCPUv</a></p>&mdash; BLXST (@BLXST) <a href="https://x.com/BLXST/status/2078250483245023631?ref_src=twsrc%5Etfw">July 17, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">interview with dj drama is from 2022, out now</p>&mdash; T (@tylerthecreator) <a href="https://x.com/tylerthecreator/status/2061931033096835291?ref_src=twsrc%5Etfw">June 2, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="reddit-embed-bq" style="height:316px" data-embed-height="316">
+<a href="https://www.reddit.com/r/NASAJobs/comments/1mzx1l0/how_much_does_the_college_you_go_to_matter/">How much does the college you go to matter?</a><br> by
+<a href="https://www.reddit.com/user/Key_Insurance_8493/">u/Key_Insurance_8493</a> in
+<a href="https://www.reddit.com/r/NASAJobs/">NASAJobs</a>
+</blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+
+# `This account has been permanently banned.`
+## `Check your inbox for a message with more information.`
+[https://www.reddit.com/r/NASAJobs/comments/1mzx1l0/comment/nb0vwgo/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button](https://www.reddit.com/r/NASAJobs/comments/1mzx1l0/comment/nb0vwgo/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+Dizzy-Decision-2115
+•1y ago [de·i·fy/ˈdēəˌfī/verb](https://www.merriam-webster.com/dictionary/deify)
+
+worship, regard, or treat (someone or something) as a god. <~ meditate on that... they like garbage men at the end of the day bc they make super cool shit ppl steal, you gotta be ok with that! And what they tell you in your face. I still dont trust my contractor Mori and Associates but if Jose not dead I can show him the badge they gave me for my space station role in helpdesk at mission control... Knowing all operating systems is a plus to get grounded to recive #ALOT_OF_INFORMATiON!!!!!!!!!!!! then you can post again about school -Rashard u/nasa #MARS/#JPL
+
+[reddit.com/r/spacex/?rdt=43035&logging_in=true](reddit.com/r/spacex/?rdt=43035&logging_in=true)
+<img   alt="image" src="https://github.com/user-attachments/assets/43af350f-7739-4e64-a703-98886d9ce4a5" />
+
+<img alt="image @BLACKGiRLSCODE @cbs-news-data @Nasa-JPL @DEPTofWAR I'm tired, I got cheated on and I cant get basic things like headphones and a replacement handset @stateofcalifornia  " src="https://github.com/user-attachments/assets/265d1ba4-e025-40a8-808b-c77864eefce4" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/999f2fb7-ab2e-43aa-8eb3-8111622781ea" />
+
+
+
+## Education For Death 1943
+by D.D.Teoli Jr. A.C. [Fandom](https://disney.fandom.com/wiki/Education_for_Death)
+[@CSPAN](https://www.c-span.org/program/american-history-tv/education-for-death/532290)
+
+<iframe src="https://archive.org/embed/education-for-death-1943" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<img src="https://static.wikia.nocookie.net/disney/images/e/e8/Education_for_death.jpeg/revision/latest/scale-to-width-down/1000?cb=20111018235334"/>
+
+# American TV History @disney / @CSPAN
+[c-span.org/program/american-history-tv/education-for-death/532290](https://www.c-span.org/program/american-history-tv/education-for-death/532290)
+
+<img alt="image" src="https://github.com/user-attachments/assets/71aa1974-b58f-4a20-9ff9-153d2dc17224" />
+
+
+## Why Trump’s "4th Term" Speech Has Everyone Talking
+[WATCH - @nasa-jpl @nasa-giss youtu.be/U3boTwZAxtg?si=AhBzpDvlNZwEXyCr](https://youtu.be/U3boTwZAxtg?si=AhBzpDvlNZwEXyCr)
+<img alt="image" src="https://github.com/user-attachments/assets/85e848af-89c9-499f-93fe-26792bdb7474" />
+
+<img  alt="tumblr_de9d9805664076eadfc27765172b64e5_219e25ac_1280 @nasa-jpl @blackgirlscode " src="https://github.com/user-attachments/assets/098ee1df-fa5b-43e8-b4f9-9a3c87f1687d" />
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">THE TRUMP GOLD CARD. <br><br>Unlock life in America. <a href="https://t.co/ui2ZkkdxEH">https://t.co/ui2ZkkdxEH</a> <a href="https://t.co/7pxuVvnC6z">pic.twitter.com/7pxuVvnC6z</a></p>&mdash; The White House (@WhiteHouse) <a href="https://x.com/WhiteHouse/status/1998859522740466066?ref_src=twsrc%5Etfw">December 10, 2025</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+@deptofwar @teslamotors @nasa-jpl @nasa-openscapes @newshour @cbs-news-data
+
+# NS Records 
+
+| Domain Name | NS | TTL | 
+|-------------|----|-----|
+| war.gov @deptofwar| use9.akam.net. | 21600 | 
+| war.gov @deptofwar| asia3.akam.net. | 21600 | 
+| war.gov @deptofwar| asia2.akam.net. | 21600 | 
+| war.gov @deptofwar| usc5.akam.net. | 21600 | 
+| war.gov @deptofwar| eur6.akam.net. | 21600 | 
+| war.gov @deptofwar| ns1-116.akam.net. | 21600 | 
+| war.gov @deptofwar| use2.akam.net. | 21600 | 
+| war.gov @deptofwar| ns1-95.akam.net. | 21600 | 
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Incoming ! <a href="https://x.com/hashtag/fifaworldcup?src=hash&amp;ref_src=twsrc%5Etfw">#fifaworldcup</a> <a href="https://x.com/FIFAcom?ref_src=twsrc%5Etfw">@FIFAcom</a> <a href="https://t.co/NKdfjiANC5">pic.twitter.com/NKdfjiANC5</a></p>&mdash; Ivanka Trump (@IvankaTrump) <a href="https://x.com/IvankaTrump/status/2078930577558741402?ref_src=twsrc%5Etfw">July 19, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Falcon 9’s first stage lands on LZ-2 <a href="https://t.co/cRIUA40Phq">pic.twitter.com/cRIUA40Phq</a></p>&mdash; SpaceX (@SpaceX) <a href="https://x.com/SpaceX/status/2082727931244417170?ref_src=twsrc%5Etfw">July 30, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The U.S. Space Force has approved the launch of a SpaceX Falcon 9 rocket carrying the Starlink 17-52 mission to low-Earth orbit, Friday, July 31, 2026, between 7:00 p.m. – 11:00 p.m. PT from Space Launch Complex 4 East (SLC-4).<br><br>Watch live at <a href="https://t.co/juoZ3ACm8c">https://t.co/juoZ3ACm8c</a> <a href="https://t.co/euj5Fh37ci">pic.twitter.com/euj5Fh37ci</a></p>&mdash; Vandenberg Space Force Base (@SLDelta30) <a href="https://x.com/SLDelta30/status/2082877400086426081?ref_src=twsrc%5Etfw">July 30, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+@emergingcoders @nasa-pds 
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">We’ve stopped by a couple polling stations and the people are out! I’m told the lines were VERY long this morning but a bit shorter now. We’ll show you what they looked like and tell you why the voters say they came out on Day 1 of early voting tonight on <a href="https://x.com/wcnc?ref_src=twsrc%5Etfw">@wcnc</a> <a href="https://t.co/IQue1wBcpl">pic.twitter.com/IQue1wBcpl</a></p>&mdash; Lana Harris (@LanaJHarris) <a href="https://x.com/LanaJHarris/status/1316779143112069120?ref_src=twsrc%5Etfw">October 15, 2020</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A historic breakthrough!<br><br>After months of determined diplomacy, Hamas has agreed to a roadmap that includes relinquishing its weapons, reconstruction of Gaza, new governance, humanitarian relief and economic recovery.<br><br>Congratulations to my father <a href="https://x.com/realDonaldTrump?ref_src=twsrc%5Etfw">@realDonaldTrump</a> <a href="https://x.com/jaredkushner?ref_src=twsrc%5Etfw">@jaredkushner</a>… <a href="https://t.co/c69ZfTfOyv">https://t.co/c69ZfTfOyv</a></p>&mdash; Ivanka Trump (@IvankaTrump) <a href="https://x.com/IvankaTrump/status/2083175860937646389?ref_src=twsrc%5Etfw">July 31, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+[@x .com/LanaJHarris](https://x.com/LanaJHarris)
+<img alt="image @foratlanta @cnn " src="https://github.com/user-attachments/assets/28bbec87-5269-4277-b9d1-aa44dc07a205" />
+
+
+## Cyberattack From Iran? Gaza Deal? Elon Suing For A.I. Nudes?  HOT 97 News 7/31/26 (Special Guest)
+[WATCH - youtu.be/qZ-G5xmNdCI?si=FtVwvCQdfAprZ8ds](https://youtu.be/qZ-G5xmNdCI?si=FtVwvCQdfAprZ8ds) // [dvidshub.net/feature/operationepicfury](https://www.dvidshub.net/feature/operationepicfury) // [The Lady In The Bottle  I Dream Of Jeannie s1e1 @emergingcoders ](https://youtu.be/Q6DSFvnfu0M?si=_nG2wHQxwQB8wQwO) @TheSpaceDevs @BlueOrigin @lmco [Wiki TALK iRAN WAR 2026 en.wikipedia.org/wiki/Talk:2026_Iran_war](https://en.wikipedia.org/wiki/Talk:2026_Iran_war) ++ [Wiki Article - en.wikipedia.org/wiki/2026_Iran_war](https://en.wikipedia.org/wiki/2026_Iran_war) // [Iran war live: Pezeshkian says ‘future of Iran will be shaped by the people](https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks)
+<img   alt="image" src="https://github.com/user-attachments/assets/02369dfa-66a2-4a04-9fec-a6b9ed3e1140" />
+
+
+[https://worldview.earthdata.nasa.gov/?v=47.51958467311244,29.455628999208983,49.534171955305446,30.82578058018175&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,OPERA_L2_Radiometric_Terrain_Corrected_SAR_Sentinel-1,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2026-07-31-T22%3A05%3A56Z](https://worldview.earthdata.nasa.gov/?v=47.51958467311244,29.455628999208983,49.534171955305446,30.82578058018175&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,OPERA_L2_Radiometric_Terrain_Corrected_SAR_Sentinel-1,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2026-07-31-T22%3A05%3A56Z)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/769f5fcb-2682-42ac-aca3-9ffbafc5214e" />
+
+
+![https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2603/9556601/944w_q95.jpg](https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2603/9556601/944w_q95.jpg)
+
+![https://d2cto119c3bgok.cloudfront.net/thumbs/photos/2603/9585455/1000w_q95.jpg](https://d2cto119c3bgok.cloudfront.net/thumbs/photos/2603/9585455/1000w_q95.jpg)
+[https://www.dvidshub.net/image/9585460/uss-abraham-lincoln-cvn-72-conducts-flight-operations-during-operation-epic-fury](https://www.dvidshub.net/image/9585460/uss-abraham-lincoln-cvn-72-conducts-flight-operations-during-operation-epic-fury)
+![https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2603/9585460/1000w_q95.jpg](https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2603/9585460/1000w_q95.jpg)
+
+
+# Operation Epic Fury
+U.S. Central Command (CENTCOM) commenced Operation Epic Fury at the direction of the President of the United States. CENTCOM forces are striking targets to dismantle the Iranian regime's security apparatus, prioritizing locations that pose an imminent threat. [https://www.centcom.mil/OPERATIONS-AND-EXERCISES/EPIC-FURY/](https://www.centcom.mil/OPERATIONS-AND-EXERCISES/EPIC-FURY/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/67b8d226-a8d1-4138-b978-c06c5a0cdfb4" />
+
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/822438309441699840" data-did="4883d85403685baba38699a20c33a2a1a913bf99"><a href="https://rashardmro.tumblr.com/post/822438309441699840/do-them-shits-smell-like-an-mpc-hot97">https://rashardmro.tumblr.com/post/822438309441699840/do-them-shits-smell-like-an-mpc-hot97</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+
+@nasa-jpl kuwait city 
+_Sentinel_ S1C_IW_GRDH_1SDV_20260723T144945_20260723T145015_008672_0112F8_6A63
+<img  alt="image" src="https://github.com/user-attachments/assets/a3d91936-1740-4816-ad4d-80a0a7f91f0d" />
+
+NISAR_L2_PR_GSLC_025_064_D_073_4005_DHDH_A_20260712T153549_20260712T153626_P05023_N_F_J_001 @isro @emergingCoders hi @blackgirlscode
+<img alt="NISAR_L2_PR_GSLC_025_064_D_073_4005_DHDH_A_20260712T153549_20260712T153626_P05023_N_F_J_001_NATIVE" src="https://github.com/user-attachments/assets/5b6e1453-3102-4b5e-b87a-e9f962fa6829" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b7e57633-bd99-4eb6-a291-4d7d7faa62e8" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/cac0c039-fd50-46d7-a4f1-f2e0cce99420" />
+`ECOv002_L2T_LSTE_45710_020_40RCP_20260728T164023_0713_02.png`
+<img   alt="image" src="https://github.com/user-attachments/assets/9cff6af5-449e-4261-8e0d-2b56a5e43115" />
+
+```json
+{
+  "collectionConceptId": "C2595678301-LPCLOUD",
+  "conceptId": "G4267396767-LPCLOUD",
+  "dataCenter": "LPCLOUD",
+  "dataGranule": {
+    "dayNightFlag": "Night",
+    "identifiers": [
+      {
+        "identifier": "ECOv002_L1CT_RAD_45756_016_38RQT_20260731T155145_0713_02",
+        "identifierType": "ProducerGranuleId"
+      }
+    ],
+    "productionDateTime": "2026-07-31T20:35:37.582Z",
+    "archiveAndDistributionInformation": [
+      {
+        "name": "Not provided",
+        "size": 29.76,
+        "sizeUnit": "MB"
+      }
+    ]
+  },
+  "dayNightFlag": "NIGHT",
+  "granuleSize": 29.76,
+  "granuleUr": "ECOv002_L1CT_RAD_45756_016_38RQT_20260731T155145_0713_02",
+  "hasAllMetadata": true,
+  "id": "G4267396767-LPCLOUD",
+  "measuredParameters": [
+    {
+      "parameterName": "ECO_L1CT_RAD"
+    }
+  ],
+  "metadataUrls": {
+    "atom": {
+      "title": "ATOM",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/G4267396767-LPCLOUD.atom"
+    },
+```
+
+
+
+
+## NISAR_L1_PR_RSLC_026_056_A_014_4005_DHDH_A_20260724T014303_20260724T014334_P05023_N_F_J_001
+`Dubai` @ISRO [https://search.asf.alaska.edu/#/?zoom=7.729&center=55.014,23.974&polygon=POLYGON((50.2604%2021.5007,61.2315%2021.5007,61.2315%2028.9765,50.2604%2028.9765,50.2604%2021.5007))&resultsLoaded=true&granule=NISAR_L1_PR_RSLC_026_056_A_014_4005_DHDH_A_20260724T014303_20260724T014334_P05023_N_F_J_001](https://search.asf.alaska.edu/#/?zoom=7.729&center=55.014,23.974&polygon=POLYGON((50.2604%2021.5007,61.2315%2021.5007,61.2315%2028.9765,50.2604%2028.9765,50.2604%2021.5007))&resultsLoaded=true&granule=NISAR_L1_PR_RSLC_026_056_A_014_4005_DHDH_A_20260724T014303_20260724T014334_P05023_N_F_J_001) @asfadmin
+<img alt="image" src="https://github.com/user-attachments/assets/baba6ebb-d897-4b5c-91bc-f3517989ac89" />
+
+
+![https://www.centcom.mil/Portals/6/Official_CENTCOM_Seal.png?ver=lkskHhkPyb7aaBZcekfImA%3d%3d](https://www.centcom.mil/Portals/6/Official_CENTCOM_Seal.png) 
+
+### U.S. Strikes IRGC Targets After Attempted Iranian Attacks
+#### USCENTCOM @nasa @deptofwar @deptofdefense
+
+**TAMPA, Fla.** – At 10 p.m. ET on July 29, U.S. Central Command (CENTCOM) forces successfully completed a heavy wave of strikes against Iran in response to yesterday’s attempted missile attacks on U.S. forces.
+
+CENTCOM assets struck dozens of Islamic Revolutionary Guard Corps (IRGC) targets in Iran, including military command centers, missile and drone facilities, coastal surveillance and defense sites, and maritime capabilities. The strikes aimed to further diminish threats posed by Iran and its proxies to American forces, commercial shipping, and neighboring Gulf countries.
+
+On July 28, IRGC forces launched multiple ballistic missiles from Iran in an attempted surprise attack on U.S. forces based in the Middle East. All Iranian missiles were successfully intercepted.
+
+More than 50,000 U.S. service members are currently deployed to the Middle East and remain highly vigilant, focused, lethal, and ready.
+
+[https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4559495/us-strikes-irgc-targets-after-attempted-iranian-attacks/](https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4559495/us-strikes-irgc-targets-after-attempted-iranian-attacks/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/01697ceb-9c9c-4bbc-b181-0fb0d0b620bc" />
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The &quot;Discover and Access the OPERA-DISP Dataset Using ASF DAAC’s Displacement Portal&quot; data training webinar is now available online. Learn more about NASA’s JPL OPERA InSAR-derived surface displacement measurements product. <a href="https://t.co/czo89JFIep">https://t.co/czo89JFIep</a><a href="https://x.com/hashtag/SAR?src=hash&amp;ref_src=twsrc%5Etfw">#SAR</a> <a href="https://t.co/igfkw2htXp">pic.twitter.com/igfkw2htXp</a></p>&mdash; NASAEarthdata (@NASAEarthData) <a href="https://x.com/NASAEarthData/status/1931083799045329038?ref_src=twsrc%5Etfw">June 6, 2025</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+# Brick Slayers
+Graffiti photos and discussion focused on walls. [@emergingcoders fwd to phylcia Rashad forum.12ozprophet.com/forum/6-brick-slayers/ @whitehouse](https://forum.12ozprophet.com/forum/6-brick-slayers/)
+[Youtube.com/@mylifeinletterspodcast](https://www.youtube.com/@mylifeinletterspodcast) // [instagram.com/mylifeinletterspodcast/](https://www.instagram.com/mylifeinletterspodcast/) // [mylifeinletters.com/](https://www.mylifeinletters.com/) // [https://www.podchaser.com/podcasts/my-life-in-letters-231856](https://www.podchaser.com/podcasts/my-life-in-letters-231856)
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/642vHxZxvCEKO1CIFbpkKd?utm_source=generator&theme=0&si=37cb961f06bd4263" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/3FvKcENNB2D2cMCJNO09k1?utm_source=generator&theme=0&si=027240850c3b4df0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2367219119&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nasa" title="NASA" target="_blank" style="color: #cccccc; text-decoration: none;">NASA</a> · <a href="https://soundcloud.com/nasa/houston-we-have-a-podcast-iss-results-materials-science" title="Houston We Have a Podcast: ISS Results: Materials Science" target="_blank" style="color: #cccccc; text-decoration: none;">Houston We Have a Podcast: ISS Results: Materials Science</a></div>
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Giant sequoias are nearly four times more likely to survive extreme wildfires in forests that have been managed with prescribed burns, according to a NASA-funded study.<br><br>Get the details: <a href="https://t.co/wr8IVyDcZW">https://t.co/wr8IVyDcZW</a> <a href="https://t.co/ObBryoEZIC">pic.twitter.com/ObBryoEZIC</a></p>&mdash; NASA Earth (@NASAEarth) <a href="https://x.com/NASAEarth/status/2080692383109267489?ref_src=twsrc%5Etfw">July 24, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Extremely hot and dry conditions in June and July enabled large fires to break out in Europe.<br><br>Spain saw its largest fire on record in Ávila, as shown in this Landsat 9 false color image. Unburned vegetation is light green and burned areas appear brown. <a href="https://t.co/G4RJHG0fQu">https://t.co/G4RJHG0fQu</a> <a href="https://t.co/bw8muiPFRb">pic.twitter.com/bw8muiPFRb</a></p>&mdash; NASA Earth (@NASAEarth) <a href="https://x.com/NASAEarth/status/2083245767687323925?ref_src=twsrc%5Etfw">July 31, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Nine years ago today, I began my journey to Jupiter. See these interviews with members of my team to hear more about what we have learned: <a href="https://t.co/wpDgXaYV7f">https://t.co/wpDgXaYV7f</a> <a href="https://t.co/AwPR8sjSDb">pic.twitter.com/AwPR8sjSDb</a></p>&mdash; NASA&#39;s Juno Mission (@NASAJuno) <a href="https://x.com/NASAJuno/status/1291106187920805889?ref_src=twsrc%5Etfw">August 5, 2020</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">When the twin ESCAPADE spacecraft arrive at Mars in September 2027, they will study how the solar wind interacts with the Martian environment and how that drives atmospheric loss at the Red Planet. <a href="https://t.co/ighZ4rnvCZ">https://t.co/ighZ4rnvCZ</a> <a href="https://t.co/lkJndvwRCG">https://t.co/lkJndvwRCG</a></p>&mdash; NASA Mars (@NASAMars) <a href="https://x.com/NASAMars/status/2080729466284961983?ref_src=twsrc%5Etfw">July 24, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Curiosity has delivered a new 360-degree panorama from Mars. “We’ve seen a lot of fascinating landscapes through Curiosity’s eyes, but this sea of polygons took our breath away,” said the mission’s project scientist. 1/2 <a href="https://t.co/G7sV6Xafkq">pic.twitter.com/G7sV6Xafkq</a></p>&mdash; NASA Mars (@NASAMars) <a href="https://x.com/NASAMars/status/2082529612991762499?ref_src=twsrc%5Etfw">July 29, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+
+<blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/V5HltP89vK">https://t.co/V5HltP89vK</a></p>&mdash; Department of War 🇺🇸 (@DeptofWar) <a href="https://x.com/DeptofWar/status/2081882940540178683?ref_src=twsrc%5Etfw">July 27, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/BB6PBpcBF8">pic.twitter.com/BB6PBpcBF8</a></p>&mdash; LuLu 🍋 (@_lupee_loo) <a href="https://x.com/_lupee_loo/status/2079312546121617444?ref_src=twsrc%5Etfw">July 20, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;I&#39;m only gonna have one&quot; said no one ever! <a href="https://x.com/hashtag/spondivits?src=hash&amp;ref_src=twsrc%5Etfw">#spondivits</a> <a href="https://x.com/hashtag/seafood?src=hash&amp;ref_src=twsrc%5Etfw">#seafood</a> <a href="https://x.com/hashtag/atlantarestarants?src=hash&amp;ref_src=twsrc%5Etfw">#atlantarestarants</a> <a href="https://x.com/hashtag/crablegs?src=hash&amp;ref_src=twsrc%5Etfw">#crablegs</a> <a href="https://x.com/hashtag/bobmarley?src=hash&amp;ref_src=twsrc%5Etfw">#bobmarley</a> <a href="https://x.com/hashtag/cocktails?src=hash&amp;ref_src=twsrc%5Etfw">#cocktails</a> <a href="https://t.co/2LpPdkKmlZ">pic.twitter.com/2LpPdkKmlZ</a></p>&mdash; Spondivits (@Spondivits) <a href="https://x.com/Spondivits/status/706869000945471490?ref_src=twsrc%5Etfw">March 7, 2016</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="qht" dir="ltr"><a href="https://x.com/hashtag/NotForgotten?src=hash&amp;ref_src=twsrc%5Etfw">#NotForgotten</a> <a href="https://t.co/046r2NRPWF">https://t.co/046r2NRPWF</a></p>&mdash; Spondivits (@Spondivits) <a href="https://x.com/Spondivits/status/1129209047163363328?ref_src=twsrc%5Etfw">May 17, 2019</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+
+
+
+
+
+@eu-cdse @esd [https://browser.dataspace.copernicus.eu/?zoom=11&lat=25.64276&lng=56.32038&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2FU%2FTvCkPkQjvj9sb%2F8ZtgLsoYLe5qcx4UzcdlZFpdWUgBJuIyuzeqVorZpZId8z%2FZlN%2FpNI0mk40fEUoxJj7Kjd8c4TNE59ggIyxC1VXTG1ETyKkngIRC0&datasetId=S2_L2A_CDAS&fromTime=2026-07-31T00%3A00%3A00.000Z&toTime=2026-07-31T23%3A59%3A59.999Z&layerId=1_TRUE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE](https://browser.dataspace.copernicus.eu/?zoom=11&lat=25.64276&lng=56.32038&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2FU%2FTvCkPkQjvj9sb%2F8ZtgLsoYLe5qcx4UzcdlZFpdWUgBJuIyuzeqVorZpZId8z%2FZlN%2FpNI0mk40fEUoxJj7Kjd8c4TNE59ggIyxC1VXTG1ETyKkngIRC0&datasetId=S2_L2A_CDAS&fromTime=2026-07-31T00%3A00%3A00.000Z&toTime=2026-07-31T23%3A59%3A59.999Z&layerId=1_TRUE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE) @TheSpaceDevs
+<img   alt="2026-07-31-00_00_2026-07-31-23_59_Sentinel-2_L2A_True_color" src="https://github.com/user-attachments/assets/84a1af4f-d147-476d-bfda-5a7c72a707ba" />
+
+@doug-newman-nasa @la-county-isd : we still got oil on the sea @nasa-jpl [https://browser.dataspace.copernicus.eu/?zoom=11&lat=33.41711&lng=-117.98801&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2FBIMF5YwzN2OKMVnsjYxapH3Wa0Zqe0aROEgZP5JmhsY1JXa0cpXCbK4T%2Bnq%2BD6iKW180ZnmKRpi5mpR7gdiejEkTK66gAhdVCBZ3EBQISZi6RxP7b0p6L&datasetId=S2_L2A_CDAS&fromTime=2026-07-31T00%3A00%3A00.000Z&toTime=2026-07-31T23%3A59%3A59.999Z&layerId=1_TRUE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE](https://browser.dataspace.copernicus.eu/?zoom=11&lat=33.41711&lng=-117.98801&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2FBIMF5YwzN2OKMVnsjYxapH3Wa0Zqe0aROEgZP5JmhsY1JXa0cpXCbK4T%2Bnq%2BD6iKW180ZnmKRpi5mpR7gdiejEkTK66gAhdVCBZ3EBQISZi6RxP7b0p6L&datasetId=S2_L2A_CDAS&fromTime=2026-07-31T00%3A00%3A00.000Z&toTime=2026-07-31T23%3A59%3A59.999Z&layerId=1_TRUE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE)
+<img   alt="image" src="https://github.com/user-attachments/assets/f44f1a56-70be-40ce-87ab-a6e06b5f2f15" />
+<img   alt="ezgif com-resize" src="https://github.com/user-attachments/assets/9400e6e2-a46b-4c9c-bf36-2cb7693fb809" />
+
+
+
+<img  alt="Screenshot 2026-08-01 145438" src="https://github.com/user-attachments/assets/31b2db2c-c743-4e65-9cb2-5274e201dbcd" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ea1d2455-8fa8-4bbd-8556-a90a98646f34" />
+
+
+`Qeshm` [browser.dataspace.copernicus.eu/?zoom=11&lat=26.61401&lng=56.23833&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX18SVa19qrztDclpQPAB8qrQNWDg6dfVXdZKVUpfjsOSNEUOEx%2FeLPFg83XNN3S%2BZv1AYZbpuShgzDvMC4cIBWCvW3fuqm7486xYnNZOhosnah8wAXI8YoM0&datasetId=S2_L2A_CDAS&fromTime=2026-07-31T00%3A00%3A00.000Z&toTime=2026-07-31T23%3A59%3A59.999Z&layerId=1_TRUE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE](https://browser.dataspace.copernicus.eu/?zoom=11&lat=26.61401&lng=56.23833&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX18SVa19qrztDclpQPAB8qrQNWDg6dfVXdZKVUpfjsOSNEUOEx%2FeLPFg83XNN3S%2BZv1AYZbpuShgzDvMC4cIBWCvW3fuqm7486xYnNZOhosnah8wAXI8YoM0&datasetId=S2_L2A_CDAS&fromTime=2026-07-31T00%3A00%3A00.000Z&toTime=2026-07-31T23%3A59%3A59.999Z&layerId=1_TRUE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE)
+<img   alt="image" src="https://github.com/user-attachments/assets/d58a1361-6818-4eb6-82fe-3b34c69b16d8" />
+
+`Dubai`
+[https://browser.dataspace.copernicus.eu/?zoom=13&lat=25.3012&lng=55.27659&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2BZnyVVfq6LbXD3jf8ITJVcJJfmnC5ZZIyzjWo0UTMJdClkxc6zK8fuKfOpnr%2Fb0f%2Ft7agaFyjeXITDz23M6RQCgUo066CwlayXm9JeZqkXyUpTaDyb1oIB&datasetId=S2_L2A_CDAS&fromTime=2026-07-31T00%3A00%3A00.000Z&toTime=2026-07-31T23%3A59%3A59.999Z&layerId=1_TRUE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE](https://browser.dataspace.copernicus.eu/?zoom=13&lat=25.3012&lng=55.27659&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2BZnyVVfq6LbXD3jf8ITJVcJJfmnC5ZZIyzjWo0UTMJdClkxc6zK8fuKfOpnr%2Fb0f%2Ft7agaFyjeXITDz23M6RQCgUo066CwlayXm9JeZqkXyUpTaDyb1oIB&datasetId=S2_L2A_CDAS&fromTime=2026-07-31T00%3A00%3A00.000Z&toTime=2026-07-31T23%3A59%3A59.999Z&layerId=1_TRUE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/3a9f2c18-b956-42ed-9748-1ceca64e6bcc" />
+
+
+
+
+@nasa-jpl kuwait city 
+NISAR_L2_PR_GSLC_025_064_D_073_4005_DHDH_A_20260712T153549_20260712T153626_P05023_N_F_J_001 @isro @emergingCoders hi @blackgirlscode
+<img alt="NISAR_L2_PR_GSLC_025_064_D_073_4005_DHDH_A_20260712T153549_20260712T153626_P05023_N_F_J_001_NATIVE" src="https://github.com/user-attachments/assets/5b6e1453-3102-4b5e-b87a-e9f962fa6829" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b7e57633-bd99-4eb6-a291-4d7d7faa62e8" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/cac0c039-fd50-46d7-a4f1-f2e0cce99420" />
+`ECOv002_L2T_LSTE_45710_020_40RCP_20260728T164023_0713_02.png`
+<img width="538" height="538" alt="image" src="https://github.com/user-attachments/assets/9cff6af5-449e-4261-8e0d-2b56a5e43115" />
+
+```json
+{
+  "collectionConceptId": "C2595678301-LPCLOUD",
+  "conceptId": "G4267396767-LPCLOUD",
+  "dataCenter": "LPCLOUD",
+  "dataGranule": {
+    "dayNightFlag": "Night",
+    "identifiers": [
+      {
+        "identifier": "ECOv002_L1CT_RAD_45756_016_38RQT_20260731T155145_0713_02",
+        "identifierType": "ProducerGranuleId"
+      }
+    ],
+    "productionDateTime": "2026-07-31T20:35:37.582Z",
+    "archiveAndDistributionInformation": [
+      {
+        "name": "Not provided",
+        "size": 29.76,
+        "sizeUnit": "MB"
+      }
+    ]
+  },
+  "dayNightFlag": "NIGHT",
+  "granuleSize": 29.76,
+  "granuleUr": "ECOv002_L1CT_RAD_45756_016_38RQT_20260731T155145_0713_02",
+  "hasAllMetadata": true,
+  "id": "G4267396767-LPCLOUD",
+  "measuredParameters": [
+    {
+      "parameterName": "ECO_L1CT_RAD"
+    }
+  ],
+  "metadataUrls": {
+    "atom": {
+      "title": "ATOM",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/G4267396767-LPCLOUD.atom"
+    },
+```
+
+
+
+[search.earthdata.nasa.gov/search?sb[0]=51.99445%2C21.48011%2C60.95201%2C29.57335&lat=26.724999364758997&long=55.87082459774931&zoom=6.7466001248231535](https://search.earthdata.nasa.gov/search?sb[0]=51.99445%2C21.48011%2C60.95201%2C29.57335&lat=26.724999364758997&long=55.87082459774931&zoom=6.7466001248231535)
+<img  alt="image" src="https://github.com/user-attachments/assets/d96c6f12-4f5d-4268-81bd-ac68a644abba" />
+
+### HOT 97 News Live! 7/31/26
+
+[WATCH - youtube.com/live/KJTzHOs092k?si=BliipbTforJTpjON](https://www.youtube.com/live/KJTzHOs092k?si=BliipbTforJTpjON)
+<img  alt="image  @deptofwar @deptofdefense @officialredhat @nasa-pds " src="https://github.com/user-attachments/assets/cac4d202-9b6d-4f26-8390-785b5b25452e" />
+ [ spacetelescopelive.org/](https://spacetelescopelive.org/)
+
+
+<img   alt="ezgif com-gif-maker (1)" src="https://github.com/user-attachments/assets/920759c7-7261-4236-94f8-72945ed44889" />
+
+sandiego @cityoflosangeles
+<img alt="image" src="https://github.com/user-attachments/assets/482fcdb3-fc5b-4f5b-a087-a22485e036a8" />
+
+
+[`PLAY` archive.org/details/mr-zone-6-gucci-mane?webamp=default](https://archive.org/details/mr-zone-6-gucci-mane?webamp=default) // [`DownLoad` - archive.org/compress/mr-zone-6-gucci-mane/formats=VBR%20MP3&file=/mr-zone-6-gucci-mane.zip](https://archive.org/compress/mr-zone-6-gucci-mane/formats=VBR%20MP3&file=/mr-zone-6-gucci-mane.zip)
+<img alt="image @blackgirlscode" src="https://github.com/user-attachments/assets/e6ca4d9c-6492-479c-a631-aab2be1e3e26" />
+
+![https://solarsystem.nasa.gov/images/casJPGFullS05/W00002480.jpg](https://solarsystem.nasa.gov/images/casJPGFullS05/W00002480.jpg)
+
+
+
+![https://solarsystem.nasa.gov/images/casJPGFullS28/W00025842.jpg](https://solarsystem.nasa.gov/images/casJPGFullS28/W00025842.jpg) 
+
+
+
+<iframe src="https://archive.org/embed/marsspacescience00unse" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<iframe src="https://archive.org/embed/InControl-withPeteRock-WBLS-1989" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<img  alt="ezgif  @nasa-pds @la-county-isd @nasa-jpl @blackgirlscode @emergingCoders com-gif-maker" src="https://github.com/user-attachments/assets/79db1778-6502-4dd9-89dc-01c2e61a5ef8" />
+
+
+![https://solarsystem.nasa.gov/images/casJPGFullS06/W00003773.jpg](https://solarsystem.nasa.gov/images/casJPGFullS06/W00003773.jpg)
+
+![https://solarsystem.nasa.gov/images/casJPGFullS06/N00025308.jpg](https://solarsystem.nasa.gov/images/casJPGFullS06/N00025308.jpg)
+
+# N00001599.jpg 
+N00001599.jpg was taken on 2004-05-23 13:13 (PDT) and received on Earth 2004-05-24 12:15 (PDT). The camera was pointing toward Saturn, and the image was taken using the IR4 and CL2 filters. This image has not been validated or calibrated. A validated/calibrated image will be archived with the NASA Planetary Data System
+
+Image Credit: NASA/JPL-Caltech/Space Science Institute/
+
+![https://solarsystem.nasa.gov/images/casJPGFullS01/N00001599.jpg @nasa-jpl](https://solarsystem.nasa.gov/images/casJPGFullS01/N00001599.jpg)
+mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04946
+
+# _**W00063216.jpg**_
+_**W00063216.jpg**_ was taken on 2010-03-11 01:04 (PST) and received on Earth 2010-03-11 18:44 (PST). The camera was pointing toward Saturn-ering, and the image was taken using the CL1 and VIO filters. This image has not been validated or calibrated. A validated/calibrated image will be archived with the [NASA Planetary Data System @nasa-pds](https://pds.nasa.gov/) // [solarsystem.nasa.gov/raw_images/243453/?layout=hds](https://solarsystem.nasa.gov/raw_images/243453/?layout=hds)
+<img   alt="W00063216  @nbcnews @cbs-news-data @foxnews @nasa-pds Sol 4936 @nasa-openscapes @nasa-giss @emergingcoders @disney @nasa @whitehouse @dhs-gov @commercegov " src="https://github.com/user-attachments/assets/3b863e8b-e516-48f0-870d-c50e732ce11e" />
+
+
+
+<img  alt="ezgif  @nbcnews @cbs-news-data @foxnews @nasa-pds Sol 4936 @nasa-openscapes @nasa-giss @emergingcoders @disney @nasa @whitehouse @dhs-gov @commercegov  com-gif-maker (5)" src="https://github.com/user-attachments/assets/4914a7c8-5738-434c-8bdd-a06e16742b88" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/031f6f69-93bf-46fd-a3b8-2f5e5e7b87ab" />
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A127431138&color=%23daa795&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/cigarette-brandy-2011" title="Cigarette - Brandy (new unreleased song)" target="_blank" style="color: #cccccc; text-decoration: none;">Cigarette - Brandy (new unreleased song)</a></div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A369774536&color=%23442424&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/um211" title="Brandy" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy</a> · <a href="https://soundcloud.com/um211/brandy-sirens" title="Sirens (feat. Timbaland)" target="_blank" style="color: #cccccc; text-decoration: none;">Sirens (feat. Timbaland)</a></div>
+
+<img   alt="ezgif com-resize @nbcnews @cbs-news-data @foxnews @nasa-pds Sol 4936 @nasa-openscapes @nasa-giss @emergingcoders @disney @nasa @whitehouse @dhs-gov @commercegov" src="https://github.com/user-attachments/assets/39458a63-a658-4bc2-a342-e88ae7d8d895" />
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/98930be4-cd62-4141-99eb-de4775b8e1ec" />
+
+<img   alt="ezgif com-gif-maker (3) @nasa-pds Sol 4936 @nasa-openscapes @nasa-giss @emergingcoders " src="https://github.com/user-attachments/assets/d50994ff-2470-43b9-866a-0350642bf04e" />
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A345066952&color=%2396a86b&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/rico_nasty" title="RICO NASTY" target="_blank" style="color: #cccccc; text-decoration: none;">RICO NASTY</a> · <a href="https://soundcloud.com/rico_nasty/key-lime-og-1" title="Key Lime OG" target="_blank" style="color: #cccccc; text-decoration: none;">Key Lime OG</a></div>
+
+# 60,000 Migrants Storm Spain: A Coordinated Stunt? 
+ The Lana Rundown [Watch - youtu.be/fKkpEO4JxKg?si=Kr0MREf9ktOhhG36](https://youtu.be/fKkpEO4JxKg?si=Kr0MREf9ktOhhG36)
+<img  alt="imag @emergingcoders @blackgirlscode @nasa-jpl @whitehouse " src="https://github.com/user-attachments/assets/2b720e0f-62aa-4dc1-bb8e-01474dc9699a" />
+
+<img   alt="ezgif com-gif-maker (2) @nasa-pds @la-county-isd @nasa-jpl @blackgirlscode @emergingCoders " src="https://github.com/user-attachments/assets/4ad4d54b-6b25-4b84-af8b-2359be316f4f" />
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A559658055&color=%238dd0ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/futureisnow" title="Future" target="_blank" style="color: #cccccc; text-decoration: none;">Future</a> · <a href="https://soundcloud.com/futureisnow/servin-killa-kam" title="Servin Killa Kam" target="_blank" style="color: #cccccc; text-decoration: none;">Servin Killa Kam</a></div>
+
+### Mars Science Laboratory: Curiosity Raw Images [Link](https://mars.nasa.gov/msl/multimedia/raw-images/?order=sol+desc%2Cinstrument_sort+asc%2Csample_type_sort+asc%2C+date_taken+desc&per_page=50&page=0&mission=msl&af=NAV_LEFT_A%7CNAV_LEFT_B%2C%2C%2C)
+<img  alt="image" src="https://github.com/user-attachments/assets/390beee8-0de3-4156-938f-7c4b4c3cb796" />
+
+
+# MADRID DEEP SPACE COMMUNICATIONS COMPLEX
+## _MDSCC_ @nasa-jpl
+[https://www.mdscc.nasa.gov/index.php/en/dss-55-2/](https://www.mdscc.nasa.gov/index.php/en/dss-55-2/)
+Carretera de Colmenar del Arroyo a Robledo de Chavela Km 7, M-531
+28294 Robledo de Chavela
+Madrid, España
+Phone: (+34) 918677000
+Visitor Centre Phone: (+34) 918677321 / (+34) 918677312
+GPS Coordinates: +40° 25′ 47.33″, -4° 14′ 56.57″
+@nasa-pds ~> ROC@jpl.nasa.gov something is wrong madrid is not showing any data transfer and dish55 is marked as testing  @doug-newman-nasa @whitehouse @USnavy @BLACKGiRLSCODE @Howard-University-Web-Services @EmergingCoders
+<object class="scroller" width="auto" height="auto" data="https://eyes.nasa.gov/apps/dsn-now/dsn.html" type="text/html" ></object>
+
+<img  alt="image" src="https://github.com/user-attachments/assets/28b15312-e35e-4899-9eeb-01794f0500e4" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/71ab3120-a66c-4507-a74a-ddec74b9d448" />
+<img  alt="image" src="https://github.com/user-attachments/assets/a8d75902-5406-4b30-a079-a45952ce80cb" />
+
+## Cyberattack From Iran? Gaza Deal? Elon Suing For A.I. Nudes?  HOT 97 News 7/31/26 (Special Guest)
+[WATCH - youtu.be/qZ-G5xmNdCI?si=FtVwvCQdfAprZ8ds](https://youtu.be/qZ-G5xmNdCI?si=FtVwvCQdfAprZ8ds)
+<img   alt="image" src="https://github.com/user-attachments/assets/02369dfa-66a2-4a04-9fec-a6b9ed3e1140" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/9c4247de-2ddd-4109-8d0b-ec9ab0afcc16" />
+
+[The Lady In The Bottle  I Dream Of Jeannie s1e1 @emergingcoders ](https://www.youtube.com/watch?v=F41Y37XTZck)
+
+
+
+
+
+# KarenBass Cameos at [B.E.T](bet.com) Awards
+@blackgirlscode @whitehouse @cityoflosangeles @nasa-jpl 
+[Glamour Life](https://www.youtube.com/watch?v=1QnOCkQLTC0)
+
+[<video controls poster="https://upload.wikimedia.org/wikipedia/commons/5/5b/Animal_Farm_strip_cartoon.jpg" src="https://ia800409.us.archive.org/8/items/vid-20260411-163609-170/Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4" />](https://ia800409.us.archive.org/8/items/vid-20260411-163609-170/Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4)
+
+@newshour @foxnews @nbcnews @cbs-news-data [Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4](https://ia800409.us.archive.org/8/items/vid-20260411-163609-170/Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4)
+[viking](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds3:vik:viking_lander_1:/vl_0001/i0xx/11i003.red) 
+[insight](https://pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.spacecraft=insight_lander&gather.common.instrument=ICC&gather.common.product_type=ZPS)
+
+
+[Astronaut Photography Interactive Map @nasa @whitehouse @cityoflosangeles @stateofcalifornia @nasa-jpl @blackgirlscode](https://eol.jsc.nasa.gov/ExplorePhotos/) : : [Astronaut Pictures of Earth](https://storymaps.arcgis.com/stories/8dc1cafd3f4a4c70b9ce314d8c06f329) [DARKERSKY4CE](https://darkersky4ce.inaf.it/instrument-sheet-iss-astronaut-photography/)
+[CHANNEL @nasa @youtube.com/@NASAEarthObservatory](https://www.youtube.com/@NASAEarthObservatory)
+
+The Deep Space Program Science Experiment (DSPSE) 
+@nasa-jpl @nasa-pds @la-county-isd @CityOfLosAngeles
+@StateOfCalifornia @blackgirlscode ~+ @Whitehouse @dhs-gov @atfweb @boeing - [**DSPSE**_`.catFile`_](https://pds-geosciences.wustl.edu/lunar/clem1-gravity-topo-v1/cl_8xxx/catalog/mission.cat)
+[NasaJpl_Flickr](www.flickr.com/photos/nasa-jpl) :: [Feb25 snapshot @nasa-jpl](https://web.archive.org/web/20250208075001/https://www.flickr.com/photos/nasa-jpl/)
+@nasa @la-county-isd @podaac @nasa-jpl `404: Not Found ° [NasaJpl_Flickr] www.flickr.com/photos/nasa-jpl)` its back up
+
+@google @vsco [Check out Google’s new Santa Monica store](https://www.google.com/amp/s/ktla.com/news/local-news/check-out-googles-new-santa-monica-store/amp/)
+@nasa-jpl @blackgirlscode
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />
+### Currently Compiling g_e, [m/s^2](https://mars.nasa.gov/files/resources/Planet-Mars-Quick-Facts_Mars-nasa-gov.pdf)
+
+### Books
+
+[How to compete for NASA contracts @blackgirlscode](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf)
+
+[Uplink-Downlink A History of the Deep Space Network 1957–1997](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4227.pdf)
+
+[Deep Space Telecommunications Systems Engineering 1982](https://ntrs.nasa.gov/api/citations/19830013955/downloads/19830013955.pdf)
+
+[Read You Loud and Clear!](https://ntrs.nasa.gov/api/citations/20080020389/downloads/20080020389.pdf)
+The Story of NASA's Spaceflight Tracking and Data Network
+
+[Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) 
+
+@nasa-jpl 
+
+
+
+
+# HTML
+[HTML Living Standard](https://html.spec.whatwg.org/multipage/) — Last Updated 3 July 2026 [@mdn](https://github.com/mdn)
+[ColorNAmes - w3schools.com](https://www.w3schools.com/tags/ref_colornames.asp)
+[https://fonts.google.com/](https://fonts.google.com/) @adobe i hope u guys are ok [I was looking for kuler.adobe.com/ functionality](http://web.archive.org/web/20250212005944/https://kuler.adobe.com/) and i know abt [color.adobe.com](color.adobe.com) for making swatches but the hex values are missing like the tool was downgraded and ad poisoned and i know that can be a sign of cyber attack @cisagov @fbicyber @nasa-jpl @whitehouse @deptofwar [color.adobe.com](https://color.adobe.com/) 
+
+# @Nasa-jpl hi @spaceexplorationtechnologies CRS34 departure confirmation @youtube [https://www.youtube.com/live/fu-t3Om6DIA?is=ZHtXK2lI8y3rCyVz](https://www.youtube.com/live/fu-t3Om6DIA?is=ZHtXK2lI8y3rCyVz)
+
+```shell
+spacex.com      mail exchanger = 5 mxb-003ea501.gslb.gpphosted.com.
+
+spacex.com      mail exchanger = 5 mxa-003ea501.gslb.gpphosted.com.
+
+```
+
+
+<a href="{{ site.url }}"  itemtype="https://schema.org/EducationalOrganization" itemprop="name">
+  
+<svg itemprop="logo" class="gradient-text" id="headerMargins" width="50%" height="50%"
+  viewBox="0 0 508.204 141.732" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+   
+<path d="M91.991 104.699c1.576 5.961 4.119 8.266 8.613 8.266 4.659 0 7.102-2.799 7.102-8.266V3.2h29.184v101.499c0 14.307-1.856 20.506-9.11 27.762-5.228 5.229-14.871 9.271-27.047 9.271-9.837 0-19.25-3.256-25.253-9.27-5.263-5.273-8.154-10.689-12.672-27.764L44.9 37.033c-1.577-5.961-4.119-8.265-8.613-8.265-4.66 0-7.103 2.798-7.103 8.265v101.5H0v-101.5C0 22.727 1.857 16.527 9.111 9.271 14.337 4.044 23.981 0 36.158 0c9.837 0 19.25 3.257 25.253 9.27 5.263 5.273 8.154 10.689 12.672 27.764zm386.047 33.834L444.334 33.096c-.372-1.164-.723-2.152-1.263-2.811-.926-1.127-2.207-1.719-3.931-1.719-1.723 0-3.004.592-3.931 1.719-.539.658-.891 1.646-1.262 2.811l-33.703 105.437h-30.167l36.815-115.177c1.918-6 4.66-11.094 8.139-14.488C421.002 3.047 428.038 0 439.141 0s18.14 3.047 24.109 8.867c3.479 3.395 6.221 8.488 8.14 14.488l36.814 115.177zm-149.16 0c19.12 0 28.446-4.062 35.814-11.389 8.153-8.105 12.053-16.973 12.053-30.213 0-11.699-4.283-22.535-10.804-29.019-8.526-8.479-19.116-11.151-36.384-11.151l-24.187-.001c-9.242 0-12.925-1.117-15.839-3.98-2.001-1.964-2.939-4.885-2.939-8.328 0-3.559.857-7.074 3.303-9.475 2.171-2.131 5.13-3.109 10.816-3.109h69.903V3.2H306.05c-19.12 0-28.445 4.063-35.814 11.389-8.152 8.105-12.053 16.972-12.053 30.212 0 11.701 4.283 22.536 10.804 29.019 8.527 8.479 19.116 11.152 36.384 11.152l24.188.002c9.242 0 12.925 1.115 15.839 3.979 2.001 1.965 2.939 4.885 2.939 8.328 0 3.559-.857 7.074-3.302 9.475-2.172 2.131-5.131 3.109-10.817 3.109h-72.094l-27.651-86.509c-1.918-6-4.66-11.094-8.139-14.488C220.363 3.047 213.327 0 202.224 0s-18.14 3.047-24.108 8.867c-3.48 3.395-6.221 8.488-8.139 14.488l-36.815 115.177h30.166l33.704-105.437c.372-1.164.723-2.152 1.263-2.811.926-1.127 2.208-1.719 3.931-1.719s3.004.592 3.931 1.719c.54.658.891 1.646 1.262 2.811l33.704 105.437z" fill="#DB362D"/></svg>
+
+</a>
+
+<img width="512" height="512" alt="ezgif com-animated-gif-maker" src="https://github.com/user-attachments/assets/8052576f-bad8-49bd-a6b0-fa8c9f75e281" />
+
+<h2 id="perseverance-rovers-descent-and-touchdown-on-mars"><a href="https://svs.gsfc.nasa.gov/31250">Perseverance Rover’s Descent and Touchdown on Mars</a></h2>
+
+<h3 id="perseverance-rovers-descent-and-touchdown-on-mars-onboard-camera-views"><a href="https://science.nasa.gov/wp-content/uploads/2024/03/45703_JPL-20210222-M2020f-0001-Perseverance_Rovers_Descent_and_Touchdown_on_Mars-1.mp4">Perseverance Rover’s Descent and Touchdown on Mars: Onboard Camera Views</a></h3>
+
+<blockquote>
+<p>NASA’s Mars 2020 Perseverance mission captured thrilling footage of its rover landing in Mars’ Jezero Crater on Feb. 18, 2021. The real footage in this video was captured by several cameras that are part of the rover’s entry, descent, and landing suite. The views include a camera looking down from the spacecraft’s descent stage (a kind of rocket-powered jet pack that helps fly the rover to its landing site), a camera on the rover looking up at the descent stage, a camera on the top of the aeroshell (a capsule protecting the rover) looking up at that parachute, and a camera on the bottom of the rover looking down at the Martian surface.</p>
+</blockquote>
+
+<video controls="" width="100%" height="auto" poster="https://www.nasa.gov/wp-content/uploads/2021/06/pia24542-perseverances-selfie-with-ingenuity-1041.jpg">
+
+<source src="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031250/Perseverance-landing-1080p.mp4" type="video/mp4" />
+        Download the
+        or
+<a href="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031250/Perseverance-landing-1080p.mp4">MP4</a>
+        video.
+        
+</video>
+
+<a href="https://science.nasa.gov/wp-content/uploads/2024/03/45732_nasa_perseverance_parachute_deployment.mp4">15 Second Clip of Parachute Deployment(MP4) (18.86 MB)</a>
+
+# About the United States Space Force
+## Trump Signs Law Establishing U.S. Space Force [`READ`](https://www.war.gov/News/News-Stories/Article/Article/2046035/trump-signs-law-establishing-us-space-force/)
+Dec. 20, 2019 | By [Jim Garamone](https://www.war.gov/News/Author/58550/jim-garamone/) DOD News
+[@blackgirlscode @la-county-isd @cityoflosangeles @nasa @doug-newman-nasa @usnavy https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4](https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4)
+
+[<video controls poster="https://www.war.gov/News/News-Stories/Article/Article/2046035/trump-signs-law-establishing-us-space-force/#pop3892171" src="https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4" />](https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4)
+
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Logo_of_the_United_States_Space_Force.png/250px-Logo_of_the_United_States_Space_Force.png" alt="Thanks for SPaceforce Donald, Thanks for SMALL BUSiNESS assistance from @Nasa @nasa-jpl @howard-university-web-services @whitehouse virtiserv latrice United States Space Force" />](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Logo_of_the_United_States_Space_Force.png/250px-Logo_of_the_United_States_Space_Force.png) [The U.S. Space Force](https://www.spaceforce.mil/About-Us/) was established on Dec. 20, 2019, creating the first new branch of the armed services since 1947. The establishment of the USSF resulted from widespread recognition that space is a national security imperative. When combined with the growing threat posed by strategic competitors in space, it became clear that there was a need for a military service focused solely on pursuing superiority in the space domain. [US SPACE Force 101 - PDF](https://www.spaceforce.mil/Portals/2/Documents/SF101/ussf_101_glossy_FINAL_e-version.pdf)
+
+[spaceforce.mil/Portals/2/Images/About_Us/USSF_Map_2025.jpg](https://www.spaceforce.mil/Portals/2/Images/About_Us/USSF_Map_2025.jpg)
+
+<img  alt="image @howard-university-web-services @nasa-jpl spaceforce.mil/Portals/2/Images/About_Us/USSF_Map_2025.jpg" src="https://github.com/user-attachments/assets/68aa3b4c-9ccf-45f1-9a68-4e33baf6c902" />
+
+# Rashard Kelly NasaJpl MRO JUNO iSS
+[DOWNLOAD_PDF](https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf)
+{{ site.time | date: '%B %d, %Y' }} {{ page.date }} pagedate {{ page.date | date: '%B %d, %Y' }} This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
+![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
+![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
+![https://web.archive.org/web/20070205200246im_/http://deepspace.jpl.nasa.gov/dsn/images/banner-dsn.jpg](https://web.archive.org/web/20070205200246im_/http://deepspace.jpl.nasa.gov/dsn/images/banner-dsn.jpg)
+
+[Sega Rally Championship – Twin/DX (Revision C)](https://www.retrogames.me/arcade/sega-rally-championship-twindx-revision-c.html?play)
+<img src="https://dn721607.ca.archive.org/0/items/fatal-fury-ccm/Cartridge%20-%20Top.jpg"  alt="GO" />
+  <img src="https://ia601408.us.archive.org/15/items/SuperPunchOut-SNS-4Q-USA-Cart/Super%20Punch%20Out%20-%20SNS-4Q-USA%20-%20Cart%20top.jpg" />
+
+[mapmaking1961](https://youtu.be/L7SJVBX7jxo?si=WtCk-MC2FB-v-f0C)
+
+![https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Mario_kart_first_logo.png/330px-Mario_kart_first_logo.png](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Mario_kart_first_logo.png/330px-Mario_kart_first_logo.png)
+[Booklet - archive.org/details/snes_Super_Mario_Kart_USA](https://archive.org/details/snes_Super_Mario_Kart_USA)
+Super Mario Kart[a] is a 1992 kart racing game developed and published by Nintendo for the Super Nintendo Entertainment System (SNES). The first game in the Mario Kart series, it was released in Japan on August 27, 1992, North America on September 1, 1992, and Europe on January 21, 1993. Selling 8.76 million copies worldwide, the game went on to become the fourth best-selling SNES game of all time. - [Wiki](https://en.wikipedia.org/wiki/Super_Mario_Kart) // [Fandom](https://mariokart.fandom.com/wiki/Mario_Kart_Racing_Wiki:Main_Menu) +++ [Starfox - Original Soundtrack @blackgirlscode @emergingcoders ](https://archive.org/details/Starfox-OST)
+
+<iframe src="https://archive.org/embed/super-mario-kart-usa_202303" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<img   alt="image" src="https://github.com/user-attachments/assets/95466d2e-6154-4302-8793-505e99ac2c61" />
+
+
+[Nintendo Player's Guide (SNES)   Super Mario RPG (1996)](https://archive.org/details/Nintendo_Players_Guide_SNES_Super_Mario_RPG_1996) /// [Super Mario RPG GameSpot Video Review](https://archive.org/details/youtube-4WifkXKT30I) /// [Super Mario RPG: Legend of the Seven Stars Totally Unauthorized](https://archive.org/details/bradygames-smrpg)
+
+Super Mario RPG: Legend of the Seven Stars[a] is a 1996 role-playing video game developed by Square and published by Nintendo for the Super Nintendo Entertainment System (SNES). It was the final Mario game for the SNES, and was directed by Chihiro Fujioka and Yoshihiko Maekawa, produced by Shigeru Miyamoto, and scored by Yoko Shimomura. - [Wiki](https://en.wikipedia.org/wiki/Super_Mario_RPG)  
+![https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Super_Mario_RPG_Logo.png/960px-Super_Mario_RPG_Logo.png](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Super_Mario_RPG_Logo.png/960px-Super_Mario_RPG_Logo.png)
+
+<iframe src="https://archive.org/embed/dkc_snes_2" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+![https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Donkey_Kong_Country_Logo.webp/960px-Donkey_Kong_Country_Logo.webp.png](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Donkey_Kong_Country_Logo.webp/960px-Donkey_Kong_Country_Logo.webp.png)
+
+[https://archive.org/details/super-punch-out-usa_202301](https://archive.org/details/super-punch-out-usa_202301)
+<iframe src="https://archive.org/embed/super-punch-out-usa_202301" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+![https://upload.wikimedia.org/wikipedia/commons/2/2b/Logo_SNES.png](https://upload.wikimedia.org/wikipedia/commons/2/2b/Logo_SNES.png)
+
+![@nasa dn721307.ca.archive.org/0/items/AppleStickers1/Apple_stickers_1.jpg](https://dn721307.ca.archive.org/0/items/AppleStickers1/Apple_stickers_1.jpg)
+
+@Ford Simulator II
+[@nasa-jpl @la-county-isd @lacmta archive.org/details/FordSimulatorIIMacintosh](https://archive.org/details/FordSimulatorIIMacintosh)
+<iframe src="https://archive.org/embed/FordSimulatorIIMacintosh" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<img  alt="image @foratlanta" src="https://github.com/user-attachments/assets/25ce735a-5962-40ec-af00-968b13cbcd0b" />
+
+## Indiana Jones and the Last Crusade
+@BlackGirlsCode [archive.org/details/IndianaJonesandtheLastCrusade](https://archive.org/details/IndianaJonesandtheLastCrusade)
+
+<iframe src="https://archive.org/embed/IndianaJonesandtheLastCrusade" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<img alt="image" src="https://github.com/user-attachments/assets/29d61913-5db4-4c60-aa0e-42436599edb0" />
+
+
+`karenbass.com	mail exchanger = 5 alt2.aspmx.l.google.com.`
+`yulpptr-in-f27.1e100.net`
+
+[whatismyipaddress.com/ip/172.253.152.27](https://whatismyipaddress.com/ip/172.253.152.27)
+
+```
+conrad.ns.cloudflare.com internet address = 162.159.44.146
+conrad.ns.cloudflare.com internet address = 172.64.35.146
+```
+`Conrad @cityOfLosangeles @cloudflare [whatismyipaddress.com/ip/172.64.35.146](https://whatismyipaddress.com/ip/172.64.35.146)
+<img  alt="image" src="https://github.com/user-attachments/assets/824a473c-0448-4537-9807-502fd66f30f9" />
+
+```
+
+nicole.ns.cloudflare.com internet address = 108.162.192.211
+nicole.ns.cloudflare.com internet address = 172.64.32.211
+nicole.ns.cloudflare.com internet address = 173.245.58.211
+```
+
+```
+Location
+CountryUnited States (US)
+ContinentNorth America (NA)
+Coordinates37.751 (lat) / -97.822 (long)
+Time2026-07-31 16:37:43 (America/Chicago)
+Network
+IP address172.253.152.27
+Hostname yulpptr-in-f27.1e100.net
+ProviderGoogle LLC
+ASN15169
+```
+<img  alt="image" src="https://github.com/user-attachments/assets/2290055a-22fe-48dd-8994-172ea8742303" />
+
+```
+karenbass.com mail exchanger = 5 alt2.aspmx.l.google.com.
+karenbass.com mail exchanger = 10 alt3.aspmx.l.google.com.
+
+```
+`karenbass.com mail exchanger = 10 alt4.aspmx.l.google.com.`
+[whatismyipaddress.com/ip/172.253.135.27](whatismyipaddress.com/ip/172.253.135.27)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/3ae5a81d-8a6c-4a18-8cae-ed92be8916f7" />
+
+
+```
+
+
+
+karenbass.com mail exchanger = 1 aspmx.l.google.com.
+karenbass.com mail exchanger = 5 alt1.aspmx.l.google.com.
+karenbass.com nameserver = conrad.ns.cloudflare.com.
+karenbass.com nameserver = nicole.ns.cloudflare.com.
+conrad.ns.cloudflare.com internet address = 108.162.195.146
+```
+## GoogleLLC
+[bbb.org/us/ca/mountain-view/profile/internet-service/google-llc-1216-214105](https://www.bbb.org/us/ca/mountain-view/profile/internet-service/google-llc-1216-214105)
+Google LLC's main corporate headquarters is located at 1600 Amphitheatre Parkway, Mountain View, CA 94043. [1]  
+Headquarters Details 
+
+• Name: Googleplex 
+• Street: 1600 Amphitheatre Pkwy 
+• City, State, Zip: Mountain View, CA 94043 
+• Phone: 1-650-253-0000 [1, 2, 3]  
+
+If you need the address for a specific regional office or a different department, please let me know the city or region you are looking for. 
+AI responses may include mistakes.
+
+[1] https://exa.ai/websets/directory/google-offices
+[2] https://www.globaldata.com/company-profile/google/locations/
+[3] https://www.bbb.org/us/ca/mountain-view/profile/internet-service/google-llc-1216-214105
+
+
+
+## Future - Turn On The Lights (Official Music Video)
+[WATCH - youtu.be/zIrhcTkHX_A?si=FqbInqn4JUhA8MH8](https://youtu.be/zIrhcTkHX_A?si=FqbInqn4JUhA8MH8)
+@doug-newman-nasa i got distracted @nasa-pds and im reorganizing with @deptofdefense / @deptofwar documenttaion Lana is not what i expected virtiserv to be @disney but i made a deal with the prettiest girls in atlanta but i did not know what pairing or dating was and just enjoyed their presence in real time @cityoflosangeles and my body got too close not to get hurt, and i thought that would not be an issue if i did not look at porn @blackgirlscode i just got blindsided @nasa @whitehouse
+<img  alt="image" src="https://github.com/user-attachments/assets/2a596019-4821-43f9-8099-aac8df1529b7" />
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zIrhcTkHX_A?si=n5dz7R0HI3mNoyGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+@la-county-isd 
+
+```
+karenbass.com mail exchanger = 5 alt2.aspmx.l.google.com.
+karenbass.com mail exchanger = 10 alt3.aspmx.l.google.com.
+karenbass.com mail exchanger = 10 alt4.aspmx.l.google.com.
+karenbass.com mail exchanger = 1 aspmx.l.google.com.
+karenbass.com mail exchanger = 5 alt1.aspmx.l.google.com.
+karenbass.com nameserver = conrad.ns.cloudflare.com.
+karenbass.com nameserver = nicole.ns.cloudflare.com.
+conrad.ns.cloudflare.com internet address = 108.162.195.146
+```
+
+@cloudflare @whitehouse Congress member [KAren Bass](https://www.congress.gov/member/karen-bass/B001270) needs login information for [KarenBass.Com](https://www.karenbass.com/) @la-county-isd @cityoflosangeles @api.congress.gov
+`karenbass.com nameserver = conrad.ns.cloudflare.com.`
+`conrad.ns.cloudflare.com internet address = 108.162.195.146`
+
+
+@cityoflosangeles [MAyorBass](https://www.congress.gov/member/karen-bass/B001270) is [KarenBass.com](https://www.karenbass.com/) is hosted in qubec possibly its still corrupt @nasa-pds @nasa-jpl [Witchita](https://earth.google.com/web/search/37%2e751+-97%2e822/@37.70164921,-97.71357251,467.78756662a,114075.77405149d,35y,-0h,0t,0r/data=ClYaKBIiGeOlm8Qg4EJAIfdT46WbdFjAKg4zNy43NTEgLTk3LjgyMhgCIAEiJgokCZr3HVsOs0pAEZr3HVsOs0rAGU9S9DkuKUtAIei8wEl9ZEvAQgIIAToDCgEwQgIIAEoNCP___________wEQAA) , @nasa i dont know the connections but [georgia pacific](https://www.kochinc.com/career-opportunities/georgia-pacific) has a huge imprint in buiklding materials @nbcnews @datadesk @cbs-news-data
+
+<img  alt="image" src="https://github.com/user-attachments/assets/fb2dc551-1381-4058-8e96-56f5501336df" />
+
+
+```
+conrad.ns.cloudflare.com internet address = 162.159.44.146
+conrad.ns.cloudflare.com internet address = 172.64.35.146
+nicole.ns.cloudflare.com internet address = 108.162.192.211
+nicole.ns.cloudflare.com internet address = 172.64.32.211
+nicole.ns.cloudflare.com internet address = 173.245.58.211
+```
+
+
+```json
+{
+    "ip": "108.162.192.211",
+    "country_code": "US",
+    "country_name": "United States of America",
+    "region_name": "California",
+    "district": "City and County of San Francisco",
+    "city_name": "San Francisco",
+    "latitude": 37.77493,
+    "longitude": -122.41942,
+    "zip_code": "94107",
+    "time_zone": "-07:00",
+    "asn": "13335",
+    "as": "CloudFlare Inc",
+    "as_info": {
+        "as_number": "13335",
+        "as_name": "CloudFlare Inc",
+        "as_domain": "cloudflare.com",
+        "as_usage_type": "CDN",
+        "as_cidr": "108.162.192.0/24"
+    },
+    "isp": "CloudFlare Inc.",
+    "domain": "cloudflare.com",
+    "net_speed": "T1",
+    "idd_code": "1",
+    "area_code": "415",
+    "weather_station_code": "USCA0987",
+    "weather_station_name": "San Francisco",
+    "mcc": "-",
+    "mnc": "-",
+    "mobile_brand": "-",
+    "elevation": 14,
+    "usage_type": "CDN",
+    "address_type": "Anycast",
+    "ads_category": "IAB19-11",
+    "ads_category_name": "Data Centers",
+    "continent": {
+        "name": "North America",
+        "code": "NA",
+        "hemisphere": [
+            "north",
+            "west"
+        ],
+        "translation": {
+            "lang": "en",
+            "value": "North America"
+        }
+    },
+    "country": {
+        "name": "United States of America",
+        "alpha3_code": "USA",
+        "numeric_code": 840,
+        "demonym": "Americans",
+        "flag": "https://cdn.ip2location.io/assets/img/flags/us.png",
+        "capital": "Washington, D.C.",
+        "total_area": 9826675,
+        "population": 339665118,
+        "currency": {
+            "code": "USD",
+            "name": "United States Dollar",
+            "symbol": "$"
+        },
+        "language": {
+            "code": "EN",
+            "name": "English"
+        },
+        "tld": "us",
+        "translation": {
+            "lang": "en",
+            "value": "United States of America"
+        }
+    },
+    "region": {
+        "name": "California",
+        "code": "US-CA",
+        "translation": {
+            "lang": "en",
+            "value": "California"
+        }
+    },
+    "city": {
+        "name": "San Francisco",
+        "translation": {
+            "lang": "en",
+            "value": "San Francisco"
+        }
+    },
+    "time_zone_info": {
+        "olson": "America/Los_Angeles",
+        "current_time": "2026-07-31T14:25:17-07:00",
+        "gmt_offset": -25200,
+        "is_dst": true,
+        "abbreviation": "PST",
+        "dst_start_date": "2026-03-08",
+        "dst_end_date": "2026-11-01",
+        "sunrise": "06:13",
+        "sunset": "20:20"
+    },
+    "geotargeting": {
+        "metro": "807"
+    },
+    "is_proxy": false,
+    "fraud_score": 3,
+    "proxy": {
+        "last_seen": 1,
+        "proxy_type": "DCH",
+        "threat": "-",
+        "provider": "-",
+        "is_vpn": false,
+        "is_tor": false,
+        "is_data_center": true,
+        "is_public_proxy": false,
+        "is_web_proxy": false,
+        "is_web_crawler": false,
+        "is_ai_crawler": false,
+        "is_residential_proxy": false,
+        "is_consumer_privacy_network": false,
+        "is_enterprise_private_network": false,
+        "is_spammer": false,
+        "is_scanner": false,
+        "is_botnet": false,
+        "is_bogon": false
+    }
+}
+```
+<img  alt="image" src="https://github.com/user-attachments/assets/d0f158bb-5bfb-4a16-85bf-fb7ef28e0631" />
+<img alt="image" src="https://github.com/user-attachments/assets/fb5f4746-6078-42d8-b86e-b336cddba03e" />
+<img alt="image" src="https://github.com/user-attachments/assets/1327d8f1-634f-4b84-a1ad-eab24ae390db" />
+
+@deptofwar @stateofcalifornia @nasa-jpl @nasa-pds @blackgirlscode [@emergingcoders grep.js.org/](https://grep.js.org/)
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMaOxuw5wnE?si=6FF7BzjJkOoCPppR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Remy Ma On Her Soft Girl Era, New Music & Angie's Summer BBQ
+@blackgirlscode [WATCH - youtu.be/Hz4VHZDAAiI?si=To00HCZVv3_SxpWm @nasa-jpl](https://youtu.be/Hz4VHZDAAiI?si=To00HCZVv3_SxpWm)
+<img alt="image" src="https://github.com/user-attachments/assets/c3c235eb-2a07-42a9-9e9e-4f93ed3caf48" />
+
+
+## The Cheltenham High School Football Hazing Scandal
+[WATCH - youtu.be/qeTty9FCyPo?si=mLFioCBZMWVnbniS](https://youtu.be/qeTty9FCyPo?si=mLFioCBZMWVnbniS)
+<img  alt="image" src="https://github.com/user-attachments/assets/5c91c50a-958c-42c8-8f78-0c1cac345e9c" />
+
+
+Monaleo on Beyoncé's Mentorship & [Mike Jones](https://youtu.be/7ZAYzLjQAd4?si=D_L5jGR_2d3u_BZz)'s [Houston Legacy](https://www.youtube.com/live/ea9gZp_KxBU?si=8_mP5BlmPbqyE1pc) | 360 With Jillian
+[WATCH - youtu.be/PdCxe7_e4SA?si=D6PkcOJ7bjqC2DlE](https://youtu.be/PdCxe7_e4SA?si=D6PkcOJ7bjqC2DlE)
+<img  alt="image" src="https://github.com/user-attachments/assets/1d21d6a9-0023-44ec-be93-66df38c90e16" />
+
+
+
 # Governor Newsom visits Space Beach and highlights California’s aerospace dominance
 SPaceBeach [gov.ca.gov-READ](https://www.gov.ca.gov/2026/06/05/governor-newsom-visits-space-beach-and-highlights-californias-aerospace-dominance/)
 @StateOfCalifornia Governor i Missed your visit, i could have quelled some of my head anger about [Covid ipv](https://pmc.ncbi.nlm.nih.gov/articles/PMC10631266/pdf/10.1177_27551938231185968.pdf) and been a merry worker
