@@ -12,7 +12,7 @@ permalink: /virtiserv
 
 ## THE HEALTH EFFECTS OF
 # CoNDUCTED ENERGY WEAPONS
-
+@la-county-isd @canada-ca
 [ @spaceexplorationtechnologies https://youtu.be/krZhzn-Pe-g?is=uWHElbzmzLiw87wR](https://youtu.be/krZhzn-Pe-g?is=uWHElbzmzLiw87wR)
 
 [ @cityoflosangeles KARENBASS - HOLLYMitchell @la-county-isd prisonpolicy.org/scans/council_canadian_academics/The%20Health%20Effects%20of%20Conducted%20Energy%20Weapons.pdf](https://www.prisonpolicy.org/scans/council_canadian_academics/The%20Health%20Effects%20of%20Conducted%20Energy%20Weapons.pdf)
