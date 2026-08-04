@@ -10,6 +10,51 @@ permalink: /virtiserv
 
 
 
+
+![https://us.embassyeritrea.org/wp-content/uploads/2020/06/er270.png @nasa-jpl @deptofwar @whitehouse ](https://us.embassyeritrea.org/wp-content/uploads/2020/06/er270.png)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Seminar for Participants in Eritrean Community Festival in US<br><br>Mr. Yosuf Saiq, Head of Organizational Affairs of the PFDJ, conducted a seminar for participants at the 52nd Eritrean Community Festival in the United States.<br><br>Noting that the unity and values nurtured by the Eritrean… <a href="https://t.co/q86KWHq46V">pic.twitter.com/q86KWHq46V</a></p>&mdash; Ministry of Information, Eritrea (@shabait) <a href="https://x.com/shabait/status/2084683255790575952?ref_src=twsrc%5Etfw">August 4, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+ 
+[https://globaledge.msu.edu/global-resources/resource/4584](https://globaledge.msu.edu/global-resources/resource/4584) @howard-university-web-=services
+[https://shabait.com/](https://shabait.com/)
+[https://www.interpol.int/en/Who-we-are/Member-countries/Africa/ERITREA](https://www.interpol.int/en/Who-we-are/Member-countries/Africa/ERITREA)
+[https://www.state.gov/countries-areas/eritrea](https://www.state.gov/countries-areas/eritrea) // [https://us.embassyeritrea.org/](https://us.embassyeritrea.org/) // [https://www.eritrea.be/old/eritrea-government.htm](https://www.eritrea.be/old/eritrea-government.htm) // [https://www.comesa.int/state-of-eritrea/](https://www.comesa.int/state-of-eritrea/) // [https://mojeritrea.net/](https://mojeritrea.net/)
+
+
+
+
+
+# "The Whole World Is On Fire": The Global [Wildfire Outbreak](https://ecostress.jpl.nasa.gov/wildfire_gallery)
+@howard-university-web-services 
+[WATCH - youtube.com/watch?v=K45NFimZq1Q](https://www.youtube.com/watch?v=K45NFimZq1Q)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/88a4ab8a-6038-436a-b9b5-9c3db21920fe" />
+
+[ATHARA - https://hydroviewer.geoglows.org/#lon=38.90&lat=16.24&zoom=11.00&definition=](https://hydroviewer.geoglows.org/#lon=38.90&lat=16.24&zoom=11.00&definition=) // [Eritrea, Africa's Hermit Kingdom - in a Nutshell](https://suetravels.com/africa/eritrea/eritrea-africas-hermit-kingdom-in-a-nutshell/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/2bc6d6ab-bd38-43bc-bd2b-66404042e3f4" />
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/0b9c53cb-e79f-4283-9fe5-075040cf1ffb" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/7cd0386b-0d93-4594-8b37-2a9e94ef2a2c" />
+
+## GRACE FO Soil Moisture Within Continental United States: Monitoring Drought
+[ReadMore](https://svs.gsfc.nasa.gov/5574/) 
+
+_Gravity Recovery and Climate Experiment (GRACE)_ [info @nasa](https://sealevel.nasa.gov/missions/grace)
+[ice loss](https://svs.gsfc.nasa.gov/31166/)
+[<video controls poster="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005574/gws.01000_print.jpg" src="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005574/gws.mp4" />](https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005574/gws.mp4)
+
+
+
+## GRACE Groundwater Anomalies
+
+![https://apps.geoglows.org/grace-groundwater/geoglows-logo-nav.png](https://apps.geoglows.org/grace-groundwater/geoglows-logo-nav.png)
+[@nasa-openscapes @nasa-jpl firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,country-outline,noaa20_crtc,earth;@-117.1,42.8,6.4z](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,country-outline,noaa20_crtc,earth;@-117.1,42.8,6.4z) / 
+
+
+
 ## THE HEALTH EFFECTS OF
 # CoNDUCTED ENERGY WEAPONS
 @la-county-isd @canada-ca
