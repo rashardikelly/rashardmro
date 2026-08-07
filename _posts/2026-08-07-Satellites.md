@@ -11,6 +11,90 @@ permalink: /Satellites
 # Rashard Kelly NasaJpl MRO JUNO iSS
 
 
+![https://www.ssl.berkeley.edu/wp-content/uploads/2026/02/SSL-horizontal-logo-768x54.png](https://www.ssl.berkeley.edu/wp-content/uploads/2026/02/SSL-horizontal-logo-768x54.png)
+@BerkeleyLab Escapade b is talking under [**ESCB**]() [@RocketLAb](https://rocketlabcorp.com/missions/escapade/)
+
+
+SPACECRAFT
+[_NAME_](https://archive.org/details/internetarcadeturbo):ESCAPADE Blue
+```
+RANGE
+-
+ROUND-TRIP LIGHT TIME
+-
+ANTENNA NAME
+DSS 35
+ACTIVITY
+Spacecraft Telemetry, Tracking, and Command
+AZIMUTH
+43 deg
+ELEVATION
+20 deg
+WIND SPEED
+0 km/hr
+
+MODE
+-
+```
+
+```
+UP SIGNAL
+SOURCE
+ESCAPADE BLUE
+FREQUENCY BAND
+X
+POWER TRANSMITTED
+0.2 kW
+
+DOWN SIGNAL
+SOURCE
+ESCAPADE BLUE
+FREQUENCY BAND
+X
+DATA RATE
+8.000 kb/sec
+POWER RECEIVED
+-120 dBm(1.0 x 10-18 kW)
+```
+
+![https://advancedspace.com/wp-content/uploads/2025/10/IPA-169x300.webp @lmco @boeing @fbicyber @usnavy](https://advancedspace.com/wp-content/uploads/2025/10/IPA-169x300.webp) 
+
+[science.nasa.gov/mission/escapade/](https://science.nasa.gov/mission/escapade/)
+**ESCAPADE** will use two identical spacecraft to investigate how the solar wind interacts with Mars’ magnetic environment and how this interaction drives the planet’s atmospheric escape. Mars has a hybrid magnetosphere that consists of an induced magnetic field (resulting
+from the solar wind’s interaction with the charged particles in Mars’ upper atmosphere. Satisfying NASA’s policies for planetary protection... [ESCAPADE will help](https://advancedspace.com/escapade/) establish a new pathway for high-capability scientific missions at a fraction of the cost of previous Mars orbiters. [Read more @emergingcoders @blackgirlscode](https://assets.science.nasa.gov/content/dam/science/missions/escapade/ESCAPADE%20Fact%20Sheet.pdf) [](https://advancedspace.com/escapade/)// **[ESCAPADE PressKit REVISED]** 
+[@cityoflosangeles @blackgirlscode  youtube.com/watch?v=CeVloJdLYms](https://www.youtube.com/watch?v=CeVloJdLYms) <~ I think his heart was broken too over covid @nasa-jpl @cityoflosangeles @blackgirlscode [Mars Escapade FactSheet @nasa-pds `PDF`](https://assets.science.nasa.gov/content/dam/science/missions/escapade/ESCAPADE%20Fact%20Sheet.pdf) // [Mars Escapade PRESSKiT @cbs-news-data @newshour @foratlanta `PDF`](https://assets.science.nasa.gov/content/dam/science/missions/escapade/ESCAPADE%20Fact%20Sheet.pdf) // [Springer nature https://link.springer.com/article/10.1007/s11214-025-01184-4?fromPaywallRec=false](https://link.springer.com/article/10.1007/s11214-025-01184-4?fromPaywallRec=false) // [`LAUNCHCOVERAGE` - @howard-university-web-services svs.gsfc.nasa.gov/14918/](https://svs.gsfc.nasa.gov/14918/) // [`SSL Berkeley's ESCAPADE Website` - ssl.berkeley.edu/projects/escapade/](https://www.ssl.berkeley.edu/projects/escapade/) // [_Unraveling Cause and effect in Mars’ hybrid magnetosphere_ escapade.ssl.berkeley.edu/](https://escapade.ssl.berkeley.edu/) // [@NASA ’s Second ESCAPADE Spacecraft Completes Trajectory Maneuver](https://science.nasa.gov/blogs/escapade/2026/01/07/nasas-escapade-spacecraft-completes-trajectory-maneuver/)
+
+
+## ESCAPADE Trajectory Animations
+Released Thursday, November 13, 2025
+[Vanessa Thomas sound black @blackgirlscode](https://svs.gsfc.nasa.gov/search/?people=Vanessa%20Thomas)
+[<video controls poster="https://svs.gsfc.nasa.gov/vis/a010000/a014900/a014915/14915_DeepSpaceTransferView1_4K_H264.00360_print.jpg" src="https://svs.gsfc.nasa.gov/vis/a010000/a014900/a014915/14915_DeepSpaceTransferView1_4K_H264.mp4" />](https://svs.gsfc.nasa.gov/vis/a010000/a014900/a014915/14915_DeepSpaceTransferView1_4K_H264.mp4)
+
+
+![https://escapade.ssl.berkeley.edu/wp-content/uploads/2024/01/cropped-ESCAPADE-Logo_Color_Partial.png](https://escapade.ssl.berkeley.edu/wp-content/uploads/2024/01/cropped-ESCAPADE-Logo_Color_Partial.png)
+
+
+<img  alt="image @nasa-jpl @cityoflosangeles @blackgirlscode  https://eyes.nasa.gov/apps/dsn-now/dsn.html" src="https://github.com/user-attachments/assets/e86e0bbc-3ee2-49db-a177-b09ebcf874e1" />
+
+
+# TRACERS
+A satellite mission led by the University of Iowa to study the mysterious, powerful interactions between the magnetic fields of the Sun and Earth. [@uiowa - @nasa-openscapes @nasa-giss _Tracers.physics.uiowa.edu_/](https://tracers.physics.uiowa.edu/) // [`TRACERS (Tandem Reconnection and Cusp Electrodynamics Reconnaissance Satellites)` eoportal.org/satellite-missions/tracers](https://www.eoportal.org/satellite-missions/tracers)
+![https://tracers.physics.uiowa.edu/sites/tracers.physics.uiowa.edu/files/styles/square__768_x_768/public/2024-11/TracersPatch_update_v2.png?h=29c33e67&itok=W2GlikGa](https://tracers.physics.uiowa.edu/sites/tracers.physics.uiowa.edu/files/styles/square__768_x_768/public/2024-11/TracersPatch_update_v2.png?h=29c33e67&itok=W2GlikGa) // [`HELiODATA` helio.data.nasa.gov/mission/TRACERS](https://helio.data.nasa.gov/mission/TRACERS) // 
+![https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo.svg](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo.svg)
+
+[tiktok.com/discover/lana-harris-quit](https://www.tiktok.com/discover/lana-harris-quit)
+Jul 20, 2026 — Join us as Lana Harris bids farewell to Atlanta News First, sharing heartfelt moments and gratitude with her team. A touching goodbye! 46 Like
+
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@lanajharris/video/7496589297793994026" data-video-id="7496589297793994026" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@lanajharris" href="https://www.tiktok.com/@lanajharris?refer=embed">@lanajharris</a> <p>You guys 🥹🥹🥹 this was officially my last show at ANF and they gave me a goodbye 😭 Rick!! My partner in crime and the steady voice beside me day in and day out, there are no words for how deeply I appreciated this 🥹. I’m going to miss you (and your humor)!! I cannot believe my producer Jasmin made that happen, you are a QUEEN, thank you! Court I love that your voice was in it too lol, and Carol I can’t thank you enough for catching the BTS. You guys made that so special 😊. This team at Atlanta News First and my city will always have the biggest place in my heart ❤️</p> <a target="_blank" title="♬ original sound - Lana Harris | News Updates" href="https://www.tiktok.com/music/original-sound-7496589380245818155?refer=embed">♬ original sound - Lana Harris | News Updates</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+
+![https://helio.data.nasa.gov/static/media/heliodata-logo-cropped-3.4f6afdd9b8a0c5fab4b8.png](https://helio.data.nasa.gov/static/media/heliodata-logo-cropped-3.4f6afdd9b8a0c5fab4b8.png) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e17b54d2-939c-4e77-8c3d-0722f0815336" />
+
+<iframe src="https://archive.org/embed/arcade_starblad" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+![https://images.launchbox-app.com/8ebe8c97-0b06-4bfb-b91d-1261711c5b1a.png](https://images.launchbox-app.com/8ebe8c97-0b06-4bfb-b91d-1261711c5b1a.png)
 
 @nasa-pds Hi i did a github account for [that acountant i met](facebook.com/thevirtiservway/) back in atlanta. And in working to clear my self of the issues from covid lockdown gossip i saw that its still helpdesk! @nasa-jpl @blackgirlscode i cannot be contained in any building and need unblocked internet @la-county-isd @cityoflosangeles @StateOfCalifornia
 
