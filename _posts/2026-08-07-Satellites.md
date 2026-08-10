@@ -40,6 +40,7 @@ POWER RECEIVED-120 dBm(1.0 x 10-18 kW)
 
 ![https://space.gov.ae/app_themes/lg21016/images/emm2english.jpg](https://space.gov.ae/app_themes/lg21016/images/emm2english.jpg)
 
+![https://space.gov.ae/app_themes/lg21016/images/ae-logo.png](https://space.gov.ae/app_themes/lg21016/images/ae-logo.png)
 
 ![https://www.ssl.berkeley.edu/wp-content/uploads/2026/02/SSL-horizontal-logo-768x54.png](https://www.ssl.berkeley.edu/wp-content/uploads/2026/02/SSL-horizontal-logo-768x54.png)
 @BerkeleyLab Escapade b is talking under [**ESCB**]() [@RocketLAb](https://rocketlabcorp.com/missions/escapade/)
