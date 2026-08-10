@@ -24,6 +24,28 @@ permalink: /lagroundwater
  -   [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
  -   [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL)
 
+
+<img alt="LOSangelesWaterBooksnacReport-16" src="https://github.com/user-attachments/assets/c53f11a9-a6bb-4bb8-b33e-6af2adb44dcc" />
+<img alt="LOSangelesWaterBooksnacReport-17" src="https://github.com/user-attachments/assets/ef3d9e39-9217-4bc8-996c-9c92866d6706" />
+<img  alt="LOSangelesWaterBooksnacReport-02 @nasa-jpl arroyo second springs @la-county-isd @cityoflosangeles @stateofcalifornia" src="https://github.com/user-attachments/assets/b32e9817-ee87-4e6d-9b3a-c0463df99d42" />
+
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/739e77a0-f73e-4a18-ad59-e1a8cbd7f30b" />
+
+<img alt="LOSangelesWaterBooksnacReport-20 @nasa-jpl arroyo second springs @la-county-isd @cityoflosangeles @stateofcalifornia" src="https://github.com/user-attachments/assets/5cfbe6c6-c3ad-4224-b0bd-753c8372b758" />
+<img alt="LOSangelesWaterBooksnacReport-05" src="https://github.com/user-attachments/assets/3a6e272f-99ab-40d0-8b20-25151dbc50e1" />
+
+<img  alt="LOSangelesWaterBooksnacReport-07 Pershing square @nasa-jpl arroyo second springs @la-county-isd @cityoflosangeles @stateofcalifornia" src="https://github.com/user-attachments/assets/351e7790-878a-4b3b-898f-f8fc8ea22e02" />
+<img   alt="imag @blackgirlscode e" src="https://github.com/user-attachments/assets/d4e7d021-e7e4-439a-8318-269304a1ce0b" />
+
+<img alt="LOSangelesWaterBooksnacReport-16" src="https://github.com/user-attachments/assets/20543074-0bef-404d-ad09-32b86c8164a4" />
+<img  alt="LOSangelesWaterBooksnacReport-15" src="https://github.com/user-attachments/assets/27b91a2d-aac4-451b-a4a6-59000a5d74a3" />
+<img alt="LOSangelesWaterBooksnacReport-12" src="https://github.com/user-attachments/assets/62863740-93a7-4631-a908-ef84c6cd9268" />
+<img  alt="LOSangelesWaterBooksnacReport-21" src="https://github.com/user-attachments/assets/cccaacb0-0dc2-4cac-b8a2-614ecdf87e5d" />
+
+
+
 # ECOSTRESS Tiled Evaporative Stress Index PT-JPL Instantaneous L4 Global 70 m V002
 
 
