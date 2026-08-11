@@ -13,6 +13,129 @@ mathjax: true
 ## Rashard Kelly 
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
+
+[Margo Williams - God Save And Protect All The Children](https://www.youtube.com/watch?v=yz19n4eS3eQ) // [Margo Williams - The Guardian Angel Is Watching over Us](https://www.youtube.com/watch?v=yz19n4eS3eQ) // [That's the Joint · Funky 4 + 1](https://youtu.be/OKbPzGUihG0?si=5xFaEopQGxmLuoB5) // [Leflaur Leflah - Eshkoshka](https://youtu.be/XjxyDx5e6mw) // [What A Nigga Know? · KMD](https://youtu.be/iAnTEJaoF7E) // 
+[Handsome Boy Modeling School - Waterworld](https://youtu.be/zLXlR-t0yCY) // [Beat Bop - Rammellzee & K-Rob](https://youtu.be/plppmDdAhHk?list=RDplppmDdAhHk) // [Fearless Four - Rockin iT](https://youtu.be/vUTXithL09s?si=IYkY-HG0hyXwNmwh) // [Spoonie Gee meets The Sequence - Monster Jam](https://youtu.be/wNaNkprYtZk?list=RDwNaNkprYtZk) // [9th Wonder - Digable Planets](https://youtu.be/UtpIUCL6N5s?si=L6kbzQ-8Hwgdwp1V) // [Goodie Mob - Dirty South feat MysticaL](https://youtu.be/vXvPpmVb_2E?si=o_pGvETeh0Bvfd77) // [B.i.G - Everyday Struggle](https://youtu.be/Uz5o4EjCNLg?si=uoftWclV-nFud0aX) // [B.i.G - TheWHaT](https://youtu.be/HkwCtYVv3QQ?si=jtWJrCdEmo_ux3cZ) // [Xecutioners - Mad Flava ](https://youtu.be/P9E_p538Slc?list=RDP9E_p538Slc) // [DJ Premier - 8 Steps To Perfection [Company Flow]](https://youtu.be/2oauAL695-s?list=RD2oauAL695-s) // [[Akinyele - in the world](https://youtu.be/XB0JYe84fvg?si=MdxidYuMuRgyBXKG)] // [MEDINA GREEN feat. MOS DEF - FLA LA LASHE`](https://youtu.be/ozmTTdcDVcI?si=tqM75puTWGh6GWnz) // [
+Scritti Politti ft. Mos Def - Tinseltown To The Boogiedown (Psycho Les Variation)](https://youtu.be/li20WVCTppE?list=RDli20WVCTppE) // [Gotta Get Up (Another Day) - Jill Scott @blackgirlscode](https://youtu.be/MpBdK99UgTs?list=RDMpBdK99UgTs) // [Gang Starr – Discipline (ft. Total)](https://youtu.be/1MMHlsxWX2k?list=RD1MMHlsxWX2k) // [Illegal Business · Boogie Down Productions](https://youtu.be/yHeBotnrwEI?list=PLrbFUdbfepXWehxcenrNVr4JRt9K88umc) // [Xzibit - Paparazzi](https://youtu.be/OzxyStrqZCY?list=RDOzxyStrqZCY) // [Notorious BIG - I Got A Story To Tell](https://youtu.be/J9Ri2ahF46w?list=RDJ9Ri2ahF46w) // [TuPAc - Pain](https://youtu.be/Xqa7guhUrRw?si=toPYeUcKf-cWkEn1) // [DMX - No Love For Me](https://youtu.be/9ByYr42I1ww?si=GSDpXUVHxk5JZhrV) // [2nd Childhood · Nas](https://youtu.be/A5nM66F903I?list=OLAK5uy_mm9n9wWQUalehy1-Tg1fgZixhZpokh5Rs) // [JadaKiss - Keep it💯](https://youtu.be/6vmmfkwWmKE?si=A-c-Jpr64Ce1qFr2) // [You've Gotta Believe (Vocal) · Lovebug Starski](https://youtu.be/YcXlDqstZUM?list=RDYcXlDqstZUM) // [Verbal Intercourse (feat. Nas) - Raekwon](https://youtu.be/g4s6QAF5RAY?list=PLB7B802978D1C1305) // [Eric B & Rakim - Mahogany](https://youtu.be/WYNFN1lW8NE?list=RDWYNFN1lW8NE) // [Take It In Blood · Nas](https://youtu.be/pmmnzusZZMU?list=RDpmmnzusZZMU) // [Da Bush Babees feat. Mos Def - The Love Song (1996)](https://youtu.be/s4W7wfFSWCo?list=PL3r1ldjYHlYNcytCizESz0XgqaE4latPT) // [Spoonie Gee - LoveRap](https://youtu.be/cv2ReNgW8I0?si=wlSAbnmrE1N-1hVp) // [Teena Marie - Behind The Groove](https://youtu.be/R6nzSNWTU5Q?list=RDR6nzSNWTU5Q) // [Ghetto Life · Rick James](https://youtu.be/LyrGXnpSlIE?si=F-1-qNhooN4tthc0) // [Bohannon - Save Their Souls](https://youtu.be/DsWFRi5qtfI?list=RDDsWFRi5qtfI) // [Up From the South · The Budos Band](https://youtu.be/rNYUdeG6q4A?list=RDrNYUdeG6q4A) // [AntiBalas - 
+N.E.S.T.A](https://youtu.be/bgeSNTfyQ64?list=RDbgeSNTfyQ64) // [Kurtis Blow - If I Ruled The World (Original 12" Remix)](https://youtu.be/g65kqu8jePA?list=RDg65kqu8jePA) // [Common - Drivin Me Wild](https://youtu.be/WTFbgUEm5sg?list=PLvdPq9CF1n2gRW2oG1oyE1OvteGV1ILGV) // [J.Dilla - Nothing Like This](https://youtu.be/5MqMnM6zbhE?si=QkwDrFgI-JIkPRqr) // [Bahamadia - Rugged Ruff](https://youtu.be/OrYKESic7CI?si=QD-1i6KBnQT3jU1i) // [Dancing Heart · Universal Two](https://youtu.be/YREg1uIKLK4) // [Bonobo - Linked](https://youtu.be/0W-a11Tdk7Y) // [Double Trouble · The Roots](https://youtu.be/AmSUb5H5G0s) // [All Night Long · Common · Erykah Badu](https://youtu.be/G0_1cvD9irs?list=PLHq1QgV3IcgILx_KYhxdZcKJkCvOT0hXi) // [Transit Ride · Guru · Branford Marsalis](https://youtu.be/ZNR2tl6V_uo?list=PLrbFUdbfepXVt9SREDd0a2-k362BCiXtn) // [Groove Theory - ComeHome](https://youtu.be/MAz6QaL3Z8g?si=CFNfZyHm0cvGbdmb)
+
+
+@nasa-pds @nasa-jpl rovercheck [roc@jpl.nasa.gov](mailto:roc@jpl.nasa.gov)
+<img  alt="ezgif com-gif-maker" src="https://github.com/user-attachments/assets/b6bf9f83-5577-49d8-943b-d121127c3d3a" />
+<img   alt="ezgif com-gif-maker (1)" src="https://github.com/user-attachments/assets/7659d376-b9b3-45ad-95cc-9cbe18a2232d" />
+
+# 7.4 Magnitude Earthquake: 
+The Devastating Reality in [Colombia](https://firms.modaps.eosdis.nasa.gov/map/#m:advanced;d:2026-08-04..2026-08-05,7days;l:fires_landsat_landsat,fires_modis_aqua,fires_modis_terra,fires_viirs_noaa20,fires_viirs_noaa21,fires_viirs_snpp,cement_plants,gas_flares=2023,gi_steel_plants,mineral_resources,nonferrous_metal,petro_chemical,power_biomass,power_coal,power_gas,power_geothermal,power_hydro,power_oil,power_other,power_solar,power_storage,power_wind,sta_detections,sta_mask,steel_plants,countries,landsat_human,noaa20_snow,hlsl30-nbr2,hlss30-nbr2,earth;@-73.6,4.0,8.9z) Right Now [WATCH](https://youtu.be/y4JV3OinUAE)
+<img   alt="image" src="https://github.com/user-attachments/assets/5ef49701-24ef-4462-86c9-8a1ef1383498" />
+
+[earthquake.usgs.gov/earthquakes/map/?currentFeatureId=us6000tjl2&extent=-13.5392,-93.91113&extent=23.72501,-81.21094&range=month&magnitude=significant&showPopulationDensity=true&showUSFaults=true&showUSHazard=true&baseLayer=terrain&settings=true](https://earthquake.usgs.gov/earthquakes/map/?currentFeatureId=us6000tjl2&extent=-13.5392,-93.91113&extent=23.72501,-81.21094&range=month&magnitude=significant&showPopulationDensity=true&showUSFaults=true&showUSHazard=true&baseLayer=terrain&settings=true)
+
+<img alt="image" src="https://github.com/user-attachments/assets/316578de-efb1-4d80-9c50-fcbd9fe2f634" />
+
+## M 7.4 - 5 km S of San José del Palmar, Colombia
+## _Earthquake Hazards Program_ [@usgs](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2/executive) 
+[earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2/executive](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2/executive)
+@usgs her report is a day off @nasa-pds @la-county-isd @blackgirlscode @howard-university-web-services i hope this is not a romance scam @disney [BreakTionary Vol4 sideA @blackgirlscode](https://youtu.be/hXrkvXlOhnk)
+[earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2/map](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2/map)
+<img   alt="image" src="https://github.com/user-attachments/assets/a5ad0641-3acf-406c-a3e7-270e3c790347" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/c623b085-3359-4a51-b297-52b317ab8147" />
+
+[@nasa-pds themis.asu.edu/maps](https://themis.asu.edu/maps)
+![https://www.mars.asu.edu/images/header_global.jpg](https://www.mars.asu.edu/images/header_global.jpg)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6d130fd5-4be8-4316-b93e-0a81018e3b62" />
+
+[firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,country-outline,viirs_crtc,earth;@-73.4,2.5,6.3z](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,country-outline,viirs_crtc,earth;@-73.4,2.5,6.3z) @emergingCoders @howard-university-web-services @blackgirlscode [Breaktionary Vol.2 Side A](https://youtu.be/6aiEYhl3CZU?si=7lS9aLQ99T9Pw4-V)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/7a73c3d2-ed77-48c1-8cc0-ff4fff948f73" />
+
+![@nasa-jpl @cityoflosangeles d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/full_width/public/thumbnails/image/USGS_logo_green_SQUARE.png](https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/full_width/public/thumbnails/image/USGS_logo_green_SQUARE.png)
+
+![https://gpm.nasa.gov/themes/custom/pmm_bs/images/gpm-title-large-v1.png](https://gpm.nasa.gov/themes/custom/pmm_bs/images/gpm-title-large-v1.png)
+
+# RAIN Global Viewer
+Regional Animations of IMERG in Near-realtime - Global Edition
+[HOMEPAGE - gpm.nasa.gov/data/visualizations/rain-global](https://gpm.nasa.gov/data/visualizations/rain-global) 
+[WEBAPP - storm.pps.eosdis.nasa.gov/storm/outreach/RAIN-Global2.html](https://storm.pps.eosdis.nasa.gov/storm/outreach/RAIN-Global2.html)
+RainGLOBAL2DEMO_RAshardKELLY_NASA_JPLEARTHDATA_4lanajharrisReporterVirtiservKARENBASSrexRichardsonSPACEBEACH124244 @nasa-jpl @cityoflosangeles
+<img alt="image" src="https://github.com/user-attachments/assets/278028a8-4c5e-46c7-932c-5e11159ef103" />
+
+[<video controls loading="lazy" poster="https://gpm.nasa.gov/themes/custom/pmm_bs/images/nasa-logo-large-v1.png" src="https://archive.org/download/longbeach_202605/ScreenRecording2026-08-11RainGLOBAL2DEMO_RAshardKELLY_NASA_JPLEARTHDATA_4lanajharrisReporterVirtiservKARENBASSrexRichardsonSPACEBEACH124244.mp4" />](https://archive.org/download/longbeach_202605/ScreenRecording2026-08-11RainGLOBAL2DEMO_RAshardKELLY_NASA_JPLEARTHDATA_4lanajharrisReporterVirtiservKARENBASSrexRichardsonSPACEBEACH124244.mp4)
+<img alt="image" src="https://github.com/user-attachments/assets/fdbb2e9b-8f14-49e8-a58e-1c06f1ab6072" />
+
+
+ # Live 🔴 Starlink 17-49 Mission : [WATCH - youtube.com/](https://www.youtube.com/live/VOJEo-GhcTc?si=4u8PNxPRZh_BTPx3)
+ [SpaceX Launch](https://www.spacex.com/launches/sl-17-49)es 24 Satellites from [Vandenberg](https://www.vandenberg.spaceforce.mil/), [@StateOfCalifornia](https://leginfo.legislature.ca.gov/faces/codesTOCSelected.xhtml?tocCode=CONS&tocTitle=+California+Constitution+-+CONS) [WATCH - https://www.youtube.com/live/VOJEo-GhcTc?si=4u8PNxPRZh_BTPx3](https://www.youtube.com/live/VOJEo-GhcTc?si=4u8PNxPRZh_BTPx3)
+ [spacex.com/launches/sl-17-49 @hulu](https://www.spacex.com/launches/sl-17-49)   //// [A Tribe Called Quest - I Left My Wallet In El Segundo](https://youtu.be/WILyWmT2A-Q) 
+ [WATCH - @CiTYoFLOSANGELES Regular City Council - 8/11/26](https://youtu.be/QePVCuF0iAY)
+
+ @nasa-jpl we have a launch from the spaceforce base tonight,
+ @nasa-pds i wanna add that to skywatching reports for the night 
+
+>Countdown
+```shell
+Hr/Min/Sec	Event
+00:38:00	SpaceX Launch Director verifies go for propellant load
+00:35:00	RP-1 (rocket grade kerosene) loading begins
+00:35:00	1st stage LOX (liquid oxygen) loading begins
+00:16:00	2nd stage LOX loading begins
+00:07:00	Falcon 9 begins engine chill prior to launch
+00:01:00	Command flight computer to begin final prelaunch checks
+00:01:00	Propellant tank pressurization to flight pressure begins
+00:00:45	SpaceX Launch Director verifies go for launch
+00:00:03	Engine controller commands engine ignition sequence to start
+00:00:00	Falcon 9 liftoff
+```
+
+
+ @cbs-news-data @nbcnews @newshour @r-spacex @SpaceExplorationTechnologies
+ @longBeachInnovationTeam @CityOfLosAngeles
+ @La-county-isd @LAcountyDPH @Disney @voyager-tech-inc
+<img   alt="image" src="https://github.com/user-attachments/assets/7df48e63-d3b9-4e6d-8ba0-e74b194a68a2" />
+![https://sxcontent9668.azureedge.us/cms-assets/assets/F9_AUTONOMOUS_DRONESHIP_DESKTOP_8c25a9a0ca.webp](https://sxcontent9668.azureedge.us/cms-assets/assets/F9_AUTONOMOUS_DRONESHIP_DESKTOP_8c25a9a0ca.webp)
+![https://sxcontent9668.azureedge.us/cms-assets/assets/NROL_179_Vertical_7403_Desktop_8109ec98e8.jpg](https://sxcontent9668.azureedge.us/cms-assets/assets/NROL_179_Vertical_7403_Desktop_8109ec98e8.jpg) 
+
+
+
+![https://ethiopianembassy.org/wp-content/uploads/2023/05/LOGO-embassy2.png @cityoflosangeles @stateofcalifornia @foratlanta](https://ethiopianembassy.org/wp-content/uploads/2023/05/LOGO-embassy2.png)
+[ethiopianembassy.org/](https://ethiopianembassy.org/) // [advocacy4oromia.org/article/three-types-of-oromo-marriage/](https://advocacy4oromia.org/article/three-types-of-oromo-marriage/) // [ethiopia.me.uk/the-institution-of-marriage-and-cultural-practices-among-the-oromo-people-of-ethiopia/](https://ethiopia.me.uk/the-institution-of-marriage-and-cultural-practices-among-the-oromo-people-of-ethiopia/) // [curateoromia.com/protocols-of-a-traditional-oromo-marriage-proposal/](https://curateoromia.com/protocols-of-a-traditional-oromo-marriage-proposal/) // [paukwa.or.ke/story-series/kerites/marriage-rites/oromo-marriage-rites/](https://www.paukwa.or.ke/story-series/kerites/marriage-rites/oromo-marriage-rites/) ... The Culture and Custom of Oromo: The marriage ceremonies practiced through Hawadii and kadhaa focus on Guji Oromo, south eastern Oromi - [PDF](https://www.researchgate.net/publication/403066659_The_Culture_and_Custom_of_Oromo_The_marriage_ceremonies_practiced_through_Hawadii_and_kadhaa_focus_on_Guji_Oromo_south_eastern_Oromia)
+
+![https://usercontent.one/wp/www.waaqeffannaa.com/wp-content/uploads/2016/07/Doc44.jpg?media=1784363936](https://usercontent.one/wp/www.waaqeffannaa.com/wp-content/uploads/2016/07/Doc44.jpg?media=1784363936)
+
+[waaqeffannaa.com/the-borana-oromo-marriage-system/](https://www.waaqeffannaa.com/the-borana-oromo-marriage-system/) 
+
+![https://web.mfa.gov.so/wp-content/uploads/2024/05/english-header-logo.png](https://web.mfa.gov.so/wp-content/uploads/2024/05/english-header-logo.png)
+
+[web.mfa.gov.so/contact-us/](https://web.mfa.gov.so/contact-us/)
+
+![https://us.embassyeritrea.org/wp-content/uploads/2020/06/er270.png @nasa-jpl @deptofwar @whitehouse ](https://us.embassyeritrea.org/wp-content/uploads/2020/06/er270.png)
+
+
+![https://gpm.nasa.gov/themes/custom/pmm_bs/images/gpm-title-large-v1.png](https://gpm.nasa.gov/themes/custom/pmm_bs/images/gpm-title-large-v1.png)
+
+# [Royce White](https://www.basketball-reference.com/players/w/whitero03.html) In The [WNBA](https://www.foxnews.com/outkick-sports/dijonai-carrington-who-declared-white-privilege-after-ejection-suspended-wnba-foul-fever-star): Are We Watching?
+[Watch - https://youtu.be/VBs98ADcwV4?t=130](https://youtu.be/VBs98ADcwV4?t=130) /// [Ex-Stanford player takes shot at Enes Kanter, Royce White amid unreal WNBA claim - nypost.com](https://nypost.com/2026/08/09/sports/robin-lopez-takes-shot-at-enes-kanter-royce-white-amid-unreal-wnba-claim/)
+<img  alt="image @nfl @foratlanta @cityoflosangeles 
+Royce White In The WNBA: Are We Watching? https://youtu.be/VBs98ADcwV4?t=130 " src="https://github.com/user-attachments/assets/548e17be-d05b-49c8-a20b-4ad8512bc4a6" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/fdbb2e9b-8f14-49e8-a58e-1c06f1ab6072" />
+
+
+## Ethiopia’s Al-Nahda Dam and Its Political and Climate Impacts
+Constructing dams especially on rivers that run through other countries has been always conflicting, because it confronts downstream countries with water crisis and environmental population, and climate change. 
+[ipis.ir/en/newsview/636410/ethiopia%E2%80%99s-al-nahda-dam-and-its-political-and-climate-impacts](https://ipis.ir/en/newsview/636410/ethiopia%E2%80%99s-al-nahda-dam-and-its-political-and-climate-impacts)
+
+in my @nasa @webex a user is doing research on this dam @doug-newman-nasa . . . @blackgirlscode keep the governemtn in the llop incase its a buyout @emergingcoders 
+
+![https://ipis.ir/files/mfaipisen/newspics/498976258Sad%20Alnehza.jpg](https://ipis.ir/files/mfaipisen/newspics/498976258Sad%20Alnehza.jpg)
+<img  alt="image" src="https://github.com/user-attachments/assets/23873a57-790b-437d-95d7-07b184193d7a" />
+# 10day Gauge Calib @nasa-jpl
+Time Averaged Map of Random Error for multi-satellite precipitation with climatological gauge calibration - Late Run half-hourly 0.1 deg. [GPM GPM_3IMERGHHL v07] mm/hr
+<img alt="GIOVANNI-outputiANSw89M" src="https://github.com/user-attachments/assets/cc749bfa-7560-40ad-b7a4-7f2a57884d0f" />
+
+
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="@nasa-jpl @la-county-isd @cityoflosangeles @stateofcalifornia @nasa-giss @usatoday @newshour @United States Of America" />
 
 
