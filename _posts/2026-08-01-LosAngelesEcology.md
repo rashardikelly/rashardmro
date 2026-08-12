@@ -24,6 +24,14 @@ date:   2026-08-01 0:51:06
  -   [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
  -   [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL)
 
+# losangeles_gov [link](https://archive.org/details/mayor-1_losangeles_gov/mayor-2.png)
+Scans by Rashard Iman Kelly [link](https://archive.org/details/mayor-1_losangeles_gov/mayor-2.png) ++ [@virtiserv .github.io/`losangeles`](https://virtiserv.github.io/losangeles)
+
+[@la-county-isd youtube.com/@CountyofLosAngelesNewsroom](https://www.youtube.com/@CountyofLosAngelesNewsroom)
+![https://dn721807.ca.archive.org/0/items/mayor-1_losangeles_gov/mayor1-1.png](https://dn721807.ca.archive.org/0/items/mayor-1_losangeles_gov/mayor1-1.png)
+
+
+<img src="https://github.com/user-attachments/assets/b32e9817-ee87-4e6d-9b3a-c0463df99d42" alt="LOSangelesWaterBooksnacReport-02 @nasa-jpl arroyo second springs @la-county-isd @cityoflosangeles @stateofcalifornia"/>
 
 # Nitrogen Dioxide (L3, Vertical Column Troposphere, Subdaily) (PROVISIONAL) [[link](https://www.earthdata.nasa.gov/data/catalog/larc-cloud-tempo-no2-l3-nrt-v02)]
 ### What is the troposphere?
