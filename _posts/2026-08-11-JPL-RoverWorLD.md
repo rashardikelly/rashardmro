@@ -8,6 +8,65 @@ author: "RashardKelly @nasa-jpl"
 ---
 
 
+
+# MADRID DEEP SPACE COMMUNICATIONS COMPLEX
+## _MDSCC_ @nasa-jpl
+[https://www.mdscc.nasa.gov/index.php/en/dss-55-2/](https://www.mdscc.nasa.gov/index.php/en/dss-55-2/)
+Carretera de Colmenar del Arroyo a Robledo de Chavela Km 7, M-531
+28294 Robledo de Chavela
+Madrid, España
+Phone: (+34) 918677000
+Visitor Centre Phone: (+34) 918677321 / (+34) 918677312
+GPS Coordinates: +40° 25′ 47.33″, -4° 14′ 56.57″
+@nasa-pds ~> ROC@jpl.nasa.gov something is wrong madrid is not showing any data transfer and dish55 is marked as testing  @doug-newman-nasa @whitehouse @USnavy @BLACKGiRLSCODE @Howard-University-Web-Services @EmergingCoders
+[The Lady In The Bottle  I Dream Of Jeannie s1e1 @emergingcoders ](https://www.youtube.com/watch?v=F41Y37XTZck)
+
+<object class="scroller" width="auto" height="auto" data="https://eyes.nasa.gov/apps/dsn-now/dsn.html" type="text/html" ></object>
+
+<img  alt="image" src="https://github.com/user-attachments/assets/28b15312-e35e-4899-9eeb-01794f0500e4" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/71ab3120-a66c-4507-a74a-ddec74b9d448" />
+<img  alt="image" src="https://github.com/user-attachments/assets/a8d75902-5406-4b30-a079-a45952ce80cb" />
+
+<img  alt="ezgif  @nbcnews @cbs-news-data @foxnews @nasa-pds Sol 4936 @nasa-openscapes @nasa-giss @emergingcoders @disney @nasa @whitehouse @dhs-gov @commercegov  com-gif-maker (5)" src="https://github.com/user-attachments/assets/4914a7c8-5738-434c-8bdd-a06e16742b88" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/031f6f69-93bf-46fd-a3b8-2f5e5e7b87ab" />
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A127431138&color=%23daa795&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/cigarette-brandy-2011" title="Cigarette - Brandy (new unreleased song)" target="_blank" style="color: #cccccc; text-decoration: none;">Cigarette - Brandy (new unreleased song)</a></div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A369774536&color=%23442424&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/um211" title="Brandy" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy</a> · <a href="https://soundcloud.com/um211/brandy-sirens" title="Sirens (feat. Timbaland)" target="_blank" style="color: #cccccc; text-decoration: none;">Sirens (feat. Timbaland)</a></div>
+
+<img   alt="ezgif com-resize @nbcnews @cbs-news-data @foxnews @nasa-pds Sol 4936 @nasa-openscapes @nasa-giss @emergingcoders @disney @nasa @whitehouse @dhs-gov @commercegov" src="https://github.com/user-attachments/assets/39458a63-a658-4bc2-a342-e88ae7d8d895" />
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/98930be4-cd62-4141-99eb-de4775b8e1ec" />
+
+<img   alt="ezgif com-gif-maker (3) @nasa-pds Sol 4936 @nasa-openscapes @nasa-giss @emergingcoders " src="https://github.com/user-attachments/assets/d50994ff-2470-43b9-866a-0350642bf04e" />
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A345066952&color=%2396a86b&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/rico_nasty" title="RICO NASTY" target="_blank" style="color: #cccccc; text-decoration: none;">RICO NASTY</a> · <a href="https://soundcloud.com/rico_nasty/key-lime-og-1" title="Key Lime OG" target="_blank" style="color: #cccccc; text-decoration: none;">Key Lime OG</a></div>
+
+# 60,000 Migrants Storm Spain: A Coordinated Stunt? 
+ The Lana Rundown [Watch - youtu.be/fKkpEO4JxKg?si=Kr0MREf9ktOhhG36](https://youtu.be/fKkpEO4JxKg?si=Kr0MREf9ktOhhG36)
+<img  alt="imag @emergingcoders @blackgirlscode @nasa-jpl @whitehouse " src="https://github.com/user-attachments/assets/2b720e0f-62aa-4dc1-bb8e-01474dc9699a" />
+
+<img   alt="ezgif com-gif-maker (2) @nasa-pds @la-county-isd @nasa-jpl @blackgirlscode @emergingCoders " src="https://github.com/user-attachments/assets/4ad4d54b-6b25-4b84-af8b-2359be316f4f" />
+
+
+### Mars Science Laboratory: Curiosity Raw Images [Link](https://mars.nasa.gov/msl/multimedia/raw-images/?order=sol+desc%2Cinstrument_sort+asc%2Csample_type_sort+asc%2C+date_taken+desc&per_page=50&page=0&mission=msl&af=NAV_LEFT_A%7CNAV_LEFT_B%2C%2C%2C)
+<img  alt="image" src="https://github.com/user-attachments/assets/390beee8-0de3-4156-938f-7c4b4c3cb796" />
+
+
+
+## Cyberattack From Iran? Gaza Deal? Elon Suing For A.I. Nudes?  HOT 97 News 7/31/26 (Special Guest)
+[WATCH - youtu.be/qZ-G5xmNdCI?si=FtVwvCQdfAprZ8ds](https://youtu.be/qZ-G5xmNdCI?si=FtVwvCQdfAprZ8ds)
+<img   alt="image" src="https://github.com/user-attachments/assets/02369dfa-66a2-4a04-9fec-a6b9ed3e1140" />
+
+
+[The Lady In The Bottle  I Dream Of Jeannie s1e1 @emergingcoders ](https://www.youtube.com/watch?v=F41Y37XTZck)
+
+
 @esa @usgs @UKSpaceAgency FOR _CamiLLA& CHarlsThe3rd @alphagov ~ @whitehouse @la-county-isd @JHUAPL @nasa-jpl @nasa-pds [Todays Files - sdo.gsfc.nasa.gov/assets/img/dailymov/2026/04/28/20260428_1024_0171.mp4](sdo.gsfc.nasa.gov/assets/img/dailymov/2026/04/28/20260428_1024_0171.mp4)
 <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/014d9711-eb18-4df4-b6c4-6c33334d0d08" />
 
