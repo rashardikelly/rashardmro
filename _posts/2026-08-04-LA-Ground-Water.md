@@ -25,6 +25,51 @@ permalink: /lagroundwater
  -   [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL)
 
 
+[Drift · Bonobo](https://youtu.be/LHZ8OD8paIM?si=HmaVp2A3eDAgWkcP) // [Run The Jewels - Oh My Darling](https://youtu.be/G-S9mtYowPY) // [Infamous Date Rape · A Tribe Called Quest](https://youtu.be/8tchKEI4F5s?si=wlu3QU57SSRc1Iwo) // [Cold Gettin Dumb · Just-Ice](https://youtu.be/bqiZP-XY1mE?si=Xjs4nXjNrtwnGEN6)
+
+
+# Los Angeles CityHAll
+@la-county-isd @cityofsantamonica [santamonicacoalition-shop.fourthwall.com/ @cityofsandiego](https://santamonicacoalition-shop.fourthwall.com/)
+![https://imgproxy.fourthwall.dev/kzregtQfVpycrnQ9QD5noRk5nuEXe2PlCQSDDvpwgQA/w:1920/sm:1/enc/jz3eKwsclr1Gohqh/OrwA_MR4CD0rUYD3/vY1MKpRoux11buHj/KYCd41c8LFge2he0/2Xgp5uLTmInOwWcd/ZYPy8jC7sKDmeFhP/lzD5y8AUuLXtVF4f/ZjmdJRALDKdsQOBx/iQyXWYxM2vksNm7S/m9583pTT33ceu1G7/8-irlv_g6OJTK_WL/enijle8f3MDaaK8Z/-Ol9-9zZi6-R0Vi8/P24YbXngsfkExzQc/i1rOyPpmx_o_-bkd/HNBFmmBhf3vpNRyo.jpg](https://imgproxy.fourthwall.dev/kzregtQfVpycrnQ9QD5noRk5nuEXe2PlCQSDDvpwgQA/w:1920/sm:1/enc/jz3eKwsclr1Gohqh/OrwA_MR4CD0rUYD3/vY1MKpRoux11buHj/KYCd41c8LFge2he0/2Xgp5uLTmInOwWcd/ZYPy8jC7sKDmeFhP/lzD5y8AUuLXtVF4f/ZjmdJRALDKdsQOBx/iQyXWYxM2vksNm7S/m9583pTT33ceu1G7/8-irlv_g6OJTK_WL/enijle8f3MDaaK8Z/-Ol9-9zZi6-R0Vi8/P24YbXngsfkExzQc/i1rOyPpmx_o_-bkd/HNBFmmBhf3vpNRyo.jpg)
+
+![https://cdn.loc.gov/images/img-head/logo-loc.png](https://cdn.loc.gov/images/img-head/logo-loc.png)
+[waterandpower.org/Museum2/Los_Angeles_City_Hall_1928.html](https://waterandpower.org/Museum2/Los_Angeles_City_Hall_1928.html)
+Los Angeles City Hall - Building a Civic Landmark
+Completed in 1928, Los Angeles City Hall was built to announce that the city had come of age. Rising above the Civic Center with a bold central tower, it symbolized confidence, growth, and belief in the future. At a time when Los Angeles was still shaping its identity, City Hall became both a working government building and a visual statement of civic pride. Its construction, dedication, and long presence on the skyline reflect how Los Angeles saw itself and how it wanted the world to see it. - [waterandpower.org](waterandpower.org) ++++++++ [@LibraryOfCongress](https://www.loc.gov/pictures/search/?q=Photograph:%20ca1261&fi=number&op=PHRASE&va=exact&co%20=hh&st=gallery&sg%20=%20true) // [laconservancy.org/learn/historic-places/`los-angeles-city-hall`/](https://www.laconservancy.org/learn/historic-places/los-angeles-city-hall/) // [N.W.A., King Tee, Ice-T, MC Hammer, Tone-Loc, etc. - `We're All In The Same Gang` (Official Video)](https://youtu.be/Pmg6c0PASYk)
+<img  alt="image" src="https://github.com/user-attachments/assets/a80da248-5b07-49d5-a15c-4a995f44fd61" />
+
+![https://i0.wp.com/martinturnbull.com/wp-content/uploads/2025/09/Los-Angeles-City-Hall-under-construction-downtown-Los-Angeles-1927.jpg](https://i0.wp.com/martinturnbull.com/wp-content/uploads/2025/09/Los-Angeles-City-Hall-under-construction-downtown-Los-Angeles-1927.jpg)
+![https://waterandpower.org/Historical%20Photos%202/City_Hall_Under_Construction_1928.jpg](https://waterandpower.org/Historical%20Photos%202/City_Hall_Under_Construction_1928.jpg)
+![ @La-county-isd DTLA CiTYHALL @CityOfSantaMonica  waterandpower.org/Historical_DWP_Photo_Collection_LA_Public_Library/City_Hall_1927.jpg](https://waterandpower.org/Historical_DWP_Photo_Collection_LA_Public_Library/City_Hall_1927.jpg)
+![https://waterandpower.org/F%20Historic%20Photos%20F/City_Hall_Construction.jpg](https://waterandpower.org/F%20Historic%20Photos%20F/City_Hall_Construction.jpg)
+![https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca1200/ca1261/photos/012137pv.jpg](https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca1200/ca1261/photos/012137pv.jpg)
+![https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca4300/ca4341/photos/393148pv.jpg](https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca4300/ca4341/photos/393148pv.jpg)
+![@La-county-isd DTLA CiTYHALL @CityOfSantaMonica https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca1200/ca1261/photos/322300pv.jpg](https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca1200/ca1261/photos/322300pv.jpg)
+![https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca1200/ca1261/photos/322450pv.jpg](https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca1200/ca1261/photos/322450pv.jpg)
+![@La-county-isd DTLA CiTYHALL @CityOfSantaMonica](https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca1200/ca1261/color/570068cv.jpg)
+
+
+# Zanja Madre: LA's Original Aqueduct
+@CityOfLosAngeles 
+Before the Los Angeles Aqueduct, before Mulholland, and long before imported water transformed the city, Los Angeles depended on a simple earthen ditch known as the Zanja Madre, or Mother Ditch.
+Built soon after the founding of the pueblo in 1781, the Zanja Madre carried water from the Los Angeles River to the Plaza, homes, vineyards, orchards, and fields of early Los Angeles. For more than a century, this open ditch and the network of zanjas that grew from it served as the city’s first water system.
+This page traces the story of the Zanja Madre through historic maps, photographs, archaeological discoveries, and surviving remnants that still connect modern Los Angeles to its earliest source of life and growth. [ @la-county-isd @Cityoflosangeles waterandpower.org/museum/Zanja%20Madre%20(Original%20LA%20Aqueduct).html](https://waterandpower.org/museum/Zanja%20Madre%20(Original%20LA%20Aqueduct).html)
+ 
+![https://waterandpower.org/Historical_DWP_Photo_Collection_LA_Public_Library/Woman_Carrying_water_jug_Olvera.jpg (n.d.)^ - Woman carrying a water jar from the fountain at Olvera Street.](https://waterandpower.org/Historical_DWP_Photo_Collection_LA_Public_Library/Woman_Carrying_water_jug_Olvera.jpg)
+![https://waterandpower.org/Historical%20Photos%202/Zanja_Madre_Map_1860s.jpg](https://waterandpower.org/Historical%20Photos%202/Zanja_Madre_Map_1860s.jpg)
+![https://waterandpower.org/5%20Historic%20Photos%205/Zanja_Madre_Map2.jpg](https://waterandpower.org/5%20Historic%20Photos%205/Zanja_Madre_Map2.jpg)
+
+
+## Los Angeles County Water System Governance Map
+[@nasa-jpl github.com/lciwaterprojects](https://github.com/lciwaterprojects)
+[lciwaterprojects.github.io/lacwatergovmap/](https://lciwaterprojects.github.io/lacwatergovmap/)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/5b9f1596-f688-4037-8e2f-021447a6ce16" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/5d05db11-8ed0-4b87-8c55-077c17fd4606" />
+
+<img alt="LOSangelesWaterBooksnacReport-16" src="https://github.com/user-attachments/assets/c53f11a9-a6bb-4bb8-b33e-6af2adb44dcc" />
+
 <img alt="LOSangelesWaterBooksnacReport-16" src="https://github.com/user-attachments/assets/c53f11a9-a6bb-4bb8-b33e-6af2adb44dcc" />
 <img alt="LOSangelesWaterBooksnacReport-17" src="https://github.com/user-attachments/assets/ef3d9e39-9217-4bc8-996c-9c92866d6706" />
 <img  alt="LOSangelesWaterBooksnacReport-02 @nasa-jpl arroyo second springs @la-county-isd @cityoflosangeles @stateofcalifornia" src="https://github.com/user-attachments/assets/b32e9817-ee87-4e6d-9b3a-c0463df99d42" />
