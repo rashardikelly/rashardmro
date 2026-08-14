@@ -11,6 +11,60 @@ author: "RashardKelly @nasa-jpl"
 # [Mars](https://youtu.be/SKlbDtWYHJk) Exploration Program
 NASA's Mars Exploration Program includes current missions Odyssey, MRO, Mars Express, MSL, InSight, and Mars 2020 [READMORE](https://pds-geosciences.wustl.edu/missions/mep/index.htm)
 
+[Aesop Rock - Zero Dark Thirty](https://youtu.be/Dbd4h1kaFlY?si=7wDWXWn0JGz4GFot) // [Aesop Rock - Daylight](https://youtu.be/lGeaQnqA7sg?si=nqw1wVyln0jDcaQQ) // [Time MAchine - The Way Things Are](https://youtu.be/5YMYrB0dqoU?si=gew0ZogAItYp5n1A) // [Rico Nasty - CDG Foams](https://youtu.be/I0aNF5KOgtI) // [The Smashing Pumpkins Mellon Collie and the `Infinite Sadness` Disk 1 Track 6](https://youtu.be/E7CtsE52NKw?si=cBFe2IEh6JeE8oTW) // [Hooverphonic - Barabas](https://youtu.be/SYaIakuWg-g?list=PLPaztBWnatcjJCKhFViYFT85-con_Y3u6) // [Prince Paul - More than U Know](https://youtu.be/NU25K1tgmEY?si=ieGjCEgGdK-wp2ce) // [2Pac - So Many Tears ](https://youtu.be/1Z52-lIZMbQ) // [10% dis - MC_LYTE](https://youtu.be/VMgaItHsmsE?si=aUy2ZApixwjdubEd) // [The Arsonist - Worlds Collide `FatBeatsMAilOrder`](https://youtu.be/tXat2xl0Rl0?si=2Y9tBY8G87A2BItP) // [Selamawit Yohannes - Yebleni'loo | የብለኒ'ሎ ](https://youtu.be/z59hc7RcbDA)
+
+## HOT 97 News Live! 8/14/26
+[WATCH - @whitehouse @blackgirlscode @deptofwar youtu.be/t3x5NQ3Q1Y8](https://youtu.be/t3x5NQ3Q1Y8)
+<img   alt="Screenshot 2026-08-14 4 52 09 PM" src="https://github.com/user-attachments/assets/bc20bbf8-dd2f-4823-aa2b-4d2f7b837d9a" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/2940f8f7-1edc-4112-a546-bff82be8f334" />
+
+
+![https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/resources/detail_files/2/5/25069_MarsPerseverance-Launch-Red-Circle-Logo-Black-Text-Stacked-web.jpg](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/resources/detail_files/2/5/25069_MarsPerseverance-Launch-Red-Circle-Logo-Black-Text-Stacked-web.jpg) 
+
+# Mars Perseverance Sol 1949: WATSON Camera
+## @DeptOfWar @Nasa-JPL MARS
+
+NASA's Mars Perseverance rover acquired this image using its SHERLOC WATSON camera, located on the turret at the end of the rover's robotic arm.
+This image was acquired on Aug. 14, 2026 (Sol 1949) at the local mean solar time of 16:02:20.
+Image Credit: NASA/JPL-Caltech
+
+![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01949/ids/edr/browse/ncam/NLF_1949_0839966080_758ECM_N0910000NCAM00501_01_295J01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01949/ids/edr/browse/ncam/NLF_1949_0839966080_758ECM_N0910000NCAM00501_01_295J01_1200.jpg)
+![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01949/ids/edr/browse/shrlc/SIF_1949_0839975067_089EBY_N0910000SRLC00624_0000LMJ01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01949/ids/edr/browse/shrlc/SIF_1949_0839975067_089EBY_N0910000SRLC00624_0000LMJ01_1200.jpg)
+![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01949/ids/edr/browse/fcam/FLF_1949_0839974809_570ECM_N0910000FHAZ00206_01_295J01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01949/ids/edr/browse/fcam/FLF_1949_0839974809_570ECM_N0910000FHAZ00206_01_295J01_1200.jpg)
+![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01949/ids/edr/browse/shrlc/SIF_1949_0839974768_167EBY_N0910000SRLC02500_0000LMJ01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01949/ids/edr/browse/shrlc/SIF_1949_0839974768_167EBY_N0910000SRLC02500_0000LMJ01_1200.jpg)
+![https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/resources/detail_files/2/5/25068_MarsPerseverance-Launch-Red-Circle-Logo-Black-Text-Side-Stacked-web.jpg](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/resources/detail_files/2/5/25068_MarsPerseverance-Launch-Red-Circle-Logo-Black-Text-Side-Stacked-web.jpg)
+
+
+# [ChatGPT](https://academy.openai.com/public/clubs/work-users-ynjqu/resources/chatgpt-basics) Murder, [ICE](https://www.usa.gov/agencies/u-s-immigration-and-customs-enforcement) Set Up & [Billionaire Tax](https://yeson40.com/?gad_source=1&gad_campaignid=24117437929&gbraid=0AAAABC2lkj3vDByHPjnUHK0FZdSNSpcYd&gclid=Cj0KCQjw-frTBhCvARIsADv4XY4Bg_GNkjJoXzk1N9TLGK1LSCe3q4qNJuPVZbj48mGrBYefsquv4SQaAmkvEALw_wcB)
+_The Daily Drop [WATCH - youtube.com/watch?v=kyToT8z8sBw&t=120s](https://www.youtube.com/watch?v=kyToT8z8sBw&t=120s)_
+[github.com/openai/openai-cookbook](https://github.com/openai/openai-cookbook) // [ChatGPT fundamentals - academy.openai.com](https://academy.openai.com/public/clubs/work-users-ynjqu/resources/chatgpt-basics) // [56Video -  `ChatGPT Training` Tutorials for Beginners - youtube.com/playlist?list=PLzj7TwUeMQ3ilCcONHUt1v73pImAmMlBh](https://www.youtube.com/playlist?list=PLzj7TwUeMQ3ilCcONHUt1v73pImAmMlBh) @blackgirlscode @nasa-pds @deptofwar @commercegov
+
+| Domain Name | NS | TTL | 
+|-------------|----|-----|
+| ice.gov | raina.ns.cloudflare.com. | 21600 | 
+| ice.gov | max.ns.cloudflare.com. | 21600 | 
+
+<img alt="image" src="https://github.com/user-attachments/assets/859d8b5b-7b8a-4f49-bfa8-b30bad2b620a" />
+
+@nasa-jpl @cityoflosangeles can someone forward this to [PanamaPeteHegseth @cbs-news-data @usatoday](https://www.southcom.mil/MEDIA/NEWS-ARTICLES/Article/4573743/southcom-mission-shifts-to-protecting-sovereignty-of-us-partner-nations/) ??? 
+[🗺️PAnama Resivoirs, settlements Thermal Anomolies Areosol Index @NOAAgov🗺️](https://worldview.earthdata.nasa.gov/?v=-89.73224177801501,2.76367768792345,-71.75449080308687,11.612101995895898&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,VIIRS_NOAA21_Thermal_Anomalies_375m_All,VIIRS_SNPP_Thermal_Anomalies_375m_All,MODIS_Combined_Thermal_Anomalies_All,GRUMP_Settlements,GRanD_Reservoirs,GRanD_Dams,VIIRS_NOAA20_Aerosol_Type_Deep_Blue_Land_Ocean,VIIRS_NOAA21_DayNightBand,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2026-08-14-T21%3A17%3A59Z)
+[`https://go.nasa.gov/4qmZSvs` - MAP_LiNK @USNAVY @NASA-JPL @BLACkGiRLSCODE ](https://go.nasa.gov/4qmZSvs)
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/0f848588-cd80-4fb2-bd84-9f5b2a9b5bfa" />
+
+
+We acknowledge the use of imagery from the NASA Worldview application (https://worldview.earthdata.nasa.gov), part of the NASA Earth Science Data and Information System (ESDIS). @nasa-openscapes @emit-sds
+### wiki : United States invasion of Panama @whitehouse @deptofwar [TALK](https://en.wikipedia.org/wiki/Talk:United_States_invasion_of_Panama) // [Wiki](https://en.wikipedia.org/wiki/United_States_invasion_of_Panama)
+<img  alt="image" src="https://github.com/user-attachments/assets/ee1269fc-d06e-4044-9133-10f84778cbc0" />
+
+
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A143375291&color=%23abbf69&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/djmekalek" title="djmekalek" target="_blank" style="color: #cccccc; text-decoration: none;">djmekalek</a> · <a href="https://soundcloud.com/djmekalek/time-machine-the-way-things-1" title="Time Machine - The Way Things Are" target="_blank" style="color: #cccccc; text-decoration: none;">Time Machine - The Way Things Are</a></div>
+
+
 [NaginCox](mailto:nagincox@outlook.com) @nasa-jpl I was try to email an update that curiosity was talking in [Goldstone](mailto:goldstonevc@jpl.nasa.gov) and my @protonmail @android client kept dropping connections sending me back to draft @blackgirlscode 
 
 ![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/a533ee6e-228a-42ff-9695-8d04d31fb0d7)
