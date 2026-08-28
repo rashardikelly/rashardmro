@@ -8,7 +8,7 @@ image: losangelesecostreess.png
 author: "RashardKelly @nasa-jpl"
 mathjax: true
 categories: LA eco ecostress space dsn nsn climate weather
-date:   2026-08-01 0:51:06 
+date:   2026-08-28 0:51:06 
 ---
 
 <picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
@@ -26,6 +26,38 @@ date:   2026-08-01 0:51:06
 
 # losangeles_gov [link](https://archive.org/details/mayor-1_losangeles_gov/mayor-2.png)
 Scans by Rashard Iman Kelly [link](https://archive.org/details/mayor-1_losangeles_gov/mayor-2.png) ++ [@virtiserv .github.io/`losangeles`](https://virtiserv.github.io/losangeles)
+
+
+<img  alt="image-2" src="https://github.com/user-attachments/assets/e8b12356-f203-4720-a1fd-27ef0e556752" />
+
+@nasa-jpl @nasa-openscapes @landsat can we get [this cleaner](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=16.80/-13158249.22/4002665.69&layers=aqv_chla_20260825_sentinel:1.00:0.00:30.00:default) @ESA its a great practice spot! there is a lot of [biomass](https://www.earthdata.nasa.gov/maap-biomass/) hi @blackgirlscode @cityoflosangeles @howard-university-web-services
+<img   alt="image" src="https://github.com/user-attachments/assets/a12f2bd3-4d71-4fd6-b3d3-09a7f87da730" />
+
+@eosdis-nasa  @usgs @la-county-isd hi here is the spot I p[pulled the vegetation samples from, someone hurt me bad in the library 
+[https://search.earthdata.nasa.gov/search?lat=33.80437529320976&long=-118.20526301958586&overlays=placeLabels&zoom=18.470427907788203](https://search.earthdata.nasa.gov/search?lat=33.80437529320976&long=-118.20526301958586&overlays=placeLabels&zoom=18.470427907788203)
+<img alt="image" src="https://github.com/user-attachments/assets/8b835d4a-b245-45d4-8526-522be0e3252a" />
+<img  alt="image-4" src="https://github.com/user-attachments/assets/bddb157d-24ce-423e-9c01-5b5c7df83eec" />
+
+@eosdis-nasa  @usgs @la-county-isd this is the plant that expands and contracts, to someone far off it could be mistaken for a [Harmful Algal Bloom](https://svs.gsfc.nasa.gov/14648/)
+<img   alt="image @eosdis-nasa  @usgs @la-county-isd (1)-2" src="https://github.com/user-attachments/assets/668ad58b-2a6a-44e5-966e-90af24e188ee" />
+
+[https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=19.73/-13158570.98/4003704.95](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=19.73/-13158570.98/4003704.95)
+<img  alt="image" src="https://github.com/user-attachments/assets/486e7c85-37dc-405f-b5df-37f31db3c92a" />
+
+<img  alt="image-6" src="https://github.com/user-attachments/assets/727e961f-4aa4-492a-8064-16f6152114a1" />
+
+//  [Grandmaster Melle Mel ‎- White Lines (Don't Don't Do It) (Official Video)](https://youtu.be/DwRXI-y6M9o) // [My Melody · Eric B. & Rakim](https://youtu.be/8n8BvELP2y0) // [No Happy Holidays · Mary J. Blige](https://youtu.be/WFK_UgYGofo) // [Tommy Wright III & Princess Loko & Mac T-Dog - Still Pimpin](https://youtu.be/3W2jLb7AM3s) // [The Man Right Chea · Mystikal](https://youtu.be/CPcGQy61uBc) // [I Always Feel Like... · Tru @Cia @nasa-jpl](https://youtu.be/8zr-v8RWQ1U) // [How Ya Do Dat · Young Bleed · Master P · C-Loc](https://youtu.be/eWZKXGGJo_k) / [Juvenile - Ha](https://youtu.be/Ww9VlmXKYgs?list=RDEMoWfBgYdaTPG6hYP290Ekxw)
+
+---
+
+
+## Daddy O - "Played Out" OFFICIAL MUSIC VIDEO
+[WATCH - youtu.be/uABHh5OGQHs](https://youtu.be/uABHh5OGQHs)
+@CBSLA i was just chillin and had some downtime, and wanted to freely play with some ideas and @TommyBoyRecords
+ daddyo took over, all them girls was passing through O4w and i was jubbling my daughter @blackgirlscode how did i lose her @keishaforga you support prostituion and the @Deptofwar says its illegal and pandering  @chloebaileywashere i cant sit in the same room with you im hurt man you did your shit and im just mentioning @Chrisbrowntv bc he prolly know him bc his cousin know him @disney
+•  ........ @nasa-pds this song scary @hot97 @lanajharris . . @repkarenbass @nasa-pds @NASAJPL tommy wright had a cutlaass or a chevy and was scared of my father figure religiously!!!! @SupervisorHollyJMitchell @CountyofLosAngelesNewsroom
+<img  alt="image" src="https://github.com/user-attachments/assets/d27c9205-890c-48de-9b32-944cf9e2ff10" />
+
 
 [@la-county-isd youtube.com/@CountyofLosAngelesNewsroom](https://www.youtube.com/@CountyofLosAngelesNewsroom)
 ![https://dn721807.ca.archive.org/0/items/mayor-1_losangeles_gov/mayor1-1.png](https://dn721807.ca.archive.org/0/items/mayor-1_losangeles_gov/mayor1-1.png)
