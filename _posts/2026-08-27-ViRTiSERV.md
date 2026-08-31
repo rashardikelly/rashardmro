@@ -9,7 +9,6 @@ permalink: /virtiserv
 ---
 
 
-![Uploading ezgif.com-resize.gif…]()
 
 [<video controls loading="lazy"  poster="https://svs.gsfc.nasa.gov/vis/a010000/a013200/a013295/Roman_Spacecraft_360STILL_1.jpg" src="https://svs.gsfc.nasa.gov/vis/a010000/a013200/a013295/13295_Roman_360_Best_1080.mp4" />](https://svs.gsfc.nasa.gov/vis/a010000/a013200/a013295/13295_Roman_360_Best_1080.mp4)
 
@@ -18,7 +17,89 @@ permalink: /virtiserv
 <img alt="image image @nasa-jpl @nasa-pds acquisition sign for our county @la-county-isd Roman Space Telescope DSS 36 DSS 34 @blackgirlscode @howard-university-web-services @usgs @podaac @stateofcalifornia @cityoflosangeles" src="https://github.com/user-attachments/assets/bb8f4a09-6c57-4b1c-80ad-cde4e8d3dd43" />
 <img   alt="image @nasa-jpl @nasa-pds acquisition sign for our county @la-county-isd Roman Space Telescope DSS 36 DSS 34 @blackgirlscode @howard-university-web-services @usgs @podaac @stateofcalifornia @cityoflosangeles" src="https://github.com/user-attachments/assets/821c72a1-05cd-48c5-9ce9-e6d17669dd94" />
 [github.com/usdot](https://github.com/usdot) @usdot @nasa-jpl [@Nasa-Giss to KEnnedy Trip](https://svs.gsfc.nasa.gov/15064/) 
+@nasa-pds mro is transmitting data I will send an email @nasa-jpl 
+<img  alt="image" src="https://github.com/user-attachments/assets/ff7b17e8-6b0e-4d4f-8441-d4aba0bf680a" />
 
+![https://www.cdscc.nasa.gov/Images/Antennas/antennapg_dss34_1.jpg](https://www.cdscc.nasa.gov/Images/Antennas/antennapg_dss34_1.jpg) 
+
+SPACECRAFT
+NAME Mars Reconnaissance Orbiter
+
+RANGE
+-
+
+ROUND-TRIP LIGHT TIME
+-
+
+ANTENNA NAME [DSS 34](https://www.cdscc.nasa.gov/Images/Antennas/antennapg_dss34_1.jpg)
+
+ACTIVITY
+Spacecraft Telemetry, Tracking, and Command
+
+AZIMUTH
+15 deg
+
+ELEVATION
+30 deg
+
+WIND SPEED
+0 km/hr
+
+MODE
+-
+
+UP SIGNAL
+SOURCE
+MARS RECONNAISSANCE ORBITER
+
+FREQUENCY BAND
+X
+
+POWER TRANSMITTED
+0.0 x 100 kW
+
+DOWN SIGNAL
+SOURCE:MARS RECONNAISSANCE ORBITER
+
+FREQUENCY BAND X
+
+DATA RATE 1.500 Mb/sec
+
+POWER RECEIVED -120 dBm (1.0 x 10-18 kW)
+<img alt="image" src="https://github.com/user-attachments/assets/d6944058-9585-43dd-9ebd-64b35ad4c0ff" />
+
+
+Mars Reconnaissance Orbiter Launch Press Kit
+[Download - PDF @caltechlibrary](https://assets.science.nasa.gov/content/dam/science/psd/mars/downloadable_items/4/4/44746_mro-launch.pdf?emrc=6a95ee5e626ab) 
+![https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/resources/detail_files/2/4/24894_mro-launch-web.jpg @cityoflosangeles @nasa-jpl @nasa-pds @blackgirlscode @whitehouse @la-county-isd](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/resources/detail_files/2/4/24894_mro-launch-web.jpg)
+
+![https://upload.wikimedia.org/wikipedia/commons/1/18/Components_of_Mars_Reconnaissance_Orbiter.png](https://upload.wikimedia.org/wikipedia/commons/1/18/Components_of_Mars_Reconnaissance_Orbiter.png) 
+
+![https://i2.wp.com/onlineobservatory.eu/wp-content/uploads/2021/02/M_MRO.png @nasa-pds @howard-university-web-service @nbcnews @disney @hulu](https://i2.wp.com/onlineobservatory.eu/wp-content/uploads/2021/02/M_MRO.png)
+
+![https://upload.wikimedia.org/wikipedia/commons/6/6b/Mars_Reconnaissance_Orbiter_insignia.png](https://upload.wikimedia.org/wikipedia/commons/6/6b/Mars_Reconnaissance_Orbiter_insignia.png) 
+
+![https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png](https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/c18ffd45-1ae6-429c-85ac-bd58c7cf5559" />
+
+![@nasa-pds https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXUN3nV_T1jSYlYgqMnFaFfoeesgZJZlTzQY1R_aCYDrgxyXwy_XAJVeTM&s=10](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXUN3nV_T1jSYlYgqMnFaFfoeesgZJZlTzQY1R_aCYDrgxyXwy_XAJVeTM&s=10) 
+
+# Naked DoorDash Driver, March on Washington & Cheese Ball Spill
+[WATCH - https://youtu.be/ZXL33_MwOYA](https://youtu.be/ZXL33_MwOYA)
+<img alt="image" src="https://github.com/user-attachments/assets/86f830c7-6673-428a-be75-ae18ff6245a0" />
+
+#  "You Are Raising Boys To Be Men That You Don't Want To Be With"
+| Big Facts [WATCH - youtube.com/watch?v=Vi-bEaFKzHc](https://www.youtube.com/watch?v=Vi-bEaFKzHc)
+<img alt="image" src="https://github.com/user-attachments/assets/0e4784ba-dc94-4412-94ef-22b868d7b9f2" />
+
+
+# Nancy Grace Roman_Madrid_DSN [homepage @nasa-giss](https://www.mdscc.nasa.gov/index.php/en/start/)
+@nasa-jpl / @caltech / @ucla  [DSN](https://eyes.nasa.gov/apps/dsn-now/dsn.html) [LRo - Lunar Reconnocince Orbiter @Blackgirlscode @deptofwar](https://pds-geosciences.wustl.edu/missions/lro/) // [Lunar Reconnaissance Orbiter Stories](https://science.nasa.gov/mission/lro/stories/) // [mars.nasa.gov/mars2020/multimedia/raw-images/NRF_1955_0840498681_941ECM_N0910124NCAM03955_07_195J](https://mars.nasa.gov/mars2020/multimedia/raw-images/NRF_1955_0840498681_941ECM_N0910124NCAM03955_07_195J) /// [diviner.ucla.edu/single-post/2016/07/26/extended-mission-3](https://www.diviner.ucla.edu/single-post/2016/07/26/extended-mission-3) // [lroc.im-ldi.com/](https://lroc.im-ldi.com/) // [science.nasa.gov/mission/lro/](https://science.nasa.gov/mission/lro/) ////////// [Björk - Post (1995) Full Album](https://youtu.be/Y0WO2Km-r94?si=SoqIs3Ygg-joRKmV) ~> @[Blackgirlscode @cbs-news-data](https://spaceplace.nasa.gov/dsn-game/en/) /// [insightsonindia.com/2019/10/10/`lunar-reconnaissance-orbiter-lro-3`/ @isro](https://www.insightsonindia.com/2019/10/10/lunar-reconnaissance-orbiter-lro-3/)
+<img  alt="image" src="https://github.com/user-attachments/assets/117e8ed4-aca6-4cf7-96cd-c498ebc69324" />
+
+[hollyjmitchell.com/about](https://www.hollyjmitchell.com/about)
+![https://static.wixstatic.com/media/e870e6_6bc3fd7bdf4d4011a833df88f8671bd9~mv2_d_3104_2960_s_4_2.png/v1/fill/w_350,h_334,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e870e6_6bc3fd7bdf4d4011a833df88f8671bd9~mv2_d_3104_2960_s_4_2.png](https://static.wixstatic.com/media/e870e6_6bc3fd7bdf4d4011a833df88f8671bd9~mv2_d_3104_2960_s_4_2.png/v1/fill/w_350,h_334,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e870e6_6bc3fd7bdf4d4011a833df88f8671bd9~mv2_d_3104_2960_s_4_2.png)
 ![https://svs.gsfc.nasa.gov/vis/a010000/a015000/a015064/YTframe_RomanTRANSPORT_Still.jpg](https://svs.gsfc.nasa.gov/vis/a010000/a015000/a015064/YTframe_RomanTRANSPORT_Still.jpg) 
 Deep Space Station 36 [Read more](https://www.cdscc.nasa.gov/Pages/Antennas/dss36.html) hi @USNAVY idk what a spy is and all there is to do is eavesdrop back this shit is stupid and annoying @whitehouse 
 ![https://www.cdscc.nasa.gov/Images/Antennas/antennapg_dss36_1.jpg](https://www.cdscc.nasa.gov/Images/Antennas/antennapg_dss36_1.jpg)
