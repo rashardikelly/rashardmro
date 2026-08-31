@@ -9,6 +9,1304 @@ permalink: /virtiserv
 ---
 
 
+![Uploading ezgif.com-resize.gif…]()
+
+[<video controls loading="lazy"  poster="https://svs.gsfc.nasa.gov/vis/a010000/a013200/a013295/Roman_Spacecraft_360STILL_1.jpg" src="https://svs.gsfc.nasa.gov/vis/a010000/a013200/a013295/13295_Roman_360_Best_1080.mp4" />](https://svs.gsfc.nasa.gov/vis/a010000/a013200/a013295/13295_Roman_360_Best_1080.mp4)
+
+
+[WATCH - Tracking NASA's Nancy Grace Roman Space Telescope with LIVE view from Space Station](https://www.youtube.com/watch?v=U2Ly0Q-BXqA) //// [youtube.com/@moterworld](https://www.youtube.com/@moterworld)
+<img alt="image image @nasa-jpl @nasa-pds acquisition sign for our county @la-county-isd Roman Space Telescope DSS 36 DSS 34 @blackgirlscode @howard-university-web-services @usgs @podaac @stateofcalifornia @cityoflosangeles" src="https://github.com/user-attachments/assets/bb8f4a09-6c57-4b1c-80ad-cde4e8d3dd43" />
+<img   alt="image @nasa-jpl @nasa-pds acquisition sign for our county @la-county-isd Roman Space Telescope DSS 36 DSS 34 @blackgirlscode @howard-university-web-services @usgs @podaac @stateofcalifornia @cityoflosangeles" src="https://github.com/user-attachments/assets/821c72a1-05cd-48c5-9ce9-e6d17669dd94" />
+[github.com/usdot](https://github.com/usdot) @usdot @nasa-jpl [@Nasa-Giss to KEnnedy Trip](https://svs.gsfc.nasa.gov/15064/) 
+
+![https://svs.gsfc.nasa.gov/vis/a010000/a015000/a015064/YTframe_RomanTRANSPORT_Still.jpg](https://svs.gsfc.nasa.gov/vis/a010000/a015000/a015064/YTframe_RomanTRANSPORT_Still.jpg) 
+Deep Space Station 36 [Read more](https://www.cdscc.nasa.gov/Pages/Antennas/dss36.html) hi @USNAVY idk what a spy is and all there is to do is eavesdrop back this shit is stupid and annoying @whitehouse 
+![https://www.cdscc.nasa.gov/Images/Antennas/antennapg_dss36_1.jpg](https://www.cdscc.nasa.gov/Images/Antennas/antennapg_dss36_1.jpg)
+
+Deep Space Station 34 [Read more](https://www.cdscc.nasa.gov/Pages/Antennas/dss34.html)
+![https://www.cdscc.nasa.gov/Images/Antennas/antennapg_dss34_1.jpg](https://www.cdscc.nasa.gov/Images/Antennas/antennapg_dss34_1.jpg)
+
+
+[Tinashe - Crash Out / Melatonin](https://youtu.be/nMa6XgsRVBQ) // [Grimes - World Princess Part II](https://youtu.be/EOwhuTlxE54) // [@nasa-pds Esperanza Spalding BLACK GOLD](https://youtu.be/_gFp53ATMiI) she know im late for work . . . @LA-County-isd [HollyMitchell](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) //
+[Janet Jackson performing Feedback.© 2008 The Island Def Jam Music Group](https://youtu.be/wU0ucfoBcXM) // [“Scream” by Michael Jackson with Janet Jackson ](https://youtu.be/0P4A1K4lXDo?list=RD0P4A1K4lXDo) // [The Jackson 5The Life Of The Party](https://youtu.be/GXfz4OFV4ik?list=RDGXfz4OFV4ik) // [Ai No Corrida · Quincy Jones · Dune](https://youtu.be/NVTVheyDY4s?si=f1WKE8lSBY9Cq_f-) // [🎼Slippin' Into Darkness · War🎵](https://youtu.be/pBNZevgJH1g?si=gZBR8-4zQkbsYhEJ) // @blackgirlscode [Ain't Gon Let Up · DG Yola](https://youtu.be/PtWZJVJCRhg?si=rNDE3WjIMfTqytGg)
+
+
+
+[https://svs.gsfc.nasa.gov/gallery/roman/](https://svs.gsfc.nasa.gov/gallery/roman/)
+
+<img   alt="EMIT_L1B_RAD_001_20240825T173115_2423811_008 image @nasa-jpl @nasa-pds acquisition sign for our county @la-county-isd Roman Space Telescope DSS 36 DSS 34 @blackgirlscode @howard-university-web-services @usgs @podaac @stateofcalifornia @cityoflosangeles" src="https://github.com/user-attachments/assets/8b5b1096-2094-4689-a17b-d08bbfd3f167" />
+<img   alt="Screenshot 2026-08-31 11 10 00 AM image @nasa-jpl @nasa-pds acquisition sign for our county @la-county-isd Roman Space Telescope DSS 36 DSS 34 @blackgirlscode @howard-university-web-services @usgs @podaac @stateofcalifornia @cityoflosangeles" src="https://github.com/user-attachments/assets/7a76d5bd-7a2b-45ac-9d9b-da2c23790521" />
+
+
+![https://d1nklfio7vscoe.cloudfront.net/s3-2d2df3a34830d5223d1e9547cd713408/lp-prod-public.s3.us-west-2.amazonaws.com/EMITL1BRAD.001/EMIT_L1B_RAD_001_20240825T173115_2423811_008/EMIT_L1B_RAD_001_20240825T173115_2423811_008.png?A-userid=None&Expires=1788200913&Signature=Ux9mM~H0z5olJm6p3O906--o1~W~gZn3EaSlXD8mmbKQ4o0gOMfQDGDY~goFWNUhpcNSdaVXr7Ii2em~FuV-E1P9vr3siKgGvR4a5yNRj9AJs4lUp5sJG~qjP9NQocMytv2iz~82~vp4n4puQmJoM73LYlUNirfdXN2AFQc~8OwFOrIQ1-yE5JD2yB~j4VwzJzi7TBbj6A2Dcw3muWwltGeaSSFj-iUgbslatlC63d~DfFUqlC~R1fStD7ipzZXK53AmAWe~TIDA~cyfKc1DdFsBGcu1USg9E4Bvy-IdpuO-aHPG2DjGFUey4GFIip2~gBgw9APWjbRHjgQHhfqx6A__&Key-Pair-Id=K1JHXLBU4LECA2](https://d1nklfio7vscoe.cloudfront.net/s3-2d2df3a34830d5223d1e9547cd713408/lp-prod-public.s3.us-west-2.amazonaws.com/EMITL1BRAD.001/EMIT_L1B_RAD_001_20240825T173115_2423811_008/EMIT_L1B_RAD_001_20240825T173115_2423811_008.png?A-userid=None&Expires=1788200913&Signature=Ux9mM~H0z5olJm6p3O906--o1~W~gZn3EaSlXD8mmbKQ4o0gOMfQDGDY~goFWNUhpcNSdaVXr7Ii2em~FuV-E1P9vr3siKgGvR4a5yNRj9AJs4lUp5sJG~qjP9NQocMytv2iz~82~vp4n4puQmJoM73LYlUNirfdXN2AFQc~8OwFOrIQ1-yE5JD2yB~j4VwzJzi7TBbj6A2Dcw3muWwltGeaSSFj-iUgbslatlC63d~DfFUqlC~R1fStD7ipzZXK53AmAWe~TIDA~cyfKc1DdFsBGcu1USg9E4Bvy-IdpuO-aHPG2DjGFUey4GFIip2~gBgw9APWjbRHjgQHhfqx6A__&Key-Pair-Id=K1JHXLBU4LECA2) 
+
+
+
+<iframe allow="autoplay" width="100%" height="200" src="https://www.iheart.com/live/kjazz-881-6655?embed=true" frameborder="0"></iframe>
+
+
+<img   alt=" @nasa @cityofsantamonica ECOv002_L3T_JET_45636_005_11SLT_20260723T213955_0713_01_ET" src="https://github.com/user-attachments/assets/c3345983-7d7d-47a1-8f98-aa0a299eb3fe" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ad0524d6-a747-4125-9d5c-70d75d08a7d6" />
+
+
+ [KelpForest @ucla @emit-sds](https://www.jpl.nasa.gov/site/research/media/posters/2023/SP22016p.pdf)
+ @nasa-jpl @podaac @nasa these are samples I pulled in Long Beach, there are levees and a marina so idk how natural the flow is. in @CityOFSantaMonica you can harvest bundles ...... [Veronica Mcgregor](https://youtu.be/arZVDCIC0S4?si=SR41n3Rbj3xdceD2) @SWOT-community I'm behind on my jupyter notebooks the machine beams in on dsn sometimes often nsn ... just saying wassup..
+
+<img  alt="image-5 image @nasa-jpl @nasa-pds acquisition sign for our county @la-county-isd Roman Space Telescope DSS 36 DSS 34 @blackgirlscode @howard-university-web-services @usgs @podaac @stateofcalifornia @cityoflosangeles" src="https://github.com/user-attachments/assets/82b65453-d2b2-40a4-a7f1-53c847c3f3cb" />
+<img  alt="image-6 image @nasa-jpl @nasa-pds acquisition sign for our county @la-county-isd Roman Space Telescope DSS 36 DSS 34 @blackgirlscode @howard-university-web-services @usgs @podaac @stateofcalifornia @cityoflosangeles " src="https://github.com/user-attachments/assets/22d27967-aa5b-42ca-8cf8-0ef2c6fd8beb" />
+<img  alt="image-7" src="https://github.com/user-attachments/assets/2eed93c8-35bb-455f-a9ee-dcccec2ddaa1" />
+<img   alt="image-8" src="https://github.com/user-attachments/assets/3d1087e3-7359-4d50-bcd3-b6dbd5fc3fb3" />
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">And I am incredibly honored to receive it. I share it with followers of <a href="https://x.com/MarsPhoenix?ref_src=twsrc%5Etfw">@MarsPhoenix</a> (the 1st <a href="https://x.com/NASA?ref_src=twsrc%5Etfw">@NASA</a> account!) and <a href="https://x.com/NASASocial?ref_src=twsrc%5Etfw">@NASASocial</a> alumni who brought their passion to our events. <a href="https://t.co/Bqmq7DwiEv">https://t.co/Bqmq7DwiEv</a></p>&mdash; Veronica McGregor (@VeronicaMcG) <a href="https://x.com/VeronicaMcG/status/1443385887400755201?ref_src=twsrc%5Etfw">September 30, 2021</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+
+<img alt="image-9" src="https://github.com/user-attachments/assets/6e038136-c34d-40ca-bb89-cefa5a3294a8" />
+<img  alt="image-1" src="https://github.com/user-attachments/assets/306d9ee3-6bbc-4675-9210-3a0274623a95" />
+<img  alt="image-9" src="https://github.com/user-attachments/assets/d29e4511-b5c2-4be7-89cb-51614cb7cdb1" />
+
+
+
+@Deptofwar ask [Keisha Lance bottoms](https://www.keishaforgovernor.com/bio) what my child upto after i went to [dance411 @foratlanta](https://www.dance411.com/)
+[https://archive.org/details/education-for-death-1943](https://archive.org/details/education-for-death-1943) she used to try to contact me @nasa-pds @nasa-jpl @cityoflosangeles holly j mitchell @blackgirlscode @disney
+<img  alt="image" src="https://github.com/user-attachments/assets/a70e1191-ba07-447b-a5c4-4f0dbbb2da78" />
+
+![https://aviris.jpl.nasa.gov/images/aviris_text2.png](https://aviris.jpl.nasa.gov/images/aviris_text2.png)
+
+ <img   alt=" @StateOfCalifornia @saccounty  @eodis-nasa @nasa-jpl @blackgirlscode AV520250627t202122_013_L1B_RDN_5b9e1cc2_RDN_BROWSE" src="https://github.com/user-attachments/assets/e9fd3e73-5769-41cd-af1e-0f97a4c730d1" />
+ 
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+  
+  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt=" @deptofwar logo @nasa-jpl https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+  
+</picture>
+
+ <img  alt="ECOv002_L3T_JET_45636_005_11SLT_20260723T213955_0713_01_PTJPLSMsoil" src="https://github.com/user-attachments/assets/4e2d67cf-e0d5-44c7-9d55-b145e06102a0" />
+
+## Why NASA’s Roman Space Telescope Will Make Discoveries Scientists Don't Expect
+[WATCH - https://youtu.be/FqZTQA6p7Tc](https://youtu.be/FqZTQA6p7Tc) ++ [🎼Slippin' Into Darkness · War🎵](https://youtu.be/pBNZevgJH1g?si=gZBR8-4zQkbsYhEJ)
+<img   alt="image" src="https://github.com/user-attachments/assets/00640704-6f17-494c-9a63-6f766653a3e2" />
+
+@NASA-PDS ok i messed up again, im mad at your sister... but not im better #VirtiservRashard @NASAJPL @NASAEARTHDATA but still *italics* @LANAJHARRiS i got discouraged because i missed the nancy grace roman launch @repkarenbass https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_016200_016299/ESP_016228_2650/ESP_016228_2650_IRB.NOMAP.browse.jpg <~ @RobinBarnes @chloebaileywashere
+@howarduniversity
+thats some sort of landslid in a coffee table book i found at central and we are supposed to treack those things, and you all hurt me making miss the dark matter telescope launch you .,.. none of you know how a technical person that is physically inthe world acts or feels and you hurt me alot!!! thats all  @michelleobama @lapubliclibrary
+@hot97 @Lanajharris
+
+
+[@nasa-pds  hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_016200_016299/ESP_016228_2650/ESP_016228_2650_IRB.NOMAP.browse.jpg @nasa-jpl](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_016200_016299/ESP_016228_2650/ESP_016228_2650_IRB.NOMAP.browse.jpg) ///  [hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_016200_016299/ESP_016228_2650/ESP_016228_2650_MIRB.abrowse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_016200_016299/ESP_016228_2650/ESP_016228_2650_MIRB.abrowse.jpg)
+<img  alt="image" src="https://github.com/user-attachments/assets/ef0bc6dd-541f-44b4-8319-abb2eea42ec5" />
+
+
+<img  alt="image @StateOfCalifornia @saccounty  @eodis-nasa @nasa-jpl @blackgirlscode  " src="https://github.com/user-attachments/assets/d81a4891-7a66-4ee8-b0d3-263811f2f964" />
+
+![https://static.uahirise.org/images/2011/details/ESP_016423_2640.jpg](https://static.uahirise.org/images/2011/details/ESP_016423_2640.jpg)
+![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/PSP/ORB_007300_007399/PSP_007338_2640/PSP_007338_2640_MRGB.abrowse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/PSP/ORB_007300_007399/PSP_007338_2640/PSP_007338_2640_MRGB.abrowse.jpg)
+![martian avalanche @nasa-jpl https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/PSP/ORB_007300_007399/PSP_007338_2640/PSP_007338_2640_IRB.NOMAP.browse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/PSP/ORB_007300_007399/PSP_007338_2640/PSP_007338_2640_IRB.NOMAP.browse.jpg) 
+
+![https://static.uahirise.org/images/wallpaper/2560/ESP_016423_2640.jpg](https://static.uahirise.org/images/wallpaper/2560/ESP_016423_2640.jpg) 
+![https://aviris.jpl.nasa.gov/images/aviris_text2.png](https://aviris.jpl.nasa.gov/images/aviris_text2.png)
+
+ <img   alt=" @StateOfCalifornia @saccounty  @eodis-nasa @nasa-jpl @blackgirlscode AV520250627t202122_013_L1B_RDN_5b9e1cc2_RDN_BROWSE" src="https://github.com/user-attachments/assets/e9fd3e73-5769-41cd-af1e-0f97a4c730d1" />
+ 
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+  
+  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt=" @deptofwar logo @nasa-jpl https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+  
+</picture>
+
+ <img  alt="ECOv002_L3T_JET_45636_005_11SLT_20260723T213955_0713_01_PTJPLSMsoil" src="https://github.com/user-attachments/assets/4e2d67cf-e0d5-44c7-9d55-b145e06102a0" />
+
+
+<img alt=" @ESA @eu-cdse 2026-08-25-00_00_2026-08-25-23_59_Sentinel-2_L2A_5-MOISTURE-INDEX1" src="https://github.com/user-attachments/assets/c2f770d4-3f0c-48b7-a784-a216356bf283" />
+
+<img src="https://d1nklfio7vscoe.cloudfront.net/s3-2d2df3a34830d5223d1e9547cd713408/lp-prod-public.s3.us-west-2.amazonaws.com/EMITL1BRAD.001/EMIT_L1B_RAD_001_20260525T210941_2614514_002/EMIT_L1B_RAD_001_20260525T210941_2614514_002.png?A-userid=None&amp;Expires=1788133684&amp;Signature=tUAMpaENMg-uK5Pf9tz7max3VwVk0IXRen3fqe-3CT92MWYbrnacGZdLsYILEcZcPY-8s7ftXP2rUKILC4Hg~~Mlz2-ksxvQM3vdxcyz3pP5kTmdTWh-NP01CXPEka6jZzUAWEdUDTzGm8UYiWu8FfNw1b2mdNfWTD8b9bXiLoplFiRPGpERfTx991nDPwlpzRMKtMXuHquwBa~~eAUm8Ke-naWllD-P2DiFOP5XpSYDCLfrFw3JaFZTotWCXeOuNVNrnOpS~4cDQCs1pa2w2duYS7BnzFXuvyFyiJBca5zONlF6VHT27BJ4nE9c4gjULPj8QbBlJOinVhszd1OWDA__&amp;Key-Pair-Id=K1JHXLBU4LECA2"/>
+<img width="1242" height="1280" alt="EMIT_L1B_RAD_001_20260525T210941_2614514_002" src="https://github.com/user-attachments/assets/e6c21851-5f6b-4f11-81f3-d63aca908ac2" />
+
+ 
+@ESA @eu-cdse hi its [rashard](https://virtiserv.github.io/rashardmro/hr) from @nasa-jpl... i dont know how reliable this @Github handle is but i want you guys to connect with @LongBeachInnovationTeam well, i dont know im trying to communicate danger looking at the moisture index, I know its not good but i dont want to be an alarmist @StateOfCalifornia [Governor Newsom](https://www.gov.ca.gov/) can we get some california privilage for some fly overs to understand whats up with the water, we had kelp bits on the long beach shore, in @CityOfSantamonica they come in bundles, but i think the levees break them up ,... im committing, i need to look up a map
+[@eu-cdse browser.dataspace.copernicus.eu/?zoom=12&lat=33.81966&lng=-118.22886&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2FoIV40JIiH6NkqSMszVPif8JfqP2585BSPQA%2F8WjHD%2F6IlOsXS1uN8rVwImqZb%2BQ1VAN9sLKY1a1x8MkQHywKBRt4KGnh%2BYvyDzG2X%2F8A0QC6uVWZDLmqV&datasetId=S2_L2A_CDAS&fromTime=2026-08-25T00%3A00%3A00.000Z&toTime=2026-08-25T23%3A59%3A59.999Z&layerId=5-MOISTURE-INDEX1&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE](https://browser.dataspace.copernicus.eu/?zoom=12&lat=33.81966&lng=-118.22886&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2FoIV40JIiH6NkqSMszVPif8JfqP2585BSPQA%2F8WjHD%2F6IlOsXS1uN8rVwImqZb%2BQ1VAN9sLKY1a1x8MkQHywKBRt4KGnh%2BYvyDzG2X%2F8A0QC6uVWZDLmqV&datasetId=S2_L2A_CDAS&fromTime=2026-08-25T00%3A00%3A00.000Z&toTime=2026-08-25T23%3A59%3A59.999Z&layerId=5-MOISTURE-INDEX1&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE)
+
+[hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_016200_016299/ESP_016228_2650/ESP_016228_2650_RED.NOMAP.browse.jpg @nasa-jpl Aviris.jpl.nasa.gov @la-county-isd @cityoflosangeles ](hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_016200_016299/ESP_016228_2650/ESP_016228_2650_RED.NOMAP.browse.jpg)
+
+<img alt="AV520250627t194118_004_L1B_RDN_5b9e1cc2_RDN_BROWSE" src="https://github.com/user-attachments/assets/83e1e0c2-4145-4846-b671-b27761d4f027" />
+
+<img  alt="AV520250602t210914_014_L1B_RDN_5b9e1cc2_RDN_BROWSE @nasa-jpl Aviris.jpl.nasa.gov @la-county-isd @cityoflosangeles " src="https://github.com/user-attachments/assets/039937ad-b81c-4152-8899-4b4de085918e" />
+
+![ @nasa-jpl Aviris.jpl.nasa.gov @la-county-isd @cityoflosangeles](<img src="https://d3o6w55j8uz1ro.cloudfront.net/s3-d0f68fa49c8cba12794bb586349f2341/ornl-cumulus-prod-public.s3.us-west-2.amazonaws.com/aviris/AV5_L1B_RDN/data/AV520250602t210914_014_L1B_RDN_5b9e1cc2_RDN_BROWSE.jpg?A-userid=None&amp;Expires=1788133036&amp;Signature=UlngqU0ntvc1Nbo9D8pTNCwpGqJbePcQmPR2nR~95PrfPjtglAlPhvhb2QPB9AKk1FhzKdWJXWcIMsVCQsNXGWnNMi3oJFJp6FZc~ZSdmxdI69Si8egKikcjYJAiKXUjUy1J3U3zMuuprmPlMjZFzAEpArQRnXeZuRu1GTqD-zlY8KMJqq-HdGO4aOa1~XNZg7Rj38OgenHK2h3JCGCJfWOwIiQcREsNaGwb7VZEfYAwqmHMjiSd-CIhBmhCnlcqtA35rn9-jMivw5n8m2ywIqthyeMWVe-RUpGCEzIFx5Mc0eBEvbo3jx9ClwvGEIgcNWcJmC~7GnZmqMvQlJ-kww__&amp;Key-Pair-Id=K30BK6GBUP3FO5"/>) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a1c527be-8441-452a-a389-0c6b7732a6f7" />
+
+<img alt="image (2)-11" src="https://github.com/user-attachments/assets/ac23503c-5118-4906-bdea-0fb33ff8c6c5" />
+<img alt="image (2)-17" src="https://github.com/user-attachments/assets/f2014a8e-2307-4f52-a931-e9647b04af0f" />
+
+<img  alt="image-3 @nasa-jpl .. @nasa-pds yo sistuh after @github @blaCKGIRLSCODE @HOWARD-UNIVERSITY-WEB-SERVICES" src="https://github.com/user-attachments/assets/48877e3f-2eb4-4378-af1e-43388e49db38" />
+
+<img  alt="image-4" src="https://github.com/user-attachments/assets/b5133e18-595f-4c60-bcae-d17de48f3897" />
+
+<img   alt="image-2" src="https://github.com/user-attachments/assets/cc99e1ff-dd9e-4086-8fed-f0f535de5f7d" />
+
+
+<img   alt=" @emit-sds 4mapping @nasa-pds @usgs image (1)-03" src="https://github.com/user-attachments/assets/60926a93-530f-412b-a6ee-d36b734ebdaa" />
+
+<img alt="image (1)-15" src="https://github.com/user-attachments/assets/f2e03b0c-2b6a-48fd-994b-c19f2dddf477" />
+<img alt="image (1)-16 " src="https://github.com/user-attachments/assets/beecc79f-5cb8-412c-b673-5c1e9e6c8176" />
+<img alt="image (1)-13" src="https://github.com/user-attachments/assets/7968ab2c-75cc-4afd-ad5f-a71385a4f3ee" />
+
+<img   alt="image (1)-11" src="https://github.com/user-attachments/assets/327dc4d8-2c92-4d06-9202-ebc0da827ee3" />
+<img   alt="image (1)-12" src="https://github.com/user-attachments/assets/48c62202-74a4-4e28-93a4-af15fe23aef5" />
+
+
+Iran Gas Crisis, @CIA Spy In Russia & Canada Trade War
+| The Lana Rundown @AMSP-04 @ESA
+[WATCH - https://youtu.be/-Ufpg--C7Ms @deptofwar](https://youtu.be/-Ufpg--C7Ms) 
+<img   alt="image" src="https://github.com/user-attachments/assets/ec6beef6-363a-47c3-b920-60b72dcc5b55" />
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A255766463&color=%233b95ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kanyewest" title="Kanye West" target="_blank" style="color: #cccccc; text-decoration: none;">Kanye West</a> · <a href="https://soundcloud.com/kanyewest/new-slaves" title="New Slaves (Album Version (Explicit))" target="_blank" style="color: #cccccc; text-decoration: none;">New Slaves (Album Version (Explicit))</a></div>
+
+<img  alt="image" src="https://github.com/user-attachments/assets/27276a78-7383-4490-98fc-a557c25ac794" />
+
+@blackgirlscode [Ain't Gon Let Up · DG Yola](https://youtu.be/PtWZJVJCRhg?si=rNDE3WjIMfTqytGg)
+
+<img alt="image" src="https://github.com/user-attachments/assets/b855f324-037f-4f86-954f-276ce629d2c1" />
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A255766416&color=%233b95ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kanyewest" title="Kanye West" target="_blank" style="color: #cccccc; text-decoration: none;">Kanye West</a> · <a href="https://soundcloud.com/kanyewest/famous" title="Famous" target="_blank" style="color: #cccccc; text-decoration: none;">Famous</a></div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A701508436&color=%233b95ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kanyewest" title="Kanye West" target="_blank" style="color: #cccccc; text-decoration: none;">Kanye West</a> · <a href="https://soundcloud.com/kanyewest/follow-god" title="Follow God" target="_blank" style="color: #cccccc; text-decoration: none;">Follow God</a></div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2342935253&color=%233b95ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kanyewest" title="Kanye West" target="_blank" style="color: #cccccc; text-decoration: none;">Kanye West</a> · <a href="https://soundcloud.com/kanyewest/mission-control" title="MISSION CONTROL (feat. The WRLDFMS Tony Williams)" target="_blank" style="color: #cccccc; text-decoration: none;">MISSION CONTROL (feat. The WRLDFMS Tony Williams)</a></div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A282331451&color=%233b95ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/iamhermusic" title="H.E.R." target="_blank" style="color: #cccccc; text-decoration: none;">H.E.R.</a> · <a href="https://soundcloud.com/iamhermusic/v1-03-facts" title="Facts" target="_blank" style="color: #cccccc; text-decoration: none;">Facts</a></div>
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A621459510&color=%233b95ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/itsellamai" title="Ella Mai" target="_blank" style="color: #cccccc; text-decoration: none;">Ella Mai</a> · <a href="https://soundcloud.com/itsellamai/sets/ella-mai-21" title="Ella Mai" target="_blank" style="color: #cccccc; text-decoration: none;">Ella Mai</a></div>
+@hulu how am i wrong @disney @nasa-giss @cityoflosangeles 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A2185445564&color=%233b95ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/itsellamai" title="Ella Mai" target="_blank" style="color: #cccccc; text-decoration: none;">Ella Mai</a> · <a href="https://soundcloud.com/itsellamai/sets/do-you-still-love-me-9" title="Do You Still Love Me?" target="_blank" style="color: #cccccc; text-decoration: none;">Do You Still Love Me?</a></div>
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A911941465&color=%233b95ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/iamhermusic" title="H.E.R." target="_blank" style="color: #cccccc; text-decoration: none;">H.E.R.</a> · <a href="https://soundcloud.com/iamhermusic/damage" title="Damage" target="_blank" style="color: #cccccc; text-decoration: none;">Damage</a></div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A242539038&color=%233b95ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kanyewest" title="Kanye West" target="_blank" style="color: #cccccc; text-decoration: none;">Kanye West</a> · <a href="https://soundcloud.com/kanyewest/nomorepartiesinla" title="NO MORE PARTIES IN L.A. FEAT. KENDRICK LAMAR" target="_blank" style="color: #cccccc; text-decoration: none;">NO MORE PARTIES IN L.A. @CityOfLosAngeles @stateofcalifornia @nasa-jpl @nasa-pds @la-c-isd @blackgirlscode FEAT. KENDRICK LAMAR</a></div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A480759702&color=%233b95ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/jayelectronica" title="J A Y   E L E C T R O N I C A" target="_blank" style="color: #cccccc; text-decoration: none;">J A Y   E L E C T R O N I C A</a> · <a href="https://soundcloud.com/jayelectronica/exhibit-c" title="Exhibit C" target="_blank" style="color: #cccccc; text-decoration: none;">Exhibit C</a></div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A157631358&color=%233b95ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/jayelectronica" title="J A Y   E L E C T R O N I C A" target="_blank" style="color: #cccccc; text-decoration: none;">J A Y   E L E C T R O N I C A</a> · <a href="https://soundcloud.com/jayelectronica/exhibit-a-hq-dirty-version-rare" title="EXHIBIT A [HQ DIRTY VERSION] RARE" target="_blank" style="color: #cccccc; text-decoration: none;">EXHIBIT A [HQ DIRTY VERSION] RARE</a></div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A995809918&color=%233b95ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/deltron-3030" title="Deltron 3030" target="_blank" style="color: #cccccc; text-decoration: none;">Deltron 3030</a> · <a href="https://soundcloud.com/deltron-3030/upgrade-a-baymar-college" title="Upgrade (A Baymar College College) [feat. Del The Funky Homosapien, Dan The Automator &amp; Kid Koala]" target="_blank" style="color: #cccccc; text-decoration: none;">Upgrade (A Baymar College College) [feat. Del The Funky Homosapien, Dan The Automator &amp; Kid Koala]</a></div>
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A563415783&color=%233b95ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/atlhotspot" title="Atlanta Hot Spot🔥" target="_blank" style="color: #cccccc; text-decoration: none;">Atlanta Hot Spot🔥</a> · <a href="https://soundcloud.com/atlhotspot/soulja-boy-omg" title="Soulja Boy - OMG !!" target="_blank" style="color: #cccccc; text-decoration: none;">Soulja Boy - OMG !!</a></div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A140228818&color=%233b95ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kevingates" title="Kevin Gates" target="_blank" style="color: #cccccc; text-decoration: none;">Kevin Gates</a> · <a href="https://soundcloud.com/kevingates/kevin-gates-stop-lyin-prod-by" title="Stop Lyin&#x27;" target="_blank" style="color: #cccccc; text-decoration: none;">Stop Lyin&#x27; @CityOfLosAngeles `Traci Park` Youth Jogging Tunes @nasa-jpl @USGS @ForAtlanta </a></div>
+
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1192830019&color=%233b95ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/youngmoneybarbie" title="Nicki Minaj" target="_blank" style="color: #cccccc; text-decoration: none;">Nicki Minaj</a> · <a href="https://soundcloud.com/youngmoneybarbie/barbie-drip" title="Barbie Drip" target="_blank" style="color: #cccccc; text-decoration: none;">Barbie Drip</a></div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1383362185&color=%233b95ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/devin-the-dude-official" title="Devin The Dude" target="_blank" style="color: #cccccc; text-decoration: none;">Devin The Dude</a> · <a href="https://soundcloud.com/devin-the-dude-official/you-so-real-1" title="You So Real" target="_blank" style="color: #cccccc; text-decoration: none;">You So Real</a></div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1349165284&color=%233b95ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/lilmss-keyahh" title="Lakeyah" target="_blank" style="color: #cccccc; text-decoration: none;">Lakeyah</a> · <a href="https://soundcloud.com/lilmss-keyahh/lakeyah-maneuver-feat-flo" title="Maneuver (feat. Flo Milli)" target="_blank" style="color: #cccccc; text-decoration: none;">Maneuver (feat. Flo Milli)</a></div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A290085147&color=%233b95ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/2chainz" title="2 Chainz" target="_blank" style="color: #cccccc; text-decoration: none;">2 Chainz</a> · <a href="https://soundcloud.com/2chainz/countin-prod-by-mondo-buddabless" title="Countin (prod By Mondo &amp; BuddaBless)" target="_blank" style="color: #cccccc; text-decoration: none;">Countin (prod By Mondo &amp; BuddaBless)</a></div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A352622777&color=%233b95ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-557982797" title="LilFerg4real" target="_blank" style="color: #cccccc; text-decoration: none;">LilFerg4real</a> · <a href="https://soundcloud.com/user-557982797/lil-ferg-range-rover" title="LIL FERG -RANGE ROVER" target="_blank" style="color: #cccccc; text-decoration: none;">LIL FERG -RANGE ROVER</a></div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A174624806&color=%233b95ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/thehopedealer" title="The Hope Dealer" target="_blank" style="color: #cccccc; text-decoration: none;">The Hope Dealer</a> · <a href="https://soundcloud.com/thehopedealer/nas-the-season-prod-by-j-dilla" title="Nas - The Season [Prod. By J Dilla]" target="_blank" style="color: #cccccc; text-decoration: none;">Nas - The Season [Prod. By J Dilla]</a></div>
+
+![https://www.congress.gov/img/svg/congress-gov-logo.svg](https://www.congress.gov/img/svg/congress-gov-logo.svg) 
+
+@nasa-pds @Cityoflosangeles [KarenBass](https://www.congress.gov/member/karen-bass/B001270)
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A1849034712&color=%233b95ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nasa" title="NASA" target="_blank" style="color: #cccccc; text-decoration: none;">NASA</a> · <a href="https://soundcloud.com/nasa/sets/mars-audio-log" title="Mars Audio Logs" target="_blank" style="color: #cccccc; text-decoration: none;">Mars Audio Logs @nasa-pds @Cityoflosangeles  @nasa-jpl @nasa-giss </a></div>
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A856935166&color=%233b95ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kalenbree" title="kalenbree" target="_blank" style="color: #cccccc; text-decoration: none;">kalenbree</a> · <a href="https://soundcloud.com/kalenbree/strawberry" title="Strawberry (available on ALL PLATFORMS)" target="_blank" style="color: #cccccc; text-decoration: none;">Strawberry (available on ALL PLATFORMS @nasa-jpl im not selling her, there is an online economy @deptofwar in the crypto world wehere these songs are like pokemon cards to trade woemon on the street @CityOfLosAngeles )</a></div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A158844546&color=%233b95ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/rozaytracks" title="RozayTracks" target="_blank" style="color: #cccccc; text-decoration: none;">RozayTracks</a> · <a href="https://soundcloud.com/rozaytracks/lil-bibby-we-are-strong-ft" title="Lil Bibby - We Are Strong ft. Kevin Gates (DigitalDripped.com)" target="_blank" style="color: #cccccc; text-decoration: none;">Lil Bibby - We Are Strong ft. Kevin Gates (DigitalDripped.com)</a></div>
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A694087468&color=%233b95ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kashdoll" title="Kash Doll" target="_blank" style="color: #cccccc; text-decoration: none;">Kash Doll </a> · <a href="https://soundcloud.com/kashdoll/no-lames-feat-summer-walker" title="No Lames (feat. Summer Walker)" target="_blank" style="color: #cccccc; text-decoration: none;">No Lames (feat. Summer Walker @hulu @disney @nasa @whitehouse)</a></div>
+
+@blackgirlscode 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A1621924399&color=%233b95ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/bubblegumpop-978449604" title="BubbleGumPOp" target="_blank" style="color: #cccccc; text-decoration: none;">BubbleGumPOp</a> · <a href="https://soundcloud.com/bubblegumpop-978449604/sets/albumsfull" title="albumsFull" target="_blank" style="color: #cccccc; text-decoration: none;">albumsFull</a></div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1074715513&color=%233b95ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nicole-nicole-jones41" title="Kayla Nicole" target="_blank" style="color: #cccccc; text-decoration: none;">Kayla Nicole</a> · <a href="https://soundcloud.com/nicole-nicole-jones41/bundles-2-feat-flo-milli-taylor-girlz" title="Bundles 2 (feat. Flo Milli &amp; Taylor Girlz)" target="_blank" style="color: #cccccc; text-decoration: none;">Bundles 2 (feat. Flo Milli &amp; Taylor Girlz @nasa-jpl @ForAtlanta)</a></div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A338480335&color=%233b95ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/massappealrecs" title="Mass Appeal" target="_blank" style="color: #cccccc; text-decoration: none;">Mass Appeal</a> · <a href="https://soundcloud.com/massappealrecs/cuz-lightyear-pots-n-pans-feat-killer-mike" title="Cuz Lightyear - Pots N Pans feat. Killer Mike" target="_blank" style="color: #cccccc; text-decoration: none;">Cuz Lightyear - Pots N Pans feat. Killer Mike</a></div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A255843065&color=%233b95ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/childish-gambino" title="Childish Gambino" target="_blank" style="color: #cccccc; text-decoration: none;">Childish Gambino</a> · <a href="https://soundcloud.com/childish-gambino/ii-worldstar" title="II. Worldstar" target="_blank" style="color: #cccccc; text-decoration: none;">II. Worldstar</a></div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A736550074&color=%233b95ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/unclemurda" title="UncleMurda" target="_blank" style="color: #cccccc; text-decoration: none;">UncleMurda</a> · <a href="https://soundcloud.com/unclemurda/god-i-fuck-with-you-prod-by-jee-juu-beats-dirty" title="God I Fuck With You prod by Jee Juu beats (Dirty)" target="_blank" style="color: #cccccc; text-decoration: none;">God I Fuck With You prod by Jee Juu beats (Dirty)</a></div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A341180140&color=%233b95ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/rico_nasty" title="RICO NASTY" target="_blank" style="color: #cccccc; text-decoration: none;">RICO NASTY</a> · <a href="https://soundcloud.com/rico_nasty/rico-nasty-animal-prod-by-mel-o-dee" title="Rico Nasty - Animal Prod by (Mel-o-dee)" target="_blank" style="color: #cccccc; text-decoration: none;">Rico Nasty - Animal Prod by (Mel-o-dee)</a></div>
+
+ [@nasa-pds @nasa-jpl @doug-newman-nasa law.uchicago.edu/recordings/harvey-levin-75-privacy-and-media @StateOfcalifornia @DeptofWar @Boeing @ForAtlanta](https://www.law.uchicago.edu/recordings/harvey-levin-75-privacy-and-media)
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1636720818&color=%2300b2ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/rubianarose" title="Rubi Rose" target="_blank" style="color: #cccccc; text-decoration: none;">Rubi Rose</a> · <a href="https://soundcloud.com/rubianarose/hood-bitch-aesthetic" title="Hood Bitch Aesthetic" target="_blank" style="color: #cccccc; text-decoration: none;">Hood Bitch Aesthetic</a></div>
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A950425816&color=%2300b2ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/rubianarose" title="Rubi Rose" target="_blank" style="color: #cccccc; text-decoration: none;">Rubi Rose</a> · <a href="https://soundcloud.com/rubianarose/whole-lotta-liquor-feat-future" title="Whole Lotta Liquor (feat. Future &amp; PARTYNEXTDOOR)" target="_blank" style="color: #cccccc; text-decoration: none;">Whole Lotta Liquor (feat. Future &amp; PARTYNEXTDOOR)</a></div>
+
+[youtube.com/results?search_query=lana+j+hbarris](https://www.youtube.com/results?search_query=lana+j+hbarris)
++++++++++ @nasa-pds [planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0035/EXTRAS/FULL/EDR/JUPITER/ORBIT_78/JNCE_2025322_78T00001_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0035/EXTRAS/FULL/EDR/JUPITER/ORBIT_78/JNCE_2025322_78T00001_V01.PNG)
+<img  alt="image" src="https://github.com/user-attachments/assets/0a2ca1fe-458f-4ba3-9d57-09f92915193e" />
+
+@Nasa-pds here is a juno shot i pulled, its the old camera problem and idk how you guys are making color images but alot of shit broke and it can crash!!! @nasa-jpl @LMCO [https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0015/EXTRAS/FULL/EDR/JUPITER/ORBIT_27/JNCE_2020154_27C00008_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0015/EXTRAS/FULL/EDR/JUPITER/ORBIT_27/JNCE_2020154_27C00008_V01.PNG) @la-c-isd @cityoflosangeles
+
+<img  alt="image" src="https://github.com/user-attachments/assets/75c4037f-708c-4fd2-8cab-3ac94857de30" />
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A827264095&color=%2300b2ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/cassbeats" title="CassBeats" target="_blank" style="color: #cccccc; text-decoration: none;">CassBeats</a> · <a href="https://soundcloud.com/cassbeats/4-jadakiss-keep-it-100" title="4. Jadakiss - Keep It 100" target="_blank" style="color: #cccccc; text-decoration: none;">4. Jadakiss - Keep It 100</a></div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A133308104&color=%2300b2ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/atlhotspot" title="Atlanta Hot Spot🔥" target="_blank" style="color: #cccccc; text-decoration: none;">Atlanta Hot Spot🔥</a> · <a href="https://soundcloud.com/atlhotspot/young-thug-curtains-ft-shawty" title="Young Thug Curtains Ft. Shawty Lo &amp; Skool Boy" target="_blank" style="color: #cccccc; text-decoration: none;">Young Thug Curtains Ft. Shawty Lo &amp; Skool Boy</a></div>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A252377580&color=%2300b2ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/throwbackatlanta" title="Throw Back Atlanta" target="_blank" style="color: #cccccc; text-decoration: none;">Throw Back Atlanta</a> · <a href="https://soundcloud.com/throwbackatlanta/rich-kids-my-partna-dem" title="Rich Kids - My Partna Dem @ForAtlanta @CityOfLosAngeles just know @Nasa-jpl my patna dem, thats really it @whitehouse i am not a treasonist @LMCO " target="_blank" style="color: #cccccc; text-decoration: none;">Rich Kids - My Partna Dem @ForAtlanta @CityOfLosAngeles just know @Nasa-jpl my patna dem, thats really it @whitehouse i am not a treasonist @NOAAgov </a></div>
+
+
+[Petty People · Sadat X](https://youtu.be/rKV9xM8f5yI)
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A875674066&color=%2300b2ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-958169870" title="FlexWSHH" target="_blank" style="color: #cccccc; text-decoration: none;">FlexWSHH</a> · <a href="https://soundcloud.com/user-958169870/money-mu-hittin-remix-feat-moneybagg-yo-foogiano-official-music-video-wshh-exclusive" title="Money Mu - “Hittin’ Remix” feat. MoneyBagg Yo &amp; Foogiano (Official Music Video - WSHH Exclusive)" target="_blank" style="color: #cccccc; text-decoration: none;">Money Mu - “Hittin’ Remix” feat. MoneyBagg Yo &amp; Foogiano (Official Music Video - WSHH Exclusive @NASA-PDS @NASA-GISS @nasa-jpl)</a></div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A1627478260&color=%2300b2ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/bubblegumpop-978449604" title="BubbleGumPOp" target="_blank" style="color: #cccccc; text-decoration: none;">BubbleGumPOp</a> · <a href="https://soundcloud.com/bubblegumpop-978449604/sets/atlanta" title="#Atlanta" target="_blank" style="color: #cccccc; text-decoration: none;">#Atlanta</a></div>
+
+@nasa @nasa-jpl idk how old brandy is, but i know i got disabled by @UCLA and you guys need to be helpful with HArvey and cleaning up the lies told that magic city did, and we got mad broken computers @CityOfLosAngeles @upasadena and our email is in utah!?!?!?!?!??! 
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A1651566595&color=%2300b2ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/bubblegumpop-978449604" title="BubbleGumPOp" target="_blank" style="color: #cccccc; text-decoration: none;">BubbleGumPOp</a> · <a href="https://soundcloud.com/bubblegumpop-978449604/sets/n0rmanc3" title="#n0rmanc3" target="_blank" style="color: #cccccc; text-decoration: none;">#n0rmanc3</a></div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1019432650&color=%2300b2ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/gang-starr-official" title="Gang Starr" target="_blank" style="color: #cccccc; text-decoration: none;">Gang Starr</a> · <a href="https://soundcloud.com/gang-starr-official/glowing-mic-founders-rmx-feat" title="Glowing Mics (Founders RMX) [feat. Big Shug]" target="_blank" style="color: #cccccc; text-decoration: none;">Glowing Mics (Founders RMX) [feat. Big Shug]</a></div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A1670696367&color=%2300b2ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/bubblegumpop-978449604" title="BubbleGumPOp" target="_blank" style="color: #cccccc; text-decoration: none;">BubbleGumPOp</a> · <a href="https://soundcloud.com/bubblegumpop-978449604/sets/post_genocidevictim_awareness" title="#POST_GENOCiDEViCtiM_AWaRENEss im being #EthnicCleansed @latto777" target="_blank" style="color: #cccccc; text-decoration: none;">#POST_GENOCiDEViCtiM_AWaRENEss im being #EthnicCleansed @latto777</a></div>
+
+[@soundcloud @nasa .com/bubblegumpop-978449604/sets](https://soundcloud.com/bubblegumpop-978449604/sets) <~ @Blackgirlscode plz fwd to normani the kenyan one thats all i did she asked for some song curation @nasa-pds protect me from the entertainment retail im not interested @deptofwar eww [Petty People · Sadat X](https://youtu.be/rKV9xM8f5yI)
+<img   alt="image" src="https://github.com/user-attachments/assets/17bca625-174c-4707-9444-6c4c88a6970c" />
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2312343281&color=%2300b2ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nasa" title="NASA" target="_blank" style="color: #cccccc; text-decoration: none;">NASA</a> · <a href="https://soundcloud.com/nasa/artemis-ii-lunar-flyby-hey" title="Artemis II Lunar Flyby: &quot;Hey Babe, I Love You From the Moon&quot;" target="_blank" style="color: #cccccc; text-decoration: none;">Artemis II Lunar Flyby: &quot;Hey Babe, I Love You From the Moon&quot;</a></div>
+
+[Rico Nasty - IPHONE @DeptofWar @nasa-jpl `relationships`](https://youtu.be/RuhvdaDabpU) // [A Tribe Called Quest - I Left My Wallet In El Segundo @USAFA-ECE @La-c-isd](https://youtu.be/WILyWmT2A-Q?si=HvikHi9Qo2y94Erv) // [Street Life · The Crusaders](https://youtu.be/nuAYUVMdSrw) // [The Awakening · Ahmad Jamal Trio](https://youtu.be/L34b0ut8Loc?si=8gqvIkGXTaosiZOV) // [I Don't Live Today · The Jimi Hendrix Experience](https://youtu.be/o284JiI4j8w?list=PL1RRNXldMeRFm7CqtN44oav-TgaWT3yt_) // [_Manic Depression_ · The Jimi Hendrix Experience](https://youtu.be/_OmzEQzaaU4?list=PL1RRNXldMeRFm7CqtN44oav-TgaWT3yt_) // [NASA-PDS Esperanza Spalding Crowned & Kissed @NASA-GiSS](https://youtu.be/-IMh9bJmoU0) // [Willing & Waiting · Mary J. Blige](https://youtu.be/-HaHf8iMmX4) // [Acid Raindrops · People Under The Stairs · Camel MC @CityOfLosAngeles `LocalMusic`](https://youtu.be/UcKDx4cmvio) // [Jayou · Jurassic 5 @CityOfLosAngeles `LocalMusic`](https://youtu.be/2ZuN8rc6y7s?si=DvijSzFb64i5pNiB) // [The Who-Pinball Wizard](https://youtu.be/4AKbUm8GrbM) // [Marco Polo ft. Big Daddy Kane - "Nite & Day" (scratches by Shylow)](https://youtu.be/EJ-N4Xj9_2I?si=qeKmUPlUJpvL_BXA) // [Skyzoo - Suicide Doors](https://youtu.be/Dy5UNmknCe4?list=PLhbqrlwJFLI-EO7GWr9gUWHDbE_0Ow6G1)
+
+---
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A129690921&color=%2300b2ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/uchicagolaw" title="UChicagoLaw" target="_blank" style="color: #cccccc; text-decoration: none;">UChicagoLaw</a> · <a href="https://soundcloud.com/uchicagolaw/harvey-levin-75-privacy-and" title="Harvey Levin, &#x27;75, &quot;Privacy and the Media&quot;" target="_blank" style="color: #cccccc; text-decoration: none;">Harvey Levin, &#x27;75, &quot;Privacy and the Media&quot;</a></div>
+
+ [Marco Polo ft. Big Daddy Kane - "Nite & Day" (scratches by Shylow)](https://youtu.be/EJ-N4Xj9_2I?si=qeKmUPlUJpvL_BXA) //////////////////// @USGS [pds-imaging.jpl.nasa.gov/volumes/insight.html](https://pds-imaging.jpl.nasa.gov/volumes/insight.html) @NASA-PDS @NASA-DEVELOP the [InSight](https://science.nasa.gov/mission/insight/) mission page says itoccured 4 years ago, who stole it ? [MAtt Damon](https://www.facebook.com/primemovies/videos/he-makes-it-look-so-simple-the-martian/1760010098677618/) ? @NBCNEWS it was supposed to do siesmology indefinitley because we are supposed to have Martian Weather on the level of our EarthWeather assets for global space travel @JAXA @UKSpaceAgency  US SPACE PROGRAM got hurt by [this man](https://www.law.uchicago.edu/recordings/harvey-levin-75-privacy-and-media) 
+ 
+<img  alt="image" src="https://github.com/user-attachments/assets/db1b8391-1dab-482d-b8b8-d598252df4d9" />
+
+
+![https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0035/EXTRAS/FULL/RDR/JUPITER/ORBIT_80/JNCR_2026022_80R00002_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0035/EXTRAS/FULL/RDR/JUPITER/ORBIT_80/JNCR_2026022_80R00002_V01.PNG) 
+
+<img alt="image @blackgirlscode " src="https://github.com/user-attachments/assets/5a0e4211-4dc1-43d3-9073-72b20a592e52" />
+
+
+```
+hi @NASA-PDS @LANAJHARRiS https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0035/EXTRAS/FULL/RDR/JUPITER/ORBIT_80/JNCR_2026023_80C00011_V01.PNG <~ something is wrong with the flightpath its actually an emergency its just spinning out of control @NASAJPL @WHiTEHOUSE , @Deptofwar hi pete its connected to emial @repkarenbass @SupervisorHollyJMitchell
+```
+
+@NASA [https://www.nasa.gov/nssdc/](https://www.nasa.gov/nssdc/) `429 Too Many Requests` 
+[nginx](https://nginx.org/) //// @nasa-jpl im trying to find the latest juno release, 8/04 is the most recent i see, but i feel im not looking i the right place, i felt guilty about making fun of @nasa-pds @blackgirlscode life style changes, especially since i had a broken heart, i can be more professional going forward... I learned about @NGiNX at RentPath alot of those girls and @NFL players that were customer service had lives outside of work and dance, and i just got eclipsed and i need to be reasonable about girls reactions and make sure i can perform at playboy butler levels even if there are no goodies on the other side of finished @doug-newman-nasa  [NGINX OSS 1.29.6 and 1.29.7: Open-sourced Session Persistence, Multipath TCP and More](https://blog.nginx.org/blog/nginx-oss-1-29-6-and-1-29-7-open-sourced-session-persistence-multipath-tcp-and-more)
+![https://www.msss.com/images/operations/Junocam/SouthernHemisphere.jpeg](https://www.msss.com/images/operations/Junocam/SouthernHemisphere.jpeg) 
+[@blackgirlscode @deptofwar @usnavy](https://www.msss.com/all_projects/junocam.php)
+![https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia22/pia22178/PIA22178.gif](https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia22/pia22178/PIA22178.gif)
+![https://nginxblog-8de1046ff5a84f2c-endpoint.azureedge.net/blobnginxbloga72cde487e/wp-content/uploads/2024/05/F5_NGINX-HORZ-RGB-300x85.png](https://nginxblog-8de1046ff5a84f2c-endpoint.azureedge.net/blobnginxbloga72cde487e/wp-content/uploads/2024/05/F5_NGINX-HORZ-RGB-300x85.png) 
+![https://nginxblog-8de1046ff5a84f2c-endpoint.azureedge.net/blobnginxbloga72cde487e/wp-content/uploads/2026/05/NGINX-Community-Blog-Images-4-300x169.png](https://nginxblog-8de1046ff5a84f2c-endpoint.azureedge.net/blobnginxbloga72cde487e/wp-content/uploads/2026/05/NGINX-Community-Blog-Images-4-300x169.png)
+![https://pds.nasa.gov/images/usa-gov.gif](https://pds.nasa.gov/images/usa-gov.gif)
+![https://data.nasa.gov/img/NASA_logo.png](https://data.nasa.gov/img/NASA_logo.png)
+
+---
+
+![https://www.arcgis.com/sharing/rest/content/items/a2db1481ce1c45829b8e54165ac49833/resources/geoglows_GEOGLOWS-white.png?v=1788033723538](https://www.arcgis.com/sharing/rest/content/items/a2db1481ce1c45829b8e54165ac49833/resources/geoglows_GEOGLOWS-white.png?v=1788033723538)
+
+@esri i hope you guys are ok GEOGLOWS is down, i recently submitted a biomass scan and shit just got sour! And the last time you went down during my use time it was right b4 a class. Im outdoors alot @StateOFCalifornia @CityOfLosAngelels due to the nature of the work   @nasa-jpl  @eosdis-nasa @doug-newman-nasa imma clear my head and try to remember my .... im having trouble like that day in mission control with chris . . . memoryloss @disney idk what chloe did but i need to talk to her safely without men present @nfl the shit aint fair @nbcnews Directed Energy Weapon Terrorism on American Soil
+@foratlanta, @datadesk is @Latimes @usatoday
+[WATCH - youtu.be/0pbe3bTDcyM](https://youtu.be/0pbe3bTDcyM)
+<img  alt="image" src="https://github.com/user-attachments/assets/0d221812-4975-4922-9436-2f1a635cb283" />
+
+
+## Straight to the Point: @nasa-jpl
+Directed Energy Weapon Terrorism on American Soil
+@foratlanta, @datadesk is @Latimes @usatoday
+[WATCH - youtu.be/0pbe3bTDcyM](https://youtu.be/0pbe3bTDcyM)
+<img  alt="image" src="https://github.com/user-attachments/assets/b7bddf8b-dd03-4dae-96dd-1fa03e8c1195" />
+
+
+[riverla.org/](https://www.riverla.org/)
+
+ @eosdis-nasa @doug-newman-nasa i talked about BEPS earlier, im just saying that in case its black airforce slang and im missing the whole kaboodle @USAFA-ECE . . . 
+ @blackgirlscode @howard-university-web-services if someone is free here is an inaccessible website to check on, its down fro [LongbeachBillieJEan](https://www.longbeach.gov/library/locations/main-library/) . . .  @usarmyresearchlab im seeing what i need to do to prep to go to the army corp of engineers to share my report... Im getting stalked after getting involved romantially with a girl in Atlanta who turned out to be a california hooker and they nasty with the [DEW ATTACKS @datadesk](https://www.youtube.com/watch?v=0pbe3bTDcyM), my gut hurts right now!!! 
+ 
+
+>This site can’t be reached
+>The webpage at [https://www.spl.usace.army.mil/Missions/Asset-Management/Los-Angeles-River/](https://www.spl.usace.army.mil/Missions/Asset-Management/Los-Angeles-River/)  might be temporarily down or it may have moved permanently to a new web address.
+>ERR_TUNNEL_CONNECTION_FAILED
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/91bd1fae-9168-4778-9b56-fb73a238c344" />
+
+
+[@nasa-jpl @cityoflosangeles mrca.ca.gov/los-angeles-river/](https://mrca.ca.gov/los-angeles-river/)
+@usgs im working on my river report @nasa-jpl [Steve Slaten](https://www.linkedin.com/in/steven-slaten-5b86a912) im using the [@USGS water DASHBOARD] and it generated this link, but im trying to see what other things i can use to describe the biomass, alot of [@SWOTCommunity](https://swot-community.github.io/SWOT-galleries/cnes.html) documentation is in french and im still confused [dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-118.5428%2C33.6479%2C-117.26076%2C34.35695%5D&view=%7B%22basemap%22%3A%22CartoDarkmatter2%22%2C%22bounds%22%3A%22-118.54279557337001%2C33.64790230733941%2C-117.26075720944083%2C34.356946167865644%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Atrue%2C%22checkbox%22%3A%220%2C2%2C7%2C10%2C17%2C21%2C22%2C23%22%2C%22hiddenSubgroup%22%3A%22%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A3%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A1%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D ]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-118.5428%2C33.6479%2C-117.26076%2C34.35695%5D&view=%7B%22basemap%22%3A%22CartoDarkmatter2%22%2C%22bounds%22%3A%22-118.54279557337001%2C33.64790230733941%2C-117.26075720944083%2C34.356946167865644%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Atrue%2C%22checkbox%22%3A%220%2C2%2C7%2C10%2C17%2C21%2C22%2C23%22%2C%22hiddenSubgroup%22%3A%22%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A3%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A1%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D )
+
+![https://swot-community.github.io/SWOT-galleries/_static/SWOT_spacecraft_model.png](https://swot-community.github.io/SWOT-galleries/_static/SWOT_spacecraft_model.png) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/c53be6a8-b3bf-4112-999b-6786d1532b89" />
+
+## Russia Threatens [NATO](https://www.nato.int/en): “Catastrophic Consequences”
+| The Lana Rundown @ESA she could use some linnks man
+[WATCH - https://youtu.be/A4kTXQWg8vQ](https://youtu.be/A4kTXQWg8vQ) @nasa-jpl play it in the cafeteria @nasa @NATO-NICS @ClearChannelOutdoor
+<img  alt="image" src="https://github.com/user-attachments/assets/7adbd9a0-ab51-4d08-b637-641520c9bfd0" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/569bc9f1-d07f-4d53-8643-942a5a5bf417" />
+ @eosdis-nasa @doug-newman-nasa
+ 
+```
+ Rashard I Kelly
+Username: rashardkelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles C California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 08-29-2026
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
+
+For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Support
+
+
+V 4.231.23 Home NASA Accessibility
+NASA Official: Doug Newman
+```
+
+this is further downriver @cityOfLosangeles Supervisor Lindsey, [spaceforce.mil/ @nasa-jpl @usnavy ](https://www.spaceforce.mil/)
+[@la-c-isd https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=16.66/-13158132.04/4005092.78](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=16.66/-13158132.04/4005092.78)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/39733319-6525-42b1-bd96-5c0ff5928fdd" />
+@nasa-jpl @nasa-pds idk who saw any fragments of my biomass report but the florets were not at that part of the river the train crosses after the chinatown station 
+[@la-c-isd https://search.earthdata.nasa.gov/search?lat=34.074227263684506&long=-118.22516110091946&zoom=18.788688469380542](https://search.earthdata.nasa.gov/search?lat=34.074227263684506&long=-118.22516110091946&zoom=18.788688469380542) i dont know how old this pic is but it looked like this today
+<img alt="image" src="https://github.com/user-attachments/assets/d4555c4b-e79f-4d29-8018-793a6d506909" />
+
+
+@La-c-isd im with @nasa-jpl [jplwater.nasa.gov/](https://jplwater.nasa.gov/) on my Earthdata job @eosdis-nasa when im on the river, i took a biomas sample and scanned it in at @CityOfLosAngeles [LAPLCENTRAL](https://www.lapl.org/branches/central-library) ijm going to make a flashcard of the work here after i eat [Christian Outreach Longbeach](https://www.coalongbeach.org/)...@USSF-ORBIT the documentation said it was a good place for an active mission[duty] soldier to eat while being robbed by playboy and to chill while the family members that abandoned you finish up their paperwork to clear me for access to money and my child @nasa @usarmyresearchlab.. . @lacDPH yo ask the gaurd that was working around 2am if he used a tracktor beam on me . . . @Doug-newman-nasa [Steve Slaten](https://www.linkedin.com/in/steven-slaten-5b86a912) Groundwater Cleanup Project Director 818-393-6683 should be in my earthdata workflow but im still putting it all together and theres 3 broken machines on mars and im overwhemled atm . . . @USSF-ORBIT @USAFA-ECE officer stevens told me to go to BEPS in BeverlyHills and i dont knbow what he talking about... Victor in the navy and i get what robin said but there was no enlistment place called beps @doug-newman-nasa @whitehouse @dhs-gov @commercegov . . . @salesforce @fiserv 
+![https://www.lapl.org/themes/custom/lapl/branding/logo-default.svg](https://www.lapl.org/themes/custom/lapl/branding/logo-default.svg)
+
+![https://static.wixstatic.com/media/ea682c_OA%2520logo_horiz_edited_edited.jpg](https://static.wixstatic.com/media/ea682c_c5c4e62b7629464daebe88f7dc932631~mv2.jpg/v1/fill/w_234,h_65,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/COA%2520logo_horiz_edited_edited.jpg)
+
+---
+
+@Howard-University-web-services @disney @blackgirlscode plz fwd to chloe
+hi chloe , i saw you on the train platform by [LAPD](https://www.lapdonline.org/) ... when i walked by you i was making a cough like noise, but its really like the sound of a microphone test @nasa-jpl and i let the noise out, its similar to buttheads cough, he might do it in this scene [Beavis & Butthead watch Snoop Dogg](https://youtu.be/pnD1W08_6_k?si=YXhw3GbwpIRo174D) , im not mad at you, but i need you to know i have those symptoms some other people in your studio have - `The noise in my head, the curse of the talented` - [Nas - Cherry Wine (Explicit) ft. Amy Winehouse](https://youtu.be/6903zFUIxoU)
+[@hulu this link is to show u im not stalking her, its a clear path to clarity](https://www.imdb.com/title/tt11871764/?ref_=nm_flmg_job_1_accord_2_cdt_c_1) @nasa-jpl ppl done turned off equipment on my mission and we got folk trying to access the earthquake data and its not there @nasa-pds @paramount-engineering im not a dickhead, just regular staff, if you people making movies wanna handle shit healthier use this number [Matthew Segal](https://www.linkedin.com/in/matthewjsegal123) News Chief 818-354-8307
+
+
+![https://www.spaceforce.mil/Portals/2/ussf_vert_logo_20.png](https://www.spaceforce.mil/Portals/2/ussf_vert_logo_20.png) 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/3ac01284-527b-4b79-b022-47d332a767db" />
+
+[spaceforce.mil/](https://www.spaceforce.mil/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6d286df9-5fb5-4f19-b564-e328f8581515" />
+
+
+```
+ 
+
+@DariBenny
+​​⚰🪦🕊😭 RIP Hayden panettiere Tim curry and dolly Parton and peter cullen
+
+
+@Supadupacee
+​
+
+#1
+​Good Friday evening, Dari.
+
+
+@Supadupacee
+​
+
+#1
+​Live from the famous Hot 97 TV Studios in Atlanta, Grgia, this is Hot 97 News and the news is newsing with Lana Harris. T.G.I.F.
+
+
+@Supadupacee
+​
+
+#1
+​On tonight’s show, we got “The Lana Rundown”, “America’s Hottest Headlines”, “You Can’t Make This Up” and the 411 in entertainment. All coming up on Hot 97 News and it will start in eight minutes.
+
+
+@Supadupacee
+​
+
+#1
+​Good Friday evening, Lana and Will aka Airhorn Willie with the famous air horn sound effect.
+
+
+@hot97
+​​If you made it to FRIDAY hit that like button! Thanks for hanging out with us fam!
+
+
+@Supadupacee
+​
+
+#1
+​We got the famous Hot 97 TV theme music in full effect on a Friday. Compliments of the almighty A.K.
+
+
+@Supadupacee
+​
+
+#1
+​Good Friday evening, @hot97.
+
+
+@LaToyaEvans-v3f
+​
+
+#3
+​ Good evening all
+
+
+@Supadupacee
+​
+
+#1
+​Good Friday evening, Latoya. Are you ready for the weekend?
+
+
+@BumpPJohnson
+​​falcons
+
+
+@Supadupacee
+​
+
+#1
+​Good Friday evening, Bump.
+
+
+@LaToyaEvans-v3f
+​
+
+#3
+​I am MORE than ready Sup and you?
+
+
+@Supadupacee
+​
+
+#1
+​Great Caesar’s ghost! Not more flood! Give me a break!
+
+
+@Supadupacee
+​
+
+#1
+​Yes I am ready, Latoya.
+
+
+@MeezyTheRealKingOfHisLife0-e9i
+​​Hi
+
+
+@KingRavensburner
+​​Prayers 🙏🏿
+
+
+@Projectkang
+​
+
+#2
+​Hola to Supa, Bump LaToya
+
+
+@Supadupacee
+​
+
+#1
+​Good Friday evening, Kang, KingRaven and Meezy.
+
+
+@BumpPJohnson
+​​I love their dedication to save, Nepal China
+
+
+@Projectkang
+​
+
+#2
+​it's also a big season for travelers there
+
+
+@KingRavensburner
+​​Good evening Supa 🌆.
+
+Welcome to live chat! Remember to guard your privacy and abide by our community guidelines. Learn more
+
+@AltoKeyz
+​​YERRRRR
+
+
+@KingRavensburner
+​
+
+#2
+​Jesus bro
+
+
+@AltoKeyz
+​​Good evening familia
+
+
+@Supadupacee
+​
+
+#1
+​Good Friday evening, A.K.
+
+
+@Projectkang
+​
+
+#2
+​yerr Keys, KingRaven
+
+
+@AltoKeyz
+​
+
+#3
+​Beautiful day it is Supa ! Hope all is well !
+
+
+@AltoKeyz
+​
+
+#3
+​Kang ! Doom cometh !
+
+
+@thakasErikaselassie_kelly
+​​@lanajharris sorry dude i been busy we had a lunar eclipse and some shit on mars https://www.msss.com/ <~ @nasajpl she should meeet robin .. @t.i. what happened to future? @officialfuturevids @cbsla
+
+
+@Projectkang
+​
+
+#2
+​trailer looks so good
+
+
+@AltoKeyz
+​
+
+#3
+​Hey raven toya and the crew let’s get it ! 🥃🥃🥃
+
+
+@Projectkang
+​
+
+#2
+​I'm hooked on the new Green Lantern show now
+
+
+@Supadupacee
+​
+
+#1
+​Like the late Fred Rogers said, “It’s a beautiful day in the neighborhood”.
+
+
+@AltoKeyz
+​
+
+#3
+​Ohhh I gotta watch that !
+
+
+@Projectkang
+​
+
+#2
+​Rip Mr Rogers
+
+
+@BumpPJohnson
+​​yeah but the oil in Iran is a benefit like the oil in Venezuela?
+
+
+@Supadupacee
+​
+
+#1
+​Prepare to throw in your comments so Lana can read them after the “Rundown” ends.
+
+
+@Projectkang
+​
+
+#2
+​Mitch McConnell has been on the Cod Beta, so he's excused as well
+
+
+@thakasErikaselassie_kelly
+​​msss.comn @nasajpl idk what ... @2Chainz hi im uncomfortable with california futuire + and i emailed @monica @YungMiami305 from the library the @AtlantaNewsFirst @Essencemag @chloebaileywashere
+
+
+@thakasErikaselassie_kelly
+​​@repkarenbass @2Chainz hi im uncomfortable with california futuire + and i emailed @monica @YungMiami305 from the library the @AtlantaNewsFirst @Essencemag @chloebaileywashere @deptofwar
+
+
+@thakasErikaselassie_kelly
+​​@2chainz california future look like donald glover ... idk what happend to z6ne future!?!?! , ̄\_(ツ)_/ ̄ (˶>⩊<˶) (˶ᴖ ᴗ ᴖ˶)
+
+
+@AltoKeyz
+​
+
+#3
+​Somebody just taking a night drive while I’m waiting on a comet to hit lol
+
+
+@thakasErikaselassie_kelly
+​​@2chainz i said magicity pple are genocidal maniacs... if i find a girl like me will you conspire to kidnap her and charm her into sex ? @SupervisorHollyJMitchell @AtlantaNewsFirst @Essencemag
+
+
+@Supadupacee
+​
+
+#1
+​Also if you like the famous “Lana Rundown” and other segments, please do hit the like 👍 button, like I did, so it will go viral before the show wraps up. Am I doing great so far, Latoya?
+```
+[https://youtu.be/T_sc6vnV09E](https://youtu.be/T_sc6vnV09E) 
+<img alt="image" src="https://github.com/user-attachments/assets/0a351516-d323-49c9-998b-dc89316f0e15" />
+
+
+@nasa-pds @nasa Veronica hi, its rashard, I was catching up on the nasal social shit... I heard you mention phoenix... that one was not rep[sorting as of the last time I checked it and insight is not reporting either... [seismology](https://www.jpl.nasa.gov/edu/resources/teachable-moment/how-insight-revealed-the-heart-of-mars/) and solar panels are not things that ever stop @deptofwar so if pre nelson leadership got hurt partying with Harvey Levin and turn the shit off idk, but here is an app that it should be dumping to @nasa-pds and I'm trying to get it all turned on for whatever [Victor and those hollywood pple](https://www.nasa.gov/pple/victor-j-glover-jr/) are into for their walk... lets make it stable now, they taking shit that they cant do unless they got Japanese equipment they check in on their dual sim OprahDroids @disney @hulu @nbcnews [pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.mission=phx](https://pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.mission=phx) @SpaceExplorationTechnologies @r-spacex [https://pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.mission=phx&gather.common.instrument=OM](https://pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.mission=phx&gather.common.instrument=OM)
+
+![https://www.msss.com/images/msss_logo.gif](https://www.msss.com/images/msss_logo.gif)
+[@CityOfLosAngeles msss.com](https://www.msss.com/)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/3040c77b-bc6c-495e-9b9a-f4d104dbd4e6" />
+
+- 
+
+[The Chemical Brothers - Got To Keep On](https://youtu.be/rSYwtllbweY) // [Keep On Rockin It (feat. Charizma)](https://youtu.be/klNiPcJMSvs) // [Rasco - Unassisted @Nasa ](https://youtu.be/OMS4iRwCcho?si=toUvGcJ_wDCvqrA_) ppl thought I was insulting them, but its a good framework for beat jugglers that's all @Blackgirlscode [Rasco - Unassisted @Nasa ](https://youtu.be/OMS4iRwCcho?si=toUvGcJ_wDCvqrA_) // [Watch The Sound: Mr. Choc @CityOfLosAngeles @nasa-JPL hi](https://youtu.be/sHEGiVASlZU) this all I do with turntables, I'm just not as good @nasa-pds [Watch The Sound: Babu](https://youtu.be/kgfNpIOiu9Q) babu said he was not going to help me perform, he thought I was a Hollywood rapper into @blackgirlscode, he got lied to and thought I did not have a job, please do not be mean to him, he is a good DJ @StateOfCaifornia and his soul responded [Just My Soul Responding · Smokey Robinson](https://youtu.be/ikYqdYSYJ3c) . . . [@La-C-isd Watch The Sound: Melo D](https://youtu.be/Frj5DCue2z8), I forgot where I saw you but I could not stop laughing and I don't know if it was a prank by one of those digital divas @Blackgirlscode or your envolvemt with mars movies... but I meant no harm ... just in case bro... ask mega at beatlab if I'm into you after I hear a record, dance411 hurt my image ... sensie sound gay, you rob sanchez ? 
+
+@CityOfLosAngeles [KarenBass](https://www.congress.gov/member/karen-bass/B001270) we got an extension, thanks @whitehouse 
+>In early 2024, EMIT passed into an extended mission phase of operations. This means that the EMIT sensor will continue to collect data from its vantage point on the International Space Station through at least 2026. The EMIT team looks forward to supporting additional data collection, the newly announced ROSES funded Research and Applications Team, and the user community in the coming years. @emit-sds [@emit-sds plant.id/](https://plant.id/) @blackgirlscode [@DeptOfWar earth.jpl.nasa.gov/emit/ @Blackgirlscode](https://earth.jpl.nasa.gov/emit/) @howard-university-web-services
+>
+<img  alt="image" src="https://github.com/user-attachments/assets/19650d5b-f19e-4cfe-b24b-fd6fde0c113b" />
+
+[https://earth.jpl.nasa.gov/emit/mission/team/science-team/](https://earth.jpl.nasa.gov/emit/mission/team/science-team/)
+<img  alt="image" src="https://github.com/user-attachments/assets/6c82e1f9-5968-40be-93d6-679eed13b394" />
+
+[@nasa-jpl how much do they stalk me ? - Juicy J & Project Pat on Oscars Moment with Dolly Parton, Meeting Jelly Roll & New Album Dem Goat](https://youtu.be/vRwl0BCpQpY) /// @nbcnews that's some rare ass shit in Cali @cityoflosangeles [https://www.youtube.com/@JimmyKimmelLive](https://www.youtube.com/@JimmyKimmelLive)
+
+<img  alt="image-2" src="https://github.com/user-attachments/assets/e8b12356-f203-4720-a1fd-27ef0e556752" />
+
+@nasa-jpl @nasa-openscapes @landsat can we get [this cleaner](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=16.80/-13158249.22/4002665.69&layers=aqv_chla_20260825_sentinel:1.00:0.00:30.00:default) @ESA its a great practice spot! there is a lot of [biomass](https://www.earthdata.nasa.gov/maap-biomass/) hi @blackgirlscode @cityoflosangeles @howard-university-web-services
+<img   alt="image" src="https://github.com/user-attachments/assets/a12f2bd3-4d71-4fd6-b3d3-09a7f87da730" />
+
+@eosdis-nasa  @usgs @la-c-isd hi here is the spot I p[pulled the vegetation samples from, someone hurt me bad in the library 
+[https://search.earthdata.nasa.gov/search?lat=33.80437529320976&long=-118.20526301958586&overlays=placeLabels&zoom=18.470427907788203](https://search.earthdata.nasa.gov/search?lat=33.80437529320976&long=-118.20526301958586&overlays=placeLabels&zoom=18.470427907788203)
+<img alt="image" src="https://github.com/user-attachments/assets/8b835d4a-b245-45d4-8526-522be0e3252a" />
+<img  alt="image-4" src="https://github.com/user-attachments/assets/bddb157d-24ce-423e-9c01-5b5c7df83eec" />
+
+@eosdis-nasa  @usgs @la-c-isd this is the plant that expands and contracts, to someone far off it could be mistaken for a [Harmful Algal Bloom](https://svs.gsfc.nasa.gov/14648/)
+<img   alt="image @eosdis-nasa  @usgs @la-c-isd (1)-2" src="https://github.com/user-attachments/assets/668ad58b-2a6a-44e5-966e-90af24e188ee" />
+
+[https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=19.73/-13158570.98/4003704.95](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=19.73/-13158570.98/4003704.95)
+<img  alt="image" src="https://github.com/user-attachments/assets/486e7c85-37dc-405f-b5df-37f31db3c92a" />
+
+<img  alt="image-6" src="https://github.com/user-attachments/assets/727e961f-4aa4-492a-8064-16f6152114a1" />
+
+//  [Grandmaster Melle Mel ‎- White Lines (Don't Don't Do It) (Official Video)](https://youtu.be/DwRXI-y6M9o) // [My Melody · Eric B. & Rakim](https://youtu.be/8n8BvELP2y0) // [No Happy Holidays · Mary J. Blige](https://youtu.be/WFK_UgYGofo) // [Tommy Wright III & Princess Loko & Mac T-Dog - Still Pimpin](https://youtu.be/3W2jLb7AM3s) // [The Man Right Chea · Mystikal](https://youtu.be/CPcGQy61uBc) // [I Always Feel Like... · Tru @Cia @nasa-jpl](https://youtu.be/8zr-v8RWQ1U) // [How Ya Do Dat · Young Bleed · Master P · C-Loc](https://youtu.be/eWZKXGGJo_k) / [Juvenile - Ha](https://youtu.be/Ww9VlmXKYgs?list=RDEMoWfBgYdaTPG6hYP290Ekxw)
+
+---
+
+
+## Daddy O - "Played Out" OFFICIAL MUSIC VIDEO
+[WATCH - youtu.be/uABHh5OGQHs](https://youtu.be/uABHh5OGQHs)
+@CBSLA i was just chillin and had some downtime, and wanted to freely play with some ideas and @TommyBoyRecords
+ daddyo took over, all them girls was passing through O4w and i was jubbling my daughter @blackgirlscode how did i lose her @keishaforga you support prostituion and the @Deptofwar says its illegal and pandering  @chloebaileywashere i cant sit in the same room with you im hurt man you did your shit and im just mentioning @Chrisbrowntv bc he prolly know him bc his cousin know him @disney
+•  ........ @nasa-pds this song scary @hot97 @lanajharris . . @repkarenbass @nasa-pds @NASAJPL tommy wright had a cutlaass or a chevy and was scared of my father figure religiously!!!! @SupervisorHollyJMitchell @CofLosAngelesNewsroom
+<img  alt="image" src="https://github.com/user-attachments/assets/d27c9205-890c-48de-9b32-944cf9e2ff10" />
+
+![https://swot.jpl.nasa.gov/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSnpkbUZ5YVdGdWRITXZaRGRoWmpZd1lUWXRObU5pTnkwME1UYzRMV0V4TldFdE9ETXlaRE0yWVRJMk5Ea3hMemc1WVdVNFlqbGpZVEZqWTJKaU1HSTRZek0zTWpBM01EQmlZemhtTWpCak1USTJOVEF6TW1KaU9HSm1aR0UyTXpRMk16VXpOMk00T0dGaE1XSmhOVGdHT2daRlZEb1FaR2x6Y0c5emFYUnBiMjVKSWxscGJteHBibVU3SUdacGJHVnVZVzFsUFNKbWFYaGxaRjloY21Ob2FYUmxZM1IxY21VdWQyVmljQ0k3SUdacGJHVnVZVzFsS2oxVlZFWXRPQ2NuWm1sNFpXUmZZWEpqYUdsMFpXTjBkWEpsTG5kbFluQUdPd1pVT2hGamIyNTBaVzUwWDNSNWNHVkpJZzlwYldGblpTOTNaV0p3QmpzR1ZEb1JjMlZ5ZG1salpWOXVZVzFsT2dwc2IyTmhiQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2tleSJ9fQ==--f3cb5be2af6dad4e1ae84414f5525aa797173a7b/fixed_architecture.webp](https://swot.jpl.nasa.gov/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSnpkbUZ5YVdGdWRITXZaRGRoWmpZd1lUWXRObU5pTnkwME1UYzRMV0V4TldFdE9ETXlaRE0yWVRJMk5Ea3hMemc1WVdVNFlqbGpZVEZqWTJKaU1HSTRZek0zTWpBM01EQmlZemhtTWpCak1USTJOVEF6TW1KaU9HSm1aR0UyTXpRMk16VXpOMk00T0dGaE1XSmhOVGdHT2daRlZEb1FaR2x6Y0c5emFYUnBiMjVKSWxscGJteHBibVU3SUdacGJHVnVZVzFsUFNKbWFYaGxaRjloY21Ob2FYUmxZM1IxY21VdWQyVmljQ0k3SUdacGJHVnVZVzFsS2oxVlZFWXRPQ2NuWm1sNFpXUmZZWEpqYUdsMFpXTjBkWEpsTG5kbFluQUdPd1pVT2hGamIyNTBaVzUwWDNSNWNHVkpJZzlwYldGblpTOTNaV0p3QmpzR1ZEb1JjMlZ5ZG1salpWOXVZVzFsT2dwc2IyTmhiQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2tleSJ9fQ==--f3cb5be2af6dad4e1ae84414f5525aa797173a7b/fixed_architecture.webp)
+
+## Lil Fly From Da Darkness Of Da Kut
+_@CBSLA this was my bully and @chloebaileywashere i cant sit in the same room with you im hurt man you did your shit and im just mentioning @Chrisbrowntv bc he prolly know him bc his cousin know him @disney
+•  ........ @nasa-pds this song scary @hot97 @lanajharris . . @repkarenbass @nasa-pds @NASAJPL_ [Lil Fly From Da Darkness Of Da Kut](https://youtu.be/v-fHkfdKufw)
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A191848426&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/the-nola-music-fiend" title="Slo.Mocean" target="_blank" style="color: #cccccc; text-decoration: none;">Slo.Mocean</a> · <a href="https://soundcloud.com/the-nola-music-fiend/lil-fly-slangin-rocks-pt-1" title="Lil Fly - Slangin Rocks pt 1" target="_blank" style="color: #cccccc; text-decoration: none;">Lil Fly - Slangin Rocks pt 1</a></div>
+
+### Chucky Mask Suspect Caught, $324K Prison Drone Drop & Capitol Guillotine
+[Watch @nasa-pds - youtu.be/8fVaqfmaMOk?t=77](https://youtu.be/8fVaqfmaMOk?t=77)
+<img  alt="image" src="https://github.com/user-attachments/assets/6ced6950-da20-4e81-8967-07e565636cc0" />
+
+## Why NASA’s Roman Space Telescope Will Make Discoveries Scientists Don't Expect
+
+[Watch - https://youtu.be/FqZTQA6p7Tc](https://youtu.be/FqZTQA6p7Tc) @nasa-pds I'm glad y'all healin 
+<img alt="image" src="https://github.com/user-attachments/assets/8a821457-d2ae-4495-94df-0495342eecba" />
+
+ [KelpForest @ucla @emit-sds](https://www.jpl.nasa.gov/site/research/media/posters/2023/SP22016p.pdf)
+ @nasa-jpl @podaac @nasa these are samples I pulled in Long Beach, there are levees and a marina so idk how natural the flow is. in @CityOFSantaMonica you can harvest bundles ...... [Veronica Mcgregor](https://youtu.be/arZVDCIC0S4?si=SR41n3Rbj3xdceD2) @SWOT-community I'm behind on my jupyter notebooks the machine beams in on dsn sometimes often nsn ... just saying wassup..
+
+<img  alt="image-5" src="https://github.com/user-attachments/assets/82b65453-d2b2-40a4-a7f1-53c847c3f3cb" />
+<img  alt="image-6" src="https://github.com/user-attachments/assets/22d27967-aa5b-42ca-8cf8-0ef2c6fd8beb" />
+<img  alt="image-7" src="https://github.com/user-attachments/assets/2eed93c8-35bb-455f-a9ee-dcccec2ddaa1" />
+<img   alt="image-8" src="https://github.com/user-attachments/assets/3d1087e3-7359-4d50-bcd3-b6dbd5fc3fb3" />
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">And I am incredibly honored to receive it. I share it with followers of <a href="https://x.com/MarsPhoenix?ref_src=twsrc%5Etfw">@MarsPhoenix</a> (the 1st <a href="https://x.com/NASA?ref_src=twsrc%5Etfw">@NASA</a> account!) and <a href="https://x.com/NASASocial?ref_src=twsrc%5Etfw">@NASASocial</a> alumni who brought their passion to our events. <a href="https://t.co/Bqmq7DwiEv">https://t.co/Bqmq7DwiEv</a></p>&mdash; Veronica McGregor (@VeronicaMcG) <a href="https://x.com/VeronicaMcG/status/1443385887400755201?ref_src=twsrc%5Etfw">September 30, 2021</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+
+<img alt="image-9" src="https://github.com/user-attachments/assets/6e038136-c34d-40ca-bb89-cefa5a3294a8" />
+<img  alt="image-1" src="https://github.com/user-attachments/assets/306d9ee3-6bbc-4675-9210-3a0274623a95" />
+<img  alt="image-9" src="https://github.com/user-attachments/assets/d29e4511-b5c2-4be7-89cb-51614cb7cdb1" />
+
+
+
+@Deptofwar ask [Keisha Lance bottoms](https://www.keishaforgovernor.com/bio) what my child upto after i went to [dance411 @foratlanta](https://www.dance411.com/)
+[https://archive.org/details/education-for-death-1943](https://archive.org/details/education-for-death-1943) she used to try to contact me @nasa-pds @nasa-jpl @cityoflosangeles holly j mitchell @blackgirlscode @disney
+<img  alt="image" src="https://github.com/user-attachments/assets/a70e1191-ba07-447b-a5c4-4f0dbbb2da78" />
+
+Black voters changed Georgia politics in 2020. Keisha Lance Bottoms needs them to show up again [@ForAtlanta thegrio.com/2026/08/27/keisha-lance-bottoms-georgia-black-voter-turnout/](https://thegrio.com/2026/08/27/keisha-lance-bottoms-georgia-black-voter-turnout/)
+
+![https://run.imgix.net/a61d218c-95d4-40f3-94ca-5057567b1621/15a21ef5-26aa-47ca-8f50-3f2e3670605a/15a21ef5-26aa-47ca-8f50-3f2e3670605a.jpg?ixlib=js-3.8.0&bri=0&con=0&sat=0&high=0&shad=0&usm=0&rect=0%2C0%2C892%2C1116&w=1500](https://run.imgix.net/a61d218c-95d4-40f3-94ca-5057567b1621/15a21ef5-26aa-47ca-8f50-3f2e3670605a/15a21ef5-26aa-47ca-8f50-3f2e3670605a.jpg?ixlib=js-3.8.0&bri=0&con=0&sat=0&high=0&shad=0&usm=0&rect=0%2C0%2C892%2C1116&w=1500)
+
+Education For Death 1943 
+<iframe src="https://archive.org/embed/education-for-death-1943" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[donlemon.com/ @Blackgirlscode dom check on em @ForAtlanta](https://donlemon.com/)
+<img  alt="image donlemon.com/ @Blackgirlscode dom check on em @ForAtlanta " src="https://github.com/user-attachments/assets/6907d8de-8568-4ec6-a7d0-25ea86e95618" />
+
+# Keisha: You Don't Call the National Guard in Anticipation of an Election 
+[WATCH - youtube.com/watch?v=jq64nLK2CSE](https://www.youtube.com/watch?v=jq64nLK2CSE)
+| Don Lemon Show 8.26.26 [@DeptOfWar ask dom](https://spectrumlocalnews.com/us/snplus/politics/2026/01/30/don-lemon-arrested-protest-minnesota-church) if he go to barbie city i lost my sexual partner recently and really displaced... its robbery my nigga i need a cell phone and some baseline stability im excluded from everything ... @nasa-jpl if the c is now bi sexual and sharing partners is the norm i wanna transfer @ESA i want to be place in a country that supports heterosexuality 
+[@ForAtlanta youtube.com/@KeishaForGA](https://www.youtube.com/@KeishaForGA)
+<img  alt="image" src="https://github.com/user-attachments/assets/419e9969-7eb3-49e4-9b4b-47e25bfbe534" />
+
+@eosdis-nasa yo i got your highFreakanLoWFREAK messages and i was lost man looking for , not even that... i was procrastinating complaining about there bing no [NasaEarthdata](https://www.datacenterdynamics.com/en/news/nasa-migrates-earth-science-data-archives-to-the-cloud/) github ... So i was trying to login via [Earthdata Search](https://search.earthdata.nasa.gov/) and i saw new options for [GoogleAuth](https://pypi.org/project/google-auth/) and it requires [2fa](https://en.wikipedia.org/wiki/Multi-factor_authentication), @doug-newman-nasa i have rolling cases with @CityofLosangeles and [C Of Los Angeles @La-C-Isd](https://assets-us-01.kc-usercontent.com/0234f496-d2b7-00b6-17a4-b43e949b70a2/ba8e2bae-eafb-4bbc-afdd-795fbce5e3bc/090126_Agenda.html), [@ESA](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/220001p.pdf) alot of it is informal because [Holly Mitchell](https://lac.gov/government/board-of-supervisors/holly-j-mitchell/), is the c [DFACS @ForAtlanta](https://dekalbgasuperiorcourt.gov/home/family-law/family-law/) in my missing child and abandonment cases anyway @NASA-GiSS you guys know someone can send me an android, with instructions not to exclude me for prostitution support to [4800 Oak Grove Drive La Cañada Flintridge, CA 91011](https://www.jpl.nasa.gov/jpl-and-the-community/directions-and-maps/) and have them forwad to [200 W. Broadway Long Beach, CA 90802 @CiA](https://longbeach.gov/library/locations/main-library/) give them instructions @USEPA I dont want to get locked out of [earthdata @CityOfSantaMonica](https://science.nasa.gov/earth/earth-observatory/) i have a two year work history and if mylovelife is not panning out i can move somewhere for people like me ... sexually honest [@blackgirlscode idfs.earthdatacloud.nasa.gov/realms/edl/login-actions/required-action?execution=CONFIGURE_TOTP&client_id=edl&tab_id=wfOoTRSHBz8&client_data=eyJydSI6Imh0dHBzOi8vdXJzLmVhcnRoZGF0YS5uYXNhLmdvdi9mZWRlcmF0ZWRfa2V5Y2xvYWsiLCJydCI6ImNvZGUiLCJzdCI6ImV5SmpiR2xsYm5SZmFXUWlPaUpQVEhCQldteEZORWh4U1U5TmNqQlVXWEZuTjFWUklpd2ljbVZrYVhKbFkzUmZkWEpwSWpvaWFIUjBjSE02THk5elpXRnlZMmh3Y205a1lYQnBMVEV4TmpjeU5qSXdNamN1WVhWMGJ5NWxZWEowYUdSaGRHRmpiRzkxWkM1dVlYTmhMbWR2ZGk5MWNuTmZZMkZzYkdKaFkyc2lMQ0p5WlhOd2IyNXpaVjkwZVhCbElqb2lZMjlrWlNJc0luTjBZWFJsSWpvaWFIUjBjSE02THk5elpXRnlZMmd1WldGeWRHaGtZWFJoTG01aGMyRXVaMjkyTHo5bFpUMXdjbTlrSW4wPSJ9](https://idfs.earthdatacloud.nasa.gov/realms/edl/login-actions/required-action?execution=CONFIGURE_TOTP&client_id=edl&tab_id=wfOoTRSHBz8&client_data=eyJydSI6Imh0dHBzOi8vdXJzLmVhcnRoZGF0YS5uYXNhLmdvdi9mZWRlcmF0ZWRfa2V5Y2xvYWsiLCJydCI6ImNvZGUiLCJzdCI6ImV5SmpiR2xsYm5SZmFXUWlPaUpQVEhCQldteEZORWh4U1U5TmNqQlVXWEZuTjFWUklpd2ljbVZrYVhKbFkzUmZkWEpwSWpvaWFIUjBjSE02THk5elpXRnlZMmh3Y205a1lYQnBMVEV4TmpjeU5qSXdNamN1WVhWMGJ5NWxZWEowYUdSaGRHRmpiRzkxWkM1dVlYTmhMbWR2ZGk5MWNuTmZZMkZzYkdKaFkyc2lMQ0p5WlhOd2IyNXpaVjkwZVhCbElqb2lZMjlrWlNJc0luTjBZWFJsSWpvaWFIUjBjSE02THk5elpXRnlZMmd1WldGeWRHaGtZWFJoTG01aGMyRXVaMjkyTHo5bFpUMXdjbTlrSW4wPSJ9) <~ @eosdis-nasa
+<img  alt="image @Datadesk @nasa-pds @Cityoflosangeles _@USGS_ @doug-newman-nasa" src="https://github.com/user-attachments/assets/548d438c-7d90-4ed0-b70c-64f18f5ca169" />
+
+
+[ita.lacity.gov/smartla2028](https://ita.lacity.gov/smartla2028)
+[Download - ita.lacity.gov/sites/g/files/wph1626/files/2021-05/SmartLA2028%20-%20Smart%20City%20Strategy.pdf](https://ita.lacity.gov/sites/g/files/wph1626/files/2021-05/SmartLA2028%20-%20Smart%20City%20Strategy.pdf)
+<img  alt="image @Datadesk @nasa-pds @Cityoflosangeles _@USGS_ " src="https://github.com/user-attachments/assets/c19a14bf-d6a2-42a1-9534-c6dc41d6d9a6" />
+
+
+## Checking In On Pacific Palisades With Councilmember Traci Park
+ [WATCH - youtu.be/d6ykSPXXzxQ?si=aY-yHzhrdmRSW-AR](https://youtu.be/d6ykSPXXzxQ?si=aY-yHzhrdmRSW-AR)
+@Datadesk @nasa-pds @Cityoflosangeles _@USGS_
+There are no shortcuts for rebuilding the Pacific Palisades. Even those who are returning are daunted by the task, wondering who else will come back, and nervous about the hidden dangers of the toxic debris produced by the fire. Homes are starting to go up, and there is a plan for at least some of those third spaces – the elementary schools, the high school, and the community center. But affordability is still a big hurdle that will determine whether people can return, and there are still a lot of questions about how to make the community safer when the next disaster strikes. There is also a lot of anger about why any of this was allowed to happen in the first place — most of it is directed at L.A. Mayor Karen Bass. By contrast, the Palisades’ elected city councilmember Traci Park is seen by many residents as a champion. She joins Kate to talk about what’s next for the area. Guest: Traci Park, L.A. City Councilmember, 11th District. Pacific Palisades Vision Plan:
+[@CityOfLosAngeles @StateOfCalifornia @LaCDMH cd11.lacity.gov/news/pacific-palisades-rebuild-vision](https://cd11.lacity.gov/news/pacific-palisades-rebuild-vision)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/71792f68-de83-4396-aa36-eed4b21e06db" />
+
+![https://cd11.lacity.gov/sites/g/files/wph2151/files/styles/narrow_article_cover_842x474/public/2025-08/Screenshot%202025-08-07%20at%206.09.59%E2%80%AFPM_1.png?h=5b86cb75&itok=K_MomXwG](https://cd11.lacity.gov/sites/g/files/wph2151/files/styles/narrow_article_cover_842x474/public/2025-08/Screenshot%202025-08-07%20at%206.09.59%E2%80%AFPM_1.png?h=5b86cb75&itok=K_MomXwG)
+
+# Devastating Flood In Nepal, 
+@Meta Forced To Change, Sidney Starr Denied Bond 
+| @fb @foratlanta HOT 97 News [WATCH - youtu.be/dMitiVeU26c?si=oVoOpEpP1javtbF-](https://youtu.be/dMitiVeU26c?si=oVoOpEpP1javtbF-)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/7f9c6453-59f5-4df0-9d71-84e831317fca" />
+
+
+![https://tracipark.com/wp-content/uploads/2025/10/TRACI_LOGO_All_Horizontal_NEW_OLD_25-10-15_KEY.png](https://tracipark.com/wp-content/uploads/2025/10/TRACI_LOGO_All_Horizontal_NEW_OLD_25-10-15_KEY.png)
+@CityOfLosAngeles @la-c-isd hi [Council Member Park](https://tracipark.com/), Now i get it [cd11](https://cd11.lacity.gov/news) is your council district. I got robbed at cityhall and lost my cellphones and then another ambush robbed me of shoes and i forgot what else but if im productive i have material things that get me negative attention, my wife left me for the neighborhood kingpin who works for PlayboySouth and thats why i said she left me for playboy, so im unhoused and an identity theft victim @doug-newman-nasa is my nasa administrator, but i was sexual with a girl that abandoned me after the playboy abandonment and i have memory issues because we went that far in bed and im living productively as a pedestrian. But since they dance nasty with men, people are always attacking me... @blackgirlscode ///////////////// Council Member Park, back to the issue at hand<Anchorlink> , earlier i was giving an ocean report and talked about the keplp [@stateofcalifornia GavinNewsom](https://www.gov.ca.gov/) the [Expedition 75 @nasa / @esa](https://www.nasa.gov/mission/expedition-75/) thing we on @Nasa-jpl captured this image and the green in the sea might be the current state of the [KelpForest @ucla @emit-sds](https://www.jpl.nasa.gov/site/research/media/posters/2023/SP22016p.pdf)
+
+![d1nklfio7vscoe.cloudfront.net/s3-2d2df3a34830d5223d1e9547cd713408/lp-prod-public.s3.us-west-2.amazonaws.com/ECO_L3T_JET.002/ECOv002_L3T_JET_45636_005_11SLT_20260723T213955_0713_01](https://d1nklfio7vscoe.cloudfront.net/s3-2d2df3a34830d5223d1e9547cd713408/lp-prod-public.s3.us-west-2.amazonaws.com/ECO_L3T_JET.002/ECOv002_L3T_JET_45636_005_11SLT_20260723T213955_0713_01/ECOv002_L3T_JET_45636_005_11SLT_20260723T213955_0713_01.png?A-userid=None&Expires=1787858269&Signature=PMFuLBSwYssz5aXfywIxdCwHbS0-fEWGdxf1g1ZIU26~G6gFSaItPaQCPaxWT6Y2LWWFQ1yHHV~mGJGnFkt6oslpXbmT6bprwvb-KccQgxh~KiYMsIy8s5mepRRSyqAwhhgVE17zJX3y8d-lvMo9KaoVhwJ9hbn-ByA6sZXwXVE2tZwNLi-ua7JPD7hW45c30JOMlrGsH7u3XrVZ4NbTgZvJCrsE2Jf345CNDBqI3Tw5FcvTQijVyTWc~rz-Ae1-SBkvtiDPBs4jThUP-Rm86eczPoORhGxB68DZUOivnjQ2MCcMH-XJgP3KDtJ-7IGqCSw7UeXKVmxdO0FjGMaQag__&Key-Pair-Id=K1JHXLBU4LECA2)
+
+![https://tracipark.com/wp-content/uploads/2025/10/lappa.jpg](https://tracipark.com/wp-content/uploads/2025/10/lappa.jpg)
+
+[UCLA - newsroom.ucla.edu/releases/marine-protected-areas-protect-help-climate-change](https://newsroom.ucla.edu/releases/marine-protected-areas-protect-help-climate-change)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/268e0d4d-7dd1-4b8e-b689-e189902cdddc" />
+
+# EMIT L1B At-Sensor Calibrated Radiance and Geolocation Data 60 m V001
+The Earth Surface Mineral Dust Source Investigation (EMIT) instrument measures surface mineralogy, targeting the Earth’s arid dust source regions. EMIT is installed on the International Space Station (ISS) and uses imaging spectroscopy to take mineralogical measurements of sunlit regions of interest between 52° N latitude and 52° S latitude. An interactive map showing the regions being investigated, current and forecasted data coverage, and additional data resources can be found on the VSWIR Imaging Spectroscopy Interface for Open Science (VISIONS) EMIT Open Data Portal. [cmr.earthdata.nasa.gov/search/concepts/C2408009906-LPCLOUD.html?token=Bearer%20eyJ0eXAiOiJKV1QiLCJvcmlnaW4iOiJFYXJ0aGRhdGEgTG9naW4iLCJzaWciOiJlZGxqd3RwdWJrZXlfb3BzIiwiYWxnIjoiUlMyNTYifQ.eyJ0eXBlIjoiT0F1dGgiLCJjbGllbnRfaWQiOiJPTHBBWmxFNEhxSU9NcjBUWXFnN1VRIiwiaWF0IjoxNzg3ODUzMTQ1LCJpc3MiOiJodHRwczovL3Vycy5lYXJ0aGRhdGEubmFzYS5nb3YiLCJleHAiOjE3ODg0NTc5NDUsInVpZCI6InJhc2hhcmRrZWxseSIsImlkZW50aXR5X3Byb3ZpZGVyIjoiZWRsX29wcyIsImFzc3VyYW5jZV9sZXZlbCI6MywiYWNyIjoiZWRsIn0.GWPdQuSqiJXBZeQ-HNoLHUOZwfaZYMrR1mptt5Fm7FiZRehba8UKkvq_P7zp0es7DyyW-6iGrxGQwOS7M0x1rMeMYfChQnYu5kPk_z9mDXjxmDUCxBVFTB0LiUtHWWyaaCblu4DDsHPb6OWS3c7Qm-uqSk-aDmx7G7fhGzQ1b4lPXPHHWaxrMGNY1zphlIz8Nqvpswh8qfafX4Fxm_EZAnKEBJr_Y4sZZDSp7IsVWUIIB9d4AXYDSssfwRAgDVWEipAaWYv6GoABrOCwiY1R0ErNBwST2hTSRMVNxsdkzIF_mIsc61-3MTLmMuvTl7AUTTPZ93jZQIKDyLZgrAFnHQ](https://cmr.earthdata.nasa.gov/search/concepts/C2408009906-LPCLOUD.html?token=Bearer%20eyJ0eXAiOiJKV1QiLCJvcmlnaW4iOiJFYXJ0aGRhdGEgTG9naW4iLCJzaWciOiJlZGxqd3RwdWJrZXlfb3BzIiwiYWxnIjoiUlMyNTYifQ.eyJ0eXBlIjoiT0F1dGgiLCJjbGllbnRfaWQiOiJPTHBBWmxFNEhxSU9NcjBUWXFnN1VRIiwiaWF0IjoxNzg3ODUzMTQ1LCJpc3MiOiJodHRwczovL3Vycy5lYXJ0aGRhdGEubmFzYS5nb3YiLCJleHAiOjE3ODg0NTc5NDUsInVpZCI6InJhc2hhcmRrZWxseSIsImlkZW50aXR5X3Byb3ZpZGVyIjoiZWRsX29wcyIsImFzc3VyYW5jZV9sZXZlbCI6MywiYWNyIjoiZWRsIn0.GWPdQuSqiJXBZeQ-HNoLHUOZwfaZYMrR1mptt5Fm7FiZRehba8UKkvq_P7zp0es7DyyW-6iGrxGQwOS7M0x1rMeMYfChQnYu5kPk_z9mDXjxmDUCxBVFTB0LiUtHWWyaaCblu4DDsHPb6OWS3c7Qm-uqSk-aDmx7G7fhGzQ1b4lPXPHHWaxrMGNY1zphlIz8Nqvpswh8qfafX4Fxm_EZAnKEBJr_Y4sZZDSp7IsVWUIIB9d4AXYDSssfwRAgDVWEipAaWYv6GoABrOCwiY1R0ErNBwST2hTSRMVNxsdkzIF_mIsc61-3MTLmMuvTl7AUTTPZ93jZQIKDyLZgrAFnHQ)
+
+@CityOfLosAngeles plz forward to [Council Member PArk](https://cd11.lacity.gov/about/traci-park)
+
+
+
+<img alt="image plz forward to supervisors the Board of Supervisord @la-c-isd " src="https://github.com/user-attachments/assets/dfc7d26e-ee5a-42ed-aee0-bce018975914" />
+
+
+
+![https://cd11.lacity.gov/sites/g/files/wph2151/files/CD11_Logo_Traci-Park_370x100.svg](https://cd11.lacity.gov/sites/g/files/wph2151/files/CD11_Logo_Traci-Park_370x100.svg)
+
+ Sacremento @StateOfCalifornia @saccounty 
+
+
+ ![@emit-sds @podaac @cityoflosangeles gov.ca.gov/wp-content/uploads/2024/04/new-gov-logo-test.png](https://www.gov.ca.gov/wp-content/uploads/2024/04/new-gov-logo-test.png)
+ <img alt="image" src="https://github.com/user-attachments/assets/d0b9b942-72df-44b8-b8ed-a73df756a306" />
+<img  alt="image" src="https://github.com/user-attachments/assets/cec73b64-bae3-4719-860c-bf5c18f3525a" />
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/8da076d6-efbb-4209-8450-12a68712604f" />
+
+<img alt=" @ESA @eu-cdse 2026-08-25-00_00_2026-08-25-23_59_Sentinel-2_L2A_5-MOISTURE-INDEX1" src="https://github.com/user-attachments/assets/c2f770d4-3f0c-48b7-a784-a216356bf283" />
+ <img   alt=" @StateOfCalifornia @saccounty  @eodis-nasa @nasa-jpl @blackgirlscode AV520250627t202122_013_L1B_RDN_5b9e1cc2_RDN_BROWSE" src="https://github.com/user-attachments/assets/e9fd3e73-5769-41cd-af1e-0f97a4c730d1" />
+@ESA @eu-cdse hi its [rashard](https://virtiserv.github.io/rashardmro/hr) from @nasa-jpl... i dont know how reliable this @Github handle is but i want you guys to connect with @LongBeachInnovationTeam well, i dont know im trying to communicate danger looking at the moisture index, I know its not good but i dont want to be an alarmist @StateOfCalifornia [Governor Newsom](https://www.gov.ca.gov/) can we get some california privilage for some fly overs to understand whats up with the water, we had kelp bits on the long beach shore, in @CityOfSantamonica they come in bundles, but i think the levees break them up ,... im committing, i need to look up a map
+[@eu-cdse browser.dataspace.copernicus.eu/?zoom=12&lat=33.81966&lng=-118.22886&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2FoIV40JIiH6NkqSMszVPif8JfqP2585BSPQA%2F8WjHD%2F6IlOsXS1uN8rVwImqZb%2BQ1VAN9sLKY1a1x8MkQHywKBRt4KGnh%2BYvyDzG2X%2F8A0QC6uVWZDLmqV&datasetId=S2_L2A_CDAS&fromTime=2026-08-25T00%3A00%3A00.000Z&toTime=2026-08-25T23%3A59%3A59.999Z&layerId=5-MOISTURE-INDEX1&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE](https://browser.dataspace.copernicus.eu/?zoom=12&lat=33.81966&lng=-118.22886&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2FoIV40JIiH6NkqSMszVPif8JfqP2585BSPQA%2F8WjHD%2F6IlOsXS1uN8rVwImqZb%2BQ1VAN9sLKY1a1x8MkQHywKBRt4KGnh%2BYvyDzG2X%2F8A0QC6uVWZDLmqV&datasetId=S2_L2A_CDAS&fromTime=2026-08-25T00%3A00%3A00.000Z&toTime=2026-08-25T23%3A59%3A59.999Z&layerId=5-MOISTURE-INDEX1&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE)
+
+![https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/12/iss_expedition_75_patch_2026/27043213-1-eng-GB/ISS_Expedition_75_patch_2026_pillars.png](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/12/iss_expedition_75_patch_2026/27043213-1-eng-GB/ISS_Expedition_75_patch_2026_pillars.png) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6c26c4a6-1bb4-4d6b-87fb-74c630b7d27f" />
+
+@hot97 is this @lanajharris  @repkarenbass @nasajpl @CountyofLosAngelesNewsroom @cityoflosangeles plz forward to [ms bass](https://youtu.be/fx8VqDOsC8E)
+<img  alt="image" src="https://github.com/user-attachments/assets/065e1ca7-d594-4173-a16b-97b9cf985bbc" />
+
+## MAIA Air Sensor at Work in Addis Ababa
+[@Blackgirlscode jpl.nasa.gov/news/nasa-mission-studies-air-pollution-over-ethiopia/](https://www.jpl.nasa.gov/news/nasa-mission-studies-air-pollution-over-ethiopia/) + [jpl.nasa.gov/images/pia26694-mapping-air-pollution-with-maia-sensors-in-addis-ababa/](https://www.jpl.nasa.gov/images/pia26694-mapping-air-pollution-with-maia-sensors-in-addis-ababa/)
+![https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26698.width-1024.jpg](https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26698.width-1024.jpg)
+
+![https://www.dcms.uscg.mil/portals/10/DOL/Base%20Logos/BaseLALBLogo.jpg](https://www.dcms.uscg.mil/portals/10/DOL/Base%20Logos/BaseLALBLogo.jpg) @nasa @nasa-jpl @podaac hi its [rashard](https://virtiserv.github.io/rashardmro/) im at the [Billy Jean Branch @LongBeachInnovationTeam](https://www.longbeach.gov/library/connect/contact-us/) today, its Thursday so its a long day for my four hour card @La-county-isd @cityofLosangeles  i need to  make a report on the ocean color @NOAAGov there is a hue here in long beach, that is black so dark blue its black ? i dont know. I did not record anything that day, but this morning i recorded my results, it was like silvers greys and really dark greys but i cant say blue... that was 7🕢30 but as the sun rose it was shifting to green as the waves crashed, In santamonica. on sunday i think since today is thursday the water was blue, but as the sand mixed in it was green by the time it reached the beach @la-county-isd if the levees aer in bad shape for whatever reason, who do you notify ? Base Los Angeles / Long Beach1001 South Seaside Ave  San Pedro, CA 90731 ? ![https://www.dcms.uscg.mil/Portals/10/Official%20USCG%20Emblem.png?ver=k0Pkgz9UP4yOcke2dly9qw%3d%3d](https://www.dcms.uscg.mil/Portals/10/Official%20USCG%20Emblem.png?ver=k0Pkgz9UP4yOcke2dly9qw%3d%3d) 
+![https://tracipark.com/wp-content/uploads/2022/05/LAPPL-logo.png traci park @cityoflosangeles ](https://tracipark.com/wp-content/uploads/2022/05/LAPPL-logo.png)
+
+![https://d2pn8kiwq2w21t.cloudfront.net/images/1-Addis_Ababa_City_View.width-1024.jpg](https://d2pn8kiwq2w21t.cloudfront.net/images/1-Addis_Ababa_City_View.width-1024.jpg)
+
+![https://www.google.com/logos/doodles/2026/celebrating-national-parks-week-yosemite-6753651837111078.2-la22242a.gif](https://www.google.com/logos/doodles/2025/earth-day-2025-6753651837110746.2-2x.png)
+
+[MF Doom-Doomsday](https://youtu.be/U2U0FFZXMN8?list=RDU2U0FFZXMN8) // [Madvillian - Fancy Clown (feat. Viktor Vaughn)](https://youtu.be/yEYCCiXLPTw?list=RDyEYCCiXLPTw) // [The Finest · MF DOOM · Tommy Gunn](https://youtu.be/MueIgPaaQjg?list=PLsiiNfmWVgnn7ZoOtH2n3fw3Ckj1GUNlO) // [Madvillain (MF DOOM & Madlib) - Rhinestone Cowboy](https://youtu.be/lWpRJK_z08I?list=RDlWpRJK_z08I) // [Puff Daddy - Bad Boy's Been Around the World (Remix)` [feat. Mase & Carl Thomas]` ](https://youtu.be/fer1EFfvDXw) // [Gang Starr - Mass Appeal](https://youtu.be/y9lNbNGbo24?list=RDy9lNbNGbo24) // [Black Moon - Who Got Da Props](https://youtu.be/58lZYDxHRV8?list=RD58lZYDxHRV8) // [Creepin' · Redman](https://youtu.be/P-kOHQexqPE?list=RDP-kOHQexqPE) // [_X-CLAN_- Verbs of Power](https://youtu.be/86tkUdqf7Yo?si=eaNajFL2wvYY0ZEX&t=60) // [MF DOOM - Dead Bent](https://youtu.be/6ohRUPhORzc) // [300 M.P.H. Torrential Outpour Blues · The White Stripes](https://youtu.be/BN8c4nnnWYs?list=RDBN8c4nnnWYs) // [Bad Timing · Bombay Bicycle Club](https://youtu.be/UntFEBA-OzE?list=RDBN8c4nnnWYs) // [Journey - Separate Ways (Worlds Apart) (Official HD Video - 1983)](https://youtu.be/LatorN4P9aA) // [Veteran of the Psychic Wars · Blue Oyster Cult](https://youtu.be/jUwh-C5w7II?si=8TF1VapQSwJ20CfB) // [`[America Is Dying Slowly]` Goodie Mob featuring Big Rube "Blood"](https://youtu.be/PVcPxGCIzpg) // [Apple Pie · Virgo
+So So Def Bass All-Stars Vol. II](https://youtu.be/6B9roO-rcGw) // [The Roots - Clones](https://youtu.be/_I1IX2cqjQ4?si=IlIwREhoHP7fCaVd) // [Time Machine - Mind in a Spin](https://youtu.be/HWwCVqWmgro) // [8 Steps to Perfection · Company Flow](https://youtu.be/5ebuKXOOG3Q) <~ I got harassed for that one @nasa-jpl I'm not mad at white men who rap, its just advanced English [Gil Scott Heron - Angel Dust (1978)](https://youtu.be/pRQgviNNZEM) // [Grandmaster Melle Mel ‎- White Lines (Don't Don't Do It) (Official Video)](https://youtu.be/DwRXI-y6M9o) // [Whodini - Freaks Come Out at Night (Official Video)](https://www.youtube.com/watch?v=FxwrLLlQwBw) // [Whodini - One Love](https://youtu.be/qMnTawcUZLQ?si=80pOrXRfnNfK5dwO)
+
+
+docs/rashards nasa dept coffee table book .pdf
+[https://github.com/ra5hard/_virtiserv/blob/master/docs/rashards%20nasa%20dept%20coffee%20table%20book%20.pdf](https://github.com/ra5hard/_virtiserv/blob/master/docs/rashards%20nasa%20dept%20coffee%20table%20book%20.pdf)
+<img alt="image" src="https://github.com/user-attachments/assets/e24502da-432f-4932-b6b7-cee4a3359238" />
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/476f890e-e5b8-41ee-8344-cedea765428c" />
+
+# Vampire Savior 2: The Lord of Vampire (Japan 970913)
+<img src="https://images.launchbox-app.com/3f4c0210-85a0-4a57-aba6-c159abdf9406.jpg"/>
+
+by [Capcom](https://www.capcom.com/) / [launchbox @nasa-jpl](https://gamesdb.launchbox-app.com/games/images/39937-vampire-savior-2-the-lord-of-vampire)
+
+Publication date 1997
+<iframe src="https://archive.org/embed/arcade_vsav2" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<img src="https://images.launchbox-app.com/b9f4670e-b378-4654-bb54-5be3b6dea571.png"/>
+<img   alt="image" src="https://github.com/user-attachments/assets/569cecec-a3d2-405f-a7a9-92927afaa811" />
+
+[<video controls loading="lazy"  src="https://archive.org/download/nasafirejuly26/Screen%20recording%202026-08-19%206.24.52%20PM.webm" />](https://archive.org/download/nasafirejuly26/Screen%20recording%202026-08-19%206.24.52%20PM.webm)
+
+
+## Global Precipretation Measurement
+@Nasa-jpl IDK how I got associated with this mission... but I contribute ... so I found this PDF of @USnavy wind patterns at Central 
+`youtube`
+@nasajpl im trying to create a weather card in jekyll thats easily shareable for tracking elnino patters to finally resolve why all that heat coming off the west coast of South America and ppl on our news act like its such a mystery @LANAJHARRiS @HOT97 its blocked for passthrough but you should still try the app even if my interactive flashcard is not fully working yet [https://storm.pps.eosdis.nasa.gov/storm/outreach/RAIN-Global2.html](https://storm.pps.eosdis.nasa.gov/storm/outreach/RAIN-Global2.html) - #Rashard @NasaEarthdAta @itsgavinnewsom [Whodini - One Love](https://youtu.be/qMnTawcUZLQ?si=80pOrXRfnNfK5dwO)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e9f4627b-1b1a-4c58-8629-6a3f67b9e2aa" />
+![https://www.star.nesdis.noaa.gov/goes/images/banner/GOESAllBanner_1800x100px.jpg](https://www.star.nesdis.noaa.gov/goes/images/banner/GOESAllBanner_1800x100px.jpg)
+
+# RAIN Global Viewer
+Regional Animations of IMERG in Near-realtime - Global Edition
+[HOMEPAGE - gpm.nasa.gov/data/visualizations/rain-global](https://gpm.nasa.gov/data/visualizations/rain-global) 
+[WEBAPP - storm.pps.eosdis.nasa.gov/storm/outreach/RAIN-Global2.html](https://storm.pps.eosdis.nasa.gov/storm/outreach/RAIN-Global2.html)
+RainGLOBAL2DEMO_RAshardKELLY_NASA_JPLEARTHDATA_4lanajharrisReporterVirtiservKARENBASSrexRichardsonSPACEBEACH124244 @nasa-jpl @cityoflosangeles
+<img alt="image" src="https://github.com/user-attachments/assets/278028a8-4c5e-46c7-932c-5e11159ef103" />
+
+[<video controls loading="lazy" poster="https://gpm.nasa.gov/themes/custom/pmm_bs/images/nasa-logo-large-v1.png" src="https://archive.org/download/longbeach_202605/ScreenRecording2026-08-11RainGLOBAL2DEMO_RAshardKELLY_NASA_JPLEARTHDATA_4lanajharrisReporterVirtiservKARENBASSrexRichardsonSPACEBEACH124244.mp4" />](https://archive.org/download/longbeach_202605/ScreenRecording2026-08-11RainGLOBAL2DEMO_RAshardKELLY_NASA_JPLEARTHDATA_4lanajharrisReporterVirtiservKARENBASSrexRichardsonSPACEBEACH124244.mp4)
+<img alt="image" src="https://github.com/user-attachments/assets/fdbb2e9b-8f14-49e8-a58e-1c06f1ab6072" />
+
+
+
+
+## THE HEALTH EFFECTS OF
+# CoNDUCTED ENERGY WEAPONS
+[ @cityoflosangeles KARENBASS - HOLLYMitchell @la-county-isd prisonpolicy.org/scans/council_canadian_academics/The%20Health%20Effects%20of%20Conducted%20Energy%20Weapons.pdf](https://www.prisonpolicy.org/scans/council_canadian_academics/The%20Health%20Effects%20of%20Conducted%20Energy%20Weapons.pdf)
+
+<img alt="image @deptofwar @canada-ca" src="https://github.com/user-attachments/assets/8d3b0c78-7e11-407c-bc6f-49a1b2fc27da" />
+
+[prisonpolicy.org/scans/council_canadian_academics/The%20Health%20Effects%20of%20Conducted%20Energy%20Weapons.pdf](https://www.prisonpolicy.org/scans/council_canadian_academics/The%20Health%20Effects%20of%20Conducted%20Energy%20Weapons.pdf)
+
+
+# Bounty on Barron Trump 
+@whitehouse 
+
+
+[WATCH - https://youtu.be/7PFzPA5azaQ](https://youtu.be/7PFzPA5azaQ) @nasa-jpl @usgs [READ - https://www.secretservice.gov/newsroom/releases?combine=trump&field_pr_published_date_value=All&items_per_page=15](https://www.secretservice.gov/newsroom/releases?combine=trump&field_pr_published_date_value=All&items_per_page=15)
+on Hot97 Lana J Harris is talking a bout a bounty on his head... So since he is not a bastardized monarch like myself I know there is some depopulation scandals on the mainland that could be affecting him especially if he is remnotely attached to any pretty girls @Homelandsecurit the secret service not on @Github idk someone who believe in Fuck ice may have tookem down @dhs-gov [dhs.gov/group/all/newsroom](https://www.dhs.gov/group/all/newsroom)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/c0ba4637-1b8f-4d61-8615-516d29fb2082" />
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5M4GjeLsxGsK7SPtnBasBr?utm_source=generator&si=d02a9c0b5bd64a73" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+`@lanajharris hi i dont see this in the secret service newsfeed https://www.secretservice.gov/newsroom/releases?combine=trump&field_pr_published_date_value=All&items_per_page=15 @homelandsecurity Address	48 W. 25th St, Floor 3, New York, NY 10010
+General Info	(212) 229-9797
+General Fax	(212) 524-9855
+Contest/Request Line	(800) 223-9797
+General Email	info@hot97.com
+Press & Media Info	press@hot97.com
+Advertise with Hot 97	(212) 229-9797 @whitehouse please reach out to @lanajharris because everyone talking about the threat id from the commercial broadcast world @AssociatedPress @RepKArenBass maxine waters was in atlanta and when i came out the houe with #BlackFaceLana @T.i. she said thats your wife, can i get a cellphone out of her with that data ? @atlantablackstar7299`
+
+
+[@CityOfLosANgeles aapiforce-ef.org/fuck-ice](https://www.aapiforce-ef.org/fuck-ice)
+<img alt="image" src="https://github.com/user-attachments/assets/35f79839-201f-4a51-93b5-4b1eb293f7fc" />
+
+![secretservice.gov/sites/default/files/2025-02/Star-2025-BlueGREY_0.png](https://www.secretservice.gov/sites/default/files/2025-02/Star-2025-BlueGREY_0.png)
+
+![https://cdn.prod.website-files.com/64f22582b11ec2a7fb23de90/6875a16f7c5888cd6bb8e34e_(Square)%20Digital%20Ads%202025%20%20(5)-p-800.png](https://cdn.prod.website-files.com/64f22582b11ec2a7fb23de90/6875a16f7c5888cd6bb8e34e_(Square)%20Digital%20Ads%202025%20%20(5)-p-800.png) 
+
+RIP Dolly Parton, Bounty On Barron Trump, Sexual Scandals, Ebola Update | HOT 97 News 8/25/26
+<img alt="image" src="https://github.com/user-attachments/assets/e9eae940-98dd-4165-be83-e1b407a7a112" />
+
+### Apple Pie · Virgo
+So So Def Bass All-Stars Vol. II
+<img   alt="image" src="https://github.com/user-attachments/assets/d6db47fb-8187-403a-b139-30d315677cc5" />
+
+[HEAR- youtu.be/6B9roO-rcGw](https://youtu.be/6B9roO-rcGw)
+`https://youtu.be/PVcPxGCIzpg @lanajharris these songs hurt like hell, thanks for being th real thing @hot977 @repkarenbass its for records @itsgavinnewsom @t.i. @Hot97 @NAsa-pds`  @howard-university-web-service @nasa-jpl I wont talk down to her or gossip on her if y'all let me back in the building for rebadging... @Whitehouse what are the rules on hitting back, after they been to Hollywood they start hitting @Cityoflosangeles 
+
+[Who sampled.cOm](https://www.whosampled.com/browse/) <~ @howard-university-web-services
+
+## When Discovery Becomes Consolidation: 
+@Spotify 's [WhoSampled](https://www.whosampled.com/search/?q=bohannon) Acquisition
+[READ - soniare.net/blog/spotify-whosampled-acquisition-consolidation](https://www.soniare.net/blog/spotify-whosampled-acquisition-consolidation)
+![https://www.soniare.net/static/images/spotifyWhoSampled.jpg](https://www.soniare.net/static/images/spotifyWhoSampled.jpg)
+
+#### W3C CSS Validator results for https://virtiserv.github.io/ (CSS level 3 + SVG)
+Congratulations! No Error Found.
+This document validates as CSS level 3 + SVG !
+
+To show your readers that you've taken the care to create an interoperable Web page, you may display this icon on any page that validates. Here is the XHTML you could use to add this icon to your Web page:
+
+
+<p>
+    <a href="https://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
+            alt="Valid CSS!" />
+    </a>
+</p>
+
+
+
+
+[jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvirtiserv.github.io%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvirtiserv.github.io%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+[Journey - Separate Ways (Worlds Apart) (Official HD Video - 1983)](https://youtu.be/LatorN4P9aA) //  [Veteran of the Psychic Wars · Blue Oyster Cult](https://youtu.be/jUwh-C5w7II?si=8TF1VapQSwJ20CfB)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/44826f7e-2551-4a88-960c-475efbeadb12" />
+
+<p>
+    <a href="https://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="https://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" />
+    </a>
+</p>
+
+@Nasa-jpl I see evidence that LAtrice or someone is helping with the doxxing despite lifestyle changes [@nasa-pds](https://glorilla.fandom.com/wiki/Glorious) so a lot of my software is behind @Github pages from unverified changes @cityoflosangeles [KarenBass](https://www.congress.gov/member/karen-bass/B001270) [thakarashard.github.io/](https://thakarashard.github.io/) is failing checks as well @howard-university-web-services @nbcnews I'm sure someone that does hair for you should know ///////////// [😢300 M.P.H. Torrential Outpour Blues · The White Stripes😭](https://youtu.be/BN8c4nnnWYs?list=RDBN8c4nnnWYs) // [Bad Timing · Bombay Bicycle Club](https://youtu.be/UntFEBA-OzE?list=RDBN8c4nnnWYs) /////// @w3c [github.com/w3c/png](https://github.com/w3c/png) is great for @emit-sds I'll send some work someday 
+
+@la-county-isd I'm not fixing warning since I'm going for usability, but if that taxes me [Holly J Mitchell](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) send me a sign and I will clear with all green . . . @newshour @StateofCalifornia [Supervisor Lindsey](https://lindseyhorvath.lacounty.gov/) I think you are credible 
+<img  alt="image" src="https://github.com/user-attachments/assets/61731f2d-eb31-4525-a56b-3919c12dcddb" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/95d20f52-6886-4408-baba-0016dd99f390" />
+
+
+@nasa-jpl about the relationship thing, if Caroline hunter is at church, Karen bass at the bet awards and Holly Mitchell doing digital divide conferences I will be more respectful @disney @hulu @nbcnews etc bc altadena would have a sizable @blackgirlscode population that knows what's best for the community and post pole employees may have just got into a predicament and grace might be the christian quality I never developed with Jehovah's witnesses and have not read enough Quran . . . and I need to let the lab heal after that fire bc idk what people are going through ... @blackgirlscode always recheck your
+code, virtiserv is not css validated anymore and neither is our relationship, but it don't mean it cant or should not be fixed @foratlanta _`im a meteorologist`_ . . . @nasa-pds [MF DOOM - Dead Bent](https://youtu.be/6ohRUPhORzc)
+![https://www.w3.org/2018/12/w3cx-fewd.png](https://www.w3.org/2018/12/w3cx-fewd.png)
+
+```shell
+W3C CSS Validator results for https://virtiserv.github.io/ (CSS level 3 + SVG)
+Sorry! We found the following errors (4)
+URI : https://virtiserv.github.io/assets/css/style.css?v=dace3f6876057e98fc398b60344044e3cf2f534c
+1	.scroller	Property container-type doesn't exist : inline-size
+1	iframe	Value Error : height only 0 can be a unit. You must put a unit after your number : 400
+1	video	Value Error : height only 0 can be a unit. You must put a unit after your number : 350
+1	embed	Value Error : height only 0 can be a unit. You must put a unit after your number : 350
+↑ Top
+
+W3Cx logo	Interested in “developing” your developer skills? In W3Cx’s hands-on Professional Certificate Program, learn how to code the right way by creating Web sites and apps that use the latest Web standards. Find out more!
+
+Donate and help us build better tools for a better web.
+```
+![https://www.w3.org/assets/logos/w3c-2025/svg/margins/w3c-letters-bg-white.svg](https://www.w3.org/assets/logos/w3c-2025/svg/margins/w3c-letters-bg-white.svg) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/8b06d368-1d52-47f9-8944-1c54362422d5" />
+
+
+#### Abercrombie CEO Trial, Trump Pardon Scandal & Florida Lawmaker Arrest
+[WATCH - https://youtu.be/Yfc-08N7Tps](https://youtu.be/Yfc-08N7Tps) /// [Former Abercrombie & Fitch CEO found competent to stand trial for sex trafficking charges by: Kate Shields](https://www.nbc4i.com/news/local-news/new-albany/former-abercrombie-fitch-ceo-found-confident-to-stand-trial-for-sex-trafficking-charges/)
+
+![]()
+
+<img  alt="image" src="https://github.com/user-attachments/assets/c9161f7e-b63b-45b5-a591-db3ed87ee7c6" />
+
+@DEPToFWAR can someone forward to @LanaJHArris ? @repKarenbass @KeishaForGA https://upload.wikimedia.org/wikipedia/commons/transcoded/2/27/House_Session_October_8_2002_The_House_of_Representatives_debated_the_use_of_military_force_with_Iraq.webm/House_Session_October_8_2002_The_House_of_Representatives_debated_the_use_of_military_force_with_Iraq.webm.480p.vp9.webm#t=24545 Recording of US House of Representatives debate on October 8, 2002, interrupted and distorted by electromagnetic interference from a solar flare at approximately 2:30 p.m.[1] @SupervisorHollyJMitchell @HowardUniversity
+
+![https://www.gov.ca.gov/wp-content/uploads/2024/04/new-gov-logo-test.png](https://www.gov.ca.gov/wp-content/uploads/2024/04/new-gov-logo-test.png)
+[WATCH - Governor Newsom announces new investments to create jobs and strengthen regional economies across @StateOfCalifornia](https://youtu.be/C_MZcwF-9cw?t=133) /// [gov.ca.gov/](https://www.gov.ca.gov/)
+<img alt="image" src="https://github.com/user-attachments/assets/c6db0f6f-f91f-4c60-b7bc-ed6cff3f5614" />
+
+
+
+[Madvillain (MF DOOM & Madlib) - Rhinestone Cowboy](https://youtu.be/lWpRJK_z08I?list=RDlWpRJK_z08I)
+@Howard-university-web-services I get it you Moonie girl cousin . . . soo anyway Abbie Kerse might need support during the KeffeD Tupac Murder Trial... Those people were with bambaata during that y2k ish resurgence of street hip-hop to balance retail religion `New Release Tuesday` PartyHop @nasa-jpl some places called it commercial rap. Coming from a Pasadena perspective, Universal is a Small Business in @CityOfSantaMonica that hosted a lot of parties for popular blaCK KIDS FROM HARLEM @blackgirlscode _`Brookyln`_
+<img alt="image" src="https://github.com/user-attachments/assets/68eb347b-8536-4bbc-a575-4e828eebefd5" />
+
+
+[https://science.nasa.gov/mission/europa-clipper/stories/](https://science.nasa.gov/mission/europa-clipper/stories/) @whitehouse
+![https://assets.science.nasa.gov/content/dam/science/missions/europa-clipper/images/EUROPA_LOGO_HORIZONTAL.png](https://assets.science.nasa.gov/content/dam/science/missions/europa-clipper/images/EUROPA_LOGO_HORIZONTAL.png)
+[ACE https://science.gsfc.nasa.gov/heliophysics/projects/12/](https://science.gsfc.nasa.gov/heliophysics/projects/12/) // [https://helio.data.nasa.gov/mission/ACE](https://helio.data.nasa.gov/mission/ACE)
+[@nasa-jpl SOHO https://soho.nascom.nasa.gov/](https://soho.nascom.nasa.gov/)
+![https://soho.nascom.nasa.gov/imgs/soho_top.jpg](https://soho.nascom.nasa.gov/imgs/soho_top.jpg)
+<img   alt="image" src="https://github.com/user-attachments/assets/4e12b75b-549f-48a6-b894-93376f834267" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/0ff7e087-8720-4b93-8425-823dc3c12452" />
+
+
+[Sonta - Your MistakE](https://youtu.be/FiGAkDE7s7o?si=G50gtJHKEuvDPEnX) // [Project Pat - Choose U @Disney Chloe don't mean no harm @nbcnews ](https://youtu.be/SXykV3OtL8A?list=RDSXykV3OtL8A) // [If You Ain't From My Hood · Project Pat · Juicy J · DJ Paul](https://youtu.be/DrCs-n6pB4c?list=RDDrCs-n6pB4c) // [Three 6 Mafia - Niggaz Aint Barin Dat](https://youtu.be/C5fwP6pYXtk)
+
+---
+
+Cosmic Dawn: The Untold Story of the James Webb Space Telescope
+[<video controls loading="lazy"  src="https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014834/CD_YT1080_Track5.mp4" />](https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014834/CD_YT1080_Track5.mp4)
+
+[https://spacetelescopelive.org/](https://spacetelescopelive.org/)
+<img  alt="image" src="https://github.com/user-attachments/assets/1aebfe1e-ec07-462e-a312-b186184b68e5" />
+
+#  ナンシー・グレイス・ローマン宇宙望遠鏡に関する記者説明会
+NAncy Grace Roman on @nasa-jpl!!!!!! @doug-newman-nasa @JAXA 
+[Nancy Grace Roman Space Telescope - JPL Science https://science.jpl.nasa.gov/projects/wfirst/ @cityoflosangeles](https://science.jpl.nasa.gov/projects/wfirst/) ///////// [NASA Ames’ Contributions to Roman’s Mission](https://www.nasa.gov/general/nasa-ames-contributions-to-romans-mission/) // [200 times larger than Hubble’s infrared view - stsci.edu/roman](https://www.stsci.edu/roman) ++ ["Dark Energy" Lithograph](https://assets.science.nasa.gov/content/dam/science/missions/rst/education/Roman-darkenergy-2024.pdf) // Brocures [https://science.nasa.gov/mission/roman-space-telescope/brochures-and-fact-sheets/](https://science.nasa.gov/mission/roman-space-telescope/brochures-and-fact-sheets/) +++++ [`PRESSKiT` @CityOfLosAngeles @nbcnews](https://assets.science.nasa.gov/content/dam/science/missions/rst/education/aug%20Roman%20Press%20Kit-508compliant.pdf)
+
+[@ESA The ‘Mother of Hubble’: Nancy Grace Roman](https://esahubble.org/about/history/the-mother-of-hubble/)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sT4cEjnJbBk?si=S_wb2vSEylsPnmaA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">A strange, invisible force has been pushing galaxies apart faster and faster for billions of years. Astronomers have named it dark energy.<br><br>But how do we study something we can&#39;t see? Check out this video to learn more!<br><br>For a deeper dive, click here: <a href="https://t.co/dukYneetrO">https://t.co/dukYneetrO</a> <a href="https://t.co/VdAFE2fxlf">pic.twitter.com/VdAFE2fxlf</a></p>&mdash; Nancy Grace Roman Space Telescope (@NASARoman) <a href="https://x.com/NASARoman/status/2090107890799374614?ref_src=twsrc%5Etfw">August 19, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+
+[@esa @thespacedevs @nasa-jpl @newshour LANA J HARRiS isas.jaxa.jp/en/missions/spacecraft/developing/roman.html](https://www.isas.jaxa.jp/en/missions/spacecraft/developing/roman.html) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/18b0ef5a-3061-4c70-ba47-350222866a1a" />
+<img alt="image" src="https://github.com/user-attachments/assets/cd50449b-6360-4c7d-83d5-c4e5b209bdcd" />
+<img alt="image" src="https://github.com/user-attachments/assets/6dcf4bc1-8d0c-411b-b99f-e2e2e0d39c77" />
+
+## Who Was Nancy Grace Roman?
+
+Known as the "mother of the Hubble Space Telescope," Nancy Grace Roman was born May 16, 1925 in Nashville, Tennessee, and died December 25, 2018. From a young age, Roman showed an interest in astronomy, and when she was 11 years old she organized a club with her classmates in Reno, Nevada. In this club they learned about constellations and celestial objects from a book. By high school, Roman realized that she had a passion for astronomy and wanted to pursue it. Her academic prowess was highlighted when she participated in an accelerated program and graduated in three years from Baltimore's Western High School. [Read more - https://roman.ipac.caltech.edu/page/nancy-grace-roman](https://roman.ipac.caltech.edu/page/nancy-grace-roman) // [RetailConspiracy @Reddit How @NASA turned a spy satellite into the Nancy Grace Roman Space Telescope](https://www.reddit.com/r/space/comments/1vrqu9y/how_nasa_turned_a_spy_satellite_into_the_nancy/?rdt=39138)
+![https://roman.ipac.caltech.edu/system/media_files/binaries/159/large/225_44477663304_a673c66226_o.png?1648484196](https://roman.ipac.caltech.edu/system/media_files/binaries/159/large/225_44477663304_a673c66226_o.png?1648484196)
+
+
+
+![https://www.isas.jaxa.jp/common/images/logo-jaxa.svg](https://www.isas.jaxa.jp/common/images/logo-jaxa.svg)
+
+![https://www.fec.gov/static/img/seal.svg](https://www.fec.gov/static/img/seal.svg) 
+
+[results.lavote.gov/#year=2026&election=4338](https://results.lavote.gov/#year=2026&election=4338)
+<img alt="image" src="https://github.com/user-attachments/assets/8f3b0651-6541-46f3-9fb1-c60f6a669533" />
+# NS Records 
+@CityOfLosAngeles three six is a long soap opera that's hard to finish bc ppl in California wronged them at the casino and they want m3mphis quiet like Pasadena should b, its not a bad song @nasa-pds @nasa-jpl [If You Ain't From My Hood · Project Pat · Juicy J · DJ Paul](https://youtu.be/DrCs-n6pB4c?list=RDDrCs-n6pB4c) @deptofwar @fecgov
+
+| Domain Name | NS | TTL | 
+|-------------|----|-----|
+| [lavote.gov](lavote.gov) | [lrci-ib-e03.isd.lacounty.gov @deptofwar @fecgov](lrci-ib-e03.isd.lacounty.gov). | 300 | 
+| [lavote.gov](lavote.gov) | [dci-ib-e02.isd.lacounty.gov @nasa-pds](dci-ib-e02.isd.lacounty.gov). | 300 | 
+| [lavote.gov](lavote.gov) | [lrci-ib-e04.isd.lacounty.gov @usgs @npr @newshour](lrci-ib-e04.isd.lacounty.gov). | 300 | 
+| [lavote.gov](lavote.gov) | [dci-ib-e01.isd.lacounty.gov @foratlanta @la-county-isd](dci-ib-e01.isd.lacounty.gov). | 300 | 
+
+
+## Karen Bass (1953- )
+Karen Bass made history on December 11, 2022 when she was sworn in by Vice President Kamala Harris as the first woman and second Black person (after Tom Bradley) to be mayor of Los Angeles, California, the second largest city in the United States.  Before her election, Bass was a member of Congress, having been elected to the United States House of Representatives in 2011 following a successful six-year post as a California Assembly member. [blackpast.org/african-american-history/bass-karen-1953/](https://blackpast.org/african-american-history/bass-karen-1953/)
+<img alt="image" src="https://github.com/user-attachments/assets/26f6df6d-b8ba-46d5-9dab-5bf69c323236" />
+
+![https://results.lavote.gov/images/county_seal.png](https://results.lavote.gov/images/county_seal.png) 
+
+![https://cdn.kqed.org/wp-content/uploads/sites/10/2026/06/AP26154166135184-scaled-e1780507153418.jpg](https://cdn.kqed.org/wp-content/uploads/sites/10/2026/06/AP26154166135184-scaled-e1780507153418.jpg) 
+
+`Application 'maapauth' has been added to your authorized applications`
+@doug-newman-nasa I accepted an agreement that has no description @CityOfLosAngeles [Karen Bass](https://www.congress.gov/member/karen-bass/B001270)
+Application 'maapauth' has been added to your authorized applications /// [What's New in LA’s Messy Mayor’s Race](https://www.kqed.org/news/12096730/whats-new-in-las-messy-mayors-race) @npr @newshour can it be taken into consideration that I am a legit at risk youth that due to tribal associations may be causing Mayor Bass to catch some heat bc they want the kiddie playboy partied to keep entertaining the city at night ? @NFL I know I got people over there, everyone did not hurt me @nbcnews @disney @blackgirlscode  @whithouse  [Drake "Best I Ever Had" (Thank Me Later) @hulu](https://youtu.be/7yudRAYTlvo)  
+
+<img  alt="image" src="https://github.com/user-attachments/assets/c3779577-37c1-4d69-8893-12207fd00d2a" />
+
+// [Triple Six Mafia - Da Summa (REMIX) ](https://youtu.be/TwYz5iI7pm0) // [Lord Infamous - Crazy Off Da Budsack](https://youtu.be/8ECzS3f2O0w) //
+<img alt="image" src="https://github.com/user-attachments/assets/bbd0947a-189f-40a2-8b68-c8ea5ac12b56" />
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A669007685&color=%236484b4&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/sonta-4" title="Sonta" target="_blank" style="color: #cccccc; text-decoration: none;">Sonta</a> · <a href="https://soundcloud.com/sonta-4/your-mistake" title="Your Mistake Produced By Da Surgeonz" target="_blank" style="color: #cccccc; text-decoration: none;">Your Mistake Produced By Da Surgeonz</a></div>
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/cb1c0329-d445-4499-ae77-f198b8e02818" />
+
+
+<img alt="image @nasa-jpl @blackgirlscode [Sonta - Your MistakE](https://youtu.be/FiGAkDE7s7o?si=G50gtJHKEuvDPEnX) @Cityoflosangeles  " src="https://github.com/user-attachments/assets/f20af207-c645-4eb6-b6b7-0afc0c4dcde6" />
+
+[google.com/search?q=youtube+sonta+your+mistake&rlz=1CASLJZ_enUS1229&oq=youtube+sonta+your+mistake&gs@blackgirlscode @howard-university-web-services](https://www.google.com/search?q=youtube+sonta+your+mistake&rlz=1CASLJZ_enUS1229&oq=youtube+sonta+your+mistake&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigATIHCAUQIRigATIHCAYQIRiPAtIBCDQ1NzVqMGo0qAIBsAIB8QVOuoJwM9tbJvEFTrqCcDPbWyY&sourceid=chrome&ie=UTF-8)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/2e209d99-8f19-4536-928a-d76ff0b16a1c" />
+
+![https://andreforatlanta.com/wp-content/uploads/brizy/imgs/ad_text4-864x347x0x0x864x347x1683237288.png](https://andreforatlanta.com/wp-content/uploads/brizy/imgs/ad_text4-864x347x0x0x864x347x1683237288.png)
+[andreforatlanta.com/ @foratlanta](https://andreforatlanta.com/)
+![https://andreforatlanta.com/wp-content/uploads/brizy/imgs/andre_dickens-footer2-967x1500x0x0x967x1500x1748596599.webp](https://andreforatlanta.com/wp-content/uploads/brizy/imgs/andre_dickens-footer2-967x1500x0x0x967x1500x1748596599.webp)
+<img  alt="image" src="https://github.com/user-attachments/assets/742b1585-0e8c-4edf-95ce-13a61e732ffc" />
+
+# NS Records 
+
+| Name | TTL | Data | 
+|------|-----|------|
+| andreforatlanta.com | 3600 | ns65.domaincontrol.com. | 
+| andreforatlanta.com | 3600 | ns66.domaincontrol.com. | 
+
+
+```
+Rashard Kelly
+Profile Information
+Name: Rashard I Kelly
+Username: rashardkelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 08-24-2026
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
+
+For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Support
+
+
+V 4.231.23 Home NASA Accessibility
+NASA Official: Doug Newman @doug-newman-nasa @nasa-jpl @cityoflosangeles @foratlanta
+@blackgirlscode @howard-university-web0services  @la-county-isd @nasa-giss @nasa-openscapes @podaac
+```
+![ @disneystreaming hi anne hathaway, congrats on the oddesey anyway i was sending pics and wanted CHloe to see what came back on august 4th @disney @foratlanta LanaJHarris play Chloe Bailey sometimes if @blackgirlscode brandy norwood cant https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_093300_093399/ESP_093312_1870_ESP_093246_1870/ESP_093312_1870_ESP_093246_1870_RED.browse.png](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_093300_093399/ESP_093312_1870_ESP_093246_1870/ESP_093312_1870_ESP_093246_1870_RED.browse.png)
+
+![ @nasa-jpl snow ? @nbcnews @newshour @USCbiostats @datadesk @nbcnews @hulu Disney @USGS https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_093300_093399/ESP_093315_0985_ESP_092840_0985/ESP_093315_0985_ESP_092840_0985_RED.browse.png](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_093300_093399/ESP_093315_0985_ESP_092840_0985/ESP_093315_0985_ESP_092840_0985_RED.browse.png)
+
+![ @nasa-giss @whitehouse @foratlanta https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_093300_093399/ESP_093319_1460_ESP_093464_1460/ESP_093319_1460_ESP_093464_1460_RED.browse.png](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_093300_093399/ESP_093319_1460_ESP_093464_1460/ESP_093319_1460_ESP_093464_1460_RED.browse.png)
+
+![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_093300_093399/ESP_093344_2305_ESP_093212_2305/ESP_093344_2305_ESP_093212_2305_RED.browse.png](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_093300_093399/ESP_093344_2305_ESP_093212_2305/ESP_093344_2305_ESP_093212_2305_RED.browse.png)
+![ @USCbiostats https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_093300_093399/ESP_093388_1025_ESP_092834_1025/ESP_093388_1025_ESP_092834_1025_RED.browse.png](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_093300_093399/ESP_093388_1025_ESP_092834_1025/ESP_093388_1025_ESP_092834_1025_RED.browse.png)
+![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_093300_093399/ESP_093364_2155_ESP_093443_2155/ESP_093364_2155_ESP_093443_2155_RED.browse.png](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_093300_093399/ESP_093364_2155_ESP_093443_2155/ESP_093364_2155_ESP_093443_2155_RED.browse.png)
+![ @blackgirlscode @JHUAPL @jhuapl-bio https://eyes.nasa.gov/apps/dsn-now/dsn.html @StateOfCalifornia @cityoflosangeles its in goldstone so @la-county-isd maybe @LowellObservatory https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_093300_093399/ESP_093343_1330_ESP_093277_1330/ESP_093343_1330_ESP_093277_1330_RED.browse.png](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_093300_093399/ESP_093343_1330_ESP_093277_1330/ESP_093343_1330_ESP_093277_1330_RED.browse.png) 
+
+![ @nasa-pds matt damon would like that one @datadesk @nbcnews @hulu Disney https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_093300_093399/ESP_093347_2090_ESP_092859_2090/ESP_093347_2090_ESP_092859_2090_RED.browse.png](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_093300_093399/ESP_093347_2090_ESP_092859_2090/ESP_093347_2090_ESP_092859_2090_RED.browse.png)
+
+
+[Do It How It Go · 8-Ball · MJG](https://youtu.be/tNusjh2nxsM?list=RDtNusjh2nxsM) // [Prophet Posse · Three 6 Mafia](https://youtu.be/1FarcBkP-xk) // [Three 6 Mafia feat UGK - Sippin' on Some Syrup](https://youtu.be/2YVvMfXXG7E) // [Don't Save Her · Project Pat · Crunchy Black](https://youtu.be/Yu___7W69eE) // [Gangsta Boo - Where Dem Dollas At?!](https://youtu.be/s6oq8pASVqw) // [Who Run It · Three 6 Mafia](https://youtu.be/gU7003Juh7c) // [Triple Six Mafia - Da Summa (REMIX) ](https://youtu.be/TwYz5iI7pm0) // [Lord Infamous - Crazy Off Da Budsack](https://youtu.be/8ECzS3f2O0w) // [Drake "Best I Ever Had" (Thank Me Later)](https://youtu.be/7yudRAYTlvo) <~ @nasa-jpl her fve even in longbeach // [Capone-N-Noreaga - Thug Paradise](https://youtu.be/0Ei1mcRvOV4)
+
+---
+
+<img alt="image" src="https://github.com/user-attachments/assets/a4dde0cd-4ce5-4607-aef4-815898335ad8" />
+
+[Community Development/Human Services Committee Meeting @ForAtlanta](https://youtu.be/SYIoWUay0ac)
+[youtube.com/@ATLChannel26](https://www.youtube.com/@ATLChannel26) //////// [Drake "Best I Ever Had" (Thank Me Later)](https://youtu.be/7yudRAYTlvo) <~ @nasa-jpl her fve even in longbeach // [Capone-N-Noreaga - Thug Paradise](https://youtu.be/0Ei1mcRvOV4) @nbcnews 
+<img  alt="image" src="https://github.com/user-attachments/assets/7bbdf546-c76e-4bb2-932a-df6e9835c7d5" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/80ad0779-a3fd-4b41-a02a-131db75213db" />
+
+# HElioPhysics Websites @nasa-jpl
+@ESA @NASAJPL [Sophie Adenot's second spacewalk | U.S. Spacewalk 98 (Official broadcast)](https://youtu.be/a9-7HyV77TU)
+@DeptOfWar there is no easy way to get money or a handset with my current family situation, i should have distanced myself after they started dancing with drake, but i made my bed and i know the county supervisor is helping me fix my relationships, bc this is unacceptable performance for our lab @whitehouse, im sorry [@ForAtlanta youtube.com/watch?v=SYIoWUay0ac](https://www.youtube.com/watch?v=SYIoWUay0ac)
+NASA astronaut Anil Menon and @ESA (European Space Agency) flight engineer Sophie Adenot will begin a spacewalk at 8:35 a.m. EDT (1235 UTC). The pair will finish installing a high-speed communications antenna on the International Space Station; Menon and Adenot began the work on Aug. 18, 2026.
+
+<img  alt="image" src="https://github.com/user-attachments/assets/1b54667e-6578-4e70-9318-276ebef363ea" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I0j7as4MLHk?si=Nan8zdVgZLy2dZEf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## _Parker Solar Probe_ Our First Visit to a Star
+`interActive!!!` < [`parkersolarprobe`.jhuapl.edu/](https://parkersolarprobe.jhuapl.edu/)
+[parker.gsfc.nasa.gov/](https://parker.gsfc.nasa.gov/)
+Two of the transformative advances in our understanding of the Sun and its influence on the solar system were the discovery that the corona is several hundreds of times hotter than the visible solar surface (the photosphere) and the development — and observational confirmation — of the theory of the corona's supersonic expansion into interplanetary space as a "solar wind."
+![https://parker.gsfc.nasa.gov/assets/images/GoddarsSig.png @nasa-giss](https://parker.gsfc.nasa.gov/assets/images/GoddarsSig.png)
+
+![https://parkersolarprobe.jhuapl.edu/News-Center/admin/Press-Releases/images/articles/ParkerCloseup.jpg @nasa-jpl @blackgirlscode @cityoflosangeles](https://parkersolarprobe.jhuapl.edu/News-Center/admin/Press-Releases/images/articles/ParkerCloseup.jpg)
+<img alt="image" src="https://github.com/user-attachments/assets/e8c23615-202a-447c-a23b-953b50ecffc7" />
+[`MissionWebsite` science.nasa.gov/wp-content/uploads/2018/08/Parker-Solar-Probe_Logo-1024x1024-1.png](https://science.nasa.gov/wp-content/uploads/2018/08/Parker-Solar-Probe_Logo-1024x1024-1.png)
+<img   alt="image" src="https://github.com/user-attachments/assets/2d48baa0-b421-4ccd-a5fa-8d431e13ba4a" />
+
+[@NASA Stereo A&b 3d Gallery](https://stereo-ssc.nascom.nasa.gov/gallery/3dimages.shtml)
+### STEREO 3D Images
+[stereo-ssc.nascom.nasa.gov/gallery/3dimages.shtml](https://stereo-ssc.nascom.nasa.gov/gallery/3dimages.shtml)
+[<video controls loading="lazy" poster="https://stereo-ssc.nascom.nasa.gov/img/3dimages/movies/Jul3_171A_post_flare_loops/frame000.jpg"  src="https://stereo-ssc.nascom.nasa.gov/img/3dimages/movies/Jul3_171A_post_flare_loops.mp4" />](https://stereo-ssc.nascom.nasa.gov/img/3dimages/movies/Jul3_171A_post_flare_loops.mp4)
+<img alt="image" src="https://github.com/user-attachments/assets/2c1e640c-b27e-4be0-9139-ff65fa8a561a" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/5d280a4b-fc3d-45f3-833d-6ef278d80b94" />
+
+[https://science.nasa.gov/mission/stereo/](https://science.nasa.gov/mission/stereo/) // [https://sdo.gsfc.nasa.gov/](https://sdo.gsfc.nasa.gov/)
+[eyes.nasa.gov/apps/dsn-now/dsn.html](eyes.nasa.gov/apps/dsn-now/dsn.html)
+<img alt="image PARKER SOLAR PROBE i sTransmitting @nasa-jpl gm @blackgirlscode @JHUAPL @jhuapl-bio https://eyes.nasa.gov/apps/dsn-now/dsn.html @StateOfCalifornia @cityoflosangeles its in goldstone so @la-county-isd maybe @LowellObservatory can help us find griffith on @Github https://griffithobservatory.lacity.gov/ @whitehouse @dhs-gov @howard-university-web-services  " src="https://github.com/user-attachments/assets/1f36e789-0c77-44b1-b5da-4aa12532c2d3" />
+
+@nasa-jpl gm @blackgirlscode my butt is burning ferociously @howard-university-web-services so while i like my workstation position i have to sign off and see if the itching stops @nasa-pds i told lapd to look up @LowellObservatory @CityOfLosAngeles ... the itching and burning stopped all of a sudden so i think someone had a particle array , taser or laser on my chair 
+[Directed Energy Weapons: Ultra-Short Pulse Laser and Atmospheric Characterization - https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-uspl-and-atmospheric-characterization @USNavy](onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-uspl-and-atmospheric-characterization)
+![https://www.onr.navy.mil/themes/custom/onr/logo.png](https://www.onr.navy.mil/themes/custom/onr/logo.png)
+<img  alt="image" src="https://github.com/user-attachments/assets/3d6c81f9-9f06-41ef-b9b4-ba314041205a" />
+
+## Mars from @LowellObservatory 
+[github.com/virtiserv/virtiserv.github.io/blob/master/docs/mars_from_lowell_observatory.pdf](https://github.com/virtiserv/virtiserv.github.io/blob/master/docs/mars_from_lowell_observatory.pdf)
+[github.com/virtiserv/NightWatch](https://github.com/virtiserv/NightWatch)
+<img  alt="image" src="https://github.com/user-attachments/assets/2b039bf4-0cf4-43a4-96b3-89567f746804" />
+@LowellObservatory  hi Its Rashard, I'm Active mission MRO I have been working out of [ @cityoflosangeles](https://www.lapl.org) [Central Library](https://www.discoverlosangeles.com/things-to-do/los-angeles-central-library-the-story-of-an-la-icon) to catch up on my work since its has been difficult to get on computers with my living situation it takes diligence to do research. I saw [Eight Months to Mars](https://youtu.be/_GdBUcwi1LM) and the ` Butler paintings` ([This guy?! @princetonuniversity ? @doug-newman-nasa](https://artmuseum.princeton.edu/art/collections/objects/45434)of the photographs concerned me that there were other landforms that I am not comprehending, you see I help with landings and scouting on that mission ... I was looking over recent Anagylphs at Hirise.org and came across [ESP_012516_1330_ESP_012239_1330](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012500_012599/ESP_012516_1330_ESP_012239_1330/ESP_012516_1330_ESP_012239_1330_RED.thumb.png) and just trying to understand what's going on . . . Our Mayor [KAren Bass](https://mayor.lacity.gov/) is one of our [Congressional Contacts @Nasa-JPL / @Nasa-pds ](https://mayor.lacity.gov/) because she is on the team of people that Govern our county @La-County-Isd @StateOfCAlifornia I don't know what's going on with those lines but I want to hear your opinion someday  @nasa-giss [@Blackgirlscode Commit ae7126d](https://github.com/virtiserv/virtiserv.github.io/commit/ae7126d28b6980d02215d7acf231416f066a7af4)
+![https://foundation.lowell.edu/wp-content/themes/lowell-web_foundation/assets/images/lof-logo.png](https://foundation.lowell.edu/wp-content/themes/lowell-web_foundation/assets/images/lof-logo.png)
+
+![https://github.com/user-attachments/assets/aaa58505-ea24-4ce3-bbcc-97088fe4eaeb](https://github.com/user-attachments/assets/aaa58505-ea24-4ce3-bbcc-97088fe4eaeb)
+
+<img   alt="mars_from_lowell_observatory-21" src="https://github.com/user-attachments/assets/900eff55-079d-4f67-985e-f858a45812f9" />
+
+[@USNAVY @NASA-JPL en.wikipedia.org/wiki/Howard_Russell_Butler](https://en.wikipedia.org/wiki/Howard_Russell_Butler)
+
+![https://upload.wikimedia.org/wikipedia/commons/9/90/Howard_Russell_Butler.jpg](https://upload.wikimedia.org/wikipedia/commons/9/90/Howard_Russell_Butler.jpg)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/16328a52-21a8-41fb-b26c-e36da4b74b28" />
+
+<img   alt="mars_from_lowell_observatory-18" src="https://github.com/user-attachments/assets/3625b27a-3d54-4945-b72d-223ed3e50e12" />
+
+![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012500_012599/ESP_012516_1330_ESP_012239_1330/ESP_012516_1330_ESP_012239_1330_RED.thumb.png](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012500_012599/ESP_012516_1330_ESP_012239_1330/ESP_012516_1330_ESP_012239_1330_RED.thumb.png)
+[MIT Alumni Forum: Decoding the Mystery of Water on Mars](https://youtu.be/JnODU5J767c) // [ @NASA VIKING PROGRAM PIONEERING MARS LANDER HISTORIC FILM 48584](https://youtu.be/JPAyg7-p9oM) // [Planet Mars: 1979](https://youtu.be/dZzY8-nxabA)
+
+[55 Years Ago: Mariner 4 First to Explore Mars - READ @NASA](https://www.nasa.gov/history/55-years-ago-mariner-4-first-to-explore-mars/)
+
+[Shawty Lo - They Know](https://youtu.be/g_aMmSWd9M8?list=RDjwNYov2s3dI) // [Beyoncé - Pretty Hurts](https://youtu.be/LXXQLa-5n5w) // [The Crying Game · Nicki Minaj](https://youtu.be/VSeqlfTz1pE?list=RDVSeqlfTz1pE) // [Beef · Boogie Down Productions](https://youtu.be/nn4JLAmbbJk) // [My Philosophy · Boogie Down Productions](https://youtu.be/YzbZvPx9V1A) // [JAŸ-Z - On To The Next One ft. Swizz Beatz](https://youtu.be/VTYXVwrWz4Y) // [Estimated Prophet (2014 Remaster) · Grateful Dead](https://youtu.be/xgJ-UKYNNZI)
+
+
+
+
+
+# HOT 97 News Live! 8/24/26
+[WATCH - https://youtu.be/t86a5MPKf4g](https://youtu.be/t86a5MPKf4g) // [🎧Beef · Boogie Down Productions🎧 @FDA](https://youtu.be/nn4JLAmbbJk) +++++ [_`WATCH`_@Whitehouse Does Trump Have a Side Chick in the Oval Office? @DeptoFWar](https://youtu.be/H1D5TqRJfVo?t=558) 
+<img   alt="image" src="https://github.com/user-attachments/assets/b052502b-0608-439e-9693-57e861d60417" />
+[en.wikipedia.org/wiki/Melania_Trump](https://en.wikipedia.org/wiki/Melania_Trump) //
+[en.wikipedia.org/wiki/Ivana_Trump](https://en.wikipedia.org/wiki/Ivana_Trump) //
+[en.wikipedia.org/wiki/Marla_Maples](https://en.wikipedia.org/wiki/Marla_Maples) //
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b774579f-bf29-424e-a11e-393492df67e4" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/3ecc0b8d-bd73-4bbe-8537-2493e5a3ebd1" />
+<img  alt="image" src="https://github.com/user-attachments/assets/844648d7-34e5-480e-bff0-e5c1362e3adc" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/596f21e2-d031-444b-ab5a-f682b1c8696c" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/f98ff1db-2e4b-4cf4-8a46-f542ee4f5145" />
+
+#### Remarks from Secretary of the Treasury Scott Bessent on Operation Economic Outcast against Iran [Read - home.treasury.gov/news/press-releases/sb0614/](https://home.treasury.gov/news/press-releases/sb0614/)
+> Aug 24 2026 - Today, at President Trump’s direction, the United States Treasury has begun Operation Economic Outcast – an unprecedented campaign against the Islamic Republic of Iran and its enablers. @Commercegov @fbicyber @nasa-jpl @whitehouse @US-Department-of-the-Treasury @DeptOfWar
+<img  alt="image" src="https://github.com/user-attachments/assets/e93c18b9-8da3-4e44-bfaa-fce85b65b700" />
+
 
 ## Checking In On Pacific Palisades With Councilmember Traci Park
  [WATCH - youtu.be/d6ykSPXXzxQ?si=aY-yHzhrdmRSW-AR](https://youtu.be/d6ykSPXXzxQ?si=aY-yHzhrdmRSW-AR)
