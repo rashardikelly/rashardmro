@@ -14,6 +14,653 @@ mathjax: true
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
 
+[WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=cM5MXqzmjrEwHEqu) // [Take Me As I Am · Mary J. Blige](https://youtu.be/Xe3nyNHPsLY) // [Unfunky UFO · Parliament](https://youtu.be/jjQ4iYh039g) // [Give Up The Funk (Tear The Roof Off The Sucker) · Parliament](https://youtu.be/3HU-KdHmYeA) // [@CityOfLosAngeles Bop Gun (Endangered Species) · Parliament ](https://youtu.be/4bgTI3KN4d0) // [Stephanie Mills & Teddy Pendergrass   Two Hearts](https://youtu.be/4wDsOQwQetI)
+
+---
+
+
+[<video controls loading="lazy"  poster="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04998/opgs/edr/ncam/NLB_841193966EDR_F1241978NCAM00354M_.JPG"  src="https://archive.org/download/mars-geology-imaging-gifs/MARSgeologySOL4996-8.mp4" />](https://archive.org/download/mars-geology-imaging-gifs/MARSgeologySOL4996-8.mp4)
+
+
+>Curiosity Raw Images [link @nasa-pds @nasa-jpl](https://mars.nasa.gov/msl/multimedia/raw-images/)
+
+[@nasa-jpl archive.org/download/mars-geology-imaging-gifs/MARSgeologySOL4996-8.gif](https://archive.org/download/mars-geology-imaging-gifs/MARSgeologySOL4996-8.gif)
+
+#### Sol 4998: Left Navigation Camera
+![https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04998/opgs/edr/ncam/NLB_841193966EDR_F1241978NCAM00354M_.JPG](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04998/opgs/edr/ncam/NLB_841193966EDR_F1241978NCAM00354M_.JPG)
+
+![https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04998/opgs/edr/ncam/NLB_841193998EDR_F1241978NCAM00354M_.JPG](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04998/opgs/edr/ncam/NLB_841193998EDR_F1241978NCAM00354M_.JPG)
+
+#### Sol 4996: Left Navigation Camera
+![https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04996/opgs/edr/ncam/NLB_841010297EDR_F1241872NCAM00292M_.JPG](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04996/opgs/edr/ncam/NLB_841010297EDR_F1241872NCAM00292M_.JPG)
+
+#### Sol 4998: Left Navigation Camera
+![https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04998/opgs/edr/ncam/NLB_841193197EDR_F1241978NCAM00296M_.JPG](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04998/opgs/edr/ncam/NLB_841193197EDR_F1241978NCAM00296M_.JPG)
+
+<img alt="image @usnavy" src="https://github.com/user-attachments/assets/d820177c-3fe8-48ac-b18c-e5e8dc07e907" />
+
+
+![https://digitalcommons.georgiasouthern.edu/assets/md5images/34e81721d9cc0a5bfdd654466eb18d13.png](https://digitalcommons.georgiasouthern.edu/assets/md5images/34e81721d9cc0a5bfdd654466eb18d13.png)
+
+[@ForAtlanta digitalcommons.georgiasouthern.edu/savannah-signs/411/](https://digitalcommons.georgiasouthern.edu/savannah-signs/411/)
+
+<img alt="image" src="https://github.com/user-attachments/assets/36476a4d-b296-4040-b96f-c68493a476d7" />
+
+![https://freeagentscrew.com/wp-content/uploads/2024/08/2024-FA-Site-header.jpg](https://freeagentscrew.com/wp-content/uploads/2024/08/2024-FA-Site-header.jpg) 
+![https://freeagentscrew.com/wp-content/uploads/2013/04/Zelot001.jpg](https://freeagentscrew.com/wp-content/uploads/2013/04/Zelot001.jpg)
+![https://freeagentscrew.com/wp-content/uploads/2013/04/Saint0005.jpg](https://freeagentscrew.com/wp-content/uploads/2013/04/Saint0005.jpg)
+![https://freeagentscrew.com/wp-content/uploads/2013/04/Saint0008.jpg](https://freeagentscrew.com/wp-content/uploads/2013/04/Saint0008.jpg)
+![https://freeagentscrew.com/wp-content/uploads/2013/04/DK0270.jpg](https://freeagentscrew.com/wp-content/uploads/2013/04/DK0270.jpg)
+
+@foratlanta the preacher at [TheRowLA](https://www.therowchurch.com/) might be on this track [Uni-4-Orm · Ras Kass · Heltah Skeltah · Canibus youtu.be/GoZGkZtJTcs?si=C3vB4ssw2FW3Z-lB](https://youtu.be/GoZGkZtJTcs?si=C3vB4ssw2FW3Z-lB) // []()
+
+
+
+
+
+[WATCH - https://www.youtube.com/live/d_xz6Y46XY4?si=6CPVNESczAnupxWI](https://www.youtube.com/live/d_xz6Y46XY4?si=6CPVNESczAnupxWI)
+[@la-county-isd @Cityofsantamonica](https://youtu.be/1Rc8L5A_vHs?si=jRX1OjRjzOpig0UB)
+<img  alt="image" src="https://github.com/user-attachments/assets/92cdc00a-9c18-462c-bb3b-9af0aec6dcd3" />
+
+```
+ 
+
+
+@Supadupacee
+​
+
+#1
+​On this last day of August on a manic Monday, live from the Hot 97 TV Studios in Atlanta, Georgia, this is Hot 97 News and the news is newsing with Lana Harris.
+
+
+@Supadupacee
+​
+
+#1
+​This streaming 411 show will start in nine minutes. So get ready, chat, for some fun.
+
+
+@Supadupacee
+​
+
+#1
+​Good Monday evening, Lana and Will aka Airhorn Willie with the air horn sound effect. How was the weekend?
+
+
+@Supadupacee
+​
+
+#1
+​On tonight’s show, we got “The Lana Rundown”, “America’s Hottest Headlines”, “You Can’t Make This Up” and the 411 in entertainment.
+
+
+@Supadupacee
+​
+
+#1
+​Are you off next Monday for Labor Day, Lana?
+
+
+@Projectkang
+​
+
+#2
+​Good evening mortals
+
+
+@BumpPJohnson
+​​peace love and unity
+
+
+@Supadupacee
+​
+
+#1
+​Starting off the show is the famous Hot 97 TV theme music, compliments of the almighty A.K.
+
+
+@Projectkang
+​
+
+#2
+​war and famine and pestilence
+
+
+@Supadupacee
+​
+
+#1
+​Good Monday evening, Bump and Kang.
+
+
+@Projectkang
+​
+
+#2
+​waddup Supa
+
+
+@LaToyaEvans-v3f
+​​Good evening all!
+
+
+@Projectkang
+​
+
+#2
+​Hola LaToya
+
+
+@Supadupacee
+​
+
+#1
+​Good Monday evening, Latoya. How was your weekend?
+
+
+@BumpPJohnson
+​​that's wild
+
+
+@Projectkang
+​
+
+#2
+​I've always wanted to go there..not now
+
+
+@Supadupacee
+​
+
+#1
+​Great Caesar’s ghost! Flood is everywhere in this country.
+
+
+@KingRavensburner
+​​Prayers 🙏🏿
+
+
+@Projectkang
+​
+
+#2
+​Poseidon has waged war on earth
+
+
+@NeilWright-fc8sc
+​
+
+#3
+​Hey happy Monday Lana wassup
+
+
+@BumpPJohnson
+​​is that the hoover dam you cross to Nevada from arizona
+
+
+@qbmichaelog11
+​​👋😁
+
+
+@Supadupacee
+​
+
+#1
+​Good Monday evening, KingRaven and Neil.
+
+
+@Supadupacee
+​
+
+#1
+​Good Monday evening, QBM.
+
+
+@NeilWright-fc8sc
+​
+
+#3
+​First Naoals now Grand canyon WOW
+
+
+@NeilWright-fc8sc
+​
+
+#3
+​1st Nepal
+
+
+@Projectkang
+​
+
+#2
+​belated 🤜 Bump, Qbm
+
+
+@KingRavensburner
+​​Good evening 🌆. Hopeful for peace
+
+
+@NeilWright-fc8sc
+​
+
+#3
+​Where the next flash flood going to be
+
+
+@Projectkang
+​
+
+#2
+​yerr Krb
+
+
+@KingRavensburner
+​​Project Kang with the new PFP
+
+
+@NeilWright-fc8sc
+​
+
+#3
+​If you live near a similar area move quickly away from it
+
+
+@Projectkang
+​
+
+#2
+​yeah my girl took me to the studio
+
+Welcome to live chat! Remember to guard your privacy and abide by our community guidelines. Learn more
+
+@NeilWright-fc8sc
+​
+
+#3
+​Sounds like Russia underwater bombs
+
+
+@thakasErikaselassie_kelly
+​​hi @lanajharris im out of time @repkarenbass your town has no resources for honest men
+```
+
+<img  alt="image" src="https://github.com/user-attachments/assets/0764ac87-0bb1-4185-b9b4-a3822938ae67" />
+
+
+[@NEWSHOUR @USGS ajc.com/politics/2026/08/prominent-black-democrats-rally-behind-keisha-lance-bottoms/](https://www.ajc.com/politics/2026/08/prominent-black-democrats-rally-behind-keisha-lance-bottoms/)
+<img alt="image" src="https://github.com/user-attachments/assets/075c03d3-7ccb-4010-8193-23a14adc20e8" />
+
+[@foratlanta @newshour @nasa-jpl atlantanewsfirst.com/video/2026/08/31/anf-host-gubernatorial-town-hall-debate-between-keisha-lance-bottoms-rick-jackson/](https://www.atlantanewsfirst.com/video/2026/08/31/anf-host-gubernatorial-town-hall-debate-between-keisha-lance-bottoms-rick-jackson/)
+<img alt="image" src="https://github.com/user-attachments/assets/7b219c6e-ca4f-4041-918a-1543238adcc5" />
+
+# Keisha: At the End of the Day,
+This Election Is About Making Lives Better 
+| PoliAlert 08.28.26 [WATCH - youtu.be/cqVtphubILA?si=POW31fu1y-3UjroB @nasa-jpl @foratlanta @CityOfLosAngeles ](https://youtu.be/cqVtphubILA?si=POW31fu1y-3UjroB)
+Keisha Lance Bottoms is a proven fighter with battle-tested executive experience who will put Georgians first and stand up for us all. She has spent the past year traveling to every corner of the state, listening to Georgians’ concerns, and building a plan that leaves no community behind. [awpc.cattcenter.iastate.edu/directory/keisha-lance-bottoms](https://awpc.cattcenter.iastate.edu/directory/keisha-lance-bottoms) // [@cbs-news-data georgia-governors-race-keisha-lance-bottoms-accepts-6-debate-offers-pressures-rick-jackson-to-join-her/](https://www.cbsnews.com/atlanta/news/georgia-governors-race-keisha-lance-bottoms-accepts-6-debate-offers-pressures-rick-jackson-to-join-her/) /// [`RevWARNOCK` @CityOfLosangeles @NASA-PDS @newshour cbsnews.com/atlanta/news/sen-warnock-calls-for-statewide-data-center-moratorium-after-regulators-approved-massive-openai-facility/?intcid=CNR-01-0623](https://www.cbsnews.com/atlanta/news/sen-warnock-calls-for-statewide-data-center-moratorium-after-regulators-approved-massive-openai-facility/?intcid=CNR-01-0623) // [Keisha Lance Bottoms to hold town hall in Macon as she campaigns for Georgia governor](https://www.41nbc.com/keisha-lance-bottoms-to-hold-town-hall-in-macon-as-she-campaigns-for-georgia-governor/)
+
+Keisha is ready to deliver on day one as governor because she understands that when Georgia families succeed, Georgia succeeds.
+![https://awpc.cattcenter.iastate.edu/themes/custom/iastate2022/img/iowa-state-university-logo-no-tagline-red.svg @lmco](https://awpc.cattcenter.iastate.edu/themes/custom/iastate2022/img/iowa-state-university-logo-no-tagline-red.svg) 
+
+<img   alt="image @foratlanta" src="https://github.com/user-attachments/assets/f6fa1b7c-3296-48bd-bf15-0b88931e30d2" />
+<img alt="image" src="https://github.com/user-attachments/assets/11357f9d-9fe3-4e90-afc3-c7a9f38eddb8" />
+
+Name: Rashard I Kelly
+Username: rashardkelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 08-30-2026
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
+
+For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Support
+
+
+V 4.231.23 Home NASA Accessibility
+NASA Official: Doug Newman @doug-newman-nasa @howard-university-web-services @newshour 
+![https://nul.org/themes/custom/apollo/logo.jpg](https://nul.org/themes/custom/apollo/logo.jpg) 
+[nul.org/basic-page/state-black-america-mayor-keisha-lance-bottoms](https://nul.org/basic-page/state-black-america-mayor-keisha-lance-bottoms)
+<img  alt="image @foratlanta " src="https://github.com/user-attachments/assets/7ea9c8d2-15c0-45b0-b1c5-1adb70fdf178" />
+
+
+[https://unit.aist.go.jp/igg/rs-rg/ourresearch.html#resource](https://unit.aist.go.jp/igg/rs-rg/ourresearch.html#resource) 
+
+
+@nasa-jpl @nasa-pds I have not left Los Angeles county and that's my network login history @Github @emergingCoders @howard-university-web-services @CityOfLosAngeles @stateofcalifornia @la-county-isd holly Mitchell 
+Los Angeles 155.190.3.7
+active
+Your current session
+Seen in US
+Palo Alto 155.190.2.31
+active
+Last accessed on Aug 31, 2026
+Seen in
+Denver 155.190.9.5
+active
+Last accessed on Aug 31, 2026
+Seen in US
+Palo Alto 155.190.2.32
+active
+Last accessed on Aug 30, 2026
+Seen in US
+Los Angeles 155.190.3.5
+active
+Last accessed on Aug 30, 2026
+Seen in US
+Los Angeles 155.190.3.5
+stale
+Last accessed on Aug 30, 2026
+Seen in US
+# Naked DoorDash Driver, March on Washington & Cheese Ball Spill
+[WATCH - https://youtu.be/ZXL33_MwOYA](https://youtu.be/ZXL33_MwOYA)
+
+<img alt="image  @StateOfCalifornia @saccounty  @eodis-nasa @nasa-jpl @blackgirlscode  " src="https://github.com/user-attachments/assets/edbfbb97-bc9d-4300-9329-ba0fede78a04" />
+
+
+[@nasa-jpl @doug-newman-nasa @whitehouse @DeptOfWar @JAXA @Cia mapp styles gbank.gsj.jp/EasyWMSView/cgi-bin/GSJ_Preview_numz18.php?dataset=GSJ_WMTS_miscellaneous_00012](https://gbank.gsj.jp/EasyWMSView/cgi-bin/GSJ_Preview_numz18.php?dataset=GSJ_WMTS_miscellaneous_00012)
+<img  alt="image  @StateOfCalifornia @saccounty  @eodis-nasa @nasa-jpl @blackgirlscode" src="https://github.com/user-attachments/assets/f1f26af4-7ed6-4547-8be8-c4718ddb6dd8" />
+
+<img   alt="image  @StateOfCalifornia @saccounty  @eodis-nasa @nasa-jpl @blackgirlscode" src="https://github.com/user-attachments/assets/62e6c041-34ef-4380-bd16-09b2f0874e15" />
+
+[V2cam] Kīlauea volcano, Hawaii (east Halemaʻumaʻu crater)
+[Watch - @CityOfLosangeles thiis our work too @nasa-jpl @USGS](https://www.youtube.com/watch?v=HggWKlZv9yk)
+@StateOfCalifornia so I check in and there's other volcanos to check on and [@nasa Firms](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@0.0,0.0,3.0z) tracks them /// @nasa-jpl [https://gbank.gsj.jp/madas/?lang=en](https://gbank.gsj.jp/madas/?lang=en) notes on aster later so @nasa-pds what is Lana Harris is it you ? if it is I'm worried because she might have drug problem... its her reporting @ForAtlanta [@whitehouse](https://youtu.be/0D-f01H6Kos?t=66) 
+
+<img alt="image  @StateOfCalifornia @saccounty  @eodis-nasa @nasa-jpl @blackgirlscode" src="https://github.com/user-attachments/assets/7787bbfa-79b3-403c-995e-5606bc89bab7" />
+
+<img alt="image @StateOfCalifornia @saccounty  @eodis-nasa @nasa-jpl @blackgirlscode " src="https://github.com/user-attachments/assets/86f830c7-6673-428a-be75-ae18ff6245a0" />
+
+![https://unit.aist.go.jp/igg/rs-rg/image/moon.jpg @howard-university-web-services ](https://unit.aist.go.jp/igg/rs-rg/image/moon.jpg)
+
+![asterweb.jpl.nasa.gov/images/GDEM-10km-colorized.png](https://asterweb.jpl.nasa.gov/images/GDEM-10km-colorized.png)
+
+
+@whitehouse we need help cleaning up old live feeds @youtube sorry everyone! @nbcnews
+Mauna Loa Eruption, HI - @USGS live stream 
+@nasa-jpl ~~happening now~~ @CityOfLosAngeles @Whitehouse 
+@hsfl @UniversityOfHawaii [WATCH - youtu.be/Oal4j3Ipk0w](https://youtu.be/Oal4j3Ipk0w)
+Earth Sciences
+Andrew Wang Media Relations Specialist
+626-379-6874 @USGS @La-County-isd 
+<img alt="image" src="https://github.com/user-attachments/assets/58059010-2290-414b-8ab8-08ac73925ab6" />
+
+
+
+## Nancy Grace Roman Space Telescope Launch 
+- [WATCH @nasa-pds @CityOfLosAngeles @CityOfSantaMonica](https://youtu.be/9wq3VHsL_bE)
+<img  alt="image" src="https://github.com/user-attachments/assets/bef6e683-8463-4a3e-ac3e-2653d185d8cc" />
+<img  alt="image" src="https://github.com/user-attachments/assets/5739366e-ec7a-4f50-9acd-40780e34a9a3" />
+
+<img  alt="image @StateOfCalifornia @saccounty  @eodis-nasa @nasa-jpl @blackgirlscode  " src="https://github.com/user-attachments/assets/fd208a06-3942-47b2-9876-4afd6502c29f" />
+
+@nasa-pds mro is transmitting data I will send an email @nasa-jpl 
+<img  alt="image" src="https://github.com/user-attachments/assets/ff7b17e8-6b0e-4d4f-8441-d4aba0bf680a" />
+
+![https://www.cdscc.nasa.gov/Images/Antennas/antennapg_dss34_1.jpg @StateOfCalifornia @saccounty  @eodis-nasa @nasa-jpl @blackgirlscode ](https://www.cdscc.nasa.gov/Images/Antennas/antennapg_dss34_1.jpg) 
+
+SPACECRAFT
+NAME Mars Reconnaissance Orbiter
+
+RANGE
+-
+
+ROUND-TRIP LIGHT TIME
+-
+
+ANTENNA NAME [DSS 34](https://www.cdscc.nasa.gov/Images/Antennas/antennapg_dss34_1.jpg)
+
+ACTIVITY
+Spacecraft Telemetry, Tracking, and Command
+
+AZIMUTH
+15 deg
+
+ELEVATION
+30 deg
+
+WIND SPEED
+0 km/hr
+
+MODE
+-
+
+UP SIGNAL
+SOURCE
+MARS RECONNAISSANCE ORBITER
+
+FREQUENCY BAND
+X
+
+POWER TRANSMITTED
+0.0 x 100 kW
+
+DOWN SIGNAL
+SOURCE:MARS RECONNAISSANCE ORBITER
+
+FREQUENCY BAND X
+
+DATA RATE 1.500 Mb/sec
+
+POWER RECEIVED -120 dBm (1.0 x 10-18 kW)
+<img alt="image @StateOfCalifornia @saccounty  @eodis-nasa @nasa-jpl @blackgirlscode " src="https://github.com/user-attachments/assets/d6944058-9585-43dd-9ebd-64b35ad4c0ff" />
+
+
+Mars Reconnaissance Orbiter Launch Press Kit
+[Download - PDF @caltechlibrary](https://assets.science.nasa.gov/content/dam/science/psd/mars/downloadable_items/4/4/44746_mro-launch.pdf?emrc=6a95ee5e626ab) 
+![ @StateOfCalifornia @saccounty  @eodis-nasa @nasa-jpl @blackgirlscode  assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/resources/detail_files/2/4/24894_mro-launch-web.jpg @cityoflosangeles @nasa-jpl @nasa-pds @blackgirlscode @whitehouse @la-county-isd](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/resources/detail_files/2/4/24894_mro-launch-web.jpg)
+
+![https://upload.wikimedia.org/wikipedia/commons/1/18/Components_of_Mars_Reconnaissance_Orbiter.png](https://upload.wikimedia.org/wikipedia/commons/1/18/Components_of_Mars_Reconnaissance_Orbiter.png) 
+
+![https://i2.wp.com/onlineobservatory.eu/wp-content/uploads/2021/02/M_MRO.png @nasa-pds @howard-university-web-service @nbcnews @disney @hulu](https://i2.wp.com/onlineobservatory.eu/wp-content/uploads/2021/02/M_MRO.png)
+
+![https://upload.wikimedia.org/wikipedia/commons/6/6b/Mars_Reconnaissance_Orbiter_insignia.png](https://upload.wikimedia.org/wikipedia/commons/6/6b/Mars_Reconnaissance_Orbiter_insignia.png) 
+
+![https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png](https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/c18ffd45-1ae6-429c-85ac-bd58c7cf5559" />
+
+![@nasa-pds https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXUN3nV_T1jSYlYgqMnFaFfoeesgZJZlTzQY1R_aCYDrgxyXwy_XAJVeTM&s=10](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXUN3nV_T1jSYlYgqMnFaFfoeesgZJZlTzQY1R_aCYDrgxyXwy_XAJVeTM&s=10) 
+
+# Naked DoorDash Driver, March on Washington & Cheese Ball Spill
+[WATCH - https://youtu.be/ZXL33_MwOYA](https://youtu.be/ZXL33_MwOYA)
+<img alt="image @StateOfCalifornia @saccounty  @eodis-nasa @nasa-jpl @blackgirlscode " src="https://github.com/user-attachments/assets/86f830c7-6673-428a-be75-ae18ff6245a0" />
+<img alt="image  @StateOfCalifornia @saccounty  @eodis-nasa @nasa-jpl @blackgirlscode  " src="https://github.com/user-attachments/assets/edbfbb97-bc9d-4300-9329-ba0fede78a04" />
+
+#  "You Are Raising Boys To Be Men That You Don't Want To Be With"
+| Big Facts [WATCH - youtube.com/watch?v=Vi-bEaFKzHc](https://www.youtube.com/watch?v=Vi-bEaFKzHc)
+<img alt="image @StateOfCalifornia @saccounty  @eodis-nasa @nasa-jpl @blackgirlscode " src="https://github.com/user-attachments/assets/0e4784ba-dc94-4412-94ef-22b868d7b9f2" />
+
+
+# Nancy Grace Roman_Madrid_DSN [homepage @nasa-giss](https://www.mdscc.nasa.gov/index.php/en/start/)
+@nasa-jpl / @caltech / @ucla  [DSN](https://eyes.nasa.gov/apps/dsn-now/dsn.html) [LRo - Lunar Reconnocince Orbiter @Blackgirlscode @deptofwar](https://pds-geosciences.wustl.edu/missions/lro/) // [Lunar Reconnaissance Orbiter Stories](https://science.nasa.gov/mission/lro/stories/) // [mars.nasa.gov/mars2020/multimedia/raw-images/NRF_1955_0840498681_941ECM_N0910124NCAM03955_07_195J](https://mars.nasa.gov/mars2020/multimedia/raw-images/NRF_1955_0840498681_941ECM_N0910124NCAM03955_07_195J) /// [diviner.ucla.edu/single-post/2016/07/26/extended-mission-3](https://www.diviner.ucla.edu/single-post/2016/07/26/extended-mission-3) // [lroc.im-ldi.com/](https://lroc.im-ldi.com/) // [science.nasa.gov/mission/lro/](https://science.nasa.gov/mission/lro/) ////////// [Björk - Post (1995) Full Album](https://youtu.be/Y0WO2Km-r94?si=SoqIs3Ygg-joRKmV) ~> @[Blackgirlscode @cbs-news-data](https://spaceplace.nasa.gov/dsn-game/en/) /// [insightsonindia.com/2019/10/10/`lunar-reconnaissance-orbiter-lro-3`/ @isro](https://www.insightsonindia.com/2019/10/10/lunar-reconnaissance-orbiter-lro-3/) 
+<img  alt="image @StateOfCalifornia @saccounty  @eodis-nasa @nasa-jpl @blackgirlscode " src="https://github.com/user-attachments/assets/117e8ed4-aca6-4cf7-96cd-c498ebc69324" />
+
+[hollyjmitchell.com/about](https://www.hollyjmitchell.com/about)
+![https://static.wixstatic.com/media/e870e6_6bc3fd7bdf4d4011a833df88f8671bd9~mv2_d_3104_2960_s_4_2.png/v1/fill/w_350,h_334,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e870e6_6bc3fd7bdf4d4011a833df88f8671bd9~mv2_d_3104_2960_s_4_2.png @StateOfCalifornia @saccounty  @eodis-nasa @nasa-jpl @blackgirlscode ](https://static.wixstatic.com/media/e870e6_6bc3fd7bdf4d4011a833df88f8671bd9~mv2_d_3104_2960_s_4_2.png/v1/fill/w_350,h_334,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e870e6_6bc3fd7bdf4d4011a833df88f8671bd9~mv2_d_3104_2960_s_4_2.png)
+@nasa-pds mro is transmitting data I will send an email @nasa-jpl 
+<img  alt="image" src="https://github.com/user-attachments/assets/ff7b17e8-6b0e-4d4f-8441-d4aba0bf680a" />
+
+![https://www.cdscc.nasa.gov/Images/Antennas/antennapg_dss34_1.jpg](https://www.cdscc.nasa.gov/Images/Antennas/antennapg_dss34_1.jpg) 
+
+SPACECRAFT
+NAME Mars Reconnaissance Orbiter
+
+RANGE
+-
+
+ROUND-TRIP LIGHT TIME
+-
+
+ANTENNA NAME [DSS 34](https://www.cdscc.nasa.gov/Images/Antennas/antennapg_dss34_1.jpg)
+
+ACTIVITY
+Spacecraft Telemetry, Tracking, and Command
+
+AZIMUTH
+15 deg
+
+ELEVATION
+30 deg
+
+WIND SPEED
+0 km/hr
+
+MODE
+-
+
+UP SIGNAL
+SOURCE
+MARS RECONNAISSANCE ORBITER
+
+FREQUENCY BAND
+X
+
+POWER TRANSMITTED
+0.0 x 100 kW
+
+DOWN SIGNAL
+SOURCE:MARS RECONNAISSANCE ORBITER
+
+FREQUENCY BAND X
+
+DATA RATE 1.500 Mb/sec
+
+POWER RECEIVED -120 dBm (1.0 x 10-18 kW)
+<img alt="image" src="https://github.com/user-attachments/assets/d6944058-9585-43dd-9ebd-64b35ad4c0ff" />
+
+
+Mars Reconnaissance Orbiter Launch Press Kit
+[Download - PDF @caltechlibrary](https://assets.science.nasa.gov/content/dam/science/psd/mars/downloadable_items/4/4/44746_mro-launch.pdf?emrc=6a95ee5e626ab) 
+![https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/resources/detail_files/2/4/24894_mro-launch-web.jpg @cityoflosangeles @nasa-jpl @nasa-pds @blackgirlscode @whitehouse @la-county-isd](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/resources/detail_files/2/4/24894_mro-launch-web.jpg)
+
+![https://upload.wikimedia.org/wikipedia/commons/1/18/Components_of_Mars_Reconnaissance_Orbiter.png](https://upload.wikimedia.org/wikipedia/commons/1/18/Components_of_Mars_Reconnaissance_Orbiter.png) 
+
+![https://i2.wp.com/onlineobservatory.eu/wp-content/uploads/2021/02/M_MRO.png @nasa-pds @howard-university-web-service @nbcnews @disney @hulu](https://i2.wp.com/onlineobservatory.eu/wp-content/uploads/2021/02/M_MRO.png)
+
+![https://upload.wikimedia.org/wikipedia/commons/6/6b/Mars_Reconnaissance_Orbiter_insignia.png](https://upload.wikimedia.org/wikipedia/commons/6/6b/Mars_Reconnaissance_Orbiter_insignia.png) 
+
+![https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png](https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/c18ffd45-1ae6-429c-85ac-bd58c7cf5559" />
+
+![@nasa-pds https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXUN3nV_T1jSYlYgqMnFaFfoeesgZJZlTzQY1R_aCYDrgxyXwy_XAJVeTM&s=10](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXUN3nV_T1jSYlYgqMnFaFfoeesgZJZlTzQY1R_aCYDrgxyXwy_XAJVeTM&s=10) 
+
+# Naked DoorDash Driver, March on Washington & Cheese Ball Spill
+[WATCH - https://youtu.be/ZXL33_MwOYA](https://youtu.be/ZXL33_MwOYA)
+<img alt="image" src="https://github.com/user-attachments/assets/86f830c7-6673-428a-be75-ae18ff6245a0" />
+
+#  "You Are Raising Boys To Be Men That You Don't Want To Be With"
+| Big Facts [WATCH - youtube.com/watch?v=Vi-bEaFKzHc](https://www.youtube.com/watch?v=Vi-bEaFKzHc)
+<img alt="image" src="https://github.com/user-attachments/assets/0e4784ba-dc94-4412-94ef-22b868d7b9f2" />
+
+
+# Nancy Grace Roman_Madrid_DSN [homepage @nasa-giss](https://www.mdscc.nasa.gov/index.php/en/start/)
+@nasa-jpl / @caltech / @ucla  [DSN](https://eyes.nasa.gov/apps/dsn-now/dsn.html) [LRo - Lunar Reconnocince Orbiter @Blackgirlscode @deptofwar](https://pds-geosciences.wustl.edu/missions/lro/) // [Lunar Reconnaissance Orbiter Stories](https://science.nasa.gov/mission/lro/stories/) // [mars.nasa.gov/mars2020/multimedia/raw-images/NRF_1955_0840498681_941ECM_N0910124NCAM03955_07_195J](https://mars.nasa.gov/mars2020/multimedia/raw-images/NRF_1955_0840498681_941ECM_N0910124NCAM03955_07_195J) /// [diviner.ucla.edu/single-post/2016/07/26/extended-mission-3](https://www.diviner.ucla.edu/single-post/2016/07/26/extended-mission-3) // [lroc.im-ldi.com/](https://lroc.im-ldi.com/) // [science.nasa.gov/mission/lro/](https://science.nasa.gov/mission/lro/) ////////// [Björk - Post (1995) Full Album](https://youtu.be/Y0WO2Km-r94?si=SoqIs3Ygg-joRKmV) ~> @[Blackgirlscode @cbs-news-data](https://spaceplace.nasa.gov/dsn-game/en/) /// [insightsonindia.com/2019/10/10/`lunar-reconnaissance-orbiter-lro-3`/ @isro](https://www.insightsonindia.com/2019/10/10/lunar-reconnaissance-orbiter-lro-3/)
+<img  alt="image" src="https://github.com/user-attachments/assets/117e8ed4-aca6-4cf7-96cd-c498ebc69324" />
+
+[hollyjmitchell.com/about](https://www.hollyjmitchell.com/about)
+![https://static.wixstatic.com/media/e870e6_6bc3fd7bdf4d4011a833df88f8671bd9~mv2_d_3104_2960_s_4_2.png/v1/fill/w_350,h_334,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e870e6_6bc3fd7bdf4d4011a833df88f8671bd9~mv2_d_3104_2960_s_4_2.png](https://static.wixstatic.com/media/e870e6_6bc3fd7bdf4d4011a833df88f8671bd9~mv2_d_3104_2960_s_4_2.png/v1/fill/w_350,h_334,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e870e6_6bc3fd7bdf4d4011a833df88f8671bd9~mv2_d_3104_2960_s_4_2.png)
+
+[🎮spaceplace.nasa.gov/dsn-game/en/](https://spaceplace.nasa.gov/dsn-game/en/)
+<img  alt="image" src="https://github.com/user-attachments/assets/fd61e003-1565-48de-8504-a5b5276570c1" />
+
+![https://www.hollyjmitchell.com/_next/image?url=https%3A%2F%2Fmedia.designedtorun.com%2F5a7f31fb-4ca3-458b-86e1-c9a2c104048b%2FHolly_Mitchell-logo_designs_RE-ELECT-r0-14---runcbt%3A%3A0%2Ccbl%3A%3A140.71361502347418%2Ccbw%3A%3A406.57276995305165%2Ccbh%3A%3A300%2Cd%3A%3A1676042294918%2Co%3A%3Ahttps%3A--slash----slash--media.designedtorun.com--slash--5a7f31fb-4ca3-458b-86e1-c9a2c104048b--slash--1676042293913-Holly_Mitchell-logo_designs_RE-ELECT-r0-14-.pngrun--.png&w=1920&q=75](https://www.hollyjmitchell.com/_next/image?url=https%3A%2F%2Fmedia.designedtorun.com%2F5a7f31fb-4ca3-458b-86e1-c9a2c104048b%2FHolly_Mitchell-logo_designs_RE-ELECT-r0-14---runcbt%3A%3A0%2Ccbl%3A%3A140.71361502347418%2Ccbw%3A%3A406.57276995305165%2Ccbh%3A%3A300%2Cd%3A%3A1676042294918%2Co%3A%3Ahttps%3A--slash----slash--media.designedtorun.com--slash--5a7f31fb-4ca3-458b-86e1-c9a2c104048b--slash--1676042293913-Holly_Mitchell-logo_designs_RE-ELECT-r0-14-.pngrun--.png&w=1920&q=75)
+
+
+[<video controls loading="lazy"  poster="https://svs.gsfc.nasa.gov/vis/a010000/a013200/a013295/Roman_Spacecraft_360STILL_1.jpg" src="https://svs.gsfc.nasa.gov/vis/a010000/a013200/a013295/13295_Roman_360_Best_1080.mp4" />](https://svs.gsfc.nasa.gov/vis/a010000/a013200/a013295/13295_Roman_360_Best_1080.mp4)
+
+
+[WATCH - Tracking NASA's Nancy Grace Roman Space Telescope with LIVE view from Space Station](https://www.youtube.com/watch?v=U2Ly0Q-BXqA) //// [youtube.com/@moterworld](https://www.youtube.com/@moterworld)
+<img alt="image image @nasa-jpl @nasa-pds acquisition sign for our county @la-county-isd Roman Space Telescope DSS 36 DSS 34 @blackgirlscode @howard-university-web-services @usgs @podaac @stateofcalifornia @cityoflosangeles" src="https://github.com/user-attachments/assets/bb8f4a09-6c57-4b1c-80ad-cde4e8d3dd43" />
+<img   alt="image @nasa-jpl @nasa-pds acquisition sign for our county @la-county-isd Roman Space Telescope DSS 36 DSS 34 @blackgirlscode @howard-university-web-services @usgs @podaac @stateofcalifornia @cityoflosangeles" src="https://github.com/user-attachments/assets/821c72a1-05cd-48c5-9ce9-e6d17669dd94" />
+[github.com/usdot](https://github.com/usdot) @usdot @nasa-jpl [@Nasa-Giss to KEnnedy Trip](https://svs.gsfc.nasa.gov/15064/) 
+
+![https://svs.gsfc.nasa.gov/vis/a010000/a015000/a015064/YTframe_RomanTRANSPORT_Still.jpg](https://svs.gsfc.nasa.gov/vis/a010000/a015000/a015064/YTframe_RomanTRANSPORT_Still.jpg) 
+Deep Space Station 36 [Read more](https://www.cdscc.nasa.gov/Pages/Antennas/dss36.html) hi @USNAVY idk what a spy is and all there is to do is eavesdrop back this shit is stupid and annoying @whitehouse 
+![https://www.cdscc.nasa.gov/Images/Antennas/antennapg_dss36_1.jpg](https://www.cdscc.nasa.gov/Images/Antennas/antennapg_dss36_1.jpg)
+
+Deep Space Station 34 [Read more](https://www.cdscc.nasa.gov/Pages/Antennas/dss34.html)
+![https://www.cdscc.nasa.gov/Images/Antennas/antennapg_dss34_1.jpg](https://www.cdscc.nasa.gov/Images/Antennas/antennapg_dss34_1.jpg)
+
+
+[Tinashe - Crash Out / Melatonin](https://youtu.be/nMa6XgsRVBQ) // [Grimes - World Princess Part II](https://youtu.be/EOwhuTlxE54) // [@nasa-pds Esperanza Spalding BLACK GOLD](https://youtu.be/_gFp53ATMiI) she know im late for work . . . @LA-County-isd [HollyMitchell](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) //
+[Janet Jackson performing Feedback.© 2008 The Island Def Jam Music Group](https://youtu.be/wU0ucfoBcXM) // [“Scream” by Michael Jackson with Janet Jackson ](https://youtu.be/0P4A1K4lXDo?list=RD0P4A1K4lXDo) // [The Jackson 5The Life Of The Party](https://youtu.be/GXfz4OFV4ik?list=RDGXfz4OFV4ik) // [Ai No Corrida · Quincy Jones · Dune](https://youtu.be/NVTVheyDY4s?si=f1WKE8lSBY9Cq_f-) // [🎼Slippin' Into Darkness · War🎵](https://youtu.be/pBNZevgJH1g?si=gZBR8-4zQkbsYhEJ) // @blackgirlscode [Ain't Gon Let Up · DG Yola](https://youtu.be/PtWZJVJCRhg?si=rNDE3WjIMfTqytGg)
+
+
+
+[https://svs.gsfc.nasa.gov/gallery/roman/](https://svs.gsfc.nasa.gov/gallery/roman/)
+
+<img   alt="EMIT_L1B_RAD_001_20240825T173115_2423811_008 image @nasa-jpl @nasa-pds acquisition sign for our county @la-county-isd Roman Space Telescope DSS 36 DSS 34 @blackgirlscode @howard-university-web-services @usgs @podaac @stateofcalifornia @cityoflosangeles" src="https://github.com/user-attachments/assets/8b5b1096-2094-4689-a17b-d08bbfd3f167" />
+<img   alt="Screenshot 2026-08-31 11 10 00 AM image @nasa-jpl @nasa-pds acquisition sign for our county @la-county-isd Roman Space Telescope DSS 36 DSS 34 @blackgirlscode @howard-university-web-services @usgs @podaac @stateofcalifornia @cityoflosangeles" src="https://github.com/user-attachments/assets/7a76d5bd-7a2b-45ac-9d9b-da2c23790521" />
+
+
+![https://d1nklfio7vscoe.cloudfront.net/s3-2d2df3a34830d5223d1e9547cd713408/lp-prod-public.s3.us-west-2.amazonaws.com/EMITL1BRAD.001/EMIT_L1B_RAD_001_20240825T173115_2423811_008/EMIT_L1B_RAD_001_20240825T173115_2423811_008.png?A-userid=None&Expires=1788200913&Signature=Ux9mM~H0z5olJm6p3O906--o1~W~gZn3EaSlXD8mmbKQ4o0gOMfQDGDY~goFWNUhpcNSdaVXr7Ii2em~FuV-E1P9vr3siKgGvR4a5yNRj9AJs4lUp5sJG~qjP9NQocMytv2iz~82~vp4n4puQmJoM73LYlUNirfdXN2AFQc~8OwFOrIQ1-yE5JD2yB~j4VwzJzi7TBbj6A2Dcw3muWwltGeaSSFj-iUgbslatlC63d~DfFUqlC~R1fStD7ipzZXK53AmAWe~TIDA~cyfKc1DdFsBGcu1USg9E4Bvy-IdpuO-aHPG2DjGFUey4GFIip2~gBgw9APWjbRHjgQHhfqx6A__&Key-Pair-Id=K1JHXLBU4LECA2](https://d1nklfio7vscoe.cloudfront.net/s3-2d2df3a34830d5223d1e9547cd713408/lp-prod-public.s3.us-west-2.amazonaws.com/EMITL1BRAD.001/EMIT_L1B_RAD_001_20240825T173115_2423811_008/EMIT_L1B_RAD_001_20240825T173115_2423811_008.png?A-userid=None&Expires=1788200913&Signature=Ux9mM~H0z5olJm6p3O906--o1~W~gZn3EaSlXD8mmbKQ4o0gOMfQDGDY~goFWNUhpcNSdaVXr7Ii2em~FuV-E1P9vr3siKgGvR4a5yNRj9AJs4lUp5sJG~qjP9NQocMytv2iz~82~vp4n4puQmJoM73LYlUNirfdXN2AFQc~8OwFOrIQ1-yE5JD2yB~j4VwzJzi7TBbj6A2Dcw3muWwltGeaSSFj-iUgbslatlC63d~DfFUqlC~R1fStD7ipzZXK53AmAWe~TIDA~cyfKc1DdFsBGcu1USg9E4Bvy-IdpuO-aHPG2DjGFUey4GFIip2~gBgw9APWjbRHjgQHhfqx6A__&Key-Pair-Id=K1JHXLBU4LECA2) 
+
+
+
+<iframe allow="autoplay" width="100%" height="200" src="https://www.iheart.com/live/kjazz-881-6655?embed=true" frameborder="0"></iframe>
+
+
+<img   alt=" @nasa @cityofsantamonica ECOv002_L3T_JET_45636_005_11SLT_20260723T213955_0713_01_ET" src="https://github.com/user-attachments/assets/c3345983-7d7d-47a1-8f98-aa0a299eb3fe" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ad0524d6-a747-4125-9d5c-70d75d08a7d6" />
+
+
+ [KelpForest @ucla @emit-sds](https://www.jpl.nasa.gov/site/research/media/posters/2023/SP22016p.pdf)
+ @nasa-jpl @podaac @nasa these are samples I pulled in Long Beach, there are levees and a marina so idk how natural the flow is. in @CityOFSantaMonica you can harvest bundles ...... [Veronica Mcgregor](https://youtu.be/arZVDCIC0S4?si=SR41n3Rbj3xdceD2) @SWOT-community I'm behind on my jupyter notebooks the machine beams in on dsn sometimes often nsn ... just saying wassup..
+
+<img  alt="image-5 image @nasa-jpl @nasa-pds acquisition sign for our county @la-county-isd Roman Space Telescope DSS 36 DSS 34 @blackgirlscode @howard-university-web-services @usgs @podaac @stateofcalifornia @cityoflosangeles" src="https://github.com/user-attachments/assets/82b65453-d2b2-40a4-a7f1-53c847c3f3cb" />
+<img  alt="image-6 image @nasa-jpl @nasa-pds acquisition sign for our county @la-county-isd Roman Space Telescope DSS 36 DSS 34 @blackgirlscode @howard-university-web-services @usgs @podaac @stateofcalifornia @cityoflosangeles " src="https://github.com/user-attachments/assets/22d27967-aa5b-42ca-8cf8-0ef2c6fd8beb" />
+<img  alt="image-7" src="https://github.com/user-attachments/assets/2eed93c8-35bb-455f-a9ee-dcccec2ddaa1" />
+<img   alt="image-8" src="https://github.com/user-attachments/assets/3d1087e3-7359-4d50-bcd3-b6dbd5fc3fb3" />
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">And I am incredibly honored to receive it. I share it with followers of <a href="https://x.com/MarsPhoenix?ref_src=twsrc%5Etfw">@MarsPhoenix</a> (the 1st <a href="https://x.com/NASA?ref_src=twsrc%5Etfw">@NASA</a> account!) and <a href="https://x.com/NASASocial?ref_src=twsrc%5Etfw">@NASASocial</a> alumni who brought their passion to our events. <a href="https://t.co/Bqmq7DwiEv">https://t.co/Bqmq7DwiEv</a></p>&mdash; Veronica McGregor (@VeronicaMcG) <a href="https://x.com/VeronicaMcG/status/1443385887400755201?ref_src=twsrc%5Etfw">September 30, 2021</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+
+<img alt="image-9" src="https://github.com/user-attachments/assets/6e038136-c34d-40ca-bb89-cefa5a3294a8" />
+<img  alt="image-1" src="https://github.com/user-attachments/assets/306d9ee3-6bbc-4675-9210-3a0274623a95" />
+<img  alt="image-9" src="https://github.com/user-attachments/assets/d29e4511-b5c2-4be7-89cb-51614cb7cdb1" />
+
+
+
+@Deptofwar ask [Keisha Lance bottoms](https://www.keishaforgovernor.com/bio) what my child upto after i went to [dance411 @foratlanta](https://www.dance411.com/)
+[https://archive.org/details/education-for-death-1943](https://archive.org/details/education-for-death-1943) she used to try to contact me @nasa-pds @nasa-jpl @cityoflosangeles holly j mitchell @blackgirlscode @disney
+<img  alt="image" src="https://github.com/user-attachments/assets/a70e1191-ba07-447b-a5c4-4f0dbbb2da78" />
+
+![https://aviris.jpl.nasa.gov/images/aviris_text2.png](https://aviris.jpl.nasa.gov/images/aviris_text2.png)
+
+ <img   alt=" @StateOfCalifornia @saccounty  @eodis-nasa @nasa-jpl @blackgirlscode AV520250627t202122_013_L1B_RDN_5b9e1cc2_RDN_BROWSE" src="https://github.com/user-attachments/assets/e9fd3e73-5769-41cd-af1e-0f97a4c730d1" />
+ 
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+  
+  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt=" @deptofwar logo @nasa-jpl https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+  
+</picture>
+
+ <img  alt="ECOv002_L3T_JET_45636_005_11SLT_20260723T213955_0713_01_PTJPLSMsoil" src="https://github.com/user-attachments/assets/4e2d67cf-e0d5-44c7-9d55-b145e06102a0" />
+
+## Why NASA’s Roman Space Telescope Will Make Discoveries Scientists Don't Expect
+[WATCH - https://youtu.be/FqZTQA6p7Tc](https://youtu.be/FqZTQA6p7Tc) ++ [🎼Slippin' Into Darkness · War🎵](https://youtu.be/pBNZevgJH1g?si=gZBR8-4zQkbsYhEJ)
+<img   alt="image" src="https://github.com/user-attachments/assets/00640704-6f17-494c-9a63-6f766653a3e2" />
+
+@NASA-PDS ok i messed up again, im mad at your sister... but not im better #VirtiservRashard @NASAJPL @NASAEARTHDATA but still *italics* @LANAJHARRiS i got discouraged because i missed the nancy grace roman launch @repkarenbass https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_016200_016299/ESP_016228_2650/ESP_016228_2650_IRB.NOMAP.browse.jpg <~ @RobinBarnes @chloebaileywashere
+@howarduniversity
+thats some sort of landslid in a coffee table book i found at central and we are supposed to treack those things, and you all hurt me making miss the dark matter telescope launch you .,.. none of you know how a technical person that is physically inthe world acts or feels and you hurt me alot!!! thats all  @michelleobama @lapubliclibrary
+@hot97 @Lanajharris
+
 [Do It How It Go · 8-Ball · MJG](https://youtu.be/tNusjh2nxsM?list=RDtNusjh2nxsM) // [Prophet Posse · Three 6 Mafia](https://youtu.be/1FarcBkP-xk) // [Three 6 Mafia feat UGK - Sippin' on Some Syrup](https://youtu.be/2YVvMfXXG7E) // [Don't Save Her · Project Pat · Crunchy Black](https://youtu.be/Yu___7W69eE) // [Gangsta Boo - Where Dem Dollas At?!](https://youtu.be/s6oq8pASVqw) // [Who Run It · Three 6 Mafia](https://youtu.be/gU7003Juh7c) // [Triple Six Mafia - Da Summa (REMIX) ](https://youtu.be/TwYz5iI7pm0) // [Lord Infamous - Crazy Off Da Budsack](https://youtu.be/8ECzS3f2O0w) // [Drake "Best I Ever Had" (Thank Me Later)](https://youtu.be/7yudRAYTlvo) <~ @nasa-jpl her fve even in longbeach
 
 ---
