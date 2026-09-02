@@ -10,10 +10,13 @@ permalink: /Satellites
 
 # Rashard Kelly NasaJpl MRO JUNO iSS
 
+<img   alt="image (1)-11  @nasa-jpl @nasa-pds acquisition sign for our county @la-county-isd Roman Space Telescope DSS 36 DSS 34 @blackgirlscode @howard-university-web-services @usgs @podaac @stateofcalifornia @cityoflosangeles  " src="https://github.com/user-attachments/assets/5cfb195b-41a9-4ae9-ab0f-4e01da8e0a23" />
 
+<img  alt="image @nasa-jpl @nasa-pds acquisition sign for our county @la-county-isd Roman Space Telescope DSS 36 DSS 34 @blackgirlscode @howard-university-web-services @usgs @podaac @stateofcalifornia @cityoflosangeles (1)-12" src="https://github.com/user-attachments/assets/a0a1f5c3-d958-47d7-8d69-ef132e69950f" />
 
-<img alt="image" src="https://github.com/user-attachments/assets/bb8f4a09-6c57-4b1c-80ad-cde4e8d3dd43" />
+<img alt="image@nasa-jpl @nasa-pds acquisition sign for our county @la-county-isd Roman Space Telescope DSS 36 DSS 34 @blackgirlscode @howard-university-web-services @usgs @podaac @stateofcalifornia @cityoflosangeles" src="https://github.com/user-attachments/assets/bb8f4a09-6c57-4b1c-80ad-cde4e8d3dd43" />
 <img   alt="image @nasa-jpl @nasa-pds acquisition sign for our county @la-county-isd Roman Space Telescope DSS 36 DSS 34 @blackgirlscode @howard-university-web-services @usgs @podaac @stateofcalifornia @cityoflosangeles" src="https://github.com/user-attachments/assets/821c72a1-05cd-48c5-9ce9-e6d17669dd94" />
+<img  alt="image (1)-09" src="https://github.com/user-attachments/assets/c6869264-7451-4a07-8def-a6c25b2fb807" />
 
 ![https://space.gov.ae/app_themes/lg21016/images/logo.svg](https://space.gov.ae/app_themes/lg21016/images/logo.svg) 
 
