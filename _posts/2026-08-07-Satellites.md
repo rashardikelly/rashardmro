@@ -10,10 +10,37 @@ permalink: /Satellites
 
 # Rashard Kelly NasaJpl MRO JUNO iSS
 
+<img  alt="image @nasa-jpl @nasa-pds acquisition sign for our county @la-county-isd Roman Space Telescope DSS 36 DSS 34 @blackgirlscode @howard-university-web-services @usgs @podaac @stateofcalifornia @cityoflosangeles (1)-12" src="https://github.com/user-attachments/assets/a0a1f5c3-d958-47d7-8d69-ef132e69950f" />
+
+[eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+
+Madrid Deep Space Communications Complex
+DEEP SPACE NETWORK [@NASA-JPL @NASA-PDS _HomePAge_mdscc.nasa.gov](https://www.mdscc.nasa.gov/index.php/en/start/)
+
+<div class="Tupperware">
+    
+<img  alt="image" src="https://github.com/user-attachments/assets/5ccbb588-b134-49b1-9a12-f3cae185e1c0" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/f54a07da-ae1b-4abe-ade5-857f276206eb" />
+
+</div>
+
+[Why NASA’s Roman Space Telescope Will Make Discoveries Scientists Don't Expect](https://youtu.be/FqZTQA6p7Tc)
+Madrid is renowned for its unique charm and its exhilarating cultural life. In the 10th century, a Moorish fortress called Magerit was first built on the site, a plateau 656 meters (2,150 feet) above sea level [-READMORE-](https://www.jpl.nasa.gov/images/pia11163-madrid/) `@T.I. i dont know who that @Nasa-PDS lady is, but i keep confusing her for @GLORiLLA and im embarrased bc i projected angry comments to her accidentally, whatever kin of yours in my significant other voice is not that deep and arns not as gangally @NASAJPL @T.I. i am under the impression that @LANAJHARRiS is #LatricePAPERDegreeFitzpatrick and the young @chloebaileywashere is yourr sister that graduated from @HowardUniversity ? - #Rashard @NasaEarthdata @HopeEntertainmentOy`
+
+![https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA11163.jpg](https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA11163.jpg)
+
+[retrogames.cc/arcade-games/marvel-super-heroes-vs-street-fighter-970625-usa.html @nasa-pds #](https://www.retrogames.cc/arcade-games/marvel-super-heroes-vs-street-fighter-970625-usa.html#)
+<img alt=" @nasa-pds thx for the attention Lana I'm recovering I cried bad @blackgirlscode image" src="https://github.com/user-attachments/assets/afb8daf4-d18f-4606-a263-2a295f361a8b" />
 
 
-<img alt="image" src="https://github.com/user-attachments/assets/bb8f4a09-6c57-4b1c-80ad-cde4e8d3dd43" />
+<img   alt="image (1)-11  @nasa-jpl @nasa-pds acquisition sign for our county @la-county-isd Roman Space Telescope DSS 36 DSS 34 @blackgirlscode @howard-university-web-services @usgs @podaac @stateofcalifornia @cityoflosangeles  " src="https://github.com/user-attachments/assets/5cfb195b-41a9-4ae9-ab0f-4e01da8e0a23" />
+
+
+
+<img alt="image@nasa-jpl @nasa-pds acquisition sign for our county @la-county-isd Roman Space Telescope DSS 36 DSS 34 @blackgirlscode @howard-university-web-services @usgs @podaac @stateofcalifornia @cityoflosangeles" src="https://github.com/user-attachments/assets/bb8f4a09-6c57-4b1c-80ad-cde4e8d3dd43" />
 <img   alt="image @nasa-jpl @nasa-pds acquisition sign for our county @la-county-isd Roman Space Telescope DSS 36 DSS 34 @blackgirlscode @howard-university-web-services @usgs @podaac @stateofcalifornia @cityoflosangeles" src="https://github.com/user-attachments/assets/821c72a1-05cd-48c5-9ce9-e6d17669dd94" />
+<img  alt="image (1)-09" src="https://github.com/user-attachments/assets/c6869264-7451-4a07-8def-a6c25b2fb807" />
 
 ![https://space.gov.ae/app_themes/lg21016/images/logo.svg](https://space.gov.ae/app_themes/lg21016/images/logo.svg) 
 
